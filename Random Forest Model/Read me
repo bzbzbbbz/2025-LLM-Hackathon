@@ -1,3 +1,4 @@
 nmc_simulated_site_avg_xas.json is the training data file. It contains 415 site-averaged Ni-K edge XAS spectra simulated with VASP. The sturctures are various NMC (622, 721, 811) cathode with lithiation states between 0 to 1. The spectra are featurized with CDF and divided into 100 bins. 
 
 Random Forest Model Training.ipynb trains 2 random forest models, predicting oxidation state and bond length respectively. The models are saved as oxidation_regressor.pkl and bondlength_regressor.pkl respectively.
+1
