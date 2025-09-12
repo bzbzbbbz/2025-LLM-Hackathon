@@ -17,26 +17,12 @@ uploaded_file = st.file_uploader(
     type=["csv", "txt", "xlsx", "json"]
 )
 
+# === Running Modeling.py ===
 df = None
 if uploaded_file is not None:
-    # Handle different file types
-    if uploaded_file.name.endswith(".csv"):
-        df = pd.read_csv(uploaded_file)
-    elif uploaded_file.name.endswith(".txt"):
-        # adjust delimiter if needed
-        df = pd.read_csv(uploaded_file, sep="\t", engine="python")
-    elif uploaded_file.name.endswith(".xlsx"):
-        df = pd.read_excel(uploaded_file)
-    elif uploaded_file.name.endswith(".json"):
-        df = pd.read_json(uploaded_file)
+    out = run_pipeline(uploaded_file, models_dir=None)
 
     st.success(f"File `{uploaded_file.name}` uploaded successfully!")
-    st.write("Preview of data:")
-    st.dataframe(df.head())
-
-# === Running Modeling.py ===
-if uploaded_file:
-    out = run_pipeline(uploaded_file, models_dir=None)
 
 # --- Chat section ---
 st.header("Chatbot")
