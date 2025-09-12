@@ -40,6 +40,27 @@ if api_key:
 
 # === MAIN WORKFLOW ===
 
+# Check for existing papers and RAG cache
+existing_papers_folder = "./converted_papers"
+existing_papers_count = 0
+has_existing_papers = False
+
+if os.path.exists(existing_papers_folder):
+    existing_txt_files = [f for f in os.listdir(existing_papers_folder) if f.endswith('.txt')]
+    existing_papers_count = len(existing_txt_files)
+    has_existing_papers = existing_papers_count > 0
+
+# Display existing papers status
+if has_existing_papers:
+    st.info(f"📚 Found {existing_papers_count} existing research papers from previous sessions")
+    
+    with st.expander("📋 View existing papers"):
+        existing_files = [f.replace('_simple_extracted.txt', '.pdf').replace('.txt', '') for f in existing_txt_files]
+        for i, filename in enumerate(existing_files[:10], 1):  # Show first 10
+            st.write(f"{i}. {filename}")
+        if len(existing_files) > 10:
+            st.write(f"... and {len(existing_files) - 10} more papers")
+
 # Step 1: File Upload Section
 st.header("📂 Step 1: Upload Your Data")
 
@@ -61,7 +82,10 @@ with col1:
 
 with col2:
     st.subheader("📚 Research Papers")
-    st.markdown("Upload text files of research papers for literature analysis")
+    if has_existing_papers:
+        st.markdown(f"**{existing_papers_count} papers already available** - Upload additional papers (optional)")
+    else:
+        st.markdown("Upload text files of research papers for literature analysis")
     
     # Option for multiple text files or zip
     upload_option = st.radio(
@@ -72,7 +96,7 @@ with col2:
     
     if upload_option == "Individual text files":
         research_papers = st.file_uploader(
-            "Upload research papers (text files)",
+            "Upload additional research papers (text files)" if has_existing_papers else "Upload research papers (text files)",
             type=["txt"],
             accept_multiple_files=True,
             key="paper_files",
@@ -80,7 +104,7 @@ with col2:
         )
     else:
         research_papers = st.file_uploader(
-            "Upload ZIP file with research papers",
+            "Upload ZIP file with additional research papers" if has_existing_papers else "Upload ZIP file with research papers",
             type=["zip"],
             key="paper_zip",
             help="Upload a ZIP file containing .txt research papers"
@@ -88,15 +112,26 @@ with col2:
     
     if research_papers:
         if upload_option == "Individual text files":
-            st.success(f"✅ {len(research_papers)} research papers uploaded")
+            st.success(f"✅ {len(research_papers)} additional research papers uploaded")
         else:
             st.success(f"✅ ZIP archive uploaded: {research_papers.name}")
 
 # Step 2: Data Processing Section
-if xas_data_file or research_papers:
+if xas_data_file or research_papers or has_existing_papers:
     st.header("⚙️ Step 2: Process Data")
     
-    if st.button("🚀 Process All Data", type="primary", disabled=not st.session_state.get('api_key')):
+    # Different button text based on what's available
+    if has_existing_papers and not research_papers:
+        button_text = "🚀 Initialize with Existing Papers"
+        button_help = "Use existing research papers and process XAS data"
+    elif has_existing_papers and research_papers:
+        button_text = "🚀 Process New Data & Add Papers"
+        button_help = "Add new papers to existing collection and process XAS data"
+    else:
+        button_text = "🚀 Process All Data"
+        button_help = "Process uploaded data and initialize system"
+    
+    if st.button(button_text, type="primary", disabled=not st.session_state.get('api_key'), help=button_help):
         if not st.session_state.get('api_key'):
             st.error("⚠️ Please enter your Google Gemini API key in the sidebar first!")
         else:
@@ -122,16 +157,20 @@ if xas_data_file or research_papers:
                 
                 progress_bar.progress(50)
                 
-                # Process Research Papers
-                if research_papers:
-                    status_text.text("📚 Processing research papers...")
+                # Initialize RAG system
+                try:
+                    # Set API key in environment for RAG system
+                    os.environ['GOOGLE_API_KEY'] = st.session_state.api_key
                     
-                    # Create temporary directory for papers
-                    temp_dir = tempfile.mkdtemp()
-                    papers_folder = os.path.join(temp_dir, "papers")
-                    os.makedirs(papers_folder, exist_ok=True)
-                    
-                    try:
+                    # Process new research papers if uploaded
+                    if research_papers:
+                        status_text.text("📚 Processing new research papers...")
+                        
+                        # Create temporary directory for new papers
+                        temp_dir = tempfile.mkdtemp()
+                        papers_folder = os.path.join(temp_dir, "papers")
+                        os.makedirs(papers_folder, exist_ok=True)
+                        
                         # Handle different upload methods
                         if upload_option == "Individual text files":
                             for uploaded_file in research_papers:
@@ -142,37 +181,43 @@ if xas_data_file or research_papers:
                             with zipfile.ZipFile(research_papers, 'r') as zip_ref:
                                 zip_ref.extractall(papers_folder)
                         
-                        progress_bar.progress(75)
-                        status_text.text("🤖 Initializing RAG system...")
+                        # Ensure converted_papers directory exists
+                        if not os.path.exists(existing_papers_folder):
+                            os.makedirs(existing_papers_folder, exist_ok=True)
                         
-                        # Set API key in environment for RAG system
-                        os.environ['GOOGLE_API_KEY'] = st.session_state.api_key
-                        
-                        # Copy papers to expected location for RAG system
-                        expected_folder = "./converted_papers"
-                        if os.path.exists(expected_folder):
-                            shutil.rmtree(expected_folder)
-                        os.makedirs(expected_folder, exist_ok=True)
-                        
-                        # Copy all files from temp folder to expected location
+                        # Copy new files to expected location (add to existing)
+                        new_files_count = 0
                         for filename in os.listdir(papers_folder):
                             if filename.endswith('.txt'):
                                 src_path = os.path.join(papers_folder, filename)
-                                dst_path = os.path.join(expected_folder, filename)
+                                dst_path = os.path.join(existing_papers_folder, filename)
                                 with open(src_path, 'r', encoding='utf-8') as src, open(dst_path, 'w', encoding='utf-8') as dst:
                                     dst.write(src.read())
+                                new_files_count += 1
                         
-                        # Initialize RAG system with new interface
+                        progress_bar.progress(75)
+                        status_text.text("🤖 Initializing RAG system with new papers...")
+                        
+                        # Force reload since we added new papers
                         rag_system = XASManuscriptRAG(force_reload=True)
+                        st.success(f"✅ Added {new_files_count} new papers to existing collection")
                         
-                        st.session_state.rag_system = rag_system
+                        # Clean up temp directory
+                        shutil.rmtree(temp_dir)
                         
-                        # Count processed files
-                        txt_files = [f for f in os.listdir(papers_folder) if f.endswith('.txt')]
-                        st.success(f"✅ RAG system initialized with {len(txt_files)} papers")
+                    else:
+                        # Use existing papers without force reload
+                        status_text.text("🤖 Loading existing RAG system...")
+                        progress_bar.progress(75)
                         
-                    except Exception as e:
-                        st.error(f"❌ Research paper processing failed: {e}")
+                        # Initialize with existing data (no force reload)
+                        rag_system = XASManuscriptRAG(force_reload=False)
+                        st.success(f"✅ RAG system loaded with {existing_papers_count} existing papers")
+                    
+                    st.session_state.rag_system = rag_system
+                    
+                except Exception as e:
+                    st.error(f"❌ RAG system initialization failed: {e}")
                 
                 progress_bar.progress(100)
                 status_text.text("✅ All processing completed!")
@@ -214,7 +259,12 @@ if xas_data_file or research_papers:
                     stats = st.session_state.rag_system.get_paper_stats()
                     st.info(stats)
                 except:
-                    st.info("RAG system initialized and ready")
+                    # Count current papers
+                    if os.path.exists(existing_papers_folder):
+                        current_count = len([f for f in os.listdir(existing_papers_folder) if f.endswith('.txt')])
+                        st.info(f"📚 {current_count} research papers loaded and ready for analysis")
+                    else:
+                        st.info("RAG system initialized and ready")
 
 # Step 4: Manuscript Generation Section
 if st.session_state.get('xas_results') is not None or st.session_state.get('rag_system') is not None:
@@ -401,8 +451,10 @@ else:
 
 if st.session_state.get('rag_system') is not None:
     st.sidebar.success("✅ Literature database ready")
+elif has_existing_papers:
+    st.sidebar.warning(f"📚 {existing_papers_count} papers available - click 'Initialize' to load")
 else:
-    st.sidebar.info("⏳ No research papers uploaded")
+    st.sidebar.info("⏳ No research papers available")
 
 st.sidebar.markdown("---")
 st.sidebar.markdown("### 🎯 Quick Actions")
@@ -418,14 +470,17 @@ st.sidebar.markdown("---")
 st.sidebar.markdown("### ℹ️ Help")
 with st.sidebar.expander("How to use"):
     st.markdown("""
-    1. **Upload Data**: Add your XAS data file and research papers
-    2. **Process**: Click 'Process All Data' to analyze everything
-    3. **Generate**: Enter your research question and generate manuscript
-    4. **Download**: Save your generated manuscript
+    1. **Check Status**: App automatically detects existing papers from previous sessions
+    2. **Upload Data**: Add XAS data (required) and additional papers (optional)
+    3. **Process**: Click to initialize with existing papers or add new ones
+    4. **Generate**: Enter your research question and generate manuscript
+    5. **Download**: Save your generated manuscript
     
     **Supported Formats:**
     - XAS Data: CSV, TXT, XLSX, JSON
     - Papers: TXT files or ZIP archive
+    
+    **Note:** The app uses cached papers from previous sessions automatically!
     """)
 
 st.sidebar.markdown("---")

@@ -1,5 +1,6 @@
 import os
 import uuid
+import time
 
 # Suppress gRPC warnings and errors
 os.environ['GRPC_VERBOSITY'] = 'ERROR'
@@ -27,21 +28,58 @@ class XASManuscriptRAG:
         self.embed_model = None
         self.collection = None
         self.temperature = 0.1
+        self.rebuilt_during_connection = False  # Track if collection was rebuilt
+        self.db_path = None  # Will be set dynamically
 
+        print(f"🔄 Initializing XASManuscriptRAG with force_reload={force_reload}")
+        print(f"🔍 Checking cache and database status...")
+        print(f"   - Cache file exists: {os.path.exists(CACHE_FILE)}")
+        print(f"   - Papers folder exists: {os.path.exists(CONVERTED_FOLDER)}")
+        if os.path.exists(CONVERTED_FOLDER):
+            paper_count = len([f for f in os.listdir(CONVERTED_FOLDER) if f.endswith('.txt')])
+            print(f"   - Papers in folder: {paper_count}")
+        
         # Try to load from cache first
-        if not force_reload and self.load_cache():
-            print("✅ Loaded from cache - skipping paper processing")
-            self.setup_gemini()
-            self.setup_embeddings()  # Always need embeddings for search
-            self.setup_milvus_connection()
+        cache_loaded = False
+        if not force_reload:
+            print("📋 Attempting to load from cache...")
+            cache_loaded = self.load_cache()
+            if cache_loaded:
+                print("✅ Cache loaded successfully - proceeding with cached flow")
+            else:
+                print("❌ Cache loading failed - will load from scratch")
         else:
-            print("📚 Loading papers from scratch...")
+            print("🔄 Force reload requested - skipping cache")
+            
+        if not force_reload and cache_loaded:
+            print("✅ Loaded from cache - skipping paper processing")
+            print("🔌 Setting up Gemini API...")
+            self.setup_gemini()
+            print("🧠 Loading embedding model...")
+            self.setup_embeddings()  # Always need embeddings for search
+            print("🗄️ Connecting to existing Milvus database...")
+            self.setup_milvus_connection()
+            
+            # If collection was rebuilt during connection, save the cache
+            if self.rebuilt_during_connection:
+                print("💾 Updating cache after collection rebuild...")
+                self.save_cache()
+            else:
+                print("✅ Successfully used existing cached data and database")
+        else:
+            if force_reload:
+                print("📚 Force reload requested - loading papers from scratch...")
+            else:
+                print("📚 No cache found - loading papers from scratch...")
+            print("📖 Starting fresh paper processing pipeline...")
             self.load_metadata()
             self.setup_gemini()
             self.setup_milvus()
             self.setup_embeddings()
+            print("📄 About to start load_papers() - this will process chunks...")
             self.load_papers()
-            self.save_cache()
+            self.save_cache()  # Save cache after processing papers
+            print("✅ Fresh processing completed and cache saved")
 
     def load_metadata(self):
         """Load metadata from CSV file with error handling"""
@@ -73,25 +111,113 @@ class XASManuscriptRAG:
             print(f"❌ Gemini setup failed: {e}")
             raise
 
+    def cleanup_milvus_processes(self):
+        """Clean up any zombie Milvus processes that might be holding locks"""
+        try:
+            import subprocess
+            
+            print("🧹 Starting cleanup of Milvus processes and locks...")
+            
+            # 1. Kill all milvus processes
+            try:
+                subprocess.run(['pkill', '-9', 'milvus'], capture_output=True, timeout=5)
+                print("   - Killed all Milvus processes")
+            except:
+                pass
+                
+            # 2. Find and kill specific processes using database files
+            try:
+                result = subprocess.run(['lsof', '-t', './milvus_demo*.db'], 
+                                      capture_output=True, text=True, timeout=5)
+                
+                if result.returncode == 0 and result.stdout.strip():
+                    pids = result.stdout.strip().split('\n')
+                    print(f"   - Found {len(pids)} processes using database files")
+                    for pid in pids:
+                        try:
+                            subprocess.run(['kill', '-9', pid.strip()], timeout=3)
+                        except:
+                            pass
+                            
+            except Exception:
+                pass
+                
+            # 3. Remove all lock files and temp files
+            cleanup_patterns = [
+                '.milvus_demo*.db.lock',
+                '.milvus_demo*.db-wal', 
+                '.milvus_demo*.db-shm',
+                '.milvus_demo*.db-journal',
+                'milvus_demo_*.db'  # Remove any problematic temp databases
+            ]
+            
+            import glob
+            removed_files = 0
+            for pattern in cleanup_patterns:
+                for lock_file in glob.glob(pattern):
+                    try:
+                        os.remove(lock_file)
+                        print(f"   - Removed: {lock_file}")
+                        removed_files += 1
+                    except:
+                        pass
+                        
+            if removed_files > 0:
+                print(f"   - Removed {removed_files} lock/temp files")
+                
+            # 4. Wait for cleanup to complete
+            time.sleep(1)
+            print("✅ Cleanup completed")
+                     
+        except Exception as e:
+            print(f"⚠️ Cleanup failed: {e}")
+
+    def get_working_database_path(self):
+        """Get a working database path, handling locks intelligently"""
+        original_db = "./milvus_demo.db"
+        
+        # If original database exists and is accessible, use it
+        if os.path.exists(original_db):
+            try:
+                # Quick test to see if file is accessible
+                with open(original_db, 'rb') as f:
+                    f.read(1)
+                print(f"💾 Using original database: {original_db}")
+                return original_db
+            except:
+                print(f"⚠️ Original database not accessible")
+        
+        # If original database has issues, try to rename it and start fresh
+        if os.path.exists(original_db):
+            try:
+                backup_name = f"./milvus_demo_backup_{int(time.time())}.db"
+                os.rename(original_db, backup_name)
+                print(f"📁 Renamed problematic database to: {backup_name}")
+            except:
+                print("⚠️ Could not rename problematic database")
+        
+        print(f"🆕 Will create fresh database: {original_db}")
+        return original_db
+
     def setup_milvus(self):
         """Setup Milvus connection and schema"""
         try:
+            # Clean up any zombie processes first
+            self.cleanup_milvus_processes()
+            
             # Clean up any existing connections first
             try:
                 connections.disconnect("default")
             except:
                 pass
             
-            db_path = "./milvus_demo.db"
+            # Get a working database path
+            db_path = self.get_working_database_path()
+            self.db_path = db_path
             
-            # Remove any existing lock files
-            lock_files = [f for f in os.listdir('.') if f.startswith('.milvus_demo') and f.endswith('.db.lock')]
-            for lock_file in lock_files:
-                try:
-                    os.remove(lock_file)
-                except:
-                    pass
+            print(f"🔗 Connecting to Milvus database: {db_path}")
             
+            # Connect to database
             connections.connect(alias="default", uri=db_path)
 
             # Simple schema optimized for manuscript analysis
@@ -112,43 +238,142 @@ class XASManuscriptRAG:
             print("✅ Milvus collection created")
         except Exception as e:
             print(f"❌ Milvus setup failed: {e}")
-            # Try with a unique database name to avoid conflicts
-            unique_db = f"./milvus_demo_{uuid.uuid4().hex[:8]}.db"
-            try:
-                connections.connect(alias="default", uri=unique_db, force=True)
-                # Recreate fields for fallback
-                fields = [
-                    FieldSchema(name="id", dtype=DataType.INT64, is_primary=True, auto_id=True),
-                    FieldSchema(name="embedding", dtype=DataType.FLOAT_VECTOR, dim=1024),
-                    FieldSchema(name="text", dtype=DataType.VARCHAR, max_length=3000),
-                    FieldSchema(name="filename", dtype=DataType.VARCHAR, max_length=200)
-                ]
-                schema = CollectionSchema(fields, description="XAS paper chunks for manuscript analysis")
-                self.collection = Collection(COLLECTION_NAME, schema)
-                print("✅ Milvus collection created with unique database")
-            except Exception as e2:
-                print(f"❌ Fallback Milvus setup also failed: {e2}")
-                raise
+            raise
 
     def setup_milvus_connection(self):
         """Setup Milvus connection only (for cached data)"""
+        print("🗄️ === STARTING DATABASE CONNECTION SETUP ===")
         try:
+            # Clean up any zombie processes first
+            print("🧹 Cleaning up zombie processes...")
+            self.cleanup_milvus_processes()
+            
             # Clean up any existing connections first
             try:
                 connections.disconnect("default")
+                print("🔌 Disconnected existing connections")
             except:
+                print("🔌 No existing connections to disconnect")
                 pass
-                
+            
+            # Try to connect to the original database
             db_path = "./milvus_demo.db"
-            connections.connect(alias="default", uri=db_path)
+            print(f"🔗 Attempting to connect to database: {db_path}")
+            
+            connection_successful = False
+            
+            # Check if database exists and is accessible
+            if os.path.exists(db_path):
+                try:
+                    # Test file accessibility
+                    with open(db_path, 'rb') as f:
+                        f.read(1)
+                    
+                    # Try to connect
+                    connections.connect(alias="default", uri=db_path)
+                    self.db_path = db_path
+                    connection_successful = True
+                    print(f"✅ Connected to database successfully")
+                    
+                except Exception as conn_error:
+                    print(f"❌ Connection failed: {conn_error}")
+                    if "opened by another program" in str(conn_error) or "illegal connection" in str(conn_error):
+                        print("🔒 Database locked or corrupted, will rebuild")
+                    connection_successful = False
+            else:
+                print("❌ Database file not found")
+                connection_successful = False
+            
+            # If connection failed, rebuild everything
+            if not connection_successful:
+                print("❌ REBUILD TRIGGER: Could not connect to existing database")
+                self.setup_milvus()
+                self.load_papers()
+                self.rebuilt_during_connection = True
+                return
+            
+            # Check if collection exists
+            collections = utility.list_collections()
+            print(f"📋 Available collections: {collections}")
+            
+            if COLLECTION_NAME not in collections:
+                print(f"❌ REBUILD TRIGGER: Collection '{COLLECTION_NAME}' not found")
+                self.setup_milvus()
+                self.load_papers()
+                self.rebuilt_during_connection = True
+                return
+                
+            print(f"✅ Collection '{COLLECTION_NAME}' found")
             self.collection = Collection(COLLECTION_NAME)
-            self.collection.load()
-            print("✅ Milvus connection established")
+            
+            # Check if collection has data
+            try:
+                num_entities = self.collection.num_entities
+                print(f"📊 Collection has {num_entities} entities")
+                
+                if num_entities == 0:
+                    print("❌ REBUILD TRIGGER: Collection is empty")
+                    self.setup_milvus()
+                    self.load_papers()
+                    self.rebuilt_during_connection = True
+                    return
+                    
+            except Exception as e:
+                print(f"❌ REBUILD TRIGGER: Error checking collection entities: {e}")
+                self.setup_milvus()
+                self.load_papers()
+                self.rebuilt_during_connection = True
+                return
+            
+            # Check indexes
+            try:
+                print("🔍 Checking for indexes...")
+                indexes = self.collection.indexes
+                has_embedding_index = False
+                
+                print(f"   Found {len(indexes)} indexes:")
+                for index in indexes:
+                    print(f"   - Field: {index.field_name}, Type: {index.index_type}")
+                    if index.field_name == "embedding":
+                        has_embedding_index = True
+                        print(f"✅ Found index on embedding field: {index.index_type}")
+                
+                if not has_embedding_index:
+                    print("❌ REBUILD TRIGGER: No index found on embedding field")
+                    utility.drop_collection(COLLECTION_NAME)
+                    self.setup_milvus()
+                    self.load_papers()
+                    self.rebuilt_during_connection = True
+                    return
+                else:
+                    print("🚀 Loading collection for search...")
+                    self.collection.load()
+                    print("✅ Collection loaded successfully")
+                    
+            except Exception as index_error:
+                print(f"❌ REBUILD TRIGGER: Error with indexes: {index_error}")
+                try:
+                    utility.drop_collection(COLLECTION_NAME)
+                except:
+                    pass
+                self.setup_milvus()
+                self.load_papers()
+                self.rebuilt_during_connection = True
+                return
+                
+            print("✅ Milvus connection established with existing data - NO REBUILD NEEDED")
+            print("🗄️ === DATABASE CONNECTION SETUP COMPLETE ===")
+            
         except Exception as e:
-            print(f"❌ Milvus connection failed: {e}")
-            # Try to create new database if connection fails
-            print("🔄 Creating new database...")
-            self.setup_milvus()
+            print(f"❌ REBUILD TRIGGER: Milvus connection failed with exception: {e}")
+            print("🔄 Rebuilding database...")
+            try:
+                self.setup_milvus()
+                self.load_papers()
+                self.rebuilt_during_connection = True
+            except Exception as setup_error:
+                print(f"❌ Even rebuild failed: {setup_error}")
+                raise setup_error
 
     def setup_embeddings(self):
         """Setup embedding model"""
@@ -166,13 +391,15 @@ class XASManuscriptRAG:
                 'citations': self.citations,
                 'collection_name': COLLECTION_NAME,
                 'chunk_size': CHUNK_SIZE,
-                'chunk_overlap': CHUNK_OVERLAP
+                'chunk_overlap': CHUNK_OVERLAP,
+                'db_path': self.db_path  # Save the database path used
             }
 
             with open(CACHE_FILE, 'wb') as f:
                 pickle.dump(cache_data, f)
 
             print(f"✅ Cache saved to {CACHE_FILE}")
+            print(f"   - Database path: {self.db_path}")
             return True
         except Exception as e:
             print(f"❌ Failed to save cache: {e}")
@@ -180,15 +407,29 @@ class XASManuscriptRAG:
 
     def load_cache(self):
         """Load data from cache if available"""
+        print(f"🔍 Checking for cache file: {CACHE_FILE}")
         try:
             if os.path.exists(CACHE_FILE):
+                print(f"📁 Cache file found, loading...")
                 with open(CACHE_FILE, 'rb') as f:
                     cache_data = pickle.load(f)
 
                 self.citations = cache_data['citations']
-                print(f"✅ Cache loaded from {CACHE_FILE}")
+                
+                # Load database path if available, otherwise use default
+                if 'db_path' in cache_data and os.path.exists(cache_data['db_path']):
+                    self.db_path = cache_data['db_path']
+                    print(f"   - Using cached database: {self.db_path}")
+                else:
+                    print(f"   - Cached database not found, will use default")
+                
+                print(f"✅ Cache loaded successfully from {CACHE_FILE}")
+                print(f"   - Citations loaded: {len(self.citations) if self.citations else 0} papers")
+                print(f"   - Collection name: {cache_data.get('collection_name', 'Unknown')}")
                 return True
-            return False
+            else:
+                print(f"❌ Cache file not found: {CACHE_FILE}")
+                return False
         except Exception as e:
             print(f"❌ Failed to load cache: {e}")
             return False
