@@ -1,0 +1,371 @@
+Simple Docling Extracted Data from: nanomaterials-10-00759.pdf
+============================================================
+
+Title: nanomaterials-10-00759
+Pages: 11
+Tables: 1
+Figures: 0
+
+MAIN TEXT:
+------------------------------
+<!-- image -->
+
+Article
+
+## Soft X-ray Absorption Spectroscopic Investigation of Li(Ni0.8Co0.1Mn0.1)O2 Cathode Materials
+
+<!-- image -->
+
+Jitendra Pal Singh 1 , Jae Yeon Park 2 , Keun Hwa Chae 3 , Docheon Ahn 1, * and Sangsul Lee 1, *
+
+<!-- image -->
+
+<!-- image -->
+
+- 1 Pohang Accelerator Laboratory, Pohang University of Science and Technology, Pohang 37673, Korea; jitendra2029@postech.ac.kr
+- 2 Radiation Equipment Research Division, Korea Atomic Energy Research Institute, Jeongup 56212, Korea; jaeyeon@kaeri.re.kr
+- 3 Advanced Analysis Center, Korea Institute of Science and Technology, Seoul 02792, Korea; khchae@kist.re.kr
+* Correspondence: adc4055@postech.ac.kr (D.A.); sangsul@postech.ac.kr (S.L.); Tel.: + 82-54-279-1569 (S.L.)
+
+<!-- image -->
+
+Received: 30 March 2020; Accepted: 12 April 2020; Published: 15 April 2020
+
+Abstract: Herein, we report the soft X-ray absorption spectroscopic investigation for Li(Ni0.8Co0.1Mn0.1) O2 cathode material during charging and discharging. These measurements were carried out at the Mn L -, Co L -, and Ni L -edges during various stages of charging and discharging. Both the Mn and Co L -edge spectroscopic measurements reflect the invariance in the oxidation states of Mn and Co ions. The Ni L -edge measurements show the modification of the oxidation state of Ni ions during the charging and discharging process. These studies show that eg states are a GLYPH&lt;11&gt; ected dominantly in the case of Ni ions during the charging and discharging process. The O K -edge measurements reflect modulation of metal-oxygen hybridization as envisaged from the area-ratio variation of spectral features corresponding to t 2g and eg states.
+
+Keywords: cathode materials; orbital symmetry states; metal-oxygen hybridization
+
+## 1. Introduction
+
+Rechargeable lithium batteries with layered oxide cathode materials have rapidly risen to prominence as fundamental devices for green and sustainable energy [1-3]. Thus, e GLYPH&lt;11&gt; orts to understand electrochemistry to improve these batteries' performances in terms of commercial development for electric vehicles [4] and large-scale grid storage applications [5] are underway. Charging capacity, thermal stability, and capacity fading are certain factors that determine a battery's performance [6,7], leaving ample scope for researchers to investigate. These e GLYPH&lt;11&gt; orts are reflected in the recent structure and electronic / atomic structural investigation of cathode materials by numerous techniques in the context of battery performance [8-10]. The metal ions of these materials undergo transformations in terms of oxidation state and local structural order during typical battery operation [11,12]. This a GLYPH&lt;11&gt; ects the nature of metal-oxygen hybridization. It has been reported that these factors are influenced by the orbital symmetry states of materials' constituent ions [13,14]. Thus, investigations related to these orbital energy levels using an appropriate technique can provide atomic level insights during the charging and discharging of batteries.
+
+X-ray absorption spectroscopic (XAS) measurements based on soft X-rays can probe the L -edge of transition metals, which are important constituents of layered oxide cathode materials. These measurements, termed near-edge X-ray absorption fine structures (NEXAFS), depict orbital symmetry states associated with the oxidation of metal ions [15,16]. The O K -edge of these layered oxide materials can also be successfully investigated with soft X-rays. The O K -edge NEXAFS measurements infer the symmetry states associated with metal-oxygen interactions in these materials [17,18]. Thus,
+
+Nanomaterials 2020 , 10 , 759; doi:10.3390 / nano10040759
+
+/gid00001
+
+<!-- image -->
+
+Nanomaterials
+
+2020
+
+,
+
+10
+
+, x FOR PEER REVIEW
+
+2 of 11
+
+soft XAS measurements can give a complete account of underlying phenomena due to the orbital symmetry states in the oxide cathode material during charging and discharging. To depict these phenomena, the Ni-rich cathode material, Li(Ni0.8Co0.1Mn0.1)O2, is selected for the present investigation and denoted as NCM811. NCM811 is a well-known layered oxide cathode material and preferred for Li rechargeable batteries due to its high capacity [19,20]. Thus, this work investigates NCM811 cathode materials during charging and discharging using soft XAS. phenomena due to the orbital symmetry states in the oxide cathode material during charging and discharging.  To  depict  these  phenomena,  the  Ni-rich  cathode  material,  Li(Ni0.8Co0.1Mn0.1)O2,  is selected for the present investigation and denoted as NCM811. NCM811 is a well-known layered oxide cathode material and preferred for Li rechargeable batteries due to its high capacity [19,20]. Thus, this work investigates NCM811 cathode materials during charging and discharging using soft XAS.
+
+## 2. Experimental Details 2. Experimental Details
+
+X-ray di GLYPH&lt;11&gt; raction (XRD) experiments prior to electrochemical testing of cathode material were performed with the 9B high-resolution powder di GLYPH&lt;11&gt; raction (HRPD) beamline of the Pohang accelerator laboratory (PAL) [21]. Pristine cathode material was also investigated using X-ray absorption near-edge spectroscopy (XANES) imaging measurements to reveal the local electronic structure. These measurements at the Mn K, Co K, and Ni K -edge were performed with the 7C X-ray nano imaging (XNI) beamline of the PAL. This beamline utilizes zone plate-based transmission X-ray nanoscopy, which is a kind of transmission X-ray microscopy (TXM), for image formation. A zone plate of diameter 150 µ mand 40 nm outermost zone width was used for measurements. This arrangement gave a spatial resolution of 40 nm and a field of view (FOV) of around 50 µ m. The X-ray absorption images based on TXM were captured at various energies within a 1 eV interval in the range GLYPH&lt;0&gt; 20 to 80 eV from the main edge energies of each respective element. The XANES spectrum was extracted from these X-ray absorption images [22]. X-ray diffraction (XRD) experiments prior to electrochemical testing of cathode material were performed  with  the  9B  high-resolution  powder  diffraction  (HRPD)  beamline  of  the  Pohang accelerator  laboratory  (PAL)  [21].  Pristine  cathode  material  was  also  investigated  using  X-ray absorption near-edge spectroscopy (XANES) imaging measurements to reveal the local electronic structure. These measurements at the Mn K, Co K, and Ni K -edge were performed with the 7C Xray nano imaging (XNI) beamline of the PAL. This beamline utilizes zone plate-based transmission X-ray nanoscopy, which is a kind of transmission X-ray microscopy (TXM), for image formation. A zone plate of diameter 150 µm and 40 nm outermost zone width was used for measurements. This arrangement gave a spatial resolution of 40 nm and a field of view (FOV) of around 50 µm. The Xray absorption images based on TXM were captured at various energies within a 1 eV interval in the range -20 to 80 eV from the main edge energies of each respective element. The XANES spectrum was extracted from these X-ray absorption images [22].
+
+Soft XAS measurements of this cathode material at various charging and discharging states were performed with the 10D XAS-KIST beamline of the same laboratory in total electron yield (TEY) mode. The grating with 1100 grooves / mmwas used to measure spectra at the Mn L, Co L, Ni L-, and O K -edges. The obtained spectra were background-subtracted and normalized with respect to the post-edge height [23]. Soft XAS measurements of this cathode material at various charging and discharging states were performed with the 10D XAS-KIST beamline of the same laboratory in total electron yield (TEY) mode. The grating with 1100 grooves/mm was used to measure spectra at the Mn L, Co L, Ni L-, and O K -edges. The obtained spectra were background-subtracted and normalized with respect to the post-edge height [23].
+
+## 3. Results and Discussion 3. Results and Discussion
+
+Figure 1 shows the Rietveld refinement of the synchrotron high-resolution powder di GLYPH&lt;11&gt; raction patterns of the NMC811 cathode material. The di GLYPH&lt;11&gt; raction peaks in the XRD patterns are associated with rhombohedral R3m space group with Li-ion on the 3a site, transition metal ions on the 3b site, and oxygen ion on the 6c site [24]. The Rietveld refinement procedure is adopted to estimate the structural parameter for this material. Table 1 collates the structural and refined parameters. The refined values of the lattice parameter 'a' and 'c' are 2.871 and 14.195 Å, respectively. The unit cell volume is 101.34 Å 3 . The transition metal oxide (TM-O) and Li-O bond distances are 1.978 and 2.0978 Å, respectively. These parameters are similar to those reported for this composition of NMC cathode material [25]. Figure 1 shows the Rietveld refinement of the synchrotron high-resolution powder diffraction patterns of the NMC811 cathode material. The diffraction peaks in the XRD patterns are associated with rhombohedral R3m space group with Li-ion on the 3a site, transition metal ions on the 3b site, and oxygen ion on the 6c site [24]. The Rietveld refinement procedure is adopted to estimate the structural parameter for this material. Table 1 collates the structural and refined parameters. The refined values of the lattice parameter 'a' and 'c' are 2.871 and 14.195 Å, respectively. The unit cell volume is 101.34 Å 3 . The transition metal oxide (TM-O) and Li-O bond distances are 1.978 and 2.0978 Å, respectively. These parameters are similar to those reported for this composition of NMC cathode material [25].
+
+Figure  1. Rietveld  refinement  of  the  synchrotron  high-resolution  powder  diffraction  patterns  of NCM811 cathode material prior to electrochemical testing. Figure 1. Rietveld refinement of the synchrotron high-resolution powder di GLYPH&lt;11&gt; raction patterns of NCM811 cathode material prior to electrochemical testing.
+
+<!-- image -->
+
+In this structure, almost 2.52% of Ni ions occupy the Li-ions site (Table 1). This kind of effect is common in NCM cathode materials and associated with the almost similar size of Li and Ni ions [26].
+
+Nanomaterials
+
+2020
+
+,
+
+10
+
+, x FOR PEER REVIEW
+
+3 of 11
+
+Structural parameters and reliability factors estimated from Rietveld refinement of the high- resolution
+
+powder diffraction
+
+(HRPD)  pattern of
+
+the
+
+NMC811  cathode  material prior
+
+to
+
+Table 1. Structural parameters and reliability factors estimated from Rietveld refinement of the high-resolution powder di GLYPH&lt;11&gt; raction (HRPD) pattern of the NMC811 cathode material prior to electrochemical testing. electrochemical testing. a (Å)/ c (Å) 2.87402 (2)/14.2018 (1)
+
+Atom
+
+Ni2
+
+Ni1
+
+Mn
+
+| a (Å) / c (Å) Site     | a (Å) / c (Å) Site     | 2.87402 (2) / 14.2018 (1) positions Occupancy *,$                       | 2.87402 (2) / 14.2018 (1) positions Occupancy *,$                       | 2.87402 (2) / 14.2018 (1) positions Occupancy *,$                       | 2.87402 (2) / 14.2018 (1) positions Occupancy *,$                       |
+|------------------------|------------------------|-------------------------------------------------------------------------|-------------------------------------------------------------------------|-------------------------------------------------------------------------|-------------------------------------------------------------------------|
+| Atom                   | Site                   | Wycko GLYPH<11> positions 0 0                                           | Wycko GLYPH<11> positions 0 0                                           | Wycko GLYPH<11> positions 0 0                                           | Occupancy *,$ 0.0812 (2)                                                |
+| Li                     | 3a                     | 0                                                                       | 0                                                                       | 0 0                                                                     | 0.0812 (2) 0.0021 (2)                                                   |
+| Ni2                    | 3a                     | 0                                                                       | 0                                                                       | 0                                                                       | 0.0021 (2) †                                                            |
+| Ni1                    | 3b                     | 0                                                                       | 0                                                                       | 0.5 0.5                                                                 | 0.0703 y 0.0703                                                         |
+| Co                     | 3b                     | 0                                                                       | 0                                                                       | 0.5 0.5                                                                 | 0.0075 y 0.0075 †                                                       |
+| Mn                     | 3b                     | 0                                                                       | 0                                                                       | 0.5                                                                     | 0.0032 y 0.0032 †                                                       |
+| O                      | 6c                     | 0                                                                       | 0                                                                       | 0.2419 (1) 0.5                                                          | 0.166 y                                                                 |
+| Reliability factors 6c | Reliability factors 6c | R p = 6.67%, R wp = 9.22%, R exp = 5.99%, S = 1.54 0 0.2419 (1) 0.166 † | R p = 6.67%, R wp = 9.22%, R exp = 5.99%, S = 1.54 0 0.2419 (1) 0.166 † | R p = 6.67%, R wp = 9.22%, R exp = 5.99%, S = 1.54 0 0.2419 (1) 0.166 † | R p = 6.67%, R wp = 9.22%, R exp = 5.99%, S = 1.54 0 0.2419 (1) 0.166 † |
+
+* The normalized site occupation numbers in % are the following: Li1:Ni2(97.52:2.48), Ni1:Co:Mn (84.48:8.99:3.88), O(100) $ Fixed parameter. y Occupancy was achieved using the constraints. Li3a + Ni3a = 0.08333. Reliability factors R p = 6.67%, R wp = 9.22%, R exp  = 5.99%, S = 1.54
+
+*   The  normalized  site  occupation  numbers  in  %  are  the  following:  Li1:Ni2(97.52:2.48),  Ni1:Co:Mn
+
+In this structure, almost 2.52% of Ni ions occupy the Li-ions site (Table 1). This kind of e GLYPH&lt;11&gt; ect is common in NCM cathode materials and associated with the almost similar size of Li and Ni ions [26]. (84.48:8.99:3.88), O (100)  $  Fixed parameter.  †  Occupancy was achieved using the constraints. Li3a + Ni3a = 0.08333.
+
+The chemical state of the constituent ions of the NCM811 cathode material was investigated using XANES-imaging measurements. Figure 2 shows the XANES spectra of the NCM811 cathode material extracted from the TXM images. In Figure 2, these spectra are shown at the Ni K-edge, Mn K-edge, and Co K-edge extracted from the original TXM images. These spectra exhibit that the main edge energy of Mn, Co, and Ni ions exist at the energy of 6.552 GLYPH&lt;6&gt; 1, 7.721 GLYPH&lt;6&gt; 1, and 8.342 GLYPH&lt;6&gt; 1 eV, respectively, in this cathode material. These values are higher than those corresponding to metal edges for each ion showing a higher oxidation state of Mn (6.539 eV), Co (7.709 eV), and Ni (8.333 eV) ions in cathode material [27]. The value of the Mn K-edge energy is similar to that of MnO2, revealing the 4 + oxidation state of Mn ions in the NCM811 cathode material [28,29]. The Mn L-edge NEXAFS spectrum of this material also supports this oxidation state (Figure S1). The main energy of the Co ions occurs at 7.721 GLYPH&lt;6&gt; 1 eV, as estimated by the XANES spectrum that coincides with the spectrum of materials with a 3 + oxidation state [30,31]. The Co L-edge NEXAFS spectrum further favors this (Figure S2). The main edge energy value for Ni ions is associated with the 3 + oxidation state, which is characteristic of the NCM811 cathode material and reported by numerous authors [32-34]. This oxidation state of Ni ions is also evident from the Ni L-edge NEXAFS spectrum (Figure S3). The chemical state of the constituent ions of the NCM811 cathode material was investigated using XANES-imaging measurements. Figure 2 shows the XANES spectra of the NCM811 cathode material extracted from the TXM images. In Figure 2, these spectra are shown at the Ni K-edge, Mn K-edge, and Co K-edge extracted from the original TXM images. These spectra exhibit that the main edge energy of Mn, Co, and Ni ions exist at the energy of 6.552 ± 1,  7.721 ± 1,  and  8.342 ± 1  eV, respectively, in this cathode material. These values are higher than those corresponding to metal edges for each ion showing a higher oxidation state of Mn (6.539 eV), Co (7.709 eV), and Ni (8.333 eV) ions in cathode material [27]. The value of the Mn K-edge energy is similar to that of MnO2, revealing the 4+ oxidation state of Mn ions in the NCM811 cathode material [28 , 29]. The Mn L-edge NEXAFS spectrum of this material also supports this oxidation state (Figure S1). The main energy of the Co ions occurs at 7.721 ± 1 eV, as estimated by the XANES spectrum that coincides with the spectrum of materials  with  a  3+  oxidation  state  [30 , 31].  The  Co  L-edge  NEXAFS spectrum further favors this (Figure S2). The main edge energy value for Ni ions is associated with the 3+ oxidation state, which is characteristic of the NCM811 cathode material and reported by numerous authors [32 -34]. This oxidation state of Ni ions is also evident from the Ni L-edge NEXAFS spectrum (Figure S3).
+
+Figure 2. X-ray absorption near-edge spectroscopy (XANES) spectra at the Mn, Co, and Ni K -edges extracted (bulk mode) from transmission X-ray microscopy (TXM) images for NMC811 cathode material.
+
+<!-- image -->
+
+Nanomaterials
+
+2020
+
+,
+
+10
+
+, x FOR PEER REVIEW
+
+4 of 11
+
+The secondary particles of cathode materials are generally 10-25 µ m; thus the XANES spectrum of the selected region equivalent to the size of the secondary particles is extracted from the specific region of interest (ROI). Figure 3a shows the extracted Mn K-edge spectra of the selected ROI. These spectra exhibit spectral features a1 and b1 centered at 6.558 GLYPH&lt;6&gt; 1 and 6.573 GLYPH&lt;6&gt; 1 eV, respectively (Figure 3a). These spectral features are clearly visible in the spectra extracted from region R1, R2, and R3 (Figure 3a). This envisages that Mn ions exist at almost the same oxidation state in each region of the cathode materials. Similarly, the Co K-edge spectra for each region R1, R2, and R3 (Figure 3b) exhibit spectral features a2, b2, and c2 centered at 7.728 GLYPH&lt;6&gt; 1, 7.737 GLYPH&lt;6&gt; 1, and 7.746 GLYPH&lt;6&gt; 1 eV, respectively (Figure 3b). The oxidation state of Ni ions in NMC cathode materials plays an important role during the charging and discharging process. Thus, the Ni K-edge spectra were also measured using XANES-imaging and shown in Figure 3c. The Ni K-edge spectra in the di GLYPH&lt;11&gt; erent regions R1, R2, and R3, (Figure 3c) exhibit spectral features a3, b3, c3, and d3. These spectral features are centered at 8.351 GLYPH&lt;6&gt; 1, 8.368 GLYPH&lt;6&gt; 1, 8.384 GLYPH&lt;6&gt; 1, and 8.404 GLYPH&lt;6&gt; 1 eV, respectively (Figure 3c). Thus, these measurements show that all metal ions exist in an almost matching oxidation state despite the di GLYPH&lt;11&gt; erent ROIs. The secondary particles of cathode materials are generally 10 -25 µm; thus the XANES spectrum of the selected region equivalent to the size of the secondary particles is extracted from the specific region of interest (ROI). Figure 3a shows the extracted Mn K-edge spectra of the selected ROI. These spectra exhibit spectral features a1 and b1 centered at 6.558 ± 1 and 6.573 ± 1 eV, respectively (Figure 3a).  These  spectral  features  are  clearly  visible  in  the  spectra  extracted  from  region  R1,  R2,  and  R3 (Figure 3a). This envisages that Mn ions exist at almost the same oxidation state in each region of the cathode materials. Similarly, the Co K-edge spectra for each region R1, R2, and R3 (Figure 3b) exhibit spectral features a2, b2, and c2 centered at 7.728 ± 1, 7.737 ± 1, and 7.746 ± 1 eV, respectively (Figure 3b). The oxidation state of Ni ions in NMC cathode materials plays an important role during the charging and discharging process. Thus, the Ni K-edge spectra were also measured using XANESimaging and shown in Figure 3c. The Ni K-edge spectra in the different regions R1, R2, and R3, (Figure 3c) exhibit spectral features a3, b3, c3, and d3. These spectral features are centered at 8.351 ± 1, 8.368 ± 1, 8.384 ± 1, and 8.404 ± 1 eV, respectively (Figure 3c). Thus, these measurements show that all metal ions exist in an almost matching oxidation state despite the different ROIs.
+
+Figure 3. ( a ) Mn K -, ( b ) Co K -, and ( c ) Ni K -edge XANES spectra extracted from each region of interest (ROI), R1 , R 2 , and R 3 , equivalent to the dimensions of secondary particles.
+
+<!-- image -->
+
+Fi
+
+Figure 3.
+
+(
+
+a
+
+) Mn
+
+K
+
+-, (
+
+b
+
+) Co
+
+K
+
+-, and (
+
+c
+
+) Ni
+
+K
+
+-edge XANES spectra extracted from each region of interest
+
+(ROI), R1, R2, and R3, equivalent to the dimensions of secondary particles.
+
+The NCM811 cathode material exhibits structure and local electronic structure concurrent with previous reports; therefore, electrochemical testing was performed on this material. Figure 4 shows the charging and discharging curve of the NCM811 cathode material. Various states of charging (SOC) are shown by the numerals, 1, 2, 3, 4, and 5. These numerals denote the charging capacity of 0 (pristine), 40, 100, 160, and 215 mAhg GLYPH&lt;0&gt; 1 , respectively. The values at the capacity of 247, 302, 357, and 409 mAhg GLYPH&lt;0&gt; 1 represent the depth of discharging and are represented by the numerals 6, 7, 8, and 9, respectively. The NCM811 cathode material exhibits structure and local electronic structure concurrent with previous reports; therefore, electrochemical testing was performed on this material. Figure 4 shows the  charging and discharging curve of the NCM811 cathode material. Various states of charging (SOC) are shown by the numerals, 1, 2, 3, 4, and 5. These numerals denote the charging capacity of 0 (pristine), 40, 100, 160, and 215 mAhg -1 , respectively. The values at the capacity of 247, 302, 357, and 409 mAhg -1  represent the depth of discharging and are represented by the numerals 6, 7, 8, and 9, respectively.
+
+Figure 4. Various states of charging and discharging for NCM811 cathode materials. Figure 4. Various states of charging and discharging for NCM811 cathode materials.
+
+<!-- image -->
+
+Figure 5a shows the Mn L -edge spectra of NCM811 during charging and discharging. During the charging and discharging process, the spectral features A1, B1, and C1 present in the spectra at various  stages  of  charging  and  discharging  (Figure  5a).  The  spectral  features A1,  B1,  and  C1 are centered around 640.4 ± 0.4, 642.9 ± 0.4, and 653.3 ± 0.4 eV, respectively, in all states of charging and discharging (i.e., 1 -9). The spectral features A1 and B1 are associated with L 3 ; however, C1 is associated with the L 2 -edge. The presence of spectral features that correspond to the L 3  and L 2 -edges in the Mn L -edge  spectra  are  due  to  electronic  transitions  to  the  3d  levels  from  the  2p3/2  and  2p1/2  levels, respectively. The presence of spectral features at an almost identical position (Figure S4) and the lack of change of shape of spectra reveal that Mn ions exist in the same oxidation state during the charging and discharging process. These observations were also obtained from the XANES study of cathode materials during battery operation [32 , 33]. Figure 5a shows the Mn L -edge spectra of NCM811 during charging and discharging. During the charging and discharging process, the spectral features A1, B1, and C1 present in the spectra at various stages of charging and discharging (Figure 5a). The spectral features A1, B1, and C1 are centered around 640.4 GLYPH&lt;6&gt; 0.4, 642.9 GLYPH&lt;6&gt; 0.4, and 653.3 GLYPH&lt;6&gt; 0.4 eV, respectively, in all states of charging and discharging (i.e., 1-9). The spectral features A1 and B1 are associated with L 3 ; however, C1 is associated with the L 2 -edge. The presence of spectral features that correspond to the L 3 and L 2 -edges in the Mn L -edge spectra are due to electronic transitions to the 3d levels from the 2p3 / 2 and 2p1 / 2 levels, respectively. The presence of spectral features at an almost identical position (Figure S4) and the lack of change of shape of spectra reveal that Mn ions exist in the same oxidation state during the charging and discharging process. These observations were also obtained from the XANES study of cathode materials during battery operation [32,33].
+
+Figure 5b shows the Co L -edge spectra of NCM811 during charging and discharging. During these processes (i.e., 1-9), the spectral features A2 and B2 appeared in the spectra (Figure 5b). These spectral features were assigned to the L3 - and L2 -edges. Further splitting into t 2g and eg symmetry state was absent in these spectra. This kind of behavior is observed in Co-based layered oxide cathode materials [35,36]. Spectral features A2 centered at 779.1 GLYPH&lt;6&gt; 0.4 and 793.3 GLYPH&lt;6&gt; 0.4 eV remain at almost the same position during charging and discharging (Figure S5). This demonstrates that during the charging and discharging process, the oxidation state of Co ions does not alter in NCM811 cathode materials. Figure 6a shows the Ni L -edge spectra of cathode material during charging (stages 1-5) and discharging (stages 6-9). The spectral features A3, B3, C3, and D3 appear in the spectra for charging and discharging (Figure 6a). These spectral features are centered at 851.4 GLYPH&lt;6&gt; 0.4 (A3 ) , 853.3 GLYPH&lt;6&gt; 0.4 (B3), 868.4 GLYPH&lt;6&gt; 0.4 (C3), and 869.5 GLYPH&lt;6&gt; 0.4 (D3) eV in the spectra of the pristine NCM811 cathode. The presence of these spectral features is associated with the presence of Ni ions in an octahedral crystal field. These spectral features represent t 2g ( L3 ), eg ( L3 ), t 2g ( L3 ), and eg ( L3 ) symmetry states. The positions of spectral feature A3 remain the same during charging and discharging. The position of spectral feature B3 is slightly modified during charging and discharging (Figure 6b); this evinces that the eg symmetry
+
+states are a GLYPH&lt;11&gt; ected dominantly during the charging and discharging state. No role is played by the t 2g states. Nanomaterials 2020 , 10 , x FOR PEER REVIEW 6 of 11
+
+<!-- image -->
+
+7 of 11
+
+Figure 5. ( a )  Mn L -edge and ( b )  Co L -edge near-edge X-ray absorption fine structures (NEXAFS) spectra of NCM811 cathode material during charging and discharging. Figure 5. ( a ) Mn L -edge and ( b ) Co L -edge near-edge X-ray absorption fine structures (NEXAFS) spectra of NCM811 cathode material during charging and discharging. Nanomaterials 2020 , 10 , x FOR PEER REVIEW
+
+symmetry state
+
+, 853.3 ± 0.4 (B3), symmetry
+
+t 2g
+
+<!-- image -->
+
+states.
+
+Figure 6. ( a )  Ni L -edge spectra and (b) energy of spectral features A3 and B3 of NCM811 cathode materials at stages 1-5 (charging) and 6-9 (discharging). Figure 6. ( a ) Ni L -edge spectra and ( b ) energy of spectral features A3 and B3 of NCM811 cathode materials at stages 1-5 (charging) and 6-9 (discharging).
+
+Another interesting change observed in the Ni
+
+L
+
+-edge spectra is the relative change in intensity of  spectral  features  A3  and  B3  associated  with  the
+
+t 2g and
+
+eg symmetry  states.  The  changes  are
+
+associated with the modification of the oxidation state of Ni ions in the cathode material during charging and discharging [37]. To get deeper insights into this behavior, the area ratio of the spectral
+
+features  A3  and  B3  was  determined  (Figure  7a)  by  de-convoluting  the
+
+L3
+
+-edge  region  using  the
+
+Another interesting change observed in the Ni L -edge spectra is the relative change in intensity of spectral features A3 and B3 associated with the t 2g and eg symmetry states. The changes are associated with the modification of the oxidation state of Ni ions in the cathode material during charging and discharging [37]. To get deeper insights into this behavior, the area ratio of the spectral features A3 and B3 was determined (Figure 7a) by de-convoluting the L3 -edge region using the Gaussian function. The de-convolution spectra for states 1, 5, and 9 are shown in Figure 7b-d. The ratio of these spectral features changes alongside the charging and discharging states. The ratio is reduced with charging, indicating transformation to a higher oxidation state. After discharging, the ratio equivalent to the pristine state is observed, indicating that the oxidation state of Ni ions is reversible. Nanomaterials 2020 , 10 , x FOR PEER REVIEW 8 of 11
+
+Figure 7. ( a ) The t2g / eg ratio estimated from the Ni L -edge spectra at various stages of charging and discharging. Here, ( b ), ( c ), and ( d ) show the representative de-convoluted spectra for states 1, 5, and Figure 7. ( a ) The t 2g / eg ratio estimated from the Ni L -edge spectra at various stages of charging and discharging. Here, ( b -d ) show the representative de-convoluted spectra for states 1, 5, and 9.
+
+<!-- image -->
+
+9.
+
+Figure  8  shows  the  O K -edge  spectra  of  the  NCM811  cathode  during  the  charging  and discharging process.  Both  the  pre-edge  and  post-edge  region  of  the  O K -edge  spectra  reflect  the systematic changes during charging and discharging. The pre-edge region of the O K -edge spectra exhibits  spectral  features  A4  and  B4  centered  around  528.5  and  531.5  eV,  respectively,  for  state  1 (Figure 8b). These spectral features also appear in the spectra for the charging/discharging states 2-9 Figure 8 shows the O K -edge spectra of the NCM811 cathode during the charging and discharging process. Both the pre-edge and post-edge region of the O K -edge spectra reflect the systematic changes during charging and discharging. The pre-edge region of the O K -edge spectra exhibits spectral features A4 and B4 centered around 528.5 and 531.5 eV, respectively, for state 1 (Figure 8b). These spectral features also appear in the spectra for the charging / discharging states 2-9 at almost the same position. The intensities of these features change during charging and discharging.
+
+at almost the same position. The intensities of these features change during charging and discharging. Features C4 and D4 appear in the post-edge region of the O K -edge spectra (Figure 8a). These spectral features occur at 537.8 GLYPH&lt;6&gt; 0.4 and 541.9 GLYPH&lt;6&gt; 0.4 eV, respectively, for various charging (1-5) and discharging (6-9) states.
+
+Because the pre-edge region of the O K -edge spectrum is e GLYPH&lt;11&gt; ective to gather information of metal (3d)-O(2p) hybridization in transition metal oxides [17,18,38]; hence, the intensity ratio of spectral features A4 and B4 corresponding to t 2g and eg symmetry state is determined and shown in Figure 9a. Figure 9b-d shows the de-convoluted spectra for states 1, 5, and 9. The intensity ratio is at its maximum for the fully charged cathode and reduces thereafter. Similar behavior is also observed by Tian et al. [39]. This shows the modulation of metal-oxygen hybridization during charging and discharging. The ratio is di GLYPH&lt;11&gt; erent from that obtained from the Ni L -edge spectra (Figure 7a); this may be due to the influence of these symmetry states from other metal ions such as Mn and Co [39] as well as to the creation of oxygen vacancies during the charging and discharging process [18].
+
+Figure  8  shows  the  O
+
+K
+
+-edge  spectra  of  the  NCM811  cathode  during  the  charging  and discharging process.  Both  the  pre-edge  and  post-edge  region  of  the  O
+
+K
+
+-edge  spectra  reflect  the systematic changes during charging and discharging. The pre-edge region of the O
+
+K
+
+-edge spectra exhibits  spectral  features  A4  and  B4  centered  around  528.5  and  531.5  eV,  respectively,  for  state  1
+
+Nanomaterials 2020 , 10 , 759 8 of 11 (Figure 8b). These spectral features also appear in the spectra for the charging/discharging states 2-9
+
+at almost the same position. The intensities of these features change during charging and discharging.
+
+Nanomaterials discharging (6-9) states.
+
+Tian  et  al.  [39].  This  shows  the  modulation  of  metal-oxygen  hybridization  during  charging  and
+
+Figure 8. ( a ) O K -edge spectra and its ( b ) pre-edge region for the NCM811 cathode material during charging and discharging. Figure 8. ( a ) O K -edge spectra and its ( b ) pre-edge region for the NCM811 cathode material during charging and discharging. discharging. The ratio is different from that obtained from the Ni L -edge spectra (Figure 7a); this may be due to the influence of these symmetry states from other metal ions such as Mn and Co [39] as
+
+<!-- image -->
+
+well as to the creation of oxygen vacancies during the charging and discharging process [18].
+
+Figure 9. ( a ) The t2g / eg ratio estimated from the pre-edge region of the O K -edge spectra at various charging and discharging stages. Here, ( b ), ( c ), and ( d ) show the representative de-convoluted spectra for the 1, 5, and 9 states. Figure 9. ( a ) The t 2g / eg ratio estimated from the pre-edge region of the O K -edge spectra at various charging and discharging stages. Here, ( b ), ( c ), and ( d ) show the representative de-convoluted spectra for the 1, 5, and 9 states.
+
+<!-- image -->
+
+4. Conclusions
+
+In conclusion, we have successfully performed soft X-ray spectroscopic measurements during charging and discharging on a well-characterized NCM811 cathode material. These results envisage
+
+that oxidation state of Mn and Co ions do not influenced by the charging and discharging process.
+
+The oxidation state of Ni ions is affected by charging and discharging; however, in the case of Ni ions,
+
+eg states are dominantly influenced. Although the oxidation state of Ni ions changes, metal-
+
+9 of 11
+
+-edge spectra (Figure 8a). These
+
+## 4. Conclusions
+
+In conclusion, we have successfully performed soft X-ray spectroscopic measurements during charging and discharging on a well-characterized NCM811 cathode material. These results envisage that oxidation state of Mn and Co ions do not influenced by the charging and discharging process. The oxidation state of Ni ions is a GLYPH&lt;11&gt; ected by charging and discharging; however, in the case of Ni ions, eg states are dominantly influenced. Although the oxidation state of Ni ions changes, metal-oxygen hybridization during charging and discharging is a GLYPH&lt;11&gt; ected by the presence of other metal ions.
+
+Supplementary Materials: The following are available online at http: // www.mdpi.com / 2079-4991 / 10 / 4 / 759 / s1, Figure S1: Mn L -edge NEXAFS spectra of NCM811 with reference oxide; Figure S2: Co L -edge NEXAFS spectra of NCM811 with reference oxide; Figure S3: Ni L -edge NEXAFS spectra of NCM811 with NiO; Figure S4: Positions of spectral features A 1 and B1 of Mn L -edge spectra for various states; Figure S5: Positions of spectral features A 2 and B2 of Co L -edge spectra for various states.
+
+Author Contributions: Conceptualization, J.P.S., D.A., and S.L.; methodology, J.Y.P., K.H.C., and J.P.S; software, J.Y.P.; validation, S.L., D.A., and K.H.C.; formal analysis, J.P.S.; investigation, J.P.S.; resources, S.L.; data curation, D.A.; writing-original draft preparation, J.P.S.; writing-review and editing, S.L. and D.A.; visualization, K.H.C.; supervision, S.L.; project administration, S.L. and D.A.; funding acquisition, S.L. All authors have read and agreed to the published version of the manuscript.
+
+Funding: This research was supported by the Basic Science Research Program (grant number: 2017R1C1B1011518) and EEMAP (grant number: 2017M3A7B4049173) through the National Research Foundation of Korea (NRF) funded by the Ministry of Education.
+
+Conflicts of Interest:
+
+## References
+
+1. Goodenough, J.B.; Park, K.S. The Li-Ion Rechargeable Battery: A Perspective. J. Am. Chem. Soc. 2013 , 135 , 1167-1176. [CrossRef]
+2. Nitta, N.; Wu, F.; Lee, J.T.; Yushin, G. Li-ion Battery Materials: Present and Future. Mater. Today 2015 , 18 , 1369-7021. [CrossRef]
+3. Li, M.; Lu, J.; Chen, Z.; Amine, K. 30 Years of Lithium-Ion Batteries. Adv. Mater. 2018 , 30 , 1800561. [CrossRef] [PubMed]
+4. Kim, T.; Song, W.; Son, D.-Y.; Ono, L.K.; Qi, Y. Lithium-ion Batteries: Outlook on Present, Future, and Hybridized Technologies. J. Mater. Chem. A 2019 , 7 , 2942-2964. [CrossRef]
+5. Güra, T.M. Review of Electrical Energy Storage Technologies, Materials and Systems: Challenges and Prospects for Large-Scale Grid Storage. Energy Environ. Sci. 2018 , 11 , 2696-2767. [CrossRef]
+6. Tarascon, J.M.; Armand, M. Issues and Challenges Facing Rechargeable Lithium Batteries. Nature 2001 , 414 , 359-367. [CrossRef] [PubMed]
+7. Biasi, L.D.; Schwarz, B.; Brezesinski, T.; Hartmann, P.; Janek, J.; Ehrenberg, H. Chemical, Structural, and Electronic Aspects of Formation and Degradation Behavior on Di GLYPH&lt;11&gt; erent Length Scales of Ni-Rich NCM and Li-Rich HE-NCM Cathode Materials in Li-Ion Batteries. Adv. Mater. 2019 , 31 , 1900985. [CrossRef]
+8. Li, Y.; Pei, A.; Yan, K.; Sun, Y.; Wu, C.-L.; Joubert, L.M.; Chin, R.; Koh, A.L.; Yu, Y.; Perrino, J.; et al. Atomic Structure of Sensitive Battery Materials and Interfaces Revealed by Cryo-Electron Microscopy. Science 2017 , 358 , 506-510. [CrossRef]
+9. Yang, Z.; Gu, L.; Hu, Y.S.; Li, H. Atomic-Scale Structure-Property Relationships in Lithium Ion Battery Electrode Materials. Ann. Rev. Mater. Res. 2017 , 47 , 175-198. [CrossRef]
+10. Çelik, G.; Akta¸ s, S.; Ate¸ s, ¸ S.; Özkendir, O.M.; Klysubun, W. Crystal and Electronic Structure Study of the Li2 Mn1-x NdxO3 Battery Cathode. Prog. Nat. Sci. Mater. Int. 2019 , 29 , 119-123. [CrossRef]
+11. Alemu, T.; Wang, F.M. In situ Electrochemical Synchrotron Radiation for Li-ion Batteries. J. Synchrotron Rad. 2018 , 25 , 151-165. [CrossRef] [PubMed]
+12. Hwang, B.J.; Tsai, Y.W.; Santhanam, R.; Wu, Y.W.; Hu, S.G.; Lee, J.F.; Liu, D.G. Evolution of Local Electronic and Atomic Structure of Co-Doped LiMn2O4 Cathode Material for Lithium Rechargeable Batteries. J. Power Sources 2003 , 123 , 206-215. [CrossRef]
+13. Ragavendran, K.R.; Mandal, P.; Yarlagadda, S. Correlation between Battery Material Performance and Cooperative Electron-Phonon Interaction in LiCoyMn2 GLYPH&lt;0&gt; y O4 . Appl. Phys. Lett. 2017 , 110 , 143901. [CrossRef]
+
+The authors declare no conflicts of interest.
+
+14. Liu, C.; Neale, Z.G.; Cao, G. Understanding Electrochemical Potentials of Cathode Materials in Rechargeable Batteries. Mater. Today 2016 , 19 , 109-123. [CrossRef]
+15. Tokura, Y.; Nagaosa, N. Orbital Physics in Transition-Metal Oxides. Science 2000 , 288 , 462-468. [CrossRef]
+16. Singh, V.; Major, D.T. Electronic Structure and Bonding in Co-Based Single and Mixed Valence Oxides: A Quantum Chemical Perspective. Inorg. Chem. 2016 , 55 , 3307-3315. [CrossRef]
+17. Schuster, M.E.; Teschner, D.; Popovic, J.; Ohmer, N.; Girgsdies, F.; Tornow, J.; Willinger, M.G.; Samuelis, D.; Titirici, M.M.; Maier, J.; et al. Charging and Discharging Behavior of Solvothermal LiFePO4 Cathode Material Investigated by Combined EELS / NEXAFS Study. Chem. Mater. 2014 , 26 , 1040-1047. [CrossRef]
+18. House, R.A.; Maitra, U.; Jin, L.; Lozano, J.G.; Somerville, J.W.; Rees, N.H.; Naylor, A.J.; Duda, L.C.; Massel, F.; Chadwick, A.V.; et al. What Triggers Oxygen Loss in Oxygen Redox Cathode Materials? Chem. Mater. 2019 , 31 , 3293-3300. [CrossRef]
+19. Xia, Y.; Zheng, J.; Wang, C.; Gu, M. Designing Principle for Ni-Rich Cathode Materials with High Energy Density for Practical Applications. Nano Energy 2018 , 49 , 434-452. [CrossRef]
+20. Schipper, F.; Erickson, E.M.; Erk, C.; Shin, J.Y.; Chesneau, F.F.; Aurbach, D. Recent Advances and Remaining Challenges for Lithium Ion Battery Cathodes. J. ElectroChem. Soc. 2017 , 164 , A6220. [CrossRef]
+21. Kim, J.; Ahn, D.; Kulshreshtha, C.; Sohn, K.-S.; Shin, N. Lithium Barium Silicate, Li 2 BaSiO 4 , from Synchrotron Powder Data. Acta Cryst. C 2009 , 65 , i14-i16. [CrossRef] [PubMed]
+22. Park, J.Y.; Singh, J.P.; Lim, J.; Lee, S. Development of XANES Nanoscopy on BL7C at PLS-II. J. Synchrotron Rad. 2020 , 27 , 545-550. [CrossRef] [PubMed]
+23. Singh, J.P.; Kim, S.H.; Won, S.O.; Lee, I.J.; Chae, K.H. Atomic-Scale Investigation of MgO Growth on Fused Quartz Using Angle-Dependent NEXAFS Measurements. RSC Adv. 2018 , 8 , 31275-31286. [CrossRef]
+24. Lee, W.; Muhammad, S.; Kim, T.; Kim, H.; Lee, E.; Jeong, M.; Son, S.; Ryou, J.-H.; Yoon, W.-S. New Insight into Ni-Rich Layered Structure for Next-Generation Li Rechargeable Batteries. Adv. Energy Mater. 2018 , 8 , 1701788. [CrossRef]
+25. Weigel, T.; Schipper, F.; Erickson, E.M.; Susai, F.A.; Markovsky, B.; Aurbach, D. Structural and Electrochemical Aspects of LiNi0.8 Co0.1 Mn0.1 O2 Cathode Materials Doped by Various Cations. ACS Energy Lett. 2019 , 4 , 508-516. [CrossRef]
+26. Yoshio, M.; Noguchi, H.; Itoh, J.; Okada, M.; Mouri, T. Preparation and Properties of LiCo y Mn x Ni1 GLYPH&lt;0&gt; x GLYPH&lt;0&gt; y O2 as a Cathode for Lithium Ion Batteries. J. Power Sources 2000 , 90 , 176-181. [CrossRef]
+27. Ravel, B.; Newville, M. ATHENA, ARTEMIS, HEPHAESTUS: Data analysis for X-ray absorption spectroscopy using IFEFFIT. J. Synchrotron Rad. 2005 , 12 , 537-541. [CrossRef]
+28. Nam, K.W.; Kim, M.G.; Kim, K.B. In Situ Mn K-edge X-ray Absorption Spectroscopy Studies of Electrodeposited Manganese Oxide Films for Electrochemical Capacitors. J. Phys. Chem. C 2007 , 111 , 749-758. [CrossRef]
+29. Manceau, A.; Marcus, M.A.; Grangeon, S. Determination of Mn valence states in mixed-valent manganates by XANES spectroscopy. Am. Mineral. 2012 , 97 , 816-827. [CrossRef]
+30. Okumura, T.; Yamaguchi, Y.; Shikano, M.; Kobayashia, H. Correlation of Lithium Ion Distribution and X-ray Absorption Near-Edge Structure in O3- and O2-Lithium Cobalt Oxides from First-Principle Calculation. J. Mater. Chem. 2012 , 22 , 17340-17348. [CrossRef]
+31. Ekwongsa, C.; Rujirawat, S.; Butnoi, P.; Vittayakorn, N.; Suttapun, M.; Yimnirun, R.; Kidkhunthod, P. Temperature Dependent Local Structure of LiCoO2 Determined by in-situ Co K -edge X-ray Absorption Fine Structure (EXAFS). Rad. Phys. Chem. 2019 , 108545. [CrossRef]
+32. Bak, S.M.; Hu, E.; Zhou, Y.; Yu, X.; Senanayake, S.D.; Cho, S.J.; Kim, K.B.; Chung, K.Y.; Yang, X.Q.; Nam, K.W. Structural Changes and Thermal Stability of Charged LiNixMnyCozO2 Cathode Materials Studied by Combined In Situ Time-Resolved XRD and Mass Spectroscopy. ACS Appl. Mater. Interfaces 2014 , 6 , 22594-22601. [CrossRef] [PubMed]
+33. Sun, H.; Zhao, K. Electronic Structure and Comparative Properties of LiNixMnyCozO2 Cathode Materials. J. Phys. Chem. C 2017 , 121 , 6002-6010. [CrossRef]
+34. Boesenberg, U.; Marcus, M.A.; Shukla, A.K.; Yi, T.; McDermott, E.; Teh, P.F.; Srinivasan, M.; Moewes, A.; Cabana, J. Asymmetric Pathways in the Electrochemical Conversion Reaction of NiO as Battery Electrode with High Storage Capacity. Sci. Rep. 2014 , 4 , 7133. [CrossRef] [PubMed]
+
+35. Lin, F.; Markus, I.M.; Nordlund, D.; Weng, T.C.; Asta, M.D.; Xin, H.L.; Doe GLYPH&lt;11&gt; , M.M. Surface Reconstruction and Chemical Evolution of Stoichiometric Layered Cathode Materials for Lithium-Ion Batteries. Nat. Commun. 2014 , 5 , 3529. [CrossRef] [PubMed]
+36. Zhang, N.; Long, X.; Wang, Z.; Yu, P.; Han, F.; Fu, J.; Ren, G.X.; Wu, Y.; Zheng, S.; Huang, W.; et al. Mechanism Study on the Interfacial Stability of a Lithium Garnet-Type Oxide Electrolyte against Cathode Materials. ACS Appl. Energy Mater. 2018 , 11 , 5968-5976. [CrossRef]
+37. Sallis, S.; Pereira, N.; Mukherjee, P.; Quackenbush, N.F.; Faenza, N.; Schlueter, C.; Lee, T.-L.; Yang, W.L.; Cosandey, F.; Amatucci, G.G.; et al. Surface Degradation of Li1-x Ni0.80 Co 0.15 Al 0.05 O 2 Cathodes: Correlating Charge Transfer Impedance with Surface Phase Transformations. Appl. Phys. Lett. 2016 , 108 , 263902. [CrossRef]
+38. Singh, J.P.; Kuang, H.; Lee, S.; Chae, K.H. Investigation of Metal-Oxygen Hybridization Process during the Growth of ZnFe2O4 Films on MgO (100) Substrates. (To be communicated).
+39. Tian, C.; Nordlund, D.; Xin, H.L.; Xu, Y.; Liu, Y.; Sokaras, D.; Lin, F.; Doe GLYPH&lt;11&gt; , M.M. Depth-Dependent Redox Behavior of LiNi0.6 Mn0.2 Co0.2 O 2 . J. Electrochem. Soc. 2018 , 165 , A696. [CrossRef]
+
+<!-- image -->
+
+' 2020 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (http: // creativecommons.org / licenses / by / 4.0 / ).
+
+TABLES:
+------------------------------
+
+Table 1:
+Caption: 
+Content: | a (Å) / c (Å) Site     | a (Å) / c (Å) Site     | 2.87402 (2) / 14.2018 (1) positions Occupancy *,$                       | 2.87402 (2) / 14.2018 (1) positions Occupancy *,$                       | 2.87402 (2) / 14.2018 (1) positions Occupancy *,$                       | 2.87402 (2) / 14.2018 (1) positions Occupancy *,$                       |
+|------------------------|------------------------|-------------------------------------------------------------------------|-------------------------------------------------------------------------|-------------------------------------------------------------------------|-------------------------------------------------------------------------|
+| Atom                   | Site                   | Wycko GLYPH<11> positions 0 0                                           | Wycko GLYPH<11> positions 0 0                                           | Wycko GLYPH<11> positions 0 0                                           | Occupancy *,$ 0.0812 (2)                                                |
+| Li                     | 3a                     | 0                                                                       | 0                                                                       | 0 0                                                                     | 0.0812 (2) 0.0021 (2)                                                   |
+| Ni2                    | 3a                     | 0                                                                       | 0                                                                       | 0                                                                       | 0.0021 (2) †                                                            |
+| Ni1                    | 3b                     | 0                                                                       | 0                                                                       | 0.5 0.5                                                                 | 0.0703 y 0.0703                                                         |
+| Co                     | 3b                     | 0                                                                       | 0                                                                       | 0.5 0.5                                                                 | 0.0075 y 0.0075 †                                                       |
+| Mn                     | 3b                     | 0                                                                       | 0                                                                       | 0.5                                                                     | 0.0032 y 0.0032 †                                                       |
+| O                      | 6c                     | 0                                                                       | 0                                                                       | 0.2419 (1) 0.5                                                          | 0.166 y                                                                 |
+| Reliability factors 6c | Reliability factors 6c | R p = 6.67%, R wp = 9.22%, R exp = 5.99%, S = 1.54 0 0.2419 (1) 0.166 † | R p = 6.67%, R wp = 9.22%, R exp = 5.99%, S = 1.54 0 0.2419 (1) 0.166 † | R p = 6.67%, R wp = 9.22%, R exp = 5.99%, S = 1.54 0 0.2419 (1) 0.166 † | R p = 6.67%, R wp = 9.22%, R exp = 5.99%, S = 1.54 0 0.2419 (1) 0.166 † |

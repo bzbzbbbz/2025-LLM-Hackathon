@@ -1,0 +1,311 @@
+Simple Docling Extracted Data from: krishnan-et-al-2024-monitoring-redox-processes-in-lithium-ion-batteries-by-laboratory-scale-operando-x-ray-emission.pdf
+============================================================
+
+Title: krishnan-et-al-2024-monitoring-redox-processes-in-lithium-ion-batteries-by-laboratory-scale-operando-x-ray-emission
+Pages: 10
+Tables: 0
+Figures: 0
+
+MAIN TEXT:
+------------------------------
+<!-- image -->
+
+www.acsami.org
+
+<!-- image -->
+
+<!-- image -->
+
+Research Article
+
+## Monitoring Redox Processes in Lithium-Ion Batteries by LaboratoryScale Operando X -ray Emission Spectroscopy
+
+Abiram Krishnan, Dong-Chan Lee, Ian Slagle, Sumaiyatul Ahsan, Samantha Mitra, Ethan Read, and Faisal M. Alamgir *
+
+<!-- image -->
+
+Cite This: ACS Appl. Mater. Interfaces 2024, 16, 16096-16105
+
+## ACCESS
+
+<!-- image -->
+
+Metrics &amp; More
+
+Article Recommendations
+
+<!-- image -->
+
+<!-- image -->
+
+ABSTRACT: Tracking changes in the chemical state of transition metals in alkali-ion batteries is crucial to understanding the redox chemistry during operation. X-ray absorption spectroscopy (XAS) is often used to follow the chemistry through observed changes in the chemical state and local atomic structure as a function of the state-of-charge (SoC) in batteries. In this study, we utilize an operando X-ray emission spectroscopy (XES) method to observe changes in the chemical state of active elements in batteries during operation. Operando XES and XAS were compared by using a laboratory-scale setup for four different battery systems: LiCoO2 (LCO), Li[Ni1/3Co1/3Mn1/3]O2 (NMC111), Li[Ni0.8Co0.1Mn0.1]O2 (NMC811), and LiFePO4 (LFP) under a constant current charging the battery in 10 h (C/10 charge rate). We show that XES, despite narrower chemical shifts in comparison to XAS, allows us to fingerprint the battery SOC in real time. We further demonstrate that XES can be used to track the change in net spin of the probed atoms by analyzing
+
+<!-- image -->
+
+Supporting Information
+
+<!-- image -->
+
+changes in the emission peak shape. As a test case, the connection between net spin and the local chemical and structural environment was investigated by using XES and XAS in the case of electrochemically delithiated LCO in the range of 2 -10% lithium removal.
+
+KEYWORDS: X-ray absorption, X-ray emission, spin state, lithium-ion battery, operando
+
+## ■ INTRODUCTION
+
+Lithium-ion batteries (LIBs) gained remarkable popularity as a solution for storing and releasing energy reversibly for applications ranging from portable electronics to electric vehicles. 1 The implementation of novel electrode materials in battery systems is aided by an understanding of the redox processes under operating conditions. 2 Optical and infrared methods have been used to study battery systems 3 but suffer from the high absorbance of photons in and photons out by the battery components. Methods that utilize X-rays, on the other hand, are highly desirable for the potential for high transmission into and out of working batteries, thereby enabling the interrogation of electrode material during battery operation. 4 Furthermore, X-ray methods based on the excitation of bound electrons (core-hole spectroscopy) are element-specific and are, therefore, critical to keeping track of changes in the local chemical and structural environment around the constituent elements during the operation of battery systems.
+
+X-ray absorption spectroscopy (XAS) is one such core-hole method that measures the X-ray absorption coefficient of a sample as a function of photon energy through the excitation of inner-shell electrons (Figure 1a). Element specificity, chemical state sensitivity from the XAS near-edge structure
+
+<!-- image -->
+
+(XANES), and sensitivity toward the local atomic structure through the XAS extended X-ray absorption fine structure (EXAFS) allow us to use XAS experiments to track changes in transition metals during the charge/discharge process in a battery in the absence of competing effects. Operando (realtime) XAS experiments for batteries help us understand the role of individual elements in the redox processes during cycling through oxidation state information. Past studies have extensively used XAS to investigate the redox mechanisms in transition metal oxide-based battery systems 5 -11 under both ex situ and operando conditions. X-ray emission spectroscopy (XES), a complementary technique to XAS is obtained by capturing the characteristic X-ray photons resulting from quenching generated core holes (Figure 1a). Element-specific emissions of sufficient energy resolution are simple to process and are sensitive to the chemical state, local structure, and spin
+
+Received:
+
+December 9, 2023
+
+Revised:
+
+March 1, 2024
+
+Accepted:
+
+March 5, 2024
+
+Published:
+
+March 19, 2024
+
+<!-- image -->
+
+https://doi.org/10.1021/acsami.3c18424
+
+ACS Appl. Mater. Interfaces 2024, 16, 16096 - 16105
+
+Figure 1. (a) Energy scheme depicting absorption and emission events. Absorption measures the process of generation of core holes, while emission measures the process of quenching generated core holes. Instrumental setup for (b) XAS and (c) XES measurements using a lab-scale instrument based on Rowland geometry (schematic adapted with permission from refs 12 and 37). Copyright 2014 AIP publishing. Copyright 2021 American Chemical Society.
+
+<!-- image -->
+
+state of the transition metal, making them an alternate method to XAS for studying the redox processes in batteries.
+
+As opposed to ex situ approaches, operando characterization captures kinetically limited phenomena closer to real-time battery operation. The high flux requirement of such experiments often limits these studies to synchrotron sources. The limited access to synchrotron facilities has led to the development of laboratory-scale XAS and XES instruments using flux from bremsstrahlung sources and energy discrimination from single crystal diffraction, allowing us to explore redox processes in a battery. These spectrometers in these instruments are either based on scanning setups which employ the Rowland circle geometry 12 -14 or dispersive type which employs the von Hamos geometry. 15,16 Figure 1b,c shows the lab-scale setup based on the Rowland circle geometry used in this study to measure the absorption and emission spectra for battery systems. Laboratory-scale XAS/XES instrument can be further improved through the development of brighter sources and detectors with high resolving power enabling higher time resolution.
+
+The K β 1,3 and K β ′ X-ray emission peaks in 3d transition metals involve 3p-to-1s transitions and obtain chemical sensitivity through interaction between 3p core electrons and electrons in the valence band. 17,18 These exchange interactions make these emission lines sensitive to the valence shell's electronic structure such as total spin and occupancy, the latter allowing chemical state speciation of transition metal-based compounds. 19,20 Additionally, the spin sensitivity of the K β 1,3 feature of XES allows us to explore changes in magnetic properties as a function of lithium removal in LIBs. Higher energy valence to core (VtC) emission lines are rich in information about the chemical state and ligand environment around the transition metal but have a low X-ray cross-section and require background removal from nearby, large peaks. These K β 2,5 valence to core transitions involves the filling of metal 1s core holes from 3d valence levels and have been used in past studies to explore oxidation state, nearest neighbor distances, protonation, and hybridization. 21 -24 The abundant information obtained through the multiple XES emission lines can therefore be used, with minimal data processing, to understand redox chemistry in batteries as well as the connection between redox chemistry and magnetic properties.
+
+The local chemistry changes in a battery electrode induced by charging/discharging, the resulting changes in the equilibrium local structure, and the connection of each of these effects on its magnetic properties, are expected to be complicated but scientifically interesting. The late John Goodenough, cowinner of the 2019 Nobel Prize in chemistry for the development of LIBs, noted the nonobvious connections between magnetic properties and the chemical environment half a century ago. 25 Past studies on mixed transition metal oxide-based cathodes such as Li[Ni1/3Mn1/3Co1/3]O2 (NMC111) show that they exhibit an anomalous increase in magnetic moments after 50% lithium removal which could not be explained solely by the oxidation of nickel, manganese, or cobalt, suggesting that electron holes were being formed at oxygen sites. 6,26 A sister compound to the NMC, LiNbO2 shows the formation of electron holes at oxygen sites with Li removal and reinsertion that can reversibly change its resistivity and give rise to potential memristive
+
+Figure 2. Cell design for operando measurements using (a) transmission mode XAS and (b) XES. Copper foil is used to block iron signals from cell components during XES measurements and define the transmission window for XAS measurements.
+
+<!-- image -->
+
+Figure 3. Schematic showing the calculation of K β 1,3 -M 1 and the IAD from raw data for different iron oxides. Note that M 1 calculations involve the region above half-maximum (ROI) while IAD involves the entire K β spectra. IAD and M 1 of the area normalized K β 1,3 feature is found to shift toward higher values with an increase in formal oxidation state of iron.
+
+<!-- image -->
+
+devices. 27 LiCoO2 (LCO) cathodes, also a structural sibling of NMCs, show large resistivity changes with delithiation. 28 Given their compositional and structural similarities to NMCs and based on past studies suggesting the localization of electron holes in oxygen sites during its deilithiation, 29 LCO is expected to have anomalous magnetic behavior as well. Imanishi et al. through their work on XRD and NMR of chemically delithiated LCO revealed the presence of a new conductive hexagonal phase at 8% lithium removal. 30 We expect such a phase to be indicated by an alteration in the electronic/spin structure (magnetic properties) local to cobalt and oxygen. Past studies have also explored LCO through magnetometry but have limited information on the first 10% of lithium removal. 31 -34 Since XAS and XES can be used in a complementary way to probe changes in the chemical state, interatomic distances, and spin states, these techniques can be used to explore LCO in the first 10% lithium removal to understand these dynamic changes.
+
+In this study, spectral shape changes of K β 1,3 and K β ′ features of XES are utilized to track chemical state changes of transition metals in real-time and study redox processes using lithium half-cells comprising the following cathode materials: LiCoO2 (LCO), Li[Ni1/3Co1/3Mn1/3]O2 (NMC111), Li[Ni0.8Co0.1Mn0.1]O2 (NMC811), and LiFePO4 (LFP). We then present a side-by-side comparison of tracking lithium removal using K β 1,3 XES versus the measurements by K-edge
+
+Figure 4. Changes in (a) Fe K-edge XANES and (b) K β 1,3 XES between the charge and discharge state of LFP. Energy shifts between end states are greater for K-edge XAS compared to K β 1,3 XES.
+
+<!-- image -->
+
+<!-- image -->
+
+XAS, which serves as a benchmark. Further, VtC emissions of XES are utilized to study the change in chemical and ligand environments of cobalt with different amounts of lithium removal in LCO cathodes. Additionally, ex situ samples prepared using electrochemical lithium removal of LCO in the range of 2 -10% are investigated using XAS and XES to understand the changes in the chemical state, interatomic distances, and spin state, resulting in the presence of a new conductive phase.
+
+## ■ EXPERIMENTAL SECTION
+
+Cell Assembly. The cathodes were prepared based on a slurrycasting method. The active material was mixed with conductive carbon black and polyvinylidene difluoride (PVDF) with a mass ratio of 8:1:1 to obtain a slurry using N -Methyl-2-pyrrolidone as the solvent. The slurry was coated on aluminum foil using a doctor blade and dried overnight in a vacuum oven. The lithium half-cells were assembled inside an argon-filled glovebox using a CR2032 type coin cell (20 and 3.2 mm are the diameter and thickness of the coin cell) and pouch cell setup for XES and XAS as shown in Figure 2. A polypropylene membrane (Celgard 2500) was utilized as the separator along with 1 M LiPF6 in ethylene carbonate/diethyl carbonate with a volume ratio of 1:1 as the electrolyte for lithium-ion battery assembly. The half-cells were cycled under a C-rate of C/10 (charge/discharge the cell in 10 h.) during operando XAS/XES measurements using a potentiostat as shown in Figure S1. The corresponding voltage profiles for operando cycling are shown in Figure S2.
+
+XAS/XES Measurements. The K β fluorescence along with Kedge XAS (transmission mode) for Fe, Ni, and Co present in cathode samples was collected using a lab-scale instrument under operando/ex situ conditions. The operando spectra were collected with an interval of 1 h between scans for different cathode materials cycled at a C-rate of C/10. O K-edge near edge X-ray absorption fine structure (NEXAFS) for ex situ LCO samples were collected using beamline 7ID-1 at NSLS-II at Brookhaven National Laboratory.
+
+Data Analysis. XAS data were normalized using Athena 36 from the Demeter software package before the analysis of K-edge positions. The edge position was determined by using the maximum of the first derivative of normalized absorption. Bond distances were obtained from Fourier-transformed ex situ EXAFS (extended X-ray absorption fine structure). K β 1,3 XES data were normalized based on the area under the peak. The integrated absolute difference (IAD) and first moments ( M 1) of the K β 1,3 feature are summary statistics used to study changes in spin states. 20 IAD is calculated as follows:
+
+<!-- formula-not-decoded -->
+
+where I i , E is the intensity of the spectra I at energy E . The first moment ( M 1) of the K β 1,3 feature is estimated as follows:
+
+<!-- formula-not-decoded -->
+
+where RHM is the region where the intensity is above half of the maximum of the K β 1,3 feature. Figure 3 shows the calculation of the IAD and M 1 of the K β 1,3 feature for different iron oxides from the area normalized spectra. We can use both the IAD and M 1 of the K β 1,3 feature to follow the chemical state of transition metals.
+
+Exchange Interactions in K β XES. To show the sensitivities of K β XES, we use the exchange energy difference as an example. The exchange energy difference between the K β ′ and K β 1,3 20 which is dependent on the spin of the valence d shell is given by
+
+<!-- formula-not-decoded -->
+
+where κ is the scaling factor, G pd 1 and G pd 3 are the Slater -Condon parameters, and S d is the spin of the d subshell. K β XES is sensitive to spin directly shown in this equation and oxidation state through the Slater -Condon parameters. 35
+
+## ■ RESULTS AND DISCUSSION
+
+Chemical State Speciation Using K-Edge XAS and K β 1,3 XES To Study Battery Cathodes. K-edge XAS for a 3d transition metal results from the excitation of the 1s core electron to unoccupied states. Information obtained from Kedge X-ray absorption near edge structure (XANES) helps us determine the oxidation state change of elements present in cathode materials during cycling in the absence of competing effects. For example, Figure 4a shows the shift in Fe K-edge toward higher energy along with a decrease in white line intensity during the charging of lithium iron phosphate (LFP) cathode indicating an increase in the average oxidation state of iron.
+
+The event of electrons from the 3p shell filling core holes generated by X-ray absorption results in K β 1,3 emissions which are sensitive to spin density around the metal atom through 3p-3d exchange-interactions 17,18 that, consequently, also makes them sensitive to the chemical state of transition metal. 20 Figure 4b shows an example of shift in the K β 1,3 mainline toward lower energy along with the decreased intensity of the K β ′ region ( ∼ 7047 eV), indicating a change in the valence configuration of iron to reflect decreased total spin 20 (oxidation of Fe) during the charging of LFP cathode materials. Smaller shifts between battery end states for K β 1,3 emissions compared to K-edge XAS in 3d transition metals are primarily attributed to two factors. First, it is due to the lower sensitivity of the K β emission event (3p-to-1s) in 3d transition metals compared to K absorption (1s-to-4p) to change in
+
+<!-- image -->
+
+Figure 5. Operando (a) K-edge XAS and (b) K β 1,3 XES for LiFePO4 half-cells along with (c) difference spectra and (d) IAD of the K β 1,3 feature obtained under C/10 charging. Change in K-edge positions/IAD suggests a change in the oxidation/spin state of the transition metal.
+
+<!-- image -->
+
+x in Li -xNio.8l
+
+02
+
+Coo.1
+
+Figure 6. Comparison of chemical shift behavior between XES and XAS of transition metals during operando charging of (a) LCO, (b) NMC111, (c) NMC811, and (d) LFP. K β 1,3 -M 1 feature shifts toward higher energies with lithium removal in the case of NMC111 but shifts toward lower energies in the case of NMC811.
+
+screening of nuclear charge resulting from a change in valence electron population. Second, the exchange interactions which are responsible for most of the chemical state sensitivity of K β emissions are weaker than screening effects. 17
+
+Collecting XES along with XAS for the electrode material for LIBs as a function of lithium removal gives a better understanding of oxidation and spin state changes during energy storage and release by observing changes in occupied and unoccupied states. Trends in the spin structure of transition metal during electrochemical processes can be tracked using the IAD and M 1 of K β 1,3 emissions to monitor the redox processes and study changes in the magnetic properties of transition metal-oxide-based cathode materials during cycling.
+
+Noninvasive Electrochemical Monitoring Using Operando XES and XAS. With lithium metal as the counter electrodes, half-cells containing transition metal-based cathode materials such as LCO, NMC111, NMC811, and LFP were charged under a constant C/10 current. During the charge process, K-edge and K β 1,3 XES were collected at intervals of 1 h. between scans for each transition metal species in the cathode as shown in Figure 5 for LiFePO4. The difference spectra along with the IAD values for K β 1,3 XES were calculated by using pristine material (cathode material before charging) as the reference. IAD values for the K β 1,3 feature of XES are found to increase with lithium removal in LiFePO4 marking oxidation of iron during charging. Spectral feature changes of XAS K-edge and XES K β 1,3 (including difference
+
+Figure 7. Operando monitoring of SoC using Co K β 1,3 (a) M 1 and (b) IAD for LCO half-cells cycled under a C/10 current along with (c) voltage profile obtained during charge/discharge. The (d) IAD plotted against M 1 and their Pearson correlation coefficient ( r ). Red dashed lines indicate the difference between the charged and discharged state of LCO indicating the charge loss observed in the first cycle.
+
+<!-- image -->
+
+spectra and the IAD) of other cathode materials (LCO, NMC111, and NMC811) are provided in Figures S4 -S6 as part of Supporting Information.
+
+The first moments of K β 1,3 emissions and K-edge positions are calculated for spectra shown in Figures 5 and S4 -S6 to compare XES against XAS for varying-cathode cells as a function of lithium removal (Figure 6). Error in the K-edge position and K β 1,3 -M 1 of transition metal is calculated through maximum deviation from the mean which was obtained through ten consecutive scans of pristine pouch/coin cell (XAS/XES) before starting the experiment. Error bars obtained for pristine scans are utilized throughout the measurements of M 1 and the K-edge of the transition metal, as the counts obtained during the operando experiment remain approximately the same for all measurements. The transition metal K-edge is observed to shift toward higher energies with lithium removal (resulting in oxidation of other species), whereas the shift experienced by the K β 1,3 feature of XES is observed to shift either toward higher or lower energies with lithium removal. For LCO and NMC111 the K β 1,3 feature shifts toward higher energies with lithium removal (Figure 6a,b), whereas for NMC811 and LFP the shift is toward lower energies (Figure 6c,d). This is due to the dependence of the exchange interaction between the 3p and valence orbitals of the 3d transition metal on the spin of the 3d shell. Shift toward higher energies indicates an increase in total spin and vice versa in the absence of other effects. 20 Theories about the spin, oxidation state, and local geometry of the transition metal can be compared to experimental K β spectra through simulation using Crispy, 40 a scientific software that utilizes multiplet models implemented in Quanty. 41 -43
+
+During the charging of LCO, we observe a shift in cobalt K β 1,3 -M 1 and K-edge toward higher energies with lithium removal (Figure 6a) with low activities in the initial 10% of lithium removal. This could be explained by the generation of electron holes at oxygen sites in this region. 5 The first moments of Ni K β 1,3 are observed to shift toward higher energies for NMC111, whereas it shifts toward lower energies for NMC811 during the charging of these cathodes (i.e., oxidation of Ni), suggesting an opposite spin behavior with a change in electronic structures (Figure 6b,c). In the case of LFP, the initial regions of lithium removal exhibit low K-edge sensitivity but high K β 1,3 sensitivity making it more suitable to use emission spectra to monitor SoC in these regions (Figure 6d).
+
+Figure 7a,b shows operando monitoring of SoC in LCO half-cells using M 1 and IAD of Co K β 1,3 spectra (summary statistics used to study the change in spin) during C/10 cycling (charge followed by discharge). Both measures of spin states of cobalt are distinct in the plateau region for LCO potentially allowing noninvasive tracking of SoC in these regions. The values of M 1 and IAD do not return to their initial values after a full discharge making the difference between end states (red dashed lines in Figure 7a -c) a qualitative measure of irreversible charge losses during the first cycle of the electrochemical system, which is shown as relatively low Coulombic efficiency in the initial cycle(s) of battery electrodes (in our case the Coulombic efficiency is ∼ 90% for the initial cycle of LCO). The correlation between IAD and M 1 for charge and discharge cycle in LCO is calculated through Pearson correlation coefficient ( r ) to be 0.84 (Figure 7d), indicating that IAD and M 1 are fairly interchangeable, and using both for these data does not provide much additional
+
+Figure 8. (a) Cobalt K β spectra including low cross-section VtC region expanded in the inset for LCO cathodes with different amounts of lithium removal. (b) Background-removed and area-normalized VtC spectra containing the K β 2,5 and K β ″ feature at 7705 and 7690 eV.
+
+<!-- image -->
+
+Figure 9. (a) Position of Co K β 2,5 peak and K-edge indicates a decrease in the average oxidation state of cobalt at 6% lithium removal along with (b) increase in interatomic distances indicated through Fourier-transformed EXAFS. (c) Co K β 1,3 -M 1 and the IAD (provides the absolute value of change in spectral features calculated using 2% removal as reference spectra) indicate a reduced spin state of cobalt at 6% lithium removal. (d) Intensity of the O K-edge's prepeak feature (collected using a synchrotron source) and Co K-edge's pre-edge feature suggests the generation of electron holes at the oxygen site responsible for anomalous spin activity in LCO. Note that the analysis results in this figure were made based on measurement data presented in Figure S3.
+
+<!-- image -->
+
+information. Note that the correlation is calculated with a limited number of points in our case. Correlation plots for LFP, NMC111, and NMC811 are provided in the SI (Figure S7).
+
+Investigation of LCO Using VtC XES. At a higher energy than the Co K β 1,3 main line at ∼ 7650 eV are weaker transitions from the valence band to metal's core orbitals (1s for K shell) denoted by K β 2,5 and K β ″ emissions. Figure 8a shows the K β spectrum, including the VtC region shown in the inset, for different amounts of lithium removal for LCO cathodes.
+
+After removing the background using an end-points weighted method followed by area normalization 23 (Figure 8b), we observe no shift in the peak position of K β 2,5 feature between 0 and 10% lithium removal but an increase of 0.8 eV at 25% lithium removal suggesting an increase in the average oxidation state of cobalt. In addition, the intensity of the K β ″
+
+region is sensitive to nearest neighbor distances 17 and is found to increase between 0 and 25% suggesting a decrease in Co -O interatomic distances. Note that the background of the K β 2,5 spectra, arising from the K β 1,3 mainline, must be removed, requiring these spectra to be treated prior to analysis. This step of background removal, if not performed properly, will lead to the introduction of systematic errors in the intensity and peak positions. Even with the low cross-section and the requirement of a background removal step for VtC emission, it is valuable to probe this region because it allows exploration of change in the chemical and local environment of transition metals with higher sensitivity compared to K β 1,3 emissions. 18
+
+Toward Decoupling Chemical State, Bond Distance, and Total Spin Information. In order to explicate the particular sensitivity of XES to chemical state and net spin and how they are complementary to the chemical and local-
+
+structural information available from XAS, we consider the changes in the first 10% of Li removal in LiCoO2. Here, the chemical state, net spin, and atomic structure are causally interconnected and so the XES and XAS study should help us decouple the information. Ideally, LCO is diamagnetic (paired 3d-electrons) but is paramagnetic due to slight nonstoichiometry or a small amount of high spin Co 3+ in equilibrium with low spin Co 3+ . Past studies using X-ray diffraction have indicated the presence of a secondary hexagonal phase arising at 8% lithium removal, which is distinct from the primary hexagonal phase present in pristine LCO. 30 The presence and spread of this new phase will result from altering the electronic and local environments in LCO, both of which are observable through XAS and XES measurements. Ex situ samples prepared by electrochemical lithium removal of LCO cathodes in the range of 2 -10% were selected to study these changes. Hard and soft XAS (and hard XES) signals of cobalt and oxygen, respectively, were collected as shown in Figure S3. Further analysis of the measurement results enabled us to suggest that LCO experiences a sharp change in electronic and local atomic structure at 6% lithium removal (Figure 9a -d). Cobalt K-edge XAS and K β 2,5 XES (Figure 9a) indicate a decrease in average oxidation of cobalt at 6% allied with an increase in the Co -O and Co -Co interatomic distances (Figure 9b). Interatomic distances obtained through Fouriertransformed EXAFS are compared as measured (without model-based phase correction to avoid assumptions on the structure of LCO). Such observation is opposite to a typical trend (i.e., oxidation of cobalt with lithium removal) suggesting the presence of the new conductive hexagonal phase at 6% lithium removal. 30,39 The localization of electron holes in oxygen sites at 6% lithium removal of LCO is shown through an increase in relative intensity of the prepeak feature of the O K-edge as shown in Figure 9d. Such phenomena for oxygen lead to an increase in the Pauling ionic size 38 which agrees with the increase in lattice parameter along the z -direction for the new phase at 8% lithium removal. 30 Reduction of cobalt at 6% (charge compensation through oxygen) results in reduced total spin detected through a shift in the K β 1,3 feature of XES toward lower energy as shown in Figure 9c.
+
+We have shown that with a relatively simple cell design, one can use XES, to follow the state of charge and the local magnetic properties of battery material during cycling. The most powerful use of XES is in combination with XAS to study any system where local chemistry can direct changes in the magnetic properties, as exemplified by our systematic study of Li extraction in LCO and the resulting spin transitions. The development of brighter sources along with detectors enabling us to have high resolving power (allowing us to discern features with ease) and low deadtime will allow access to regions of low cross-section (VtC emissions) in the time scale required for an operando experiment providing insights into the chemical state and local atomic structure changes during the cycling of batteries using laboratory-scale equipment.
+
+## ■ CONCLUSIONS
+
+Operando XES is a powerful tool to study and monitor redox processes and magnetic property changes during the cycling of cathode materials for energy storage devices. In this study, we explored different battery systems using XES and benchmarked them against XAS. Additionally, XES and XAS are utilized to explore changes in the chemical, local, and spin states of cobalt resulting from the nucleation of a new phase in the case of LCO for 2 -10% lithium removal. We predict that development in lab-scale spectrometers along with X-ray transmissive cell designs will allow reliable, accessible, and quick monitoring of both electronic and local atomic structure changes in energy storage devices through different emission lines.
+
+## ■ ASSOCIATED CONTENT
+
+## * sı Supporting Information
+
+The Supporting Information is available free of charge at https://pubs.acs.org/doi/10.1021/acsami.3c18424.
+
+Additional experimental details, voltage profiles, ex situ XAS and XES measurements of LCO in the range of 2 -10% lithium removal, and operando XES and XAS for LCO, NMC111, and NMC811 half-cells (PDF)
+
+## ■ AUTHOR INFORMATION
+
+## Corresponding Author
+
+Faisal M. Alamgir -School of Materials Science and Engineering, Georgia Institute of Technology, Atlanta, Georgia 30332, United States ; Email: faisal.alamgir@ mse.gatech.edu
+
+## Authors
+
+Abiram Krishnan -School of Materials Science and Engineering, Georgia Institute of Technology, Atlanta, Georgia 30332, United States; orcid.org/0000-00033311-1172
+
+Dong-Chan Lee -School of Materials Science and Engineering, Georgia Institute of Technology, Atlanta, Georgia 30332, United States; Present University, 94 Wausan-ro Mapo-gu, Seoul 04066,
+
+Address: Department of Chemical Engineering, Hongik Republic of Korea ; orcid.org/0000-0001-8414-1473
+
+Ian Slagle -School of Materials Science and Engineering, Georgia Institute of Technology, Atlanta, Georgia 30332, United States
+
+Sumaiyatul Ahsan -School of Materials Science and Engineering, Georgia Institute of Technology, Atlanta, Georgia 30332, United States; orcid.org/0000-00024005-7760
+
+Samantha Mitra -School of Materials Science and Engineering, Georgia Institute of Technology, Atlanta, Georgia 30332, United States; Present Address: School of Mechanical Engineering, Georgia Institute of Technology, Atlanta, Georgia 30332, United States
+
+Ethan Read -School of Materials Science and Engineering, Georgia Institute of Technology, Atlanta, Georgia 30332, United States
+
+Complete contact information is available at:
+
+https://pubs.acs.org/10.1021/acsami.3c18424
+
+## Notes
+
+The authors declare no competing financial interest.
+
+## ■ ACKNOWLEDGMENTS
+
+We thank Prof. Gerald T. Seidler (University of Washington) for his discussions with us on the analytical nuances of XES spectra. F.A. thanks the National Science Foundation (NSF Grant # 1925797) for their generous support in acquiring the lab-scale spectrometer used in this study. We are grateful for the use of beamline 7-ID-1 of the National Synchrotron Light
+
+Source II, a U.S. Department of Energy (DOE) Office of Science User Facility operated for the DOE Office of Science by Brookhaven National Laboratory (BNL) under Contract No. DE-SC0012704. We also want to thank Dr. Cherno Jaye, the beamline scientist at 7-ID-1, for all his help and support. This material is based upon work supported by the National Science Foundation Graduate Research Fellowship under Grant No. DGE-2039655 (I.S.). Any opinions, findings, and conclusions or recommendations expressed in this material are those of the authors and do not necessarily reflect the views of the National Science Foundation. A.K. and F.A. acknowledge the executive vice provost for research for a seed grant that supported this work. S.A. acknowledges her financial support from the Georgia AI Manufacturing (GA-AIM) project supported by the Economic Development Administration.
+
+## ■ ABBREVIATIONS
+
+XAS, X-ray absorption spectroscopy; XES, X-ray emission spectroscopy; XANES, X-ray absorption near edge structure; EXAFS, extended X-ray absorption fine structure; IAD, integrated absolute difference; M 1 , first moments; LIBs, lithium-ion batteries; VtC, valence to core emissions
+
+## ■ REFERENCES
+
+- (1) Li, M.; Lu, J.; Chen, Z.; Amine, K. 30 Years of Lithium-Ion Batteries. Adv. Mater. 2018 , 30 (33), 1800561.
+- (2) Bak, S.-M.; Shadike, Z.; Lin, R.; Yu, X.; Yang, X.-Q. In Situ/ Operando Synchrotron-Based X-Ray Techniques for Lithium-Ion Battery Research. NPG Asia Mater. 2018 , 10 (7), 563 -580.
+- (3) Zhang, D.; Wang, R.; Wang, X.; Gogotsi, Y. In Situ Monitoring Redox Processes in Energy Storage Using UV -Vis Spectroscopy. Nat. Energy 2023 , 8 (6), 567 -576.
+- (4) Alamgir, F. M.; Lai, S. Y. Synchrotron X-Ray Based Operando Studies of Atomic and Electronic Structure in Batteries. In Materials and Energy ; World Scientific, 2015; Vol. 6 , pp. 79 -108.
+- (5) Alamgir, F. M.; Strauss, E.; Greenbaum, S.; Whitacre, J. F.; Kao, C. C.; Neih, S. LiCoO2 Thin-Film Batteries: Structural Changes and Charge Compensation. J. Electrochem. Soc. 2005 , 152 (5), A845.
+- (6) Petersburg, C. F.; Li, Z.; Chernova, N. A.; Whittingham, M. S.; Alamgir, F. M. Oxygen and Transition Metal Involvement in the Charge Compensation Mechanism of LiNi1/3Mn1/3Co1/3O2 Cathodes. J. Mater. Chem. 2012 , 22 (37), 19993.
+- (7) Tallman, K. R.; Wheeler, G. P.; Kern, C. J.; Stavitski, E.; Tong, X.; Takeuchi, K. J.; Marschilok, A. C.; Bock, D. C.; Takeuchi, E. S. Nickel-Rich Nickel Manganese Cobalt (NMC622) Cathode Lithiation Mechanism and Extended Cycling Effects Using Operando XRay Absorption Spectroscopy. J. Phys. Chem. C 2021 , 125 (1), 58 -73.
+- (8) Kondrakov, A. O.; Geßwein, H.; Galdina, K.; de Biasi, L.; Meded, V.; Filatova, E. O.; Schumacher, G.; Wenzel, W.; Hartmann, P.; Brezesinski, T.; Janek, J. Charge-Transfer-Induced Lattice Collapse in Ni-Rich NCM Cathode Materials during Delithiation. J. Phys. Chem. C 2017 , 121 (44), 24381 -24388.
+- (9) Leifer, N. D.; Colon, A.; Martocci, K.; Greenbaum, S. G.; Alamgir, F. M.; Reddy, T. B.; Gleason, N. R.; Leising, R. A.; Takeuchi, E. S. Nuclear Magnetic Resonance and X-Ray Absorption Spectroscopic Studies of Lithium Insertion in Silver Vanadium Oxide Cathodes. J. Electrochem. Soc. 2007 , 154 (6), A500.
+- (10) Ronci, F.; Stallworth, P. E.; Alamgir, F.; Schiros, T.; Van Sluytman, J.; Guo, X.; Reale, P.; Greenbaum, S.; denBoer, M.; Scrosati, B. Lithium-7 Nuclear Magnetic Resonance and Ti K-Edge XRay Absorption Spectroscopic Investigation of Electrochemical Lithium Insertion in Li4/3+xTi5/3O4. J. Power Sources 2003 , 119 -121 , 631 -636.
+- (11) Petersburg, C. F.; Daniel, R. C.; Jaye, C.; Fischer, D. A.; Alamgir, F. M. Soft X-Ray Characterization Technique for Li Batteries
+12. under Operating Conditions. J. Synchrotron Rad 2009 , 16 (5), 610 -615.
+- (12) Seidler, G. T.; Mortensen, D. R.; Remesnik, A. J.; Pacold, J. I.; Ball, N. A.; Barry, N.; Styczinski, M.; Hoidn, O. R. A LaboratoryBased Hard x-Ray Monochromator for High-Resolution x-Ray Emission Spectroscopy and x-Ray Absorption near Edge Structure Measurements. Rev. Sci. Instrum. 2014 , 85 (11), No. 113906.
+- (13) Jahrman, E. P.; Holden, W. M.; Ditter, A. S.; Mortensen, D. R.; Seidler, G. T.; Fister, T. T.; Kozimor, S. A.; Piper, L. F. J.; Rana, J.; Hyatt, N. C.; Stennett, M. C. An Improved Laboratory-Based x-Ray Absorption Fine Structure and x-Ray Emission Spectrometer for Analytical Applications in Materials Chemistry Research. Rev. Sci. Instrum. 2019 , 90 (2), No. 024106.
+- (14) Mortensen, D. R.; Seidler, G. T.; Ditter, A. S.; Glatzel, P. Benchtop Nonresonant X-Ray Emission Spectroscopy: Coming Soon to Laboratories and XAS Beamlines Near You? J. Phys.: Conf. Ser. 2016 , 712 , No. 012036.
+
+́
+
+- (15) Németh, Z.; Szlachetko, J.; Bajnóczi, E . G.; Vankó, G. Laboratory von Ha mos X-Ray Spectroscopy for Routine Sample Characterization. Rev. Sci. Instrum. 2016 , 87 (10), No. 103105.
+- (16) Błachucki, W.; Czapla-Masztafiak, J.; Sá, J.; Szlachetko, J. A Laboratory-Based Double X-Ray Spectrometer for Simultaneous XRay Emission and X-Ray Absorption Studies. J. Anal. At. Spectrom. 2019 , 34 (7), 1409 -1415.
+- (17) Glatzel, P.; Bergmann, U. High Resolution 1s Core Hole X-Ray Spectroscopy in 3d Transition Metal Complexes  Electronic and Structural Information. Coord. Chem. Rev. 2005 , 249 (1 -2), 65 -95.
+- (18) Bergmann, U.; Glatzel, P. X-Ray Emission Spectroscopy. Photosynth Res. 2009 , 102 (2 -3), 255 -266.
+- (19) Peng, G.; deGroot, F. M. F.; Haemaelaeinen, K.; Moore, J. A.; Wang, X.; Grush, M. M.; Hastings, J. B.; Siddons, D. P.; Armstrong, W. H. High-Resolution Manganese x-Ray Fluorescence Spectroscopy. Oxidation-State and Spin-State Sensitivity. J. Am. Chem. Soc. 1994 , 116 (7), 2914 -2920.
+- (20) Lafuerza, S.; Carlantuono, A.; Retegan, M.; Glatzel, P. Chemical Sensitivity of K β and K α X-Ray Emission from a Systematic Investigation of Iron Compounds. Inorg. Chem. 2020 , 59 (17), 12518 -12535.
+- (21) Lee, N.; Petrenko, T.; Bergmann, U.; Neese, F.; DeBeer, S. Probing Valence Orbital Composition with Iron K β X-Ray Emission Spectroscopy. J. Am. Chem. Soc. 2010 , 132 (28), 9715 -9727.
+- (22) Mathe, Z.; Pantazis, D. A.; Lee, H. B.; Gnewkow, R.; Van Kuiken, B. E.; Agapie, T.; DeBeer, S. Calcium Valence-to-Core X-Ray Emission Spectroscopy: A Sensitive Probe of Oxo Protonation in Structural Models of the Oxygen-Evolving Complex. Inorg. Chem. 2019 , 58 (23), 16292 -16301.
+- (23) Lassalle-Kaiser, B.; Boron, T. T.; Krewald, V.; Kern, J.; Beckwith, M. A.; Delgado-Jaime, M. U.; Schroeder, H.; Alonso-Mori, R.; Nordlund, D.; Weng, T.-C.; Sokaras, D.; Neese, F.; Bergmann, U.; Yachandra, V. K.; DeBeer, S.; Pecoraro, V. L.; Yano, J. Experimental and Computational X-Ray Emission Spectroscopy as a Direct Probe of Protonation States in Oxo-Bridged Mn IV Dimers Relevant to Redox-Active Metalloproteins. Inorg. Chem. 2013 , 52 (22), 12915 -12922.
+- (24) Pollock, C. J.; DeBeer, S. Valence-to-Core X-Ray Emission Spectroscopy: A Sensitive Probe of the Nature of a Bound Ligand. J. Am. Chem. Soc. 2011 , 133 (14), 5594 -5601.
+- (25) Goodenough, J. B. Magnetism and the Chemical Bond. Interscience Monographs on Chemistry. John Wiley 1963 , I , 1 -385.
+- (26) Li, Z.; Chernova, N. A.; Roppolo, M.; Upreti, S.; Petersburg, C.; Alamgir, F. M.; Whittingham, M. S. Comparative Study of the Capacity and Rate Capability of LiNiyMnyCo1 -2yO2 (Y = 0.5, 0.45, 0.4, 0.33). J. Electrochem. Soc. 2011 , 158 , A516 -A522.
+- (27) Greenlee, J. D.; Petersburg, C. F.; Laws Calley, W.; Jaye, C.; Fischer, D. A.; Alamgir, F. M.; Alan Doolittle, W. In-Situ Oxygen xRay Absorption Spectroscopy Investigation of the Resistance Modulation Mechanism in LiNbO 2 Memristors. Appl. Phys. Lett. 2012 , 100 (18), No. 182106.
+
+́
+
+- (28) Greenlee, J. D.; Petersburg, C. F.; Daly, W. G.; Alamgir, F. M.; Alan Doolittle, W. In Situ Investigation of the Channel Conductance of a Li1 -xCoO2 (0 &amp;lt; x &amp;lt; 0.5) Ionic-Electronic Transistor. Appl. Phys. Lett. 2013 , 102 (21), No. 213502.
+
+̆
+
+- (29) Galakhov, V. R.; Ovechkina, N. A.; Shkvarin, A. S.; Shamin, S. N.; Kurmaev, E. Z.; Kuepper, K.; Takács, A. F.; Raekers, M.; Robin, S.; Neumann, M.; Gavrila , G.-N.; Semenova, A. S.; Kellerman, D. G.; Käämbre, T.; Nordgren, J. Electronic Structure and X-Ray Spectra of Defective Oxides Li x CoO 2. Phys. Rev. B 2006 , 74 (4), No. 045120. (30) Imanishi, N.; Fujiyoshi, M.; Takeda, Y.; Yamamoto, O.; Tabuchi, M. Preparation and 7Li-NMR Study of Chemically Delithiated Li12xCoO2 (0, x, 0.5). Solid State Ionics 1999 , 118 , 121 DOI: 10.1016/S0167-2738(98)00441-X.
+
+̈
+
+- (31) Hertz, J. T.; Huang, Q.; McQueen, T.; Klimczuk, T.; Bos, J. W. G.; Viciu, L.; Cava, R. J. Magnetism and Structure of Li x Co O 2 and Comparison to Na x Co O 2. Phys. Rev. B 2008 , 77 (7), No. 075119. H.; rschum, R. Charging of Lithium Cobalt Oxide Battery Cathodes -
+- (32) Klinser, G.; Topolovec, S.; Kren, H.; Koller, S.; Krenn, Wu Studied by Means of Magnetometry. Solid State Ionics 2016 , 293 , 64 71.
+- (33) Kellerman, D. G.; Galakhov, V. R.; Semenova, A. S.; Blinovskov, Ya. N.; Leonidova, O. N. Semiconductor-Metal Transition in Defect Lithium Cobaltite. Phys. Solid State 2006 , 48 (3), 548 -556.
+- (34) Motohashi, T.; Ono, T.; Sugimoto, Y.; Masubuchi, Y.; Kikkawa, S.; Kanno, R.; Karppinen, M.; Yamauchi, H. Electronic Phase Diagram of the Layered Cobalt Oxide System Li xCoO2 (0.0 ≤ x ≤ 1.0). Phys. Rev. B 2009 , 80 (16), No. 165114.
+- (35) Haverkort, M. W. Spin and Orbital Degrees of Freedom in Transition Metal Oxides and Oxide Thin Films Studied by Soft X-Ray Absorption Spectroscopy. arXiv:cond-mat/0505214 2005 , DOI: 10.48550/arXiv.cond-mat/0505214.
+- (36) Ravel, B.; Newville, M. ATHENA, ARTEMIS, HEPHAESTUS: data analysis for X-ray absorption spectroscopy using IFEFFIT. Journal of Synchrotron Radiation 2005 , 12 , 537 -541.
+- (37) Cao, H.; Guo, H.; Shao, Y.-C.; Liu, Q.; Feng, X.; Lu, Q.; Wang, Z.; Zhao, A.; Fujimori, A.; Chuang, Y.-D.; Zhou, H.; Zhai, X. Realization of Electron Antidoping by Modulating the Breathing Distortion in BaBiO3. Nano Lett. 2021 , 21 (9), 3981 -3988.
+- (38) Huheey, J.E.; Keiter, E.A.; Keiter, R.L. Inorganic Chemistry: Principles of Structure and Reactivity , 4th ed.; HarperCollins: New York, USA, 1993.
+- (39) Ménétrier, M.; Saadoune, I.; Levasseur, S.; Delmas, C. The Insulator-Metal Transition upon Lithium Deintercalation from LiCoO2: Electronic Properties and 7Li NMR Study. J. Mater. Chem. 1999 , 9 (5), 1135 -1140.
+- (40) Retegan, M. Crispy: v0.7.4 . 2019, DOI: 10.5281/zenodo.1008184.
+- (41) Lu, Y.; Hoeppner, M.; Gunnarsson, O.; Haverkort, M. W. Efficient real-frequency solver for dynamical mean-field theory. Phys. Rev. B 2014 , 90 , No. 085102.
+- (42) Haverkort, M. W.; Sangiovanni, G.; Hansmann, P.; Toschi, A.; Lu, Y.; Macke, S. Bands, resonances, edge singularities and excitons in core level spectroscopy investigated within the dynamical mean-field theory. Euro. Phys. Lett. 2014 , 108 , 57004.
+- (43) Haverkort, M. W.; Zwierzcki, M.; Andersen, O. K. Multiplet ligand-field theory using Wannier orbitals. Phys. Rev. B 2012 , 85 , No. 165113.
+
+<!-- image -->
+
+<!-- image -->

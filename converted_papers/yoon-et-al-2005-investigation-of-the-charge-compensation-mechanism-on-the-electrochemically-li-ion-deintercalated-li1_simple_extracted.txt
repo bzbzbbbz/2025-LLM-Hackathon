@@ -1,0 +1,263 @@
+Simple Docling Extracted Data from: yoon-et-al-2005-investigation-of-the-charge-compensation-mechanism-on-the-electrochemically-li-ion-deintercalated-li1.pdf
+============================================================
+
+Title: yoon-et-al-2005-investigation-of-the-charge-compensation-mechanism-on-the-electrochemically-li-ion-deintercalated-li1
+Pages: 9
+Tables: 1
+Figures: 0
+
+MAIN TEXT:
+------------------------------
+† Brookhaven National Laboratory.
+
+‡ Argonne National Laboratory.
+
+§ State University of New York at Stony Brook.
+
+¶ National Institute of Standards and Technology.
+
+- (1) Mizushima, K.; Jones, P. C.; Wiseman, P. C.; Goodenough, J. B. Mater. Res. Bull. 1980 , 15 , 783.
+- (2) Ozawa, K. Solid State Ionics 1994 , 69 , 212.
+- (3) Nagaura, T.; Tozawa, K. Prog. Batt. Solar Cells 1991 , 9 , 209.
+
+<!-- image -->
+
+## Investigation of the Charge Compensation Mechanism on the Electrochemically Li-Ion Deintercalated Li 1 -xCo 1/3Ni1/3Mn 1/3 O 2 Electrode System by Combination of Soft and Hard X-ray Absorption Spectroscopy
+
+Won-Sub Yoon,* ,† Mahalingam Balasubramanian, ‡ Kyung Yoon Chung, † Xiao-Qing Yang, † James McBreen, † Clare P. Grey, § and Daniel A. Fischer ¶
+
+Contribution from the Chemistry Department, Brookha V en National Laboratory, Upton, New York 11973, Ad V anced Photon Source, Argonne National Laboratory, Argonne, Illinois 60439, Department of Chemistry, State Uni V ersity of New York at Stony Brook, Stony Brook, New York 11794-3400, and National Institute of Standards and Technology, Gaithersburg, Maryland 20899
+
+Received May 10, 2005; E-mail: wonsuby@bnl.gov
+
+Abstract: In situ hard X-ray absorption spectroscopy (XAS) at metal K-edges and soft XAS at O K-edge and metal L-edges have been carried out during the first charging process for the layered Li 1 -x Co 1/3Ni1/3Mn 1/3 O 2 cathode material. The metal K-edge XANES results show that the major charge compensation at the metal site during Li-ion deintercalation is achieved by the oxidation of Ni 2 + ions, while the manganese ions and the cobalt ions remain mostly unchanged in the Mn 4 + and Co 3 + state. These conclusions are in good agreement with the results of the metal K-edge EXAFS data. Metal L-edge XAS results at different charge states in both the FY and PEY modes show that, unlike Mn and Co ions, Ni ions at the surface are oxidized to Ni 3 + during charge, whereas Ni ions in the bulk are further oxidized to Ni 4 + during charge. From the observation of O K-edge XAS results, we can conclude that a large portion of the charge compensation during Li-ion deintercalation is achieved in the oxygen site. By comparison to our earlier results on the Li 1 -xNi0.5Mn 0.5 O 2 system, we attribute the active participation of oxygen in the redox process in Li 1 -xCo 1/3Ni1/3Mn 1/3 O 2 to be related to the presence of Co in this system.
+
+1000
+
+Introduction LiCoO 2 is the most widely used cathode material for commercial secondary lithium batteries due to its advantages, including easy preparation and good cyclability. 1 -3 Numerous research on the cathode materials has been carried out to identify an alternative nontoxic cathode material with higher capacity, lower cost, and increased safety to replace LiCoO 2. Layer-structured lithium cobalt nickel manganese oxides (Li[Ni x Co 1 -2 x Mn x ]O2) have recently been shown to be one of the most promising alternative materials for LiCoO 2 since their electrochemical and safety characteristics are comparable or better than those of LiCoO 2. 4,5 These materials crystallize in a layer structure isotypic with R -NaFeO 2 based on a close-packed network of oxygen atoms with alternating predominantly lithium layers, and layers containing Mn 4 + , Ni 2 + , and Co 3 + . cathode material during cycling. Hard X-ray absorption spectroscopy (XAS) has been employed in order to examine the electronic and local structure of transition metal ions in the electrode materials for use in Li rechargeable batteries. 6 -10 The absorption peak features of the transition metal K-edge XAS provide useful structural information, such as the oxidation state of chemical species, their site symmetries, and covalent bond strength. Soft XAS (200 -1000 eV), using synchrotron radiation, has been applied to investigate the electronic structure of specific ions in the electrode materials for Li rechargeable batteries, especially low z elements such as oxygen and fluorine that cannot be directly investigated by hard XAS (above eV). 11 -15 Recent theoretical calculations on electrode materials (4) Ohzuku, T.; Makimura, Y. Chem. Lett. 2001 , 642.
+
+- Li-ion (6) Delmas, C.; Peres, J. P.; Rougier, A.; Demourgues, A.; Weill, F.; Chadwick, A.; Broussely, M.; Perton, F.; Biensan, Ph.; Willmann, P. J. Power Sources 1997 , 68 , 120.
+- (5) Lu, Z.; MacNeil, D. D.; Dahn, J. R. Electrochem. Solid State Lett. 2001 , 4 , A200.
+- (7) Nakai, I.; Nakagome, T. Electrochem. Solid State Lett. 1998 , 1 , 259.
+
+Extensive research on the electronic structure of intercalated cathode materials has been carried out to elucidate the reaction mechanism of the electrochemical process in the
+
+- (8) Yoon, W.-S.; Lee, K.-K.; Kim, K.-B. J. Electrochem. Soc. 2000 , 147 , 2023.
+- (9) Balasubramanian, M.; Sun, X.; Yang, X. Q.; McBreen, J. J. Electrochem. Soc. 2000 , 147 , 2903.
+- (10) Yoon, W.-S.; Grey, C. P.; Yang, X.-Q.; Balasubramanian, M.; McBreen, J. Chem. Mater. 2003 , 15 , 3161.
+- (11) Montoro, L. A.; Abbate, M.; Rosolen, J. M. Electrochem. Solid State Lett. 2000 , 3 , 410.
+- (12) Uchimoto, Y.; Sawada, H.; Yao, T. J. Power Sources 2001 , 97 , 326.
+- (13) Yoon, W.-S.; Kim, K.-B.; Kim, M.-G.; Lee, M.-K.; Shin, H.-J.; Lee, J.M.; Lee, J.-S.; Yo, C.-H. J. Phys. Chem. B 2002 , 106 , 2526.
+
+cathode the charge an oxygen in the electrochemically Li-ion deintercalated Li1 -x Co 1/3 Ni1/3 Mn 1/3 O 2 electrode system were studied. The major charge compensation mechanisms in the Li1 -x Co 1/3 Ni1/3 Mn 1/3 O 2 electrode system on Li-ion deintercalation are established. This combination of hard and soft XAS analysis gives a better understanding of the charge compensation mechanism of lithium transition metal oxides during Li intercalation/deintercalation.
+
+## Experimental Section
+
+Li-ion LiCo1/3 Ni1/3Mn 1/3 O 2 powders were synthesized by reacting stoichiometric quantities of a coprecipitated double hydroxide of manganese and nickel with lithium hydroxide at 900 GLYPH&lt;176&gt; C for 24 h in O 2. The crystal structure of the LiCo 1/3 Ni1/3Mn 1/3 O 2 powder was characterized by X-ray diffraction (XRD), by using a Scintag powder X-ray diffractometer (with Cu K R radiation and a flat-plate data collection geometry). Cathode specimens were prepared by mixing the LiCo 1/3 Ni1/3 Mn 1/3 O 2 powders with 10 wt % acetylene black and 10 wt % PVDF (polyvinylidene fluoride) in NMP ( n -methyl pyrrolidone) solution ; 1 M LiPF 6 in a 1:1 ethyl carbonate:dimethyl carbonate (EC:DMC) solution was used as the electrolyte. The cell was assembled in an argon-filled glovebox. The detailed design of the spectroelectrochemical cell used in situ XAS measurement has been described elsewhere. 22
+
+for Li batteries indicate that electron exchange in materials (i.e., oxidation and reduction) may involve participation of the oxygen 2p band, in addition to compensation by the metal ions. On the basis of the earlier research of the electronic structure of late transition metal oxides, the ground state of the metal ion exists as a mixed electronic state between 3d n and 3d n + 1 L due to the M -O covalent bond character, where L means the oxygen ligand hole state by the charge transfer of oxygen 2p electrons to the metal ion. 16 -19 The charge of the oxygen ion is not the fixed -2 value but a less negative value, corresponding to the more oxidative state by the charge transfer . The oxygen site can contribute to the electron exchange for charge compensation in the intercalation -deintercalation of the cathode, which gives rise to the variation of the working voltage of the lithium battery. Soft XAS at O K-edge could provide crucial experimental evidence for the oxygen contribution to charge compensation in the Li-ion intercalation -deintercalation process.
+
+the Hard XAS measurements were performed in transmission mode at beamline X18B of the National Synchrotron Light Source (NSLS) using a Si(111) double-crystal monochromator detuned to 35 -45% of its original intensity to eliminate the high order harmonics. The in situ Mn, Co, and Ni K-edge XAS data were obtained in two separate cells. The Mn XAS spectra were collected using one cell, while the Co and Ni XAS spectra were collected in tandem using the second cell. Energy calibration was carried out by using the first inflection point of the spectrum of Mn and Ni metal foil as a reference (i.e., Mn K-edge ) 6539 eV and Ni K-edge ) 8333 eV). Reference spectra were simultaneously collected for each in situ spectrum by using Mn or Ni metal foils.
+
+Soft XAS spectra can be obtained in both the electron yield (EY) and fluorescence yield (FY) modes. The electron yield mode is surface sensitive, with the total electron yield (TEY) mode probing a depth of GLYPH&lt;24&gt; 100 Å and the partial electron yield (PEY) probing a depth of GLYPH&lt;24&gt; 50 Å. The fluorescence yield (FY) mode probes the bulk to a depth of more than GLYPH&lt;24&gt; 2000 Å. 20,21 Unfortunately, most of the soft XAS results reported in the literature on lithium battery materials have been obtained by the electron yield method only. 11 -13 Although soft XAS, using electron yield method, gives useful information about electronic structure of the transition metal and oxygen ions, the results are limited only to probing the surface or near surface, which may not reflect what is happening in the bulk. In contrast, our previous soft XAS study using both the FY and PEY modes clearly showed that the surface of nickel-based compounds has a different electronic structure from the bulk. 15 Therefore, both FY and PEY detection modes were used simultaneously in this paper in order to obtain more complete information about the electronic structure.
+
+Although studies on the charge compensation mechanism for the cathode materials of lithium batteries have been reported in the literature, the techniques used in most of those studies are limited to hard XAS only. The lack of systematic study of the charge compensation mechanism for the cathode materials of lithium batteries during Li + intercalation/deintercalation left many important questions unanswered, such as what is the role of oxygen, what are the correlations between transition metal ions and the surrounding oxygen ions. These are the issues we are trying to address in this paper, by using the combination of hard and soft XAS techniques, together with the simultaneous data collection with both PEY and FY modes in soft XAS. The electronic structure and local environment of transition metals
+
+The EXAFS data analysis was carried out using standard procedures. The measured absorption spectrum below the pre-edge region was fitted to a straight line. The background contribution above the post-edge region, GLYPH&lt;237&gt; o( E ), was fitted to a fourth order polynomial (cubic spline). The fitted polynomials were extrapolated through the total energy region and subtracted from the total absorption spectra. The backgroundsubtracted absorption spectra were normalized for the above energy region, ł ( E ) ) { GLYPH&lt;237&gt; ( E ) -GLYPH&lt;237&gt; o( E ) } / GLYPH&lt;237&gt; o( E ). The normalized ł ( E ) spectra were converted to ł ( k ) in k space, where k ) [8 GLYPH&lt;240&gt; 2 m ( E -E o)/ h 2 ] 1/2 . The ł ( k ) spectra were k 3 -weighted to magnify the small signal in the higher k space. The normalized k 3 -weighted EXAFS spectra, k 3 ł ( k ), were Fourier transformed (FT) in k space with integration limits of 2.5 -11 0 Å -1 for the Mn data, 3.0 -12.5 Å -1 for the Co data, and 3.0 -13.5 Å -1 for the Ni data. EXAFS structural parameters were obtained by nonlinear least-squares analysis of the data using phase and amplitude functions generated from the FEFF6 code. 23,24 The least-squares fits were carried out in r space using FEFFIT. The amplitude reduction factor S 0 2 was scaled to a fixed value of 0.69 for the Mn edge and 0.72 for the Co edge, respectively, after preliminary refinements.
+
+(14) Balasubramanian, M.; Lee, H. S.; Sun, X.; Yang, X.-Q.; Moodenbaugh, A. R.; McBreen, J.; Fischer, D. A.; Fu, Z. Electrochem. Solid State Lett. 2002 , 5 , A22.
+
+(15) Yoon, W.-S.; Balasubramanian, M.; Yang, X.-Q.; Fu, Z.; Fischer, D. A.; McBreen, J. J. Electrochem. Soc. 2004 , 151 , A246.
+
+(16) Zaanen, J.; Sawatzky, G. A.; Allen, J. W. Phys. Re V . Lett. 1985 , 55 , 418.
+
+(17) de Groot, F. M. F.; Grioni, M.; Fuggle, J. C.; Ghijsen, J.; Sawatzky, G. A.; Petersen, H. Phys. Re V . B 1989 , 40 , 5715.
+
+Soft XAS measurements were performed in both fluorescence yield (FY) and partial electron yield (PEY) modes at beamline U7A of the NSLS. The beam size was 1 mm in diameter. The estimated incident X-ray energy resolution was GLYPH&lt;24&gt; 0.15 eV at the oxygen K-edge ( E / ¢ E GLYPH&lt;24&gt; 3500). Monochromator absorption features and beam instabilities were normalized out by dividing the detected FY and PEY signals by the
+
+(18) Hu, Z.; Mazumdar, C.; Kaindl, G.; de Groot, F. M. F.; Warda, S. A.; Reinen, D. Chem. Phys. Lett. 1998 , 297 , 321.
+
+(19) van der Laan, G.; Henderson, C. M. B.; Pattrick, R. A. D.; Dhesi, S. S.; Schofield, P. F.; Dudzik, E.; Vaughan, D. J. Phys. Re V . B 1999 , 59 , 4314.
+
+(22) Balasubramanian, M.; Sun, X.; Yang, X. Q.; McBreen, J. J. Power Sources 2001 , 92 , 1.
+
+(23) Rehr, J. J.; Zabinsky, S. I.; Albers, R. C. Phys. Re V . Lett. 1992 , 69 , 3397.
+
+(20) de Groot, F. M. F. J. Electron Spectrosc. Relat. Phenom. 1994 , 67 , 529.
+
+(21) Stohr, J. NEXAFS Spectroscopy ; Springer-Verlag: Berlin, 1992.
+
+(24) O'Day, P. A.; Rehr, J. J.; Zabinsky, S. I.; Brown, G. E., Jr. J. Am. Chem. Soc. 1994 , 116 , 2938.
+
+Figure 1. XRD pattern of LiCo 1/3 Ni1/3 Mn 1/3 O 2 powders synthesized at 900 GLYPH&lt;176&gt; C.
+
+<!-- image -->
+
+Figure 2. First charge curve of LiCo 1/3 Ni1/3 Mn 1/3 O 2 electrode for in situ metal K-edge XAS experiments.
+
+<!-- image -->
+
+Mn that
+
+during linear in the the metal K-edge XANES spectra is due to symmetry-allowed transitions from the 1s core electron of the metal to excited vacant bound states. The weak pre-edge absorption is the formally electric dipole-forbidden transition of a 1s electron to an unoccupied 3d orbital, which gains peak intensity from pure electric quadrupole coupling and/or 3d -4p orbital mixing arising from the noncentrosymmetric environment of the slightly distorted octahedral 3a site in the rhombohedral R 3 m space group. The first strong absorption edge features occurring as a shoulder on the lower energy region with respect to the main absorption edge are assigned to a shakedown process involving the 1s f 4p transition followed by ligand-to-metal charge transfer. The main absorption edge features are ascribed to the purely dipole-allowed 1s f 4p transition. As the Li-ion is deintercalated, the Mn XANES spectrum exhibits some changes in the shape of the edge due to changes in the Mn local environment but does not show a rigid shift to higher energy values. The energy position and the shape of these edges are very similar to those of the Li 1.2 Cr0.4 Mn 0.4 O 2 and LiNi 0.5 Mn 0.5 O 2 electrode materials, in which manganese remains as 4 + throughout charge. 26,27 This provides clear evidence that most of Mn ions in pristine LiCo 1/3 Ni1/3 Mn 1/3 O 2 are already in the Mn 4 + oxidation state and are not oxidized as a result of the Li deintercalation. Unlike the Mn K-edge XANES spectra, the Ni K-edge XANES spectra shift to higher energies during charge. The entire edge shift to the higher energies indicates the average oxidation state of nickel ions increases charge.
+
+lithium The interpretation of Co K-edge spectra is more complicated in this system. Even though the Co K-egde XAS spectra do not show a rigid edge shift during charge, some ambiguity and questions could be raised because of changes in the edge shape . When the XANES spectra do not show an entire edge shift, it is not possible to determine the change of oxidation state solely by using edge features, such as edge position (half-height of the edge step) or peak position, since the coordination environ- photoemission current of a clean gold I o mesh placed in the incident beam. Energy calibration was carried out by initially calibrating the principal monochromator I o oxygen absorption feature to 531.2 eV using an oxygen gas-phase absorption cell. An additional I o mesh of Ni was also placed in the incident beam to ensure energy calibration (based on the oxygen calibration above) and energy scale reproducibility of the many PEY or FY spectra presented. The PEY data were recorded using a channel electron multiplier equipped with a three-grid high pass electron kinetic energy filter, while the FY data were recorded using a windowless energy dispersive Si (Li) detector. A background fit to the pre-edge region was subtracted from the spectra. The O K-edge spectra are normalized between 585 and 630 eV. The cells were first charged to the desired value of deintercalated Li-ion content ( x value) at a C/50 rate and then relaxed for a day. The electrochemical cells were disassembled in an argon-filled glovebox, and the Li 1 -x Co 1/3 Ni1/3 Mn 1/3 O 2 electrodes were taken out from the cell. The electrodes were then washed with tetrahydrofuran (THF) and dried thoroughly in vacuum. All soft XAS sample preparations were carried out in an inert atmosphere, except during the insertion experimental XAS chamber, when the samples were exposed to air for a few minutes.
+
+## Results and Discussion
+
+Figure 1 shows the X-ray diffraction pattern of LiCo 1/3Ni1/3 Mn 1/3 O 2 powders. The XRD pattern is consistent with a single phase with the R -NaFeO 2 structure; all the reflections can be indexed by assuming the hexagonal axes setting of the rhombohedral R 3 h m space group. The 006/012 and the 108/110 pairs of reflections are well resolved, which is typical of a well developed layered structure. 25 The first charge curve of the LiCo1/3 Ni1/3 Mn 1/3 O 2 electrode for in situ metal K-edge XAS experiments is shown in Figure 2. The in situ cells were charged from their open circuit potentials up to 5.1 V at a constant current rate of C/20, calculated based on the theoretical capacity. The specific capacity was calculated from the elapsed time, current, and mass of the active material in the cathode, by assuming that all the current passed was due to deintercalation reaction. This assumption may not be true at potentials in the vicinity o f 5 V since the side reaction, such as electrolyte oxidation, can occur at the high potentials.
+
+Normalized Mn, Ni, and Co K-edge X-ray absorption nearedge structure (XANES) spectra of 1 Li -x Co 1/3 Ni1/3 Mn 1/3 O 2 electrode during charge are shown in Figure 3. The onset of
+
+(26) Yoon, W.-S.; Paik, Y.; Yang, X.-Q.; Balasubramanian, M.; McBreen, J.; Grey, C. P. Electrochem. Solid State Lett. 2002 , 5 , A263.
+
+(25) Gummow, R. J.; Thackeray, M. M.; David, W. I. F.; Hull, S. Mater. Res. Bull. 1992 , 27 , 327.
+
+(27) Balasubramanian, M.; McBreen, J.; Davidson, I. J.; Whitfield, Kargina, I. J. Electrochem. Soc. 2002 , 149 , A176.
+
+P.
+
+S.;
+
+Figure 3. Normalized (a) Mn, (b) Ni, and (c) Co K-edge XANES spectra of Li 1 -x Co 1/3 Ni1/3 Mn 1/3 O 2 electrode during charge.
+
+<!-- image -->
+
+we do not see many changes in the Co K-edge XANES up to GLYPH&lt;24&gt; 5 V. However, in the high potential regions, we think a large fraction of the charge compensation occurs by side reaction involving electrolyte oxidation. To access this range and to experimentally study the Co 3 + /Co 4 + couple might require the use of electrolytes whose stability windows include these high potential regions, as well. The charge compensation in the metal sites during the first two-thirds of the charging process of the cathode material is achieved mainly via the oxidation of Ni 2 + ions as predicted by the theoretical calculations, but in the last one-third of the charging process, an additional process must be occurring. In the normal operating voltage (up to GLYPH&lt;24&gt; 4.6 V) of this cathode, therefore, the charge compensation at metal site during Li deintercalation is achieved mainly by the oxidation of Ni 2 + to Ni 4 + ions.
+
+Figure 4 shows Fourier transform magnitudes of the Mn, Co, and Ni K-edge EXAFS spectra during charge. The first coordination shell consists of oxygen, while the peak feature ment, such as ligand-type, geometry, coordination number, bond length, and bond covalency, would also affect the edge features. As we know from the Mn K-edge XANES results of the Li1.2 Cr0.4 Mn 0.4 O 2 and LiNi 0.5 Mn 0.5 O 2 electrode materials, 26,27 small changes in the local geometry due to the lithium deintercalation could significantly alter the XANES spectrum. In the case of the Co K-edge XAS results, changes in the edge shape during charge could be ascribed to the changes in bond length and covalency. Recent first principle calculations on Li1 -x Co 1/3 Ni1/3 Mn 1/3 O 2 electrode during charge predicted that the reaction in the range of 0 e x e 1/3, 1/3 e x e 2/3, and 2/3 e x e 1 in Li 1 -x Co 1/3 Ni1/3 Mn 1/3 O 2 electrode consists of Ni 2 + /Ni 3 + , Ni 3 + /Ni 4 + , and Co 3 + /Co 4 + , respectively. 28,29 Our Ni K-edge XANES spectra during charge are consistent with their theoretical calculation in the range of 0 e x e 2/3 in Li1 -x Co 1/3 Ni1/3 Mn 1/3 O 2. In the case of Co, the calculations suggests that the Co 3 + /Co 4 + redox couple would occur at fairly high potentials in the 4.88 -5.20 V range. As mentioned earlier,
+
+(28) Koyama, Y.; Tanaka, I.; Adachi, H.; Makimura, Y.; Ohzuku, T. J. Power Sources 2003 , 119 -121 , 644.
+
+(29) Hwang, B. J.; Tsai, Y. W.; Carlier, D.; Ceder, G. Chem. Mater. 2003 , 15 , 3676.
+
+Table 1. Curve Fitting Results for the Mn and Co K-edge EXAFS of Li 1 -xCo 1/3Ni1/3Mn 1/3O 2 during the Charging Process
+
+<!-- image -->
+
+0.01493
+
+0.01432
+
+0.01542
+
+0.01324
+
+0.01823
+
+0.01229
+
+0.01274
+
+0.01232
+
+0.01458
+
+0.01589
+
+Figure 4. The k 3 -weighted Fourier transform magnitudes of the (a) Mn, (b) Ni, and (c) Co K-edge EXAFS spectra during charge.
+
+| x in Li 1 - x   | shell                      | CN    | R (Å)                           | GLYPH<243> 2 ( · 10 - 4 Å 2 )   | ¢ E (eV)   | R factor   |
+|-----------------|----------------------------|-------|---------------------------------|---------------------------------|------------|------------|
+| x ) 0.00        | Mn - O                     | 6     | 1.910 (9)                       | 41 (7)                          | 12.4       | (1.1)      |
+| x ) 0.20        | Mn - metal Mn - O Mn metal | 6 6   | 2.889 (11) 1.911 (9) 2.865 (10) | 38 (5) 39 (7) 38 (5)            | 13.1 (0.9) |            |
+| x ) 0.39        | - Mn - O Mn - metal        | 6 6 6 | 1.907 (9) 2.846 (11)            | 42 (7) 41 (5)                   | 13.2 (0.8) |            |
+| x ) 0.60        | Mn - O Mn - metal          | 6 6   | 1.901 (9) 2.845 (10)            | 44 (7) 40 (5)                   | 13.1 (0.9) |            |
+| x ) 0.98        | Mn - O Mn - metal          | 6 6   | 1.908 (10) 2.843 (11)           | 41 (8) 37 (5)                   | 13.4 (1.5) |            |
+| x ) 0.00        | Co - O Co - metal          | 6 6   | 1.931 (6) 2.857 (8)             | 18 (5) 39 (4)                   | 11.6 (1.1) |            |
+| x ) 0.18        | Co - O Co - metal          | 6 6   | 1.928 (7) 2.839 (8)             | 20 (5) 40 (4)                   | 12.4 (0.9) |            |
+| x ) 0.41        | Co - O Co - metal          | 6 6   | 1.904 (8) 2.824 (8)             | 35 (6) 38 (4)                   | 11.3 (0.8) |            |
+| x ) 0.59        | Co - O -                   | 6 6   | 1.898 (8) 2.818 (8)             | 26 (6) 35 (4)                   | 12.0 (0.9) |            |
+| x ) 0.96        | Co metal Co - O Co - metal | 6 6   | 1.879 (8) 2.827 (9)             | 33 (6) 45 (4)                   | 10.0 (1.5) |            |
+
+due to the second coordination shell is dominated by transition metal ions. The most significant change during charge is observed in the first coordination shell around central Ni atoms (Figure 4b). The dramatic changes of the first coordination peaks during charge indicate that the charge compensation mainly occurs at the Ni sites and results in a significant decrease the in the average Ni -O bond length. The large changes seen for the first Ni -O shell are similar to those observed for the Li1 -x Ni0.5 Mn 0.5 O 2 system. 10 By detailed quantitative analysis of the EXAFS data, we have earlier shown that the large changes seen in the first coordination shell around Ni is caused by the oxidation of Ni 2 + ions to Ni 4 + ions. The Co K-edge is lower in energy when compared to Ni by only GLYPH&lt;24&gt; 625 eV. Due to this small separation between the two edges the high k -region of the Co K-edge EXAFS interferes with the Ni K-edge EXAFS and complicates detailed quantitative analysis of the Ni K-edge EXAFS data in some systems containing both Co and Ni. In systems where the Co:Ni atomic ratio is small, such as Li1 -x Ni0.85 Co 0.15 O 2, the interferences of the Co EXAFS and the Ni EXAFS are minimal and allow for detailed quantitative analysis of the Ni EXAFS. 9 However, in the case of Li 1 -x Co 1/3 Ni1/3 Mn 1/3 O 2, the interference of the Co EXAFS with the Ni EXAFS is particularly strong due to the relatively high Co:Ni ratio of 1. Therefore, in this paper, we are restricted to only a qualitative analysis of the Ni EXAFS data. On the other hand, quantitative analysis to obtain EXAFS structural parameters for both Mn and Co was performed by fitting the first two peaks of the FT. Curve fitting results for the Mn and Co K-edge EXAFS of Li 1 -x Co 1/3 Ni1/3 Mn 1/3 O 2 during the charging process are listed in Table 1. In all of the curve fitting processes, the goodness of fit by ' ( k 3 data -k 3 model ) 2 / ' ( k 3 data ) 2 has been estimated within the allowed error range. In our EXAFS analysis, the scattering by the Li atom is neglected since the backscattering amplitude of the photoelectron due to scattering by Li is very weak. The local environment of Mn in the starting material contains six oxygen atoms at GLYPH&lt;24&gt; 1.92 Å. The Mn -O bond length remains mostly unchanged during charge. However, the Mn -M bond length decreases from GLYPH&lt;24&gt; 2.89 to GLYPH&lt;24&gt; 2.84 Å during charge. Electrochemically inactive Mn ions do not change the bond distance between Mn and O during charge, and the reduction of the Mn -M bond length can be ascribed to the reduction of the a -axis during charge. The Co -M bond length also decreases from GLYPH&lt;24&gt; 2.86 to GLYPH&lt;24&gt; 2.83 Å during charge. Unlike the Mn -O bond, the Co -O bond length decreases from GLYPH&lt;24&gt; 1.93 to GLYPH&lt;24&gt; 1.88 Å during charge, suggesting a possible change in the effective nuclear charge of oxygen ions
+
+Figure 5. Normalized Mn L II,III -edge XAS spectra of Li 1 -x Co 1/3 Ni1/3 Mn 1/3 O 2 electrode at different x values using (a) PEY method and (b) FY method.
+
+<!-- image -->
+
+bonded with cobalt ions during charge. This is confirmed by O K-edge XAS result during charge, shown below.
+
+Because of the electric dipole-allowed 2p f 3d transition, the absorption peaks for the metal L II,III -edge XAS are relatively intense and are very sensitive to the empty d orbitals. The electronic structure of the Mn, Ni, and Co ions in Li 1 -x Co1/3 Ni1/3 Mn 1/3 O 2 can be investigated qualitatively through peak features in the metal L-edge XAS spectra. There are two main peaks at the L IIIand LIIedges which are due to the respective electronic transitions from the metal 2p 3/2 and 2p1/2 core levels that are split by the spin -orbit interaction of the metal 2p core level to an unoccupied 3d level. For the Mn 4 + , Ni 2 + , and Co 3 + states in pristine LiCo 1/3 Ni1/3 Mn 1/3 O 2, the corresponding initial states in pristine LiCo 1/3 Ni1/3 Mn 1/3 O 2 are Mn 2p 6 3d 3 (t 2g 3 eg 0 ), Ni 2p 6 3d 8 (t 2g 6 eg 2 ), and Co 2p 6 3d 6 (t 2g 6 eg 0 ) state, and the corresponding electronic final states represent Mn 2p 5 3d 4 (t 2g 3 eg 1 ), Ni 2p 5 3d 9 (t 2g 6 eg 3 ), and Co 2p 5 3d 7 (t 2g 6 eg 1 ).
+
+Mn 4 + . 30,31 As shown in Figure 5, as Li-ion is deintercalated,the Mn 2p spectra do not show any changes in shape or energy position at different charge states, indicating that the Mn ions remain mostly unchanged in the Mn 4 + state during charge, consistent with our Mn K-edge results . In addition, no significant difference is observed between the PEY and FY data, showing that the Mn oxidation state is basically the same at the surface and in the bulk during charge.
+
+are changed. largely The Ni L II,III -edge X-ray absorption spectra of Li 1 -x Co 1/3Ni1/3 Mn 1/3 O 2 system at different x values, obtained from PEY and FY methods, are shown in Figure 6. The spectra correspond to Ni 2p f Ni 3d transitions, split by the spin -orbit interaction of the Ni 2p core level. The pristine Ni L II,III -edge PEY spectrum shows main peaks at GLYPH&lt;24&gt; 851.2 and GLYPH&lt;24&gt; 868.4 eV and weak shoulder peaks at higher energy, respectively, due to Ni 2p -3d electrostatic interaction and crystal field effect of octahedral symmetry. The Ni L II,III -edge XAS spectra of pristine LiCo 1/3 Ni1/3 Mn 1/3 O 2 in FY mode are slightly different in peak position showing main peaks at GLYPH&lt;24&gt; 851.4 and GLYPH&lt;24&gt; 868.8 eV, which suggests that the oxidation state of Ni ions in the bulk is slightly higher than that of Ni ions at the surface. This is consistent with previous soft XAS results on nickel-based transition metal oxide using PEY and FY modes, showing that the surface of the nickelbased compounds has a different electronic structure from the bulk. 15,32 We should point out, however, that the shifts in peak position seen for pristine LiCo 1/3 Ni1/3 Mn 1/3 O 2 are very small, and these small changes could be due to systematic errors from self-absorption or energy resolution.
+
+More significant differences between the Ni L II,III -edge XAS spectra obtained with PEY and FY detection modes are seen for the charged samples. As shown in Figure 6, the Ni L II,III -edge XAS spectra of Li 1 -x Co 1/3 Ni1/3 Mn 1/3 O 2 obtained in the FY mode appeared at higher energy values compared with those obtained in the PEY mode at high states of charge. Since the PEY and FY modes probe the surface and bulk, respectively,
+
+(30) Grush, M. M.; Horne, C. R.; Perera, R. C.; Ederer, D. L.; Cramer, S. P.; Cairns, E. J.; Callcott, T. A. Chem. Mater. 2000 , 12 , 659.
+
+(31) Yoon, W.-S.; Chung, K.-Y.; Oh, K.-H.; Kim, K.-B. J. Power Sources 2003 , 119 , 706.
+
+(32) Abraham, D. P.; Twesten, R. D.; Balasubramanian, M.; Petrov, I.; McBreen, J.; Amine, K. Electrochem. Commun. 2002 , 4 , 620.
+
+Figure 5 shows the Mn L II,III -edge XAS spectra of Li1 -x Co 1/3 Ni1/3 Mn 1/3 O 2, at different x values, in both the PEY and FY modes. FY spectra are more representative of the bulk sample, while PEY is surface sensitive. The FY data distorted by self-absorption effects, which will diminish the intensity of peaks/features with high intrinsic intensity. However, the positions of the peaks are not significantly Furthermore, the amount of self-absorption will be independent of Li content. Therefore, a comparison of FY data obtained at various states of charge can be performed on a quantitative basis. The Mn L II,III -edges of the pristine Li1 -x Co 1/3 Ni1/3 Mn 1/3 O 2 obtained in both the PEY and FY modes have their respective main peaks at GLYPH&lt;24&gt; 643.0 and GLYPH&lt;24&gt; 653.4 eV ( GLYPH&lt;24&gt; 653.6 eV for FY). The shapes of the spectra are directly related to the ground state of the Mn ions. No substantial difference in Mn L II,III -edge XAS spectra obtained by PEY and FY methods is seen, except the minor distortion of the FY data due to self-absorption. This indicates that the electronic structure and local geometry around Mn ions are the same at the surface and in the bulk for pristine Li 1 -x Co 1/3 Ni1/3 Mn 1/3 O 2. The Mn LII,III -edge of pristine Li 1 -x Co 1/3 Ni1/3 Mn 1/3 O 2 shows clear evidence that the Mn ions in the compound mostly exist as
+
+Figure 6. Normalized Ni L II,III -edge XAS spectra of Li 1 -x Co 1/3 Ni1/3 Mn 1/3 O 2 electrode at different x values using (a) PEY method and (b) FY method.
+
+<!-- image -->
+
+we conclude that the Ni 2 + ions at the surface are oxidized mostly to Ni 3 + , whereas Ni 2 + ions in the bulk are oxidized further to Ni 4 + by comparing the previous Ni L-edge XAS spectra. 33 -35 As shown by Zaanen, Sawatsky, and Allen (ZSA), a Mott -Hubbard picture in which the ground state involves only low energy charge fluctuations in d states needs to be extended for the later transition metal compounds (Mn to Cu) and allows for charge transfer of the type d n f n + 1 L , where L denotes a positive hole in the oxygen valence band. In our case, this could lead to an electronic description of Ni being fully or partially in a d 7 L configuration, which could contribute to the charge compensation during the lithium deintercalation and prevent the Ni 3 + from oxidizing to an even higher oxidation state, such as Ni 4 + , similar to what was observed in the Co K-edge and L-edge results. However, Ni L-edge XAS spectra in FY mode clearly show a rigid shift to energies higher than those for the Ni 3 + . This shift indicates that the average oxidation state of Ni was increased beyond Ni 3 + , and with total lithium deintercalation Ni 4 + state was formed. In a one-electron description, the L-edge position is higher than the Ni 3 + , suggesting the presence of Ni 4 + , based on the fact that in order to excite the more tightly bound 1s core electron more energy is required.
+
+A similar phenomenon about the difference between the surface and the bulk was seen in our previous soft XAS study on Li1 -x Ni0.5 Mn 0.5 O 2. 15 Here, by using both the FY and PEY modes, we demonstrated that Ni ions on the surface of the electrode remain mostly unchanged in the Ni 2 + oxidation state during charge, whereas charge compensation in the bulk during charge is achieved mainly by the oxidation of Ni 2 + to Ni 4 + ions. This difference in electronic structures during charge between the surface and bulk is a unique feature of the nickel-based cathode materials. Recent studies of LiNi 0.8 Co 0.2 O 2 reported by Abraham et al. also provided strong support for this statement. 32 In that work, by using a combination of high-resolution transmission electron microscopy (HRTEM) and nanoprobe electron energy loss spectroscopy (EELS), the authors showed that the surface structure of LiNi 0.8 Co 0.2 O 2 is distinctly different from the bulk. The modified surface layer in the cathode materials is believed to be a significant contributor to the cathode impedance rise observed during the electrochemical cycling process. One may argue that in concentrated bulk samples the FY data are subject to distortion from self-absorption effects, which diminishes the intensity of strong peaks and other features in the spectra. However, these distortions cannot account for major energy shifts between the PEY and FY data, 36,37 so valid qualitative comparisons of both sets of data can be made. The surface of the nickel-based cathode materials has a different electronic structure from the bulk, and the greater the nickel content in the materials, the more severe is the difference between the surface and the bulk. Compared to our previous soft XAS results of 1 Li -x Ni0.5 Mn 0.5 O 2, the nickel sites of Li1 -x Co 1/3 Ni1/3 Mn 1/3 O 2 show less difference between the surface and the bulk. Therefore, it is concluded that the difference between surface and bulk is proportional to the Ni content: the higher the Ni concentration, the more severe the difference. Since the difference between these two compounds is not only the percentage of Ni but also the addition of Co, the effect caused by Co cannot be ruled out.
+
+(33) Wang, H.; Ge, P.; Riordan, C. G.; Brooker, S.; Woomer, C. G.; Collins, T.; Melendres, C. A.; Graudejus, O.; Bartlett, N.; Cramer, S. P. J. Phys. Chem. B 1998 , 102 , 8343.
+
+(34) Hu, Z.; Golden, M. S.; Fink, J.; Kaindl, G.; Warda, S. A.; Reinen, D.; Mahadevan, P.; Sarma, D. D. Phys. Re V . B 2000 , 61 , 3739.
+
+Figure 7 shows the Co L II,III -edge X-ray absorption spectra of Li 1 -x Co 1/3 Ni1/3 Mn 1/3 O 2 system with respect to the x value. The pristine Co L II,III -edge PEY spectrum shows main peaks at GLYPH&lt;24&gt; 778.2 and GLYPH&lt;24&gt; 792.8 eV. The Co LII,III -edge XAS spectra of pristine Li 1 -x Co 1/3 Ni1/3 Mn 1/3 O 2 in FY mode are slightly different in peak position showing main peaks at GLYPH&lt;24&gt; 778.6 and GLYPH&lt;24&gt; 793.0 eV. This suggests that difference in electronic structure between the surface and the bulk might be possible. As in the case of the Ni L-edge spectra in Figure 6, there is some uncertainty about this shift since this small difference could be within the energy resolution of these spectra and/or could be an artifact caused by self-absorption effects. It is quite striking that th Co 2p spectra do not show any changes during charge in shape or energy position in both the PEY and FY data, indicating that the Co ions in the surface and in the bulk remain mostly
+
+(35) Montoro, L. A.; Abbate, M.; Rosolen, J. M. J. Electrochem. Soc. 2000 , 147 , 1651.
+
+(36) Tan, Z.; Budnick, J. I.; Heald, S. M.; Re V . Sci. Instrum. 1989 , 60 , 1021. (37) Troger, L.; Arvanitis, D.; Baberschke, K.; Michaelis, M.; Grimm, U.; Zschech, E. Phys. Re V . B 1992 , 46 , 3283.
+
+Figure 7. Normalized Co LII,III -edge XAS spectra of Li 1 -x Co 1/3 Ni1/3 Mn 1/3 O 2 electrode at different x values using (a) PEY method and (b) FY method.
+
+<!-- image -->
+
+Figure 8. The O K-edge XAS spectra in FY mode for electrochemically Li-ion deintercalated Li 1 -x Co 1/3 Ni1/3 Mn 1/3 O 2 electrode during charge.
+
+<!-- image -->
+
+unchanged in the Co 3 + state during charge. In contrast, above Co K-edge XAS results obtained in hard X-ray range did show notable changes in the shape of edge structure during charge due to changes in the Co local environment. The identical Co 2p spectra at different charge states clearly show that the Co ions in this compound remain unchanged during charge.
+
+The pre-edge peak positions and intensities in the ligand K-edge XAS spectra provide important structural information about the chemical bonding between ligand and metal atoms. The O K-edge XAS of electrochemically Li-ion deintercalated Li1 -x Co 1/3 Ni1/3 Mn 1/3 O 2 system is shown in Figure 8. Pre-edge peaks below GLYPH&lt;24&gt; 534 eV of these spectra correspond to the transition of oxygen 1s electron to the hybridized state of the transition metal 3d and oxygen 2p orbitals, whereas the broad higher peaks above GLYPH&lt;24&gt; 534 eV correspond to the transitions to hybridized states of oxygen 2p and transition metal 4sp orbitals. Two major changes caused by the Li-ion deintercalation in the spectral features were observed in the pre-edge region: a shift of pre-edge peak position to the lower energy and an increase of the integrated pre-edge intensity. The shift to low energy is attributed to the higher oxidation state of metal ions due to the Li-ion deintercalation. The greater effective nuclear charge of the higher oxidation state metal ions shifts the ligand pre-edge peak position to lower energy since the metal d orbitals are located at a deeper binding energy and are closer in energy to the ligand 1s orbital. We shall now focus on the second major change. The variation of the integrated pre-edge peak intensity with the electrochemical deintercalation can give important information about the hole state distribution and the effective charge on the oxygen atom since the density of the empty bound state in the molecular energy level is related to the hybridization of metal 3d -O 2p orbitals. The shaded area in Figure 8 is the integrated pre-edge intensity assigned to oxygen p character hybridized with the transition metal 3d band. Figure 9 shows variations of pre-edge peak intensity for the O K-edge XAS spectra in FY mode for Li 1 -x Co 1/3 Ni1/3 Mn 1/3 O 2 electrode during charge. The pre-edge peak intensity continuously increases in the range of 0 e x e 2/3 in Li 1 -x Co 1/3 Ni1/3 Mn 1/3 O 2. The spectral weight increases by GLYPH&lt;24&gt; 37% from x ) 0 to 0.7 in Li 1 -x Co 1/3 Ni1/3 Mn 1/3 O 2 compared to that of pristine LiCo 1/3 Ni1/3 Mn 1/3 O 2, indicating that a large portion of the holes that compensate the lithium ion deintercalation are located in O 2p states. In contrast, our previous O K-edge results of Li 1 -x Ni0.5 Mn 0.5 O 2 system showed relatively small change ( GLYPH&lt;24&gt; 10% for x ) 0 -0.8 in Li1 -x Ni0.5 Mn 0.5 O 2) in the pre-edge intensity during charge. 15 LiNi0.5 Mn 0.5 O 2 and LiCo1/3 Ni1/3 Mn 1/3 O 2 can be considered as a member of Li[Ni x Co 1 -2 x Mn x ]O2 series. The major difference between LiNi 0.5 Mn 0.5 O 2 and LiCo1/3 Ni1/3 Mn 1/3 O 2 systems is that the latter contains Co. Therefore, the increased pre-edge peak intensity observed is clearly due to the content of Co. In considering the contribution of Ni -O covalency, since the Ni content is higher in Li 1 -x Ni0.5 Mn 0.5 O 2 than in Li1 -x Co 1/3 Ni1/3 Mn 1/3 O 2, it would have had a larger weight of the pre-edge peak in the former one if the Ni -O covalency is the major contributor. On the basis of the fact
+
+that the
+
+<!-- image -->
+
+tigated intensively with soft X-ray absorption spectroscopy (XAS) at O K-edge and metal L II,III -edge in the soft X-ray region, in combination with metal K-edge XAS spectra in the hard X-ray region to elucidate the charge compensation mechanism of this material during Li-ion deintercalation. From the observation of metal K-edge XAS results, we can conclude that the major charge compensation at the metal site during charge is achieved by the oxidation of Ni 2 + ions, while the manganese ions remain mostly unchanged in the Mn 4 + state. Metal L-edge XAS results at different charge states collected by FY and PEY modes show that, unlike Mn and Co ions, Ni ions at the surface are oxidized to Ni 3 + during charge, whereas Ni ions in the bulk are further oxidized to Ni 4 + during charge. The O K-edge XAS results suggest that a large portion of the charge compensation during Li-ion deintercalation is achieved on oxygen sites that are associated with the presence of Co.
+
+Figure 9. Variations of pre-edge peak intensity for the O K-edge XAS spectra in FY mode for Li 1 -x Co 1/3 Ni1/3 Mn 1/3 O 2 electrode during charge. A ( 9 ) is from Figure 8 and B and C ( O and 4 ) are from two other sets of XAS experiments performed at a different time on the same materials. The error estimate in pre-edge peak area is within 10% based on different normalization parameters.
+
+larger weight of the pre-edge peak was observed in Li1 -x Co 1/3 Ni1/3 Mn 1/3 O 2, it is reasonable to believe that a large portion of the charge compensation during Li-ion deintercalation appears to be achieved on oxygen sites which are associated with Co. It should be noted that in LiCoO 2, as well, hole doping of oxygen ions plays an important role in the charge compensation process. 11,13
+
+## Conclusion
+
+Acknowledgment. The XAS measurements were carried out at Beamline X18B and U7A at NSLS. The work performed at SUNY Stony Brook was supported by the Assistant Secretary for Energy Efficiency and Renewable Energy, Office of FreedomCAR and Vehicle Technologies of the U.S. Department of Energy under Contract No. DE-AC03-76SF00098, via subcontract No. 6517749, with the Lawrence Berkeley National Laboratory. The work carried out at BNL was supported by the Assistant Secretary for Energy Efficiency and Renewable Energy, Office of FreedomCAR and Vehicle Technologies of the U.S. Department of Energy under Contract Number DEAC02-98CH10886. Work at ANL was supported by the U.S. Department of Energy, Office of Science under Contract No. W-31-109-ENG-38.
+
+Li-ion
+
+JA0530568
+
+The electronic structure for the electrochemically deintercalated Li 1 -x Co 1/3 Ni1/3 Mn 1/3 O 2 materials has been inves-
+
+TABLES:
+------------------------------
+
+Table 1:
+Caption: 
+Content: | x in Li 1 - x   | shell                      | CN    | R (Å)                           | GLYPH<243> 2 ( · 10 - 4 Å 2 )   | ¢ E (eV)   | R factor   |
+|-----------------|----------------------------|-------|---------------------------------|---------------------------------|------------|------------|
+| x ) 0.00        | Mn - O                     | 6     | 1.910 (9)                       | 41 (7)                          | 12.4       | (1.1)      |
+| x ) 0.20        | Mn - metal Mn - O Mn metal | 6 6   | 2.889 (11) 1.911 (9) 2.865 (10) | 38 (5) 39 (7) 38 (5)            | 13.1 (0.9) |            |
+| x ) 0.39        | - Mn - O Mn - metal        | 6 6 6 | 1.907 (9) 2.846 (11)            | 42 (7) 41 (5)                   | 13.2 (0.8) |            |
+| x ) 0.60        | Mn - O Mn - metal          | 6 6   | 1.901 (9) 2.845 (10)            | 44 (7) 40 (5)                   | 13.1 (0.9) |            |
+| x ) 0.98        | Mn - O Mn - metal          | 6 6   | 1.908 (10) 2.843 (11)           | 41 (8) 37 (5)                   | 13.4 (1.5) |            |
+| x ) 0.00        | Co - O Co - metal          | 6 6   | 1.931 (6) 2.857 (8)             | 18 (5) 39 (4)                   | 11.6 (1.1) |            |
+| x ) 0.18        | Co - O Co - metal          | 6 6   | 1.928 (7) 2.839 (8)             | 20 (5) 40 (4)                   | 12.4 (0.9) |            |
+| x ) 0.41        | Co - O Co - metal          | 6 6   | 1.904 (8) 2.824 (8)             | 35 (6) 38 (4)                   | 11.3 (0.8) |            |
+| x ) 0.59        | Co - O -                   | 6 6   | 1.898 (8) 2.818 (8)             | 26 (6) 35 (4)                   | 12.0 (0.9) |            |
+| x ) 0.96        | Co metal Co - O Co - metal | 6 6   | 1.879 (8) 2.827 (9)             | 33 (6) 45 (4)                   | 10.0 (1.5) |            |

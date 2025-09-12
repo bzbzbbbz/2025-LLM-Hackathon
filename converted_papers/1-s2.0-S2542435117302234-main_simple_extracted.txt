@@ -1,0 +1,363 @@
+Simple Docling Extracted Data from: 1-s2.0-S2542435117302234-main.pdf
+============================================================
+
+Title: 1-s2.0-S2542435117302234-main
+Pages: 15
+Tables: 2
+Figures: 0
+
+MAIN TEXT:
+------------------------------
+<!-- image -->
+
+## Article
+
+## Charge Heterogeneity and Surface Chemistry in Polycrystalline Cathode Materials
+
+<!-- image -->
+
+Both chemical and electrochemical delithiation methods lead to state-of-charge non-uniformity in the bulk of layered transition metal oxide cathode particles. Less surface reconstruction to rock salt is observed for chemically delithiated samples compared with electrochemically delithiated ones. This indicates that electrolytic solution plays a significant role in the surface reconstruction phenomenon.
+
+Chixia Tian, Yahong Xu, Dennis Nordlund, ..., Zhihong Sun, Yijin Liu, Marca Doeff liuyijin@slac.stanford.edu (Y.L.) mmdoeff@lbl.gov (M.D.)
+
+## HIGHLIGHTS
+
+Delithiated samples show stateof-charge heterogeneity
+
+Surface reconstruction is less apparent in chemically delithiated samples
+
+Electrolytic solution plays a vital role in the surface reconstruction
+
+Tian et al., Joule 2 , 464-477 March 21, 2018 ª 2018 Elsevier Inc. https://doi.org/10.1016/j.joule.2017.12.008
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+## Article
+
+## Charge Heterogeneity and Surface Chemistry in Polycrystalline Cathode Materials
+
+Chixia Tian, 1,4,6 Yahong Xu, 2,3,6 Dennis Nordlund, 2 Feng Lin, 4 Jin Liu, 5 Zhihong Sun, 3 Yijin Liu, 2, * and Marca Doeff 1,7, *
+
+## SUMMARY
+
+Nanoscale full-field (FF) transmission X-ray microscopy (TXM) and ensembleaveraged soft X-ray absorption spectroscopy (soft XAS) were used to investigate state-of-charge (SOC) heterogeneities in electrochemically charged or discharged and chemically oxidized samples of LiNi0.6Mn0.2Co0.2O2 cathode materials. We observed considerable and similar non-uniformities in terms of Ni oxidation states (and, by proxy, lithium distributions) for all the samples in the bulk. Therefore, the chemically delithiated samples are similar to the electrochemically charged samples in terms of mesoscale charge heterogeneity in large polycrystalline particle ensembles. However, the gradient oxidation states of transition metals on the surface, which is partly responsible for the electrode degradation mechanism known as surface reconstruction, is much less apparent in chemically delithiated samples.
+
+## INTRODUCTION
+
+State-of-charge (SOC) inhomogeneities are often observed in electrodes undergoing charge or discharge in Li-ion batteries. 1-5 There are many factors, including the cell geometry, electrode thickness, porosity, and cycling rate/history, that can affect the non-uniformity of the electrode both in-plane and perpendicular to the current collector. 6-8 For example, considerable structural heterogeneity was observed in LiFePO4 electrodes after high-rate charging in prismatic or coin cells, by means of a synchrotron based micro-diffraction study. 9 Both electronic wiring and ionic diffusion pathways play key roles in affecting the non-equilibrium lithium distributions. In addition to inhomogeneity at the electrode level, SOC non-equilibrium has also been observed in individual secondary particles and large primary single-crystal particles. 10-12 For example, a heterogeneous SOC distribution has recently been reported in spinel LiMn1.5Ni0.5O4 (LMNO) micro-crystals. 13 The evolution of SOC distribution within an LiCoO2 particle upon long-term cycling was also reported recently. 14 Inhomogeneities are more easily detected in electrodes that exhibit two-phase behavior during redox, such as LiFePO4. These electrodes have voltage profiles that are flat in the two-phase region, meaning that there is no potential difference to drive equilibration after the current is stopped. 15,16 Thus electrodes are essentially ''frozen'' in the operating state. However, non-uniformity has also been observed ex situ in some systems that exhibit primarily solid solution behavior, in which the voltage profile is sloping, such as LiNi1/3Mn1/3Co1/3O2 (NMC-333). In this case intermediate phases were detected, which persisted during relaxation after high-rate charging, using in situ X-ray diffraction (XRD). 17 SOC heterogeneity was also observed after equilibration for electrochemically charged NMC-333 secondary
+
+## Context &amp; Scale
+
+Chemical delithiation is extensively used in preparation of charged cathodes free of inactive components for fundamental battery studies. The surface chemistry and bulk lithium distribution of chemically delithiated samples may not accurately represent the electrochemically charged materials in a real battery. In our work, bulk and surface-sensitive characterization techniques were used to investigate the differences between chemically and electrochemically delithiated layered cathode materials. The two types of materials show similar bulk lithium distributions but distinctly different surface chemistries. The present study not only strongly implies that the electrolytic solution is an active participant in the reactions that lead to the surface reconstruction to a rock salt structure observed in layered oxide cathode materials, but also develops a chemical basis for understanding and improving charge homogeneity across the length scale of secondary particles.
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+particles using transmission X-ray microscopy (TXM). 18 In these cases, disruption of electronically or ionically conducting pathways due to volume changes incurred by the redox reactions led to isolation and prevented equilibration.
+
+These heterogeneities harbor important consequences for the operation of electrochemical cells because they can lead to loss of capacity, local overcharge or overdischarge, or unsafe conditions (e.g., loss of oxygen in the case of transition metal oxides at high SOC). 19-21 Thus, understanding the formation mechanism of the non-uniformity is fundamentally interesting and practically important. To study heterogeneity at the particle level, it is useful to prepare samples by chemical delithiation using an oxidant such as NO2BF4 or Br2. In the case of nickel-manganesecobalt-oxide (NMC) cathodes, the stronger oxidizing power of the former means that materials can be delithiated to greater extent than with the latter (only about half the lithium in an NMC cathode can be removed, because the standard reduction potential of the Br2/Br /C0 couple is 1.066 V versus standard hydrogen electrode, corresponding to about 4.1 V versus Li + /Li). This process is convenient for preparing large quantities of samples, and, when carried out carefully, results in pure materials free of inactive components such as binder and carbon. In the chemical delithiation process the secondary particles are homogeneously exposed to the oxidant, avoiding any artifacts caused by non-uniform electronic wiring and electrolyte wetting. However, there can be inhomogeneous exposure to the oxidant inside the secondary particles. It is still debatable how well the chemical delithiation process can represent the true electrochemical cycling process occurring in a real electrochemical cell; however, studying the chemically delithiated compounds can provide insights into the role that other cell components (e.g., electrolytic solution) play in degradation processes. In this study we compared pristine, chemically delithiated, and partially charged or discharged particles to evaluate the SOC heterogeneity, using synchrotron based X-ray absorption spectroscopy (XAS) and TXM. Our results show that while the chemically delithiated samples can represent the electrochemically charged samples in terms of mesoscale SOC heterogeneity in large polycrystalline particle ensembles, the surface chemistry (e.g., surface reconstruction) shows major differences due to the presence of cathode-electrolyte reactions in practical cells.
+
+## RESULTS AND DISCUSSION
+
+## Physical Properties
+
+LiNi0.6Mn0.2Co0.2O2 (NMC-622) consists of spherical secondary particles (Figure 1A), with sizes ranging from 5 m m to 25 m m, composed of agglomerates of 200- to 600-nm primary particles. To prepare samples for the designed study, we treated these particles in different manners. For the chemical delithiation, a sample of NMC-622 powder was partially delithiated with oxidant NO2BF4 in acetonitrile solvent. The amount of lithium removal was controlled by tuning the molar ratio between NMC-622 and the oxidant. The residual lithium content was analyzed by inductively coupled plasma (ICP) optical emission spectrometry and the composition was found to be Li0.43Ni0.6Mn0.2Co0.2O2. For the electrochemical processes, electrodes were prepared and cycled in coin cells to different stages at C/10 rate between 2.5 V and 4.7 V. As shown in the charge-discharge curve in Figure 2A, the cells delivered a charge capacity of 238 mAh $ g /C0 1 and a discharge capacity of 214 mAh $ g /C0 1 . The nominally ''50% charged'' electrode was charged to 3.88 V and the ''50% discharged'' electrode was charged to 4.7 V and then discharged to 3.88 V. After electrochemical charge (Figure 1C) and discharge (Figure 1D), the morphologies of the secondary particles remained mostly intact. However, chemical delithiation induced significant damage to the secondary particles, resulting in some
+
+<!-- image -->
+
+1 Energy Storage &amp; Distributed Resources Division, Lawrence Berkeley National Laboratory, Berkeley, CA 94720, USA
+
+2 Stanford Synchrotron Radiation Lightsource, SLAC National Accelerator Laboratory, Menlo Park, CA 94025, USA
+
+3 College of Mechanical Engineering, Donghua University, Shanghai 200051, China
+
+4 Department of Chemistry, Virginia Tech, Blacksburg, VA 24061, USA
+
+5 Department of Geological Sciences, Stanford University, Stanford, CA 94305, USA
+
+6 These authors contributed equally
+
+7 Lead Contact
+
+*Correspondence:
+
+liuyijin@slac.stanford.edu (Y.L.), mmdoeff@lbl.gov (M.D.)
+
+https://doi.org/10.1016/j.joule.2017.12.008
+
+<!-- image -->
+
+Figure 1. SEM Images of Samples
+
+<!-- image -->
+
+(A-D) Scanning electron microscopy (EM) images of: (A) pristine NMC-622 powder; (B) 50% chemically delithiated NMC-622 using NO2BF4 as the oxidant in acetonitrile solution; (C) NMC-622 electrode electrochemically charged to 3.88 V (halfway charged); (D) electrochemically discharged (half discharged in the first cycle) NMC-622 electrode. Insets are single secondary particles for each sample.
+
+Scale bar for 1A, 100 m m; 1B-1D, 50 m m; insets, 5 m m.
+
+disaggregation of the primary particles (Figure 1B). The cracks could be induced by evolution of NOx gas when using NO2BF4 as the oxidant. However, when the milder oxidant (Br2) was used in this study (as discussed in a later section), similar cracks and secondary particle disconnection were observed. We hypothesize that the fairly high concentration of oxidant used to remove lithium relatively rapidly from the host structure resulted in stress that led to cracking. In electrochemical processes, the composite electrode configuration significantly alleviates the cracking of active material particles because of the presence of the polymeric binder, although longterm cycling can eventually lead to some cracks. 22
+
+## XANES and TXM Results
+
+The chemical heterogeneity at subparticle level plays an important role in affecting the overall performance of the electrode material. This is because the macroscopic behavior of the material is believed to originate from the ramifications of its microscopic structure and chemical properties at fine length scales. To visualize the distribution and understand the interplay of different chemical species at nanoscale, we employed full-field (FF)-TXM to study the lithium distribution within and between the secondary particles. Although in our 2D measurements the information regarding the chemical depth profile along the beam direction is not available, the FF-TXM can still reveal the lateral chemical heterogeneity with nominal spatial resolution at /C24 30 nm. More details of this technique can be found in Experimental Procedures.
+
+The distribution of nickel oxidation states in the particles is a good proxy for the state-of-charge as reported in the literature 23-27 evidenced by transition metal
+
+<!-- image -->
+
+<!-- image -->
+
+Figure 2. Electrochemistry and K-edge XAS Spectra (A) Charge-discharge curves of NMC-622 half-cells. (B-D) Normalized Ni (B), Mn (C), and Co (D) K-edge XANES spectra for pristine (black), chemically delithiated (red), electrochemically charged (blue), and electrochemically discharged (green) samples.
+
+<!-- image -->
+
+K-edge X-ray absorption near-edge structure (XANES) spectra. As shown in Figure 2B, the Ni absorption edge shifts to higher energy upon chemical or electrochemical removal of lithium, indicating oxidation of Ni cations. Unlike Ni, Mn K-edge spectra (Figure 2C) show almost no change of edge position but slight change in the shape of the edge. This slight change is attributed to alteration of the Mn local environment, and Mn remains tetravalent upon Li extraction. 28,29 Co K-edge XAS spectra (Figure 2D) show edge shift upon delithiation; however, the change is accompanied with edge shape alteration. This leads to ambiguities in the interpretation of the Co oxidation state by solely using the edge positions, since changes in local environment can also affect the edge features. 23,27 As predicted by theoretical calculations for Li1-xCo1/3Ni1/3Mn1/3O2, Co 3+/ Co 4+ redox only takes place in the range of 2/3 % x % 1. 30 However, a later in situ XAS investigation of an Al-substituted NMC (LiNi0.4Mn0.4Co0.15Al0.05O2, NMC-442) showed evidence for Co redox activity throughout the entire delithiation process. 25 For both types of materials (NMC-622 and the 5% Al-substituted NMC-442) Co contents are relatively low, so that the contribution to redox processes is minor, and Ni oxidation state changes serve as a good proxy for lithium content. For the sample chemically delithiated with NO2BF4, the high standard oxidation potential of the NO2 +/ NO2 redox couple ( /C24 5.1 V versus Li + /Li) can lead to potential decomposition of acetonitrile and cause proton insertion (i.e., Li + /H + exchange) within the layered structure. However, proton insertion 31 occurs only upon deep delithiation (&gt;60% Li removal). Therefore we can eliminate contributions of proton insertion to charge compensation in this sample, because it is less than 60% delithiated. Bearing this in mind, we scanned across the Ni K-edge, and the 2D projected SOC distribution is mapped here for different samples (Figure 3).
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+8338 eV
+
+Figure 3. 2D Ni Oxidation State Mapping and Statistical Analysis
+
+(A and B) Representative multiple pixels averaged XANES spectra (A) and histogram (B) of Ni K-edge shifts for pristine (black curve), chemically delithiated (red curve), electrochemically charged (blue), and electrochemically discharged (green) samples.
+
+(C-F) 2D mapping of Ni K-edge under different conditions: (C) pristine NMC-622; (D) chemically delithiated NMC-622; (E) electrochemically charged NMC-622 electrode; and (F) electrochemically discharged NMC-622 electrode. The color maps were determined by using the single-pixel Ni K-edge XANES data, where blue represents less oxidized (8,338 eV) and red indicates more oxidized states (8,345 eV).
+
+Scale bar for C-F, 10 m m.
+
+Representative multi-pixels averaged Ni K-edge XANES spectra based on TXM images are shown in Figure 3A, and the result is consistent with the ensemble-averaged results we obtained from hard XAS (Figure 2B), where large numbers of particles were evaluated. In addition to the oxidation, both chemical delithiation and electrochemical charge/discharge lead to narrower distribution of Ni oxidation states as evidenced by the reduced width of the peaks in the histogram in Figure 3B. Wequantified the lithium content in the sample delithiated with NO2BF4 by ICP analysis and concluded that 0.57 G 0.06 Li per formula unit was removed from pristine NMC-622, whose original lithium content was 1 per formula unit (lithium content was confirmed to be 1.02 with ICP analysis). For samples that went through electrochemical processes, based on the specific capacity, the lithium removal amount was determined to be x = 0.43 and x = 0.49 for the electrochemically charged and discharged samples, respectively. Cell variation and parasitic reactions can lead to some over- or underestimation of the absolute amount of lithium intercalated into and deintercalated from the host material for electrochemical processes.
+
+<!-- image -->
+
+<!-- image -->
+
+Nevertheless, the differences in SOC can be clearly seen in Figures 3C-3F, where the images are color coded to the legend on the bottom, with the red color indicating more lithium removal resulting in a higher oxidation state for Ni and the blue color corresponding to less lithium extraction (i.e., less oxidized nickel). Although there are some differences in the total amount of lithium removal among the samples, the chemical heterogeneity, which is the focus of this study, is still clearly visible in all particles shown in Figure 3. For better statistics, 5-10 different fields of view (single or multiple particles in each view) were evaluated for each sample. Only two of the imaged fields of view are shown in Figure 3 but more data are presented in the supplemental information (Figure S1). It is obvious that the Ni K-edge shifted from lower energy to higher energy in the order of pristine, electrochemically charged, electrochemically discharged, and chemical delithiated samples, which is consistent with the estimates of lithium content from the coulometry and the ICP analysis.
+
+To better visualize the variation, we generated new sets of color maps based on the probability distribution of the local edge energy (histogram shown in Figure 3B). It has been reported recently that both Li-rich and Li-poor phases coexist in NMC-333 electrodes when cycled at very high rates (10-60 C). 17 In our study, a slow rate of 0.1 C and long relaxation times were used to avoid large overpotentials and to rule out the kinetically driven heterogeneity. Interestingly, SOC heterogeneity in the electrochemically treated secondary particles was still observed for every particle despite the low charging rate. An in situ XRD study of NMC622 indicates that the structure expands along the '' c '' direction while it contracts along the '' a '' direction upon charging to /C24 3.9 V (C.T. et al., unpublished data), which corresponds to the endpoint potentials of the electrochemically delithiated samples (both for the partially charged sample and the partially discharged sample) reported here. This anisotropic volume change within the primary particles leads to stress within the secondary particles and, subsequently, the disconnection and deactivation of the primary particles, causing lithium redistribution and SOC heterogeneity within the secondary particles. It is worth pointing out that the heterogeneity seen here is consistent with the observations of SOC heterogeneity reported by Gent et al. for charged NMC-333 secondary particles. 18 As shown in Figure 4, the chemical delithiation and electrochemical processes lead to similar degrees of heterogeneity in terms of the lithium distribution within and between particles. Many factors might lead to the heterogeneity, as listed in Table 1. In both cases, the penetration of liquid phase (i.e., the electrolytic solution for electrochemically treated samples and the oxidant for chemical delithiation) is likely inhomogeneous throughout the secondary particles, which is partly responsible for the non-uniformity. Furthermore, the redox processes drive anisotropic changes in the lattice structure, which can result in disconnection and, possibly, deactivation of primary particles. However, there are also some unique causes that differ between two methods. It is possible that the heterogeneity seen in the chemically delithiated sample is also due to the exposure of new surfaces induced by the microcracking in the secondary particles (Figure 1B). These new surfaces had a shorter exposure time to the oxidant medium (NO2BF4 solution) resulting in lower Ni oxidation states on these new surfaces (blue color, indicated by the arrows in Figure 4A). On the other hand, electrochemically treated secondary particles remained intact. However, the heterogeneity of the SOC for electrochemically treated samples can be attributed to the distribution of the electronic wiring and electrode configuration, which are not factors in chemical delithiation. Irrespective of the root causes of the heterogeneity, both chemical delithiation and electrochemical treatment result in similar SOC heterogeneities within and between secondary particles in the bulk.
+
+<!-- image -->
+
+<!-- image -->
+
+Figure 4. Color Mapping of Ni Oxidation State Heterogeneity
+
+<!-- image -->
+
+Color mapping of Ni oxidation state heterogeneity.
+
+(A-C) Color mapping of (A) chemically delithiated NMC-622, (B) electrochemically charged NMC622 electrode, and (C) electrochemically discharged NMC-622 electrode. The color mapping was determined using the statistical peak energy from Figure 3B as the center, and then /C0 1.5 eV (blue) and +1.5 eV (red) as the two ends. Multiple views (single or multiple particles in each view) were collected to avoid sample selection-related error. Arrows in (A) point to regions of microcracks, which are less oxidized than surrounding areas. Scale bars, 10 m m.
+
+## SOC Distribution for Chemical Delithiated Sample with a Mild Oxidant (Br2)
+
+As discussed earlier, NO2BF4 is a strong oxidant and releases NO2 gas during the delithiation process. The high oxidizing potential and the gas evolution may contribute to the observed SOC heterogeneity. For a comparison, we used a milder oxidant (Br2, which has an oxidizing potential of 4.1 V versus Li + /Li) as a control. As shown in Figure 5A, cracks are still observed in the chemically delithiated samples, even after treatment under these milder conditions. This rules out gas evolution from NO2BF4 as a primary reason for cracking of secondary particles in samples oxidized with this. Instead, the relatively high concentrations of NO2BF4 and Br2 used during the chemical delithiation may have led to the observed cracking due to rapid removal of lithium and the associated volume changes. Delithiation with Br2 as the oxidant resulted in removal of about half the lithium, similar to the conditions used with NO2BF4, as evidenced by comparing the Ni K-edge XANES spectra in Figure 5B, and the color mapping in Figure 5D (for the Br2 delithiated sample) and Figure 3D (for the NO2BF4 delithiated sample). (Increasing the amount of Br2 did not result in further removal of lithium, due to its fairly low oxidizing power.)
+
+<!-- image -->
+
+<!-- image -->
+
+Table 1. Comparison of Factors Leading to Heterogeneity for Chemically Delithiated and Electrochemically Treated Samples
+
+|                           | Primary Particle Level   | Secondary Particle Level                                       | Secondary Particle Level   | Secondary Particle Level       |
+|---------------------------|--------------------------|----------------------------------------------------------------|----------------------------|--------------------------------|
+|                           | Crystal Orientation      | Contact between Primary Particles (Anisotropic Lattice Change) | Electronic Wiring          | Diffusion (Liquid Penetration) |
+| Chemical delithiation     | yes                      | yes                                                            | no                         | yes                            |
+| Electrochemical treatment | yes                      | yes                                                            | yes                        | yes                            |
+
+More importantly, similar SOC heterogeneities were observed regardless of the oxidizing potential of the reactant. Figure 5C indicates that similar Ni oxidation state distributions (peak widths) were obtained with Br2 as with NO2BF4. To visualize the SOC heterogeneity, we determined the color mapping of the sample using the statistical peak energy from Figure 5C as the center and then /C0 1.5 eV (blue) and +1.5 eV (red) as the two end limits. The Br2 delithiated sample exhibited similar levels of SOC non-uniformity and particle-to-particle variations as those treated with NO2BF4 or electrochemically delithiated samples. Therefore, the SOC heterogeneity within secondary particles persists regardless of the reagent used for the chemical delithiation. Furthermore, it appears that chemical delithiation processes in general lead to similar bulk SOC distributions as electrochemical processes, although the causes differ.
+
+## Soft XAS Results
+
+Although the results of the FF-TXM experiments described above allowed us to visualize the distribution of nickel oxidation states throughout the bulk of these microsized particles, the chemical composition variation on the particle surface (several nanometers thick) cannot be detected using TXM due to the limited spatial resolution. It is common for transition metals in NMCs to exhibit a redox state gradient going from the surface (several nanometers thick) into the bulk after exposure to various conditions such as electrochemical charge, cycling, aging, or storage of pristine materials in electrolytic solution. 32 Reconstruction from a layered to a rock salt structure results in the reduction of metals at or near particle surfaces 33 and is driven by the higher reactivity of oxygen near the surface compared with that in the bulk (C.T. et al., unpublished data). It is therefore worthwhile comparing the surface properties of chemically delithiated and electrochemically prepared materials to observe whether there is a significant difference. The metal L-edge (2p to 3d transition) soft XAS is also sensitive to the oxidation state, the spin state, and the covalency. 34,35 The measurements with different detection modes offer complementary and depth-dependent information about the nickel oxidation states; total electron yield (TEY) probes about 5-10 nm into the surface while fluorescence yield (FY) probes 50100 nm (i.e., into the bulk). As shown in Figure 6, the nickel L-edge spectra have a L3 (2p3/2 / 3d, h n z 853 eV) and a L2 (2p1/2 / 3d, h n z 870 eV) region due to spinorbital coupling. Moreover, multiplet effects, crystal field strength, and spin-orbital polarization lead to changes in the shape of L3 and L2 peaks. 36 When the nickel oxidation state increases, the relative intensity for the higher energy peak (L3 high in Figure 6A) increases and the low energy peak (L3 low) decreases. Therefore, by monitoring the relative ratios of the intensities of these two peaks, we can qualitatively compare the oxidation states (Table 2). For ease of discussion, we define the L3 high/L3 low intensity ratio as g and D = g (FY) /C0 g (TEY). As expected, when lithium was removed either chemically or electrochemically, nickel was oxidized (i.e.,
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+Figure 5. Results on Samples Delithiated with BR2
+
+<!-- image -->
+
+(A) Scanning EM image of NMC-622 chemically delithiated with Br2. Inset: scanning EM image at higher magnification. Scale bar, 10 m m; inset, 1 m m.
+
+(B and C) Representative multiple pixels averaged XANES spectra (B) and histogram (C) of Ni K-edge shifts for NMC-622 chemically delithiated with NO2BF4 (red curve) and Br2 (purple curve) NMC-622 samples.
+
+(D) 2D mapping of Ni K-edge in NMC-622 chemically delithiated with Br2.
+
+Scale bars, 10
+
+m m.
+
+(E) Color mapping of NMC-622 chemically delithiated with Br2, where the color mapping was determined using the statistical peak energy from Figure 5C (purple curve) as the center, and then /C0 1.5 eV (blue) and +1.5 eV (red) as the two end limits. Scale bar, 10 m m.
+
+g increased) both on the surface as detected in TEY mode and in the bulk (FY mode). Even for the pristine sample, however, the average oxidation state of Ni on the surface is somewhat lower than that in the bulk ( D pristine = 0.27), as is seen commonly in Ni-rich layered oxides, depending upon their history. 37 In pristine NMC-622, the nominal average oxidation state of Ni is +2.67 (i.e.; about two-thirds of the Ni is trivalent and one-third is divalent), but trivalent Ni is readily reduced, 26 particularly on particle surfaces. For electrochemically charged and discharged samples, the discrepancies are larger: D values are 0.41 and 0.47, respectively. This indicates that at higher SOCs, where Ni is further oxidized in the bulk, NMCs are even more prone to surface reduction. This is consistent with previous observations of more severe surface reconstruction when NMCs are cycled to higher potential limits (4.7 V versus 4.3 V) in lithium half-cells (C.T. et al., unpublished data). Surprisingly, the sample chemically delithiated with NO2BF4, which had the highest SOC (i.e., highest average nickel oxidation state), only has a D value of 0.14. This value is much smaller than that of the electrochemically prepared samples and even that of the pristine material. This interesting finding indicates that the chemical delithiation results in a surface chemistry different from that of the electrochemical processes, even though heterogeneity in the bulk appears to be similar, as discussed above. The soft XAS results suggest that it is the interaction between highly oxidized nickel and electrolytic solution that leads to the surface reconstruction. Exposure to air during processing also can result in a small degree of surface reduction in the pristine material (this is concomitant with production of Li2O, which reacts with CO2 to form Li2CO3). During the chemical delithiation no reductant is present, so that the surface reconstruction is less likely to occur.
+
+<!-- image -->
+
+<!-- image -->
+
+Energy / eV
+
+Figure 6. Surface Characteristics of Samples as a Function of History
+
+(A-D) Ni L-edge XAS spectra of (A) pristine NMC-622, (B) NMC-622 chemically delithiated with NO2BF4, (C) electrochemically charged NMC-622 electrode, and (D) electrochemically discharged
+
+NMC-622 electrode collected using TEY (solid black curve) and FY (dashed red curve) modes.
+
+## Conclusions
+
+In conclusion, chemical delithiation and electrochemical charge and discharge result in similar bulk SOC heterogeneities within secondary particles and between primary particles. Both liquid penetration limits and the anisotropic changes in lattice parameters, which result in disconnection and deactivation of primary particles, are responsible for the non-uniformity. However, there are some differences. For chemical delithiation, anisotropic lattice parameter changes, gas formation, and the lack of binder (present for electrochemical delithiation) results in particle cracking, which creates fresh surfaces. The nickel ions at these new surfaces are less oxidized than at the originally exposed surfaces because of their shorter exposure time to the chemical oxidant. For the electrochemically prepared samples, the non-uniformity is partly attributable to disruptions in the electronic wiring and subsequent particle isolation. The surface chemistry of the chemically prepared sample also differed from that of the pristine material and the electrochemically charged or discharged samples. Ni L-edge soft XAS performed in two different modes, which probed surface and bulk oxidation states, showed that the Ni on particle surfaces was more reduced than that in the bulk for the pristine and electrochemically prepared samples, whereas there was much less discrepancy for the chemically delithiated material. Our results indicate that, while surface reconstruction plays a significant role in the surface chemistry of electrochemically delithiated or cycled samples, it does not
+
+<!-- image -->
+
+<!-- image -->
+
+Table 2. Relative L3 High to L3 Low Peak Intensity Ratio from Nickel L-Edge XAS Spectra
+
+| L 3 High/L 3 Low Intensity ( g )   |   Pristine |   Electrochemically Charged 50% |   Electrochemically Discharged 50% |   Chemical Delithiation 50% |
+|------------------------------------|------------|---------------------------------|------------------------------------|-----------------------------|
+| g TEY                              |       0.56 |                            0.87 |                               0.57 |                        1.64 |
+| g FY                               |       0.83 |                            1.28 |                               1.04 |                        1.78 |
+| D = g TEY g FY                     |       0.27 |                            0.41 |                               0.47 |                        0.14 |
+
+/C0
+
+occur to the same extent in chemically prepared materials. It further suggests strongly that interactions between the electrolytic solution and solid electrode particles play a role facilitating the undesired surface reconstruction.
+
+## EXPERIMENTAL PROCEDURES
+
+## Chemical Delithiation
+
+The pristine LiNi0.6Mn0.2Co0.2O2 (NMC-622) powder was provided by a third party. To prepare the 50% chemically delithiated sample, we mixed pristine powder with the oxidant (0.1 M NO2BF4 in acetonitrile medium or 0.05 M Br2 in acetonitrile medium) using a stoichiometric ratio inside the argon-filled glovebox. The mixture was stirred inside the glovebox for 24 hr before centrifuging. The powder was washed with pure acetonitrile four times between each centrifugation to remove any unreacted residue of NO2BF4 or Br2. The powder was finally dried in a vacuum oven and air exposure was avoided.
+
+## Electrochemical Processes
+
+NMC-622 powder, polyvinylidene fluoride (PVdF) (Kureha Chemical) in N-methyl-2pyrrolidinone (6%, wt%), and acetylene carbon black (Denka, 50% compressed), with solid matter ratios of 92:4:4 were mixed into a slurry and cast onto aluminum current collectors. The electrodes were first dried with an IR lamp and subsequently heated in a vacuum oven overnight at 120 /C14 C. Typical active material areal loadings were 4 mg cm /C0 2 . 2032-type coin cells were assembled in an argon-filled glovebox using these electrodes as the cathodes, Li metal foils as the negative electrodes, Celgard 2400 as the separator, and 1 M LiPF6 solution in 1:1 (v/v) ethylene carbonate/diethyl carbonate (EC-DEC; Novolyte Technologies) as the electrolytic solution. Galvanostatic cycling was performed at C/10, where 1 C is defined as the current corresponding to discharge of the theoretical capacity of NMC-622, i.e., 276 mAh g /C0 1 in 1 hr. The electrodes cycled to different stages were disassembled from the coin cells, rinsed with dimethyl carbonate, and dried in an argon-filled glovebox prior to post-characterization.
+
+## Materials Characterization
+
+Pristine and chemically delithiated powders were dissolved in concentrated nitric acid and analyzed with an ICP optical emission spectrometer (Perkin-Elmer Optima5400) to determine the chemical composition. Scanning electron microscopy (EM) was performed on a JEOL JSM-7000F with a Thermo Scientific energydispersive X-ray spectroscopy detector. For soft XAS experiments, samples were mounted on an aluminum sample holder with double-sided carbon tape in an argon-filled glovebox, and transferred in a double-contained jar to a glove bag purged with argon connected to the XAS load-lock chamber. Measurements were conducted on the bending magnet beamline 8-2 at Stanford Synchrotron Radiation Lightsource (SSRL) using a ring current of 500 mA and a 1,100 L mm /C0 1 spherical grating monochromator. The monochromator was operated with 40m m entrance and exit slits, providing /C24 2.0 3 10 10 ph s /C0 1 at 0.4 eV resolution in a 0.1 3 0.1-mm 2 beam spot. Data were acquired under ultrahigh vacuum (10 /C0 9 torr) in a
+
+<!-- image -->
+
+<!-- image -->
+
+single load at room temperature using TEY (measured by sample drain current) and FY (measured with an IRD AXUV-100 silicon diode) modes. All spectra were normalized by the current from a gold-evaporated fine grid positioned upstream of the main chamber. Hard XAS measurements were carried out in both transition and fluorescence modes at beamline 2-2 of SSRL. Calibration was applied to all spectra using the first inflection point of the corresponding Ni, Mn, or Co metal foil. XANES data were analyzed by Athena software. 38
+
+To visualize the subparticle-level SOC heterogeneity, we performed FF-TXM at beamline 6-2C of SSRL. Pristine powder and powder samples recovered from the electrodes were loaded into quartz capillary tubes with diameters of 100 m m and wall thicknesses of 10 m m. A stack of transmission images, with nominal spatial resolution at /C24 30 nm, were recorded as the energy of the incoming X-rays was scanned across the Ni absorption K edge. In the near-edge region, the energy step was set to be 1 eV for sufficient energy resolution. Over the pre-edge and post-edge regions, we scanned the energy at a larger step size of 10 eV in order to cover a wide energy window for normalization of the X-ray absorption spectra. 39 After initial data reduction using an in-house developed software package known as TXM-Wizard, 40 we effectively recovered over 20 million XANES spectra with each one of them associated with a unique pixel in the image. The shape of the spectra represents the local chemical fingerprints and can be used to quantify the Ni oxidation state over the corresponding pixels. More details of the experimental setup and the concept of the nanoscale spectro-microscopy can be found elsewhere. 41-43
+
+## SUPPLEMENTAL INFORMATION
+
+Supplemental Information includes one figure and can be found with this article online at https://doi.org/10.1016/j.joule.2017.12.008.
+
+## ACKNOWLEDGMENTS
+
+The submitted manuscript has been authored by a contractor of the U.S. Government under contract no. DE-AC02-05CH11231. Accordingly, the U.S. Government retains a nonexclusive royalty-free license to publish or reproduce the published form of this contribution, or allow others to do so, for U.S. Government purposes. This work was supported by the Assistant Secretary for Energy Efficiency and Renewable Energy, Office of Vehicle Technologies of the U.S. Department of Energy under contract no. DE-AC02-05CH11231. The synchrotron X-ray portions of this research were carried out at the SSRL, a Directorate of SLAC National Accelerator Laboratory and an Office of Science User Facility operated for the U.S. Department of Energy Office of Science by Stanford University. Use of the SSRL, SLAC National Accelerator Laboratory, is supported by the U.S. Department of Energy, Office of Science, Office of Basic Energy Sciences under contract no. DE-AC02-76SF00515. The support from D. Van Campen and D. Day for the experiments at beamlines 6-2C of SSRL is gratefully acknowledged. C.T. would like to thank Dr. Yanbao Fu for valuable suggestions and discussions. C.T. would also like to thank Justin Sirrine and Professor Tim Long from Virginia Tech for their kind of support of scanning EM characterization for the Br2 delithiated sample. This document was prepared as an account of work sponsored by the United States Government. While this document is believed to contain correct information, neither the United States Government nor any agency thereof, nor the Regents of the University of California, nor any of their employees, makes any warranty, express or implied, or assumes any legal responsibility for the accuracy, completeness, or usefulness of any information, apparatus, product, or process disclosed, or represents that its use would not infringe privately owned rights.
+
+<!-- image -->
+
+<!-- image -->
+
+Reference herein to any specific commercial product, process, or service by its trade name, trademark, manufacturer, or otherwise, does not necessarily constitute or imply its endorsement, recommendation, or favoring by the United States Government or any agency thereof, or the Regents of the University of California. The views and opinions of authors expressed herein do not necessarily state or reflect those of the United States Government or any agency thereof or the Regents of the University of California.
+
+## AUTHOR CONTRIBUTIONS
+
+Conceptualization, C.T., Y.L., and M.D.; Methodology, C.T., Y.X., D.N., Z.S., F.L., J.L., and Y.L.; Investigation, C.T., Y.X., D.N., Z.S., F.L., J.L., and Y.L.; Formal Analysis, C.T., Y.L., and D.N.; Writing - Original Draft, C.T.; Writing - Review and Editing, C.T., Y.X., D.N., Z.S., F.L., J.L., Y.L., and M.D.; Visualization, C.T., Y.L., and D.N.; Funding Acquisition, M.D.; Supervision, M.D., Y.L., and D.N.
+
+## DECLARATION OF INTERESTS
+
+The authors declare no competing interests.
+
+Received: August 24, 2017
+
+Revised: November 20, 2017
+
+Accepted: December 14, 2017
+
+Published: January 18, 2018
+
+## REFERENCES
+
+1. Harris, S.J., Timmons, A., Baker, D.R., and Monroe, C. (2010). Direct in situ measurements of Li transport in Li-ion battery negative electrodes. Chem. Phys. Lett. 485 , 265-274.
+2. Kerlau, M., Marcinek, M., Srinivasan, V., and Kostecki, R.M. (2007). Studies of local degradation phenomena in composite cathodes for lithium-ion batteries. Electrochim. Acta 53 , 1385-1392.
+3. Maire, P., Evans, A., Kaiser, H., Scheifele, W., and Nova ´k, P. (2008). Colorimetric determination of lithium content in electrodes of lithium-ion batteries. J. Electrochem. Soc. 155 , A862-A865.
+4. Murayama, H., Kitada, K., Fukuda, K., Mitsui, A., Ohara, K., Arai, H., Uchimoto, Y., Ogumi, Z., and Matsubara, E. (2014). Spectroscopic x-ray diffraction for microfocus inspection of Li-Ion batteries. J. Phys. Chem. C 118 , 20750-20755.
+5. Nakamura, T., Watanabe, T., Amezawa, K., Tanida, H., Ohara, K., Uchimoto, Y., and Ogumi, Z. (2014). Evaluation of the effective reaction zone in a composite cathode for lithium ion batteries. Solid State Ionics 262 , 66-69.
+6. Nakamura, T., Watanabe, T., Kimura, Y., Amezawa, K., Nitta, K., Tanida, H., Ohara, K., Uchimoto, Y., and Ogumi, Z. (2017). Visualization of inhomogeneous reaction distribution in the model LiCoO2 composite electrode of lithium ion batteries. J. Phys. Chem. C 121 , 2118-2124.
+7. Nishi, T., Nakai, H., and Kita, A. (2013). Visualization of the state-of-charge distribution in a LiCoO2 cathode by in situ raman imaging. J. Electrochem. Soc. 160 , A1785-A1788.
+8. Sasaki, T., Villevieille, C., Takeuchi, Y., and Nova ´ k, P. (2015). Understanding inhomogeneous reactions in Li-Ion batteries: operando synchrotron x-ray diffraction on twolayer electrodes. Adv. Sci. (Weinh.) 2 , 1500083.
+9. Liu, J., Kunz, M., Chen, K., Tamura, N., and Richardson, T.J. (2010). Visualization of charge distribution in a lithium battery electrode. J. Phys. Chem. Lett. 1 , 2120-2123.
+10. Chueh, W.C., El Gabaly, F., Sugar, J.D., Bartelt, N.C., McDaniel, A.H., Fenton, K.R., Zavadil, K.R., Tyliszczak, T., Lai, W., and McCarty, K.F. (2013). Intercalation pathway in many-particle LiFePO4 electrode revealed by nanoscale state-of-charge mapping. Nano Lett. 13 , 866-872.
+11. Li, Y., El Gabaly, F., Ferguson, T.R., Smith, R.B., Bartelt, N.C., Sugar, J.D., Fenton, K.R., Cogswell, D.A., Kilcoyne, A.L.D., Tyliszczak, T., et al. (2014). Current-induced transition from particle-by-particle to concurrent intercalation in phase-separating battery electrodes. Nat. Mater. 13 , 1149-1156.
+12. Lim, J., Li, Y., Alsem, D.H., So, H., Lee, S.C., Bai, P., Cogswell, D.A., Liu, X., Jin, N., Yu, Y.S., et al. (2016). Origin and hysteresis of lithium compositional spatiodynamics within battery primary particles. Science 353 , 566-571.
+13. Kuppan, S., Xu, Y., Liu, Y., and Chen, G. (2017). Phase transformation mechanism in lithium manganese nickel oxide revealed by singlecrystal hard X-ray microscopy. Nat. Commun. 8 , 14309.
+14. Xu, Y., Hu, E., Zhang, K., Wang, X., Borzenets, V., Sun, Z., Pianetta, P., Yu, X., Liu, Y., Yang, X.-Q., et al. (2017). In situ visualization of stateof-charge heterogeneity within a LiCoO2
+15. particle that evolves upon cycling at different rates. ACS Energy Lett. 2 , 1240-1245.
+15. Laffont, L., Delacourt, C., Gibot, P., Yue Wu, M., Kooyman, P., Masquelier, C., and Tarascon, J.M. (2006). Study of the LiFePO4/FePO4 twophase system by high-resolution electron energy loss spectroscopy. Chem. Mater. 18 , 5520-5529.
+16. Orikasa, Y., Maeda, T., Koyama, Y., Murayama, H., Fukuda, K., Tanida, H., Arai, H., Matsubara, E., Uchimoto, Y., and Ogumi, Z. (2013). Direct observation of a metastable crystal phase of Li x FePO4 under electrochemical phase transition. J. Am. Chem. Soc. 135 , 5497-5500.
+17. Zhou, Y.N., Yue, J.L., Hu, E., Li, H., Gu, L., Nam, K.W., Bak, S.M., Yu, X., Liu, J., Bai, J., et al. (2016). High-rate charging induced intermediate phases and structural changes of layer-structured cathode for lithium-ion batteries. Adv. Energy Mater. 6 , 1600597.
+18. Gent, W.E., Li, Y., Ahn, S., Lim, J., Liu, Y., Wise, A.M., Gopal, C.B., Mueller, D.N., Davis, R., Weker, J.N., et al. (2016). Persistent state-ofcharge heterogeneity in relaxed, partially charged Li1 /C0 x Ni1/3Co1/3Mn1/3O2 secondary particles. Adv. Mater. 28 , 6631-6638.
+19. Chen, G., and Richardson, T.J. (2010). Continuity and performance in composite electrodes. J. Power Sources 195 , 5387-5390.
+20. Nanda, J., Remillard, J., O'Neill, A., Bernardi, D., Ro, T., Nietering, K.E., Go, J.Y., and Miller, T.J. (2011). Local state-of-charge mapping of lithium-ion battery electrodes. Adv. Funct. Mater. 21 , 3282-3290.
+
+<!-- image -->
+
+<!-- image -->
+
+21. Yan, B., Lim, C., Yin, L., and Zhu, L. (2012). Three dimensional simulation of galvanostatic discharge of LiCoO2 cathode based on X-ray nano-CT images. J. Electrochem. Soc. 159 , 1604-1614.
+22. Lee, E.J., Chen, Z., Noh, H.J., Nam, S.C., Kang, S., Kim, D.H., Amine, K., and Sun, Y.K. (2014). Development of microstrain in aged lithium transition metal oxides. Nano Lett. 14 , 48734880.
+23. Deb, A., Bergmann, U., Cramer, S.P., and Cairns, E.J. (2005). In situ x-ray absorption spectroscopic study of the Li[Ni1/3Co1/3Mn1/3] O2 cathode material. J. Appl. Phys. 97 , 113523.
+24. Manthiram, A., Song, B., and Li, W. (2017). A perspective on nickel-rich layered oxide cathodes for lithium-ion batteries. Energy Storage Mater. 6 , 125-139.
+25. Rumble, C., Conry, T.E., Doeff, M., Cairns, E.J., Penner-Hahn, J.E., and Deb, A. (2010). Structural and electrochemical investigation of Li(Ni0.4Co0.15Al0.05Mn0.4)O2 cathode material. J. Electrochem. Soc. 157 , A1317-A1322.
+26. Xu, J., Lin, F., Doeff, M.M., and Tong, W. (2017). A review of Ni-based layered oxides for rechargeable Li-ion batteries. J. Mater. Chem. A 5 , 874-901.
+27. Yoon, W.S., Balasubramanian, M., Chung, K.Y., Yang, X.Q., McBreen, J., Grey, C.P., and Fischer, D.A. (2005). Investigation of the charge compensation mechanism on the electrochemically Li-ion deintercalated Li1-xCo1/3Ni1/3Mn1/3O2 electrode system by combination of soft and hard X-ray absorption spectroscopy. J. Am. Chem. Soc. 127 , 1747917487.
+28. Balasubramanian, M., McBreen, J., Davidson, I.J., Whitfield, P.S., and Kargina, I. (2002). In situ X-Ray absorption study of a layered
+9. manganese-chromium oxide-based cathode material. J. Electrochem. Soc. 149 , A176-A184.
+29. Yoon, W.S., Paik, Y., Yang, X.Q., Balasubramanian, M., McBreen, J., and Grey, C.P. (2002). Investigation of the local structure of the LiNi0.5Mn0.5O2 cathode material during electrochemical cycling by x-ray absorption and NMR spectroscopy. Electrochem. SolidState Lett. 5 , A263-A266.
+30. Hwang, B.J., Tsai, Y.W., Carlier, D., and Ceder, G. (2003). A combined computational/ experimental study on LiNi1/3Co1/3Mn1/3O2. Chem. Mater. 15 , 3676-3682.
+31. Choi, J., Alvarez, E., Arunkumar, T.A., and Manthiram, A. (2006). Proton insertion into oxide cathodes during chemical delithiation. Electrochem. Solid-State Lett. 9 , A241-A244.
+32. Lin, F., Nordlund, D., Markus, I.M., Weng, T.C., Xin, H.L., and Doeff, M.M. (2014). Profiling the nanoscale gradient in stoichiometric layered cathode particles for lithium-ion batteries. Energy Environ. Sci. 7 , 3077-3085.
+33. Lin, F., Markus, I.M., Nordlund, D., Weng, T.C., Asta, M.D., Xin, H.L., and Doeff, M.M. (2014). Surface reconstruction and chemical evolution of stoichiometric layered cathode materials for lithium-ion batteries. Nat. Commun. 5 , 3529.
+34. Yang, W., and Qiao, R. (2016). Soft x-ray spectroscopy for probing electronic and chemical states of battery materials. Chin. Phys. B 25 , 17104.
+35. Yang, W., Liu, X., Qiao, R., Olalde-Velasco, P., Spear, J.D., Roseguo, L., Pepper, J.X., Chuang, Y.D., Denlinger, J.D., and Hussain, Z. (2013). Key electronic states in lithium battery materials probed by soft X-ray spectroscopy. J. Electron. Spectros. Relat. Phenom. 190 , 64-74.
+36. de Groot, F.M.F. (1995). Differences between L3 and L2 X-ray-absorption spectra. Phys. B Condens. Matter 208-209 , 15-18.
+37. Xu, J., Lin, F., Nordlund, D., Crumlin, E.J., Wang, F., Bai, J., Doeff, M.M., and Tong, W. (2016). Elucidation of the surface characteristics and electrochemistry of high-performance LiNiO2. Chem. Commun. (Camb.) 52 , 42394242.
+38. Ravel, B., and Newville, M. (2005). ATHENA, ARTEMIS, HEPHAESTUS: data analysis for X-ray absorption spectroscopy using IFEFFIT. J. Synchrotron Radiat. 12 , 537-541.
+39. Weng, T.C., Waldo, G.S., and Penner-Hahn, J.E. (2005). A method for normalization of X-ray absorption spectra. J. Synchrotron Radiat. 12 , 506-510.
+40. Liu, Y., Andrews, J.C., Meirer, F., Mehta, A., Carrasco Gil, S., Sciau, P., Mester, Z., Pianetta, P., and Meirer, F. (2011). Applications of hard x-ray full-field transmission x-ray microscopy at SSRL. AIP Conf. Proc. 1365 , 357.
+41. Liu, Y., Meirer, F., Williams, P.A., Wang, J., Andrews, J.C., and Pianetta, P. (2012). TXMWizard : a program for advanced data collection and evaluation in full-field transmission X-ray microscopy. J. Synchrotron Radiat. 19 , 281-287.
+42. Liu, Y., Andrews, J.C., Wang, J., Meirer, F., Zhu, P., Wu, Z., and Pianetta, P. (2011). Phase retrieval using polychromatic illumination for transmission X-ray microscopy. Opt. Express 19 , 540-545.
+43. Meirer, F., Cabana, J., Liu, Y., Mehta, A., Andrews, J.C., and Pianetta, P. (2011). Threedimensional imaging of chemical phase transformations at the nanoscale with full-field transmission X-ray microscopy. J. Synchrotron Radiat. 18 , 773-781.
+
+<!-- image -->
+
+TABLES:
+------------------------------
+
+Table 1:
+Caption: 
+Content: |                           | Primary Particle Level   | Secondary Particle Level                                       | Secondary Particle Level   | Secondary Particle Level       |
+|---------------------------|--------------------------|----------------------------------------------------------------|----------------------------|--------------------------------|
+|                           | Crystal Orientation      | Contact between Primary Particles (Anisotropic Lattice Change) | Electronic Wiring          | Diffusion (Liquid Penetration) |
+| Chemical delithiation     | yes                      | yes                                                            | no                         | yes                            |
+| Electrochemical treatment | yes                      | yes                                                            | yes                        | yes                            |
+
+Table 2:
+Caption: 
+Content: | L 3 High/L 3 Low Intensity ( g )   |   Pristine |   Electrochemically Charged 50% |   Electrochemically Discharged 50% |   Chemical Delithiation 50% |
+|------------------------------------|------------|---------------------------------|------------------------------------|-----------------------------|
+| g TEY                              |       0.56 |                            0.87 |                               0.57 |                        1.64 |
+| g FY                               |       0.83 |                            1.28 |                               1.04 |                        1.78 |
+| D = g TEY g FY                     |       0.27 |                            0.41 |                               0.47 |                        0.14 |

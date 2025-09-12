@@ -1,0 +1,267 @@
+Simple Docling Extracted Data from: XAS Investigation of inhomogeneous Metal-Oxygen bond covalency in bulk and surface for NMC.pdf
+============================================================
+
+Title: XAS Investigation of inhomogeneous Metal-Oxygen bond covalency in bulk and surface for NMC
+Pages: 10
+Tables: 0
+Figures: 0
+
+MAIN TEXT:
+------------------------------
+XAS Investigation of Inhomogeneous MetalOxygen Bond Covalency in Bulk and Surface for Charge Compensation in Li-Ion Battery Cathode Li [ Ni 1 ∕ 3 Co 1 ∕ 3 Mn 1 ∕ 3 ] O 2 Material
+
+To cite this article: Min Gyu Kim et al 2005 J. Electrochem. Soc. 152 A1320
+
+View the article online for updates and enhancements.
+
+## ECC-Opto-10 Optical Battery Test Cell: Visualize the Processes Inside Your Battery!
+
+- Battery Test Cell for Optical Characterization Designed for light microscopy; Raman spectroscopy and XRD.
+- Optimized, Low Profile Cell Design (Device Height 21.5 mm) Low cell height for high compatibility; fits on standard samples stages.
+- High Cycling Stability and Easy Handling Dedicated sample holders for different electrode arrangements included!
+
+<!-- image -->
+
+## You may also like
+
+- Characterization of LSM-YSZ Composites Prepared by Impregnation Methods Yingyi Huang, John M. Vohs and Raymond J. Gorte -
+- Additives for Stabilizing LiPF 6 -Based Electrolytes Against Thermal Decomposition Wentao Li, Christopher Campion, Brett L. Lucht et al. -
+- Electrochemical Oxidation of H 2 and H 2 CO Mixtures in Higher Temperature ( T cell 100 ° C ) Proton Exchange Membrane Fuel Cells: Electrochemical Impedance Spectroscopy -
+
+Ruichun Jiang, H. Russell Kunz and
+
+- James M. Fenton
+- Cell Lids with Different Openings and Window Materials Available
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+## Contact us:
+
+<!-- image -->
+
++49 40 79012-734
+
+<!-- image -->
+
+sales@el-cell.com
+
+- WWW.el-cell.com
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+## XAS Investigation of Inhomogeneous Metal-Oxygen Bond Covalency in Bulk and Surface for Charge Compensation in Li-Ion Battery Cathode Li GLYPH&lt;134&gt; Ni1/3 Co 1/3 Mn 1/3 GLYPH&lt;135&gt; O 2 Material
+
+Min Gyu Kim, a Hyun Joon Shin, a Jung-Hyun Kim, b Sang-Ho Park, b, * and Yang-Kook Sun b, ** ,z
+
+a Beamline Research Division, Pohang Accelerator Laboratory, Pohang University of Science and Technology, Pohang 790-784, Korea
+
+b
+
+Department of Chemical Engineering, Center for Information and Communication Materials, Hanyang
+
+University, Seongdong-gu, Seoul 133-791, Korea
+
+Layered Li f Ni1/3 Co 1/3 Mn 1/3 g O 2 was prepared by ultrasonic spray pyrolysis. The discharge capacity increases linearly with increases of the upper cutoff voltage limit. Layered Li f Ni1/3 Co 1/3 Mn 1/3 g O 2 attained a high discharge capacity of over 200 mAh g -1 between 2.8 and 4.6 V with an excellent cyclability. An in situ transition metal ~ TM ! K-edge X-ray absorption spectroscopic ~ XAS ! study was carried out to investigate the electronic and the local structures of the delithiated-relithiated Li f Ni1/3 Co 1/3 Mn 1/3 g O 2 system compared with surface-sensitive soft XAS of oxygen K-edge and TM L-edges. The bulk-sensitive TM K-edge XAS analysis shows that the charge compensation is made through the formation of Ni 2+ ↔ Ni 4+ and Co 3+ ↔ Co 4+ during the delithiation-relithiation process. However, the soft TM L-edges XAS indicate that the Ni 2+ in the electrochemical untreated sample prefers to be oxidized to Ni 3+ , not Ni 4+ , in the surface region of delithiated material. The bond covalency between TM and oxygen, especially the oxygen 2p hole state by ligand-to-metal charge transfer, plays an important role in the charge compensation. The TM K- and L-edge XAS results suggest that an inhomogeneous chemical state was induced along direction of electrochemical reaction.
+
+© 2005 The Electrochemical Society. @ DOI: 10.1149/1.1926647 # All rights reserved.
+
+Manuscript submitted November 29, 2004; revised manuscript received January 19, 2005. Available electronically May 26, 2005.
+
+forbidden transition. From the peak position and intensity of the TM K-edge X-ray absorption near edge structure ~ XANES ! , it has been reported that the Li-ion deintercalation leads to the increase of the average oxidation state of the metal ion and local structural distortion around the central atom.
+
+Rechargeable lithium secondary batteries with high energy density and power capability are used to power portable electronic devices such as cellular phones and laptop computers and more recently electric vehicles. The use of layered lithium transition metal ~ TM ! oxides, LiMO 2 ~ M = Co, Ni, Mn ! with a hexagonal structure, as cathode materials for lithium secondary rechargeable batteries has grown over the past few years. LiCoO 2 has been commercialized but still has some practical drawbacks such as its high cost and toxicity. Layered LiNiO 2 and LiMnO 2 have been extensively studied as possible alternatives to LiCoO 2. Although there has been much progress in optimizing the two materials, there are still problems for practical applications. LiNiO 2 cannot be used in its current form because it is known to be difficult to synthesize in the stoichiometric form and delithiated Li 1x NiO 2 decomposes exothermally at around 200°C. 1-3 Also, LiMnO 2 undergoes a detrimental phase transformation spinel-like phase through minor atomic rearrangements, leading to an eventual deterioration of electrode performance. 4,5
+
+Recently, the concept of a one-to-one solid solution of LiCoO 2, LiNiO 2 , and LiMnO 2, i.e. , Li f Ni1/3 Co 1/3 Mn 1/3 g O 2, was adopted by Ohzuku et al. to overcome the drawbacks of LiCoO 2 , LiNiO 2, and LiMnO 2. 6 Li f Ni1/3 Co 1/3 Mn 1/3 g O 2 has an a -NaFeO 2 structure with a space group R 3 ¯ m , which is the same as those of the layered LiCoO 2 and LiNiO2 structures and has a large capacity of more 150 mA h g -1 in the voltage range of 2.5-4.2 V with excellent cyclability. 7
+
+Extensive research on the electronic structure of the Li-ion cathode material has been carried out with X-ray absorption spectroscopy ~ XAS ! . XAS has been used for structure refinement on the transition metal ion of the cathode. In particular, XAS study of electrochemical reactions has been done from the viewpoint of the transition metal ion. 8-11 The absorption peak features of the TM K-edge XAS include useful structural information, such as the oxidation state of the chemical species, their site symmetries, and covalent bond strength. The small pre-edge peak has been used to infer the electronic structure of the central atom because the transition is very sensitive to chemical environments despite the electric
+
+* Electrochemical Society Student Member.
+
+** Electrochemical Society Active Member.
+
+z E-mail: yksun@hanyang.ac.kr
+
+to than Recent research has focused on the role of the oxygen ion in charge. In these studies combined TM and oxygen K-edge X-ray absorption spectroscopies have been employed. 12,13 In addition to the oxidation state variation of TM ion, the spectral variation during electrochemical reaction has been considered to be due to the rehybridization of TM 3d and oxygen 2p orbitals, namely, charge redistribution between TM and oxygen ions. 14,15 However, TM K-edge XANES themselves do not give any direct information about the role of oxygen in the charge compensation process. The role of the oxygen atom can only be indirectly inferred from the peak intensity of the electronic transition of the 1s electron to the 4p orbital with the shakedown process. 8 In the K-edge XANES spectra of transition metal TM oxides, the emergence of a shoulder peak below the white line has been explained by the covalent bonding character between the TM ~ 3d ! -O ~ 2p ! bond. The peak feature indicates/represents a covalent u 3d n +1 L I l state ~ where L I means a hole state in oxygen 2p band ! in the electronic configuration of ground state as well as an ionic u 3d n l state, which is due to the ligand-to-metal charge-transfer ~ LMCT ! process. For much higher covalent bond character, the u 3d n +1 L I l state contributes on the ground state more than u 3d n l states in the configuration of a u 3d n l + b u 3d n +1 L I ls a 2 + b 2 , 1 d . The shoulder peak is changed by the LMCT process. Therefore, the contribution ~ r le ! of oxygen ion to the charge compensation process through the electrochemical behavior can be investigated indirectly.
+
+the dipoleThe quantitative study of electronic structures of various transition metal oxides has been carried out using the soft XAS technique. 16-19 Direct information about the unoccupied molecular level can be obtained from the intense absorption peaks of the first transition metal L II,III -edges XAS representing the electric dipole-allowed 2p → 3d transition, unlike the weak pre-edge peak of 1s → 3d transition in K-edge XAS. The electric dipole-allowed 1s → 2p transition of oxygen K-edge XAS also provides a direct probe of the oxygen charge state and bonding interaction, because the 2p orbitals of the oxygen ligand are involved in bonding configuration with metal ions under octahedral symmetry. The charac-
+
+teristic pre-edge features in this oxygen K-edge correspond to the electronic transition from the oxygen 1s core electron to the unoccupied molecular level by the hybridization of the 3d orbital with the oxygen 2p orbital. Therefore, the spectroscopic application of these soft X-ray absorptions to the electrochemical delithiatedrelithiated system can be a useful tool that estimates the degree of oxygen contribution for the charge compensation in the electrochemical process. 12-15
+
+beam Figure 1. XRD pattern of Li f Ni1/3 Co 1/3 Mn 1/3 g O 2 powders.
+
+<!-- image -->
+
+The application of soft TM L-edge and oxygen K-edge XAS requires careful analysis because the technique gives a very surfacesensitive structure, unlike TM K-edge XAS, which reveals the bulk structural property. The bulk structure does not always agree with the surface structure. This is because the penetration depth of TM K-edge X-ray is deeper due to a higher energy that is more than several thousands of electron volts and the probing depth/electron escape depth is on the order of micrometers from the surface. The soft X-ray energy of TM L-edges and oxygen K-edge is several hundred electron volts, and the probing depth/electron escape depth is , 100Å from the surface. The probing depth/electron escape depth depends on the nature of materials and incident angle. 20-22 Therefore, combined L-edge and K-edge spectroscopic study of transition metal oxides can be a powerful tool to analyze bulk and surface structure simultaneously. 16-19
+
+In this work, the electronic structure of Li f Ni1/3 Co 1/3 Mn 1/3 g O 2 system was investigated by comparing the results from transition metal L-edges and oxygen K-edge XAS studies with those from transition metal K-edge XAS. In this manner, a better understanding of the electronic structure of electrochemically delithiated-relithiated Li f Ni1/3 Co 1/3 Mn 1/3 g O 2 systems can be obtained.
+
+## Experimental
+
+Li f Ni1/3 Co 1/3 Mn 1/3 g O 2 was prepared as follows: Lithium nitrate ~ LiNO 3, Aldrich ! , nickel nitrate hexahydrate @ Ni s NO 3 d ·6H2O, Aldrich # , cobalt nitrate hexahydrate @ Co s NO 3 d 2·6H2O, Aldrich # , manganese nitrate tetrahydrate @ Mn s NO 3 d 2·4H2O, Sigma # salts were used as starting materials. A stoichiometric amount of Li, Ni, Co, and Mn nitrate salts ~ cationic ratio of Li:Ni:CO:Mn = 1:1/3:1/3:1/3 ! was dissolved in distilled water. The dissolved solution was added into a continuously agitated aqueous citric acid solution. The molar ratio of total metal ions to citric acid was fixed at 0.2. The starting solution was atomized using an ultrasonic nebulizer with a resonant frequency of 1.7 MHz. The aerosol stream was introduced into the vertical quartz reactor heated at 500°C. The flow rate of air used as a carrier gas was 10 L min -1 . The prepared powders were heated to 900°C for 20 h in a box furnace. Powder X-ray diffraction ~ XRD, Rint-2000, Rigaku ! measurements using Cu K a radiation was employed to identify the crystalline phase of the synthesized material. Rietveld refinement was then performed on the XRD profiles to obtain lattice parameters.
+
+the Source ~ PLS ! which is a third-generation synchrotron radiation source. 23 A Si ~ 311 ! double-crystal monochromator has been employed to monochromatize the X-ray photon energy. Higher order harmonic contaminations were eliminated by detuning the monochromator to reduce the incident X-ray intensity by , 30%. The incident X-ray intensity was monitored with pure nitrogen gas-filled ionization chambers. The spectroscopic data was collected in the transmittance mode. Energy calibration was done with each metal standard foil. The data reduction of the experimental spectra was performed by the standard procedure reported previously. The measured absorption spectra below the pre-edge region were fitted to a straight line, and then the background contribution above the postedge region was chosen using a third-order polynomial fitting. The polynomials of extrapolated background were subtracted from the total absorption spectra and then the background-subtracted absorption spectra were normalized for the post-edge energy region.
+
+Soft XAS measurements were performed on a U7 beamline at the PLS. The U7 beamline, which consists of a 4.3 m long, 7 cm period undulator and a variable-included angle plane-grating monochromator, provides highly brilliant and monochromatic linearpolarized soft X-ray for the high-resolution spectroscopy. 24 The oxygen K-edge and TM L II,III -edge XAS data were taken in a total electron yield mode while recording the sample current. The experimental spectra were normalized by a reference signal from Au mesh with 90% transmission. The energy calibrations for oxygen K-edge and TM L II,III -edge were made using the L-edge data of pure metal foils. According to the measured photon absorption spectra specified as the inner shell electronic excitation for the Ar, N 2, and Ne gases, the energy-resolving power s E / D E d in the entire measurement range was greater than 3000. The base pressure of the experiment chamber was in the 10 -8 mbar range.
+
+## Results and Discussion
+
+The powder XRD pattern of Li f Ni1/3 Co 1/3 Mn 1/3 g O 2 is shown in Fig. 1. The observed diffraction lines could be indexed according to the R 3 ¯ m space group of a hexagonal a -NaFeO 2 structure in which layers of lithium atoms alternate with layers containing mixtures of nickel, cobalt, and manganese atoms. The XRD pattern shows a large integrated peak ratio I 003/ I 104 of 1.48. The significant splitting of the s 006 d / s 102 d and s 108 d / s 110 d doublets indicates the formation of a highly ordered layered structure, which suggests a good siteordering of Li and Ni/Co/Mn cations in the hexagonal packing with small amounts of cation mixing. The hexagonal lattice parameters of Li f Ni1/3 Co 1/3 Mn 1/3 g O 2 were determined to be a = 2.863 s 7 d Å and c = 14.255 s 7 d Å, calculated by Rietveld refinement from the XRD data, which are consistent with values reported earlier. 6
+
+Galvanostatic charge/discharge cycling was performed in a 2032type coin cell ~ Hohsen Co., Ltd., Japan ! . For the fabrication of the positive electrode, 20 mg of Li f Ni1/3 Co 1/3 Mn 1/3 g O 2 was mixed with 12 mg of conductive binder ~ 8 mg of Teflonized acetylene black and 4 mg of graphite ! . The mixture was pressed onto 200 mm 2 stainless steel mesh used as the current collector and dried at 130°C for 10 h in a vacuum oven. For the in situ XAS measurement, a cathode comprising the LiNi 1/3 Co 1/3 Mn 1/3 O 2 powder, carbon black, and poly ~ vinyl difluoride ! ~ PVdF ! in 80:10:10 weight ratio was coated on an aluminum foil current collector. The cathode was assembled in an aluminum pouch ~ coated with nylon and polypropylene ! with ~ a ! lithium metal foil anode and 1 M LiPF 6 in a mixture of ethylene carbonate ~ EC ! and diethyl carbonate ~ DEC ! in a 1:1 volume ratio under a dry argon atmosphere. The fabricated ~ s ! cell had a thickness of , 350 m m.
+
+Mn, Co, and Ni K-edge XAS of the Li 1x Mn 1/3 Co 1/3 Ni1/3 O 2 were taken on BL7C1 ~ Electrochemistry ! beamline in a storage ring of 2.5 GeV with a ring current of 120-170 mA at the Pohang Light
+
+Figure 3. CV of Li/Li f Ni1/3 Co 1/3 Mn 1/3 g O 2 cell between 2.5 and 4.6 V at a scan rate of 100 m V s -1 . The samples for in situ XANES spectra measurements are revealed as the numeric points.
+
+<!-- image -->
+
+<!-- image -->
+
+Figure 2. ~ a ! Charge/discharge curves of Li/Li f Ni1/3 Co 1/3 Mn 1/3 g O 2 cell at 30ºC. ~ b ! Corresponding specific discharge capacity in various ranges at a constant current density of 0.2 mA cm -2 .
+
+could be related to the initial activation process and/or stabilization. Also, there are no redox peak changes after five cycles, implying that structural degradation would not be expected during the delithiation/relithiation process of the Li f Ni1/3 Co 1/3 Mn 1/3 g O 2 electrode. These electrochemical behaviors are closely related to the local structures around the transition metal ions within the octahedral layers. The present Li f Ni1/3 Co 1/3 Mn 1/3 g O 2 includes three kinds of transition metal ions in solid solution which are used to selectively investigate the local structure with Li-ion content. Therefore, atomic-sensitive XAS is a powerful tool to analyze electronic and local geometric structures of ternary TM oxides. The numeric points for the in situ X-ray absorption five structure ~ XAFS ! measurements are shown in Fig. 3.
+
+Figure 2a is the charge/discharge curve Li/Li f Ni1/3 Co 1/3 Mn 1/3 g O 2 cell cycled at various voltage at a constant current density of 0.2 mA cm -2 s 20 mA g -1 d . The Li/Li f Ni1/3 Co 1/3 Mn 1/3 g O 2 cell has a very smooth and monotonous voltage curve which is similar to the voltage profiles reported by other researchers. 6,7 The charge/discharge curves do not change even up to 4.6 V. Figure 2b shows the charge/discharge curves and specific discharge capacities for the Li/Li f Ni1/3 Co 1/3 Mn 1/3 g O 2 cell as a function of various cutoff voltages between 2.8 and 4.3, 4.4, 4.5, and 4.6 V. The discharge capacities increased linearly with the increase of the upper cutoff voltage limit. In the voltage range of 2.8-4.3, 4.4, 4.5, and 4.6 V, the corresponding discharge capacities of the Li f Ni1/3 Co 1/3 Mn 1/3 g O 2 electrodes were 163, 175, 189, and 204 mAh g -1 , respectively, and these electrodes still show cyclability.
+
+Figure 3 shows the cyclic voltammogram ~ CV ! of a Li/Li f Ni1/3 Co 1/3 Mn 1/3 g O 2 cell for the first five cycles between 2.5 and 4.6 with a scan rate of 100 m V s -1 . The first oxidation peak was slightly different from the subsequent ones. The first oxidation peak consists of two peaks, which are the major peak centered at 3.93 V and the minor one at 4.55 V, corresponding to the irreversible capacity observed in the first charge profile. The peak at 3.93 V in the first oxidation peak is shifted by 0.075 V to the lower voltage region and remains unchanged on subsequent cycling. This phenomenon for ranges good Mn, Co, and Ni K-edge XANES spectra for the Li f Ni1/3 Co 1/3 Mn 1/3 g O 2 during the charge-discharge process are shown in Fig. 4. For the electrochemical untreated sample, weak absorption peaks A at each central atom represent the transition of 1s electron to an unoccupied molecular orbital of t 2g 3 e g 0 electronic configuration for Mn 4+ ion, t 2g 6 e g 0 for Co 3+ ion, and t 2g 6 e g 2 for Ni 2+ ion, respectively. Although the 1s → 3d transition is an electric dipole-forbidden transition in ideal octahedral symmetry, the appearance of a weak absorption peak is due to the 3d-4p orbital mixing in a noncentrosymmetric environment of a slightly distorted octahedral 3a site under the space group R 3 ¯ m . The peaks B and C appear due to the electric dipole-allowed transition of a 1s core electron to an unoccupied 4p bound state with T 1u symmetry. The peak features correspond to two final states of a 1s 1 c3d n +1 L I 4p 1 ~ n = 3 for Mn 4+ , n = 6 for Co 3+ , and n = 8 for Ni 2+ ! with shakedown process by LMCT and a 1s 1 c 3d n 4p 1 without shakedown process, where c and L I represent a 1s core hole and an oxygen 2p ligand hole. The peak B occurs as a shoulder in the lower energy region of about 8 eV with respect to the main peak C ~ white line ! , because the 1s core electron of 3d n +1 L I state is less bound to the more screened nucleus than that of the 3d n state. The distinct appearance of the strong peak B, therefore, indicates clearly that there are two kinds of bound state, the 3d n and 3d n +1 L I states, suggesting the contribution of a localized oxygen 2p hole ~ L ! in the ground state. The ground state of TM ions for the ~ present Li f Ni1/3 Co 1/3 Mn 1/3 g O 2 ! can be described by an equilibrium between the 3d n and 3d n +1 L I states. In all cases of TM-O bonding, the net charge of oxygen ion in the ground state is assigned to an intermediate O -2+ d state s 0 ł d ł 1 d as an equilibrium state voltage
+
+Figure 4. Normalized ~ a ! Ni, ~ b ! Co, and ~ c ! Mn K-edge XANES spectra of delithiated/relithiated Li f Ni1/3 Co 1/3 Mn 1/3 g O 2 system. Insets in each spectra show pre-edge peak features for the electrochemical untreated sample ~ -P -! , fully delithiated ~ -s -! , and fully relithiated ~ -n -! materials.
+
+<!-- image -->
+
+between O 2and O states, O 2s 2p 6 d ↔ O s 2p 5 d . Direct spectral evidence for the oxygen state will be presented in O K-edge XAS study later in the paper.
+
+As shown in Fig. 4, the XANES features for delithiated and relithiated Li f Ni1/3 Co 1/3 Mn 1/3 g O 2 have been changed effectively with respect to those of the electrochemical untreated sample. In order to present a quantitative peak variation for each edge in the delithiation-delithiation process, pre-edge, shoulder peak, and line width positions as a function of cutoff voltage have been given in Fig. 5. The peak position parameters were obtained from Lorentzian curve-fitting for each peak, after arctangent curve substraction from an experimental spectrum. 25 Upon delithiation, the peaks A and C for Co and Ni K-edges are dominantly shifted toward the higher energy region where the peak variation is dominant for the Ni edge, except for the Mn K-edge whose peaks do not change during delithiation. Due primarily to the higher energy shift of pre-edge peak A, the trivalent Co +3 low-spin state is gradually oxidized to Co 4+ ion by delithiation, and the pre-edge peak features of the Ni K-edge reflect the abrupt increase of the average oxidation state of Ni ion, while that of the Mn K-edge are relatively fixed.
+
+does not occur easily in a delithiated environment. The systematic tendency of peak features is closely associated with the change of the ground state for the oxygen ion because the peak indicates the obvious existence of a u 3d n +1 L I l state in the ground state. A more oxidative and covalent O -2+ d state in the electrochemical untreated sample is changed to a more reduced O 2state. Because delithiation gives rise to the decrease of hole state s L I d in the oxygen ion, the hole site is transferred to the TM site for charge compensation. In the delithiation; therefore, the u 3d 5 l and u 3d 6 l states of Co 4+ -O 2and Ni 4+ -O 2as other hole states are newly evolved and then become more dominant than the corresponding u 3d 6 L I l and u 3d 7 L I l state of the LMCT process. This means that the hole states are relatively localized at Co 4+ /Ni 4+ atomic sites under the local structural distorted environment by the delithiation.
+
+correIn the discharge process, the XANES feature for fully relithiated state returns to that of the electrochemical untreated sample. This means that the first charge-discharge process is electrochemically reversible from the point of view of the electronic structure of Ni/Co ion and the local structures of the octahedra. The oxidation state of Mn ion does not change during the charge/discharge. The evidence for this is supported by the lack of spectral change of the pre-edge peak position for the 1s → 3d transition. Although some changes in the shape of the Mn K-edge are observed, these are ascribed to the rearrangement of the Mn local structure with no significant change in oxidation state of the Mn ions. 26
+
+Delithiation also increases the intensity of peak A and decreases the intensity of peak C in all TM K-edge XANES. The increase in the intensity of peak A and the decrease in the intensity of peak C means there is a gradual evolution of more distorted octahedral sites by the delithiations. The pre-edge peak intensity of 1s → 3d electric quadrupole transition depends on pure d character of the sponding bound state under an ideal octahedral symmetry. In the noncentrosymmetric environment, however, the peak intensity increases because the local structural distortion around the atom gives rise to 3d-4p orbital mixing. In orbital mixing, the 1s → 3d quadrupole transition has partially obtained p character for the electric dipole coupling. The small change of p character leads to the systematic peak feature variation of the peaks A and C.
+
+An important spectral change has been observed in the intensities of peak B, showing a systematic decrease with delithiation. The peak feature can be explained from the point of view of local structure distortion and relative net charge variation between the transition metal ~ s ! and oxygen ions. The distorted octahedral sites due to delithiation lead to the mismatched orbital overlap Ni/Co/Mn 3d-O 2p orbitals, although the average oxidation state of Ni ion increases with delithiation. Therefore, the LMCT process central between For the Ni K-edge XANES, the chemical state of the Ni ion among the transition metal ions is much interesting because the spectral variation for the delithiation/relithiation is a more distinct in Ni K-edge peak feature. The fact means that the charge compensation reaction is dominant at the Ni site, which requires a detailed analysis to determine the oxidation state of the Ni ion. Figure 6a shows Ni K-edge XANES spectra of fully delithiated and relithiated states in comparison with those of Ni reference materials. The Ni K-edge peak feature for the delithiated Li 1x f Ni1/3 Co 1/3 Mn 1/3 g O 2 system clearly shifts toward the higher energy region with respect to those of the lower oxidative Ni reference materials. The peak position is very similar to that corresponding to Ni 4+ state. 27 The chemical variation of Ni ion can be discussed in terms of earlier spectroscopic results for the relationship between oxidation states of Ni ion and the edge position. 11,28 As shown in Fig. 6b, the edge position in
+
+Figure 5. The peak position of TM K-edge peaks as a function of cutoff voltage on the delithiation and relithiation process at ~ a ! Ni, ~ b ! Co, and ~ c ! Mn K-edge XANES spectra. ~ s ! The discharge state and ~ P ! the first charge state.
+
+<!-- image -->
+
+the present study is in good agreement with that of an earlier report. The edge peak position gives spectral evidence for Ni oxidation state that the Ni ion in the electrochemical untreated sample exists in Ni 2+ state and is oxidized to Ni 4+ state in the full delithiation.
+
+In addition to the oxidation state discussed with the XANES spectra, the local structural variations of Li 1x f Ni1/3 Co 1/3 Mn 1/3 g O 2 have been investigated quantitatively using each extended X-ray absorption fine structure ~ EXAFS ! spectra, focusing on the specified local structure around each central atom. Figure 7a shows the Fourier transform ~ FT ! magnitudes for the Mn, Co, and Ni K-edge k 3 x s k d spectra of the electrochemical untreated sample, fully delithiated, and fully relithiated Li 1x f Ni1/3 Co 1/3 Mn 1/3 g O 2 systems, respectively. All FTs show typical FT features of the R 3 ¯ m layered struc- ture, with the three TM cation forming well-distributed octahedral layers without site-mixing into the Li-ion site. The large peaks in the FT between 1.0 and 6.0Å provide important structural information, because the FT peaks are closely associated with the site symmetry around each central TM atom. For the electrochemical untreated sample, the FT peak A corresponds to the six coordinated oxygen nearest neighbors around the central atom, while the other FT peak B is assigned to the contribution by six-coordinated Mn/Co/Ni atoms in the next edge-shared octahedral site. In the higher region of r ł 4Å, multiple scattering paths are usually more significant than single scattering at a higher r space. In the present EXAFS study, the multiple scattering with only 180° scattering angle was examined by the focusing effect, where the multiple scattering is enhanced as the
+
+<!-- image -->
+
+scattering path approaches a linear arrangement. The FT magnitude above , 4Å ~ FT peaks C and D ! mainly consists of the multiple scatterings with focusing effect in an octahedral layer.
+
+As shown in Fig. 7a, the local structural variation during the delithiation/relithiation process is similar to what was seen in XANES where the variation is dominant around Ni ion rather than Mn and Co ion. In particular, the first FT peak varies significantly on delithiation. Upon delithiation, a symmetric FT peak for the Ni 2+ -O bond decreases slightly, followed by a generation of a new FT peak in the lower r space and the gradual increase of the peak intensity, as shown in Fig. 7b. The subsequent relithiation leads to a return to the electrochemical untreated sample, which means that the delithiationrelithiation is electrochemically reversible for local structure around the Ni ion. Here, it is important to concentrate on the relationship between the Ni oxidation state and the Li-ion content, because the Ni ion is mainly responsible for the charge compensation process, rather than both Co and Mn ions. Figure 7c is a plot of the Ni-O bond distance as a function of cutoff voltage where the local structures have been obtained through the standard EXAFS curve-fitting process. During the delithiation-relithiation, the bond distance does not change gradually but varies abruptly between two kinds of bond level, , 2.04Å and , 1.90Å, without an intermediate bond distance. Based on effective ionic radii determined by Shannon and Prewitt, the oxidation states of Ni ion for two discrete bond distances could be considered as Ni 2+ and Ni 4+ , respectively, where the ionic radii can be obtained for a given coordination number. 29 These estimated oxidation states of the Ni ion are very consistent with the XANES analysis in Fig. 6b.
+
+Figure 6. ~ a ! Spectral comparison of normalized Ni K-edge XANES spectra for Ni reference materials and ~ b ! relationship between oxidation state of Ni ion and edge position where ~ -s -! indicates the data reported earlier in Ref. 18 and ~ -P -! has been estimated for other reference materials in the present study.
+
+72
+
+Recently, a combined computational and experimental study for Li f Ni1/3 Co 1/3 Mn 1/3 g O 2 reported that the oxidation state of Ni ion changes gradually from Ni 2+ to Ni 3+ , and then in turn to Ni 4+ during the delithiation process. 30 In the present in situ XAS experiment, however, it was clearly observed that in the delithiation process the chemical state of the Ni ion changes abruptly from Ni 2+ to Ni 4+ in the voltage region between 3.75 and 4.00 V. The spectroscopic observation of transition between two discrete chemical states could be described with Jahn-Teller distortion of NiO 6 octahedra, which can give rise to short-range lattice distortion. According to crystal field theory, both Ni 2+ s d 8 d and Ni 4+ s d 6 d are non Jahn-Teller distorted sites. However, Ni 3+ s d 7 d with a low- or high-spin configuration can be a Jahn-Teller distorted site. In the present study, the origin that the direct oxidization of Ni 2+ ion to Ni 4+ ion, not by way of Ni 3+ , could be explained based on the Jahn-Teller distortion. Thus, the
+
+<!-- image -->
+
+relithiated
+
+Figure 7. ~ a ! FT magnitudes of Ni, Co, and Mn K-edge EXAFS spectra for the electrochemical untreated sample, delithiated, and Li f Ni1/3 Co 1/3 Mn 1/3 g O 2 system; ~ b ! FT of Ni K-edge EXAFS spectra; and ~ c ! plot of Ni-O bond distance and average oxidation state of Ni ion as a function of cutoff voltage.
+
+40
+
+Figure 8. Normalized Ni, Co, and Mn L II,III -edge XAS spectra of the Li f Ni1/3 Co 1/3 Mn 1/3 g O 2 system with respect to the cutoff voltage. The dashed lines in each L-edge spectra represent Co, Ni, and Mn L-edge spectra of reference LiCoO 2 and LiNi 1/2 Mn 1/2 O 2, respectively.
+
+<!-- image -->
+
+bution to the electrochemical reaction, it is necessary for our spectroscopic study to concentrate on oxygen K-edge absorption in the Li 1x f Ni1/3 Co 1/3 Mn 1/3 g O 2 system.
+
+bulk-sensitive TM K-edge XAS results suggest that the charge compensation has been accomplished by electronic transition between LiNi 1/3 2+ Co 1/3 3+ Mn 1/3 4+ O 2 ↔ Li 1x Ni 1/3 4+ Co 1/3 4+ Mn 1/3 4+ O 2 in ~ during ! the delithiation-relithiation process.
+
+The existence of Ni 3+ ion in the delithiation process has been observed on the surface region of the material in which local structural distortion ~ so-called surface distortion ! is generally higher in the surface region than in the bulk. Surface-sensitive soft XAS spectra, which gives structural information from a depth of , , 100Å from the sample surface, show somewhat different spectral behavior from bulk-sensitive TM K-edge XAS. Figure 8 shows Ni, Co, and Mn L II,III -edge XAS spectra of the Li 1x Mn 1/3 Co 1/3 Ni1/3 O 2 system during the first delithiation-relithiation. There are two main peaks of L II and L III edges which are due to electronic transitions of 2p 3/2 and 2p1/2 core electrons, split by the spin-orbit interaction of the 2p core level, to an unoccupied 3d level, which is highly hybridized with oxygen 2p orbital. 20,31,32 Because the absorption peaks are relatively intense by the electric dipole-allowed 2p → 3d transition and very sensitive to the oxidation state, spin state, and bond covalency, the electronic structures of TM ion can be investigated qualitatively with peak features.
+
+Interestingly, the peak features of surface-sensitive Co and Mn L-edges show constant features of 3+ Co and Mn 4+ ion on the delithiation, although those of bulk Co K-edge XAS show the effective spectral variation to the Co 4+ ion. An effective spectral change is observed only in Ni L-edges. It is sure that the Ni ion changes from Ni 2+ to Ni 3+ compared with calculated and observed Ni 2p XAS spectra. 8,19 The surface-sensitive L-edges peak features for TM ions indicate that the Ni ion is oxidized until it reaches a trivalent state. Both Co and Mn ions are fixed as trivalent and tetravalent state from the electrochemical untreated sample to the fully charged state, respectively, following a reversible relithiation process in the Li 1x f Ni1/3 Co 1/3 Mn 1/3 g O 2 system. From the point of view of the electrical neutrality, however, the full charge should force the Ni ion to be fully oxidized to a Ni 4+ state because other ions are constant in the charging process. Therefore, there should be another chemical site that can compensate for the positive charge deficiency due to existence of the Ni 3+ /Co 3+ /Mn 4+ ions in the full charge state. The other charge compensation can occur in the oxygen site because the chemical states of Li ion are relatively electrochemically Therefore, in order to find direct information about oxygen contri-
+
+Recent spectroscopic analysis results show that oxygen ions can participate in the charge compensation due to charge redistribution between the TM and oxygen ions. 12-15,33,34 Because the oxygen K-edge XAS is very sensitive to the chemical environment around the ligand element, the electronic structure of the oxygen atom can be investigated by examining the Li-ion content. According to previous research on ligand K-edge for inorganic cluster complexes, the pre-edge peak position and intensity gives important structural information about the chemical bonding between ligand and metal atoms. 35,36 The pre-edge peak position is related to the net formal charge variation of ligand by the charge donation to the metal ion, the degree of d orbital splitting by the ligand field effect, and the overall d-manifold's energy by the effective nuclear charge of metal ion. The peak intensity depends on the number of d-hole states in the metal d orbital hybridized with the ligand orbital and the bond covalency of the ligand-metal bond. In the present oxygen K-edge XAS study, therefore, the spectral change of the XAS for Li-ion deintercalation can give useful structural information about the electronic structure of oxygen ion and bonding character with the transition metal ion.
+
+inert. Figure 9 shows experimental oxygen K-edge XAS spectra of Li f Ni1/3 Co 1/3 Mn 1/3 g O 2 in comparison with those of the reference materials. The pre-edge peal features of oxygen K-edge XAS vary with the nature of TM-O bondings. In LiCoO 2 and LiNi 1/2 Co 1/2 O 2, a symmetric and sharp pre-edge peak is observed at around 528 eV, corresponding to the oxygen state for Co 3+ -O bonding. In LiNiO 2 and Li f Ni1/2 Co 1/2 g O 2, a smaller pre-edge peak s, 526.2 eV ! below , 1.8 eV with respect to that for Co 3+ -O bonding shows the oxygen state for Ni 3+ -O bonding. In Li f Ni1/2 Mn 1/2 g O 2 and Li f Ni1/3 Co 1/3 Mn 1/3 g O 2, a dominant peak is observed at around 527.3 eV with no pre-edge peak in the energy region of , 526.2 eV, which is due to an oxygen state for Ni 2+ -O rather than that for Ni 3+ -O bonding. The two pre-edge peaks for Mn 4+ s t 2g d -O and Mn 4+ s eg d -O exist in the overall pre-edge region between 526 and 531 eV. These peak assignments are in agreement with the dependence of peak position on the effective nuclear charge and oxidation state of TM ion. 35,36
+
+Figure 9. ~ a ! Observed oxygen K-edge XAS spectrum of Li f Ni1/3 Co 1/3 Mn 1/3 g O 2 in comparison with those of various reference materials.
+
+<!-- image -->
+
+Figure 10. Normalized oxygen K-edge XAS spectra of the Li f Ni1/3 Co 1/3 Mn 1/3 g O 2 system for the delithiation/relithiation process.
+
+<!-- image -->
+
+process shows a similar spectral pattern to that of the electrochemical untreated sample. This means that the electrochemical reaction is also reversible on the surface, although net oxidation variations of TM ions are different from those in the bulk region.
+
+of interThe results of bulk-sensitive TM K-edge spectra show that for the surface-sensitive TM L-edges and oxygen K-edge, the electrochemically delithiated/relithiated Li f Ni1/3 Co 1/3 Mn 1/3 g O 2 electrode shows greater structural difference between the surface and bulk. In the present study, Ni ion in the bulk is directly oxidized to Ni 4+ , including the oxidation of Co 3+ to Co 4+ and the fixation of Mn 4+ ion. Ni ion in the surface is limited to Ni 3+ under the circumstance of constant Co 3+ /Mn 4+ states. This fact indicates that the electrochemical reaction is not homogeneous in the overall Li f Ni1/3 Co 1/3 Mn 1/3 g O 2 electrode and shows a depth profile from the surface contacted with electrolytes, for example, Ni 3+ ion in the surface on the delithiation and Ni 4+ ion in the bulk. Unfortunately, the geometric constraint of our bulk powder electrode limits further quantitative surface analysis on the chemical state as a function of depth. A systematic spectroscopic study of a thin-film electrode should be done in order to investigate inhomogeneity of the depth profile from the surface.
+
+## Conclusion
+
+Layered Li f Ni1/3 Co 1/3 Mn 1/3 g O 2 powder with high homogeneity and high capacity was synthesized by ultrasonic spray pyrolysis and characterized by powder XRD, galvanostatic electrochemical measurements, cyclic voltammetry. The Li f Ni1/3 Co 1/3 Mn 1/3 g O 2 electrode delivers a high discharge capacity of over 200 mAh g -1 between 2.8 and 4.6 V at a high current density of 0.2 mA cm -2 s 20 mA g -1 d with excellent cyclability. For the delithiated-relithiated Li f Ni1/3 Co 1/3 Mn 1/3 g O 2 system, in situ TM K-edge XAS study shows that the charge compensation is accomplished by the formation of Li f Ni 1/3 2+ Co 1/3 3+ Mn 1/3 4+ g O 2 ↔ Li 1x f Ni 1/3 4+ Co 1/3 4+ Mn 1/3 4+ g O 2 through the overall bulk electrode. However, the surface-sensitive soft TM L-edges and oxygen K-edge XAS present different peak features from those of bulk-sensitive TM K-edge XAS. In the charging process, the Ni 2+ in the surface
+
+Figure 10 shows the spectral variation of oxygen K-edge XAS during delithiation and relithiation of the Li 1x f Ni1/3 Co 1/3 Mn 1/3 g O 2 system. Delithiation leads to a gradual increase of the intensity of peak A with respect to that of the electrochemical untreated sample and there was no change for peak B. The increase of pre-edge peak intensity means increase of the hole state in the oxygen 2p band, namely, more oxidation of oxygen ion to O -2+ d state where the d value is proportional to the covalent bonding character. Therefore, the contribution of oxygen site corresponding to peak A is very effective on the charge compensation. This fact indicates that the oxygen site bonded to the mixed Ni 2+ /Co 3+ ions is more sensitive to delithiation. Delithiation also gives rise to the gradual formation of additional well-resolved absorption peaks ~ mar ed by arrows ! in the lower energy region than peak A. Compared with reference spectra, the lower peak position can be assigned to oxygen sites of a more oxidative Ni 3+ -O bond character rather than Ni 2+ -O because the peak position is well consistent with the pre-edge peak of Ni 3+ , namely, LiNi 3+ O 2 and Li f Co 1/2 3+ Ni 1/2 3+ g O 2. The subsequent relithiation
+
+In the Li f Ni1/3 Co 1/3 Mn 1/3 g O 2 electrode spectra, the electrochemical untreated sample presents two well-separated peaks ~ peaks A and B ! in the pre-edge region, which corresponds to an electric dipole-allowed transition to a hole state s 2p L d in the oxygen 2p band formed by the LMCT process in the Ni 2+ /Co 3+ /Mn 4+ -O covalent bonds. The broad higher energy peaks above 532 eV can be assigned to the transitions to hybridized states of oxygen 2p and Ni/Co/Mn 4sp orbitals. In the present study, however, the quantitative discussion about oxygen behavior is essentially limited because there are mixed bonding characteristics with three different metal sites close to an oxygen ion. Nevertheless, the peaks A and B can be assigned to an oxygen state merged by hybridization with Ni, Co, and Mn 3d orbitals, compared with the O K-edge spectra of both reference materials. Based on the previous ligand K-edge spectroscopic study for the relationship between peak position and effective nuclear charge, the greater effective nuclear charge of more oxidative metal ion shifts the ligand pre-edge peak position to the lower energy region, because the metal d orbitals are located at the deeper binding energy and then closer in the energy to the ligand 1s orbital. Therefore, peak A includes the covalent bonding characters Ni 2+ s eg d -O and Co 3+ s eg d -O, and partially Mn 4+ s t 2g d -O, whereas the peak B gives only a Mn 4+ s eg d -O bonding character. As a result, the appearance of pre-edge peaks indicate that the net charge of oxygen ion in the ground state can be described with an mediate O -2+ d state as an equilibrium state between O 2and O states, O 2s 2p 6 d ↔ O s 2p 5 d .
+
+13. W. S. Yoon, K. B. Kim, M. G. Kim, M. K. Lee, H. J. Shin, J. M. Lee, J. S. Lee, and C. H. Yo, J. Phys. Chem. B , 106 , 2526 ~ 2002 ! .
+14. L. A. Montoro, M. Abbate, and J. M. Rosolen, Electrochem. Solid-State Lett. , 3 , 410 ~ 2000 ! .
+3. distributed 15. C. Wolverton and A. Zunger, Phys. Rev. Lett. , 81 , 606 ~ 1998 ! .
+16. J. van Elp, J. L. Wieland, H. Eskes, P. Kuiper, G. A. Sawatzky, F. M. F. de Groot, and T. S. Turner, Phys. Rev. B , 44 , 6090 ~ 1991 ! .
+17. M. T. Czyzyk, R. Potze, and G. A. Sawatzky, Phys. Rev. B , 46 , 3729 ~ 1992 !
+
+region of delithiated material prefers to be oxidized to Ni 3+ , not Ni 4+ , which is accompanied by the variation of oxygen 2p hole states. The results of the TM K-, L-edges, and oxygen K-edge XAS suggest that the inhomogeneous chemical states are along the direction of the electrochemical process for charge compensation.
+
+## Acknowledgment
+
+We are grateful to Pohang Light Source ~ PLS ! for allowing us to conduct our XAS measurements at their facility. The experiments at PLS were supported in part by Korea MOST and POSTECH. This research was performed by financial support of the Center for Nanostructured Materials Technology under the 21st Century Frontier R&amp;D Programs of the Ministry of Science and Technology, Korea.
+
+.
+
+18. L. A. Montoro, M. Abbate, and J. M. Rosolen, J. Electrochem. Soc. , 147 , 1651 ~ 2000 ! .
+19. L. A. Montoro, M. Abbate, E. C. Almeida, and J. M. Rosolen, Chem. Phys. Lett. , 309 , 14 ~ 1999 ! .
+20. F. M. F. de Groot, J. Electron Spectrosc. Relat. Phenom. , 67 , 529 ~ 1994 ! .
+21. J. G. Chen, Surf. Sci. Rep. , 30 , 1 ~ 1997 ! .
+22. A. Krol, C. J. Sher, and Y. H. Kao, Phys. Rev. B , 42 , 3829 ~ 1990 ! .
+23. H. J. Shin, Y. Chung, and B. Kim, J. Synchrotron Radiat. , 5 , 648 ~ 1998 ! .
+24. T. N. Lee, M. H. Yoon, Y. S. Kim, and H. G. Kim, Aust. J. Phys. , 48 , 321 ~ 1995 ! .
+
+Hanyang University assisted in meeting the publication costs article.
+
+## References
+
+1. J. R. Dahn, E. W. Fuller, M. Obrovac, and U. von Sacken, Solid State Ionics , 69 , 265 ~ 1994 ! .
+2. H. Arai and Y. Sakurai, J. Power Sources , 81-82 , 401 ~ 1999 ! .
+3. T. Ohzuku, A. Ueda, and M. Kouguchi, J. Electrochem. Soc. , 142 , 4033 ~ 1995 ! .
+4. G. Vitins and K. West, J. Electrochem. Soc. , 144 , 2587 ~ 1997 ! .
+5. Y.-I. Jang, B. Huang, Y.-M. Chiang, and D. R. Sadoway, Electrochem. Solid-State Lett. , 1 , 13 ~ 1998 ! .
+6. T. Ohzuku and Y. Makimura, Chem. Lett. , 2001 , 642.
+7. K. M. Shaju, G. V. Subba Rao, and B. V. R. Chowdari, Electrochim. Acta , 48 , 145 ~ 2002 ! .
+8. M. G. Kim and C. H. Yo, J. Phys. Chem. B , 103 , 6457 ~ 1999 ! .
+9. W. S. Yoon, K. K. Lee, and K. B. Kim, J. Electrochem. Soc. , 147 , 2023 ~ 2000 ! .
+10. I. Nakai and T. Nakagome, Electrochem. Solid-State Lett. , 1 , 259 ~ 1998 ! .
+11. M. Balasubramanian, X. Sun, X. Q. Yang, and J. McBreen, J. Electrochem. Soc. , 147 , 2903 ~ 2000 ! .
+12. J. M. Rosolen and M. Abbate, Solid State Ionics , 139 , 83 ~ 2001 ! .
+13. this 25. M. Wilke, F. Farges, P. Petit, G. E. Brown, and F. Martin, Am. Mineral. , 86 , 714 ~ 2001 ! .
+26. M. Balasubramanian, J. McBreen, I. J. Davidson, P. S. Whitfield, and I. Kargina, J. Electrochem. Soc. , 149 , A176 ~ 2002 ! .
+27. J. Kim and K. Amine, Electrochem. Commun. , 3 , 52 ~ 2001 ! .
+28. W. E. O'Grady, K. I. Pandya, K. E. Swider, and D. A. Corrigan, J. Electrochem. Soc. , 143 , 1613 ~ 1996 ! .
+29. R. D. Shannon and C. T. Prewitt, Acta Crystallogr., Sect. A: Cryst. Phys., Diffr., Theor. Gen. Crystallogr. , A32 , 751 ~ 1976 ! .
+30. B. J. Hwang, Y. W. Tsai, D. Carlier, and G. Ceder, Chem. Mater. , 15 , 3676 ~ 2003 ! .
+31. F. M. F. de Groot, J. C. Fuggle, B. T. Thole, and G. A. Sawatzky, Phys. Rev. B , 41 , 928 ~ 1990 ! .
+32. F. M. F. de Groot, J. C. Fuggle, B. T. Thole, and G. A. Sawatzky, Phys. Rev. B , 42 , 5459 ~ 1990 ! .
+33. J. Graetz, A. Hightower, C. C. Ahn, R. Yazami, P. Pez, and B. Fultz, J. Phys. Chem. B , 106 , 1286 ~ 2002 ! .
+34. Y. Uchimoto, H. Sawada, and T. Yao, J. Synchrotron Radiat. , 8 , 872 ~ 2001 ! .
+35. T. Glaser, S. E. Shadle, B. Hedman, K. O. Hodgson, and E. I. Solomon, Acc. Chem. Res. , 33 , 859 ~ 2000 ! .
+36. T. Glaser, S. E. Shadle, B. Hedman, K. O. Hodgson, and E. I. Solomon, J. Am. Chem. Soc. , 123 , 442 ~ 2001 ! .
+
+of

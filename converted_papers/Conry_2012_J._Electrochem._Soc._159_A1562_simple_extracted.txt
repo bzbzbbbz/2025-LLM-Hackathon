@@ -1,0 +1,295 @@
+Simple Docling Extracted Data from: Conry_2012_J._Electrochem._Soc._159_A1562.pdf
+============================================================
+
+Title: Conry_2012_J._Electrochem._Soc._159_A1562
+Pages: 11
+Tables: 0
+Figures: 0
+
+MAIN TEXT:
+------------------------------
+## XAFS Investigations of LiNi 0.45 Mn 0.45 Co 0.1-y Al y O 2 Positive Electrode Materials
+
+To cite this article: Thomas E. Conry et al 2012 J. Electrochem. Soc. 159 A1562
+
+View the article online for updates and enhancements.
+
+<!-- image -->
+
+## You may also like
+
+- Al Substitution for Mn during CoPrecipitation Boosts the Electrochemical Performance of LiNi 0.8 Mn 0.1 Co 0.1 O 2 Ben Pei, Hui Zhou, Anshika Goel et al. -
+- Average and Local Structure Analyses of Li(Mn 1/3 Ni 1/3 Co 1/3x Al x )O 2 Using Neutron and Synchrotron X-ray Sources Yasushi Idemoto, Naoto Kitamura, Kenichiro Ueki et al. -
+- Effects of Al substitution and thermal annealing on magnetoelectric Ba 0.5 Sr 1.5 Zn 2 Fe 12 O 22 investigated by the enhancement factor of 57 Fe nuclear magnetic resonance Sangil Kwon, Byeongki Kang, Changsoo Kim et al. -
+
+## ECC-Opto-10 Optical Battery Test Cell: Visualize the Processes Inside Your Battery!
+
+- Battery Test Cell for Optical Characterization Designed for light microscopy; Raman spectroscopy and XRD.
+- Optimized, Low Profile Cell Design (Device Height 21.5 mm) Low cell height for high compatibility; fits on standard samples stages.
+- High Cycling Stability and Easy Handling Dedicated sample holders for different electrode arrangements included!
+- Cell Lids with Different Openings and Window Materials Available
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+## Contact us:
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
++49 40 79012-734
+
+sales@el-cell.com
+
+- WWW.el-cell.com
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+Journal of The Electrochemical Society , 159 (9) A1562-A1571 (2012)
+
+0013-4651/2012/159(9)/A1562/10/$28.00 ' The Electrochemical Society
+
+## XAFS Investigations of LiNi0.45Mn0.45Co0.1 -yAlyO2 Positive Electrode Materials
+
+Thomas E. Conry, a,b,z Apurva Mehta, c Jordi Cabana, a, ∗ and Marca M. Doeff a, ∗
+
+a Environmental Energy Technologies Division, Lawrence Berkeley National Laboratory,
+
+University of California, Berkeley, California 94720, USA
+
+b Department of Materials Science and Engineering, University of California, Berkeley, Berkeley, California 94720, USA
+
+c Stanford Synchrotron Radiation Lightsource, Menlo Park, California 94025, USA
+
+The structural and electronic effects of Al-substitution in LiNi0.45Mn0.45Co0.1 -yAlyO2 electrode materials were explored on a local scale using X-ray absorption spectroscopy (XAS). Homogeneous substitution of Al is observed between 0 ≤ y ≤ 0.10, additionally causing relaxation within the strained edge-sharing metal octahedra composing the transition metal plane. Ex situ measurements on electrochemically charged electrodes confirm that the main charge compensation mechanism occurs via oxidation of Ni, though a contribution centered at the Co-sites was detected in the early stages of charging. Al-substitution, meanwhile, appears to have a negligible local order effect. Analysis of electrochemically cycled materials suggests that there is a beneficial structural consequence of the Al-substitution, which limits the disorder within the local structure of the substituted samples compared to the fresh layered oxides.
+
+'2012 The Electrochemical Society. [DOI: 10.1149/2.048209jes] All rights reserved.
+
+Manuscript submitted May 1, 2012; revised manuscript received June 25, 2012. Published August 14, 2012. This was Paper 1271 presented at the Boston, Massachusetts, Meeting of the Society, October 9-14, 2011.
+
+The U.S. transportation sector continues to account for almost one third of CO2 emissions in the United States, while relying heavily on the import of foreign oil. 1 The widespread deployment of an electrified vehicle fleet will be one significant step toward alleviating these concerns. Li-ion batteries, which represent the closest developed technology to achieving the power and energy density goals set by the United States Advanced Battery Consortium (USABC) for electric vehicles (EVs) and plug-in hybrids (PHEVs), 2 can enable these technologies. However, they still fall short of these goals, mainly due to limitations in the storage capacity of the positive electrode. In order to increase this capacity, layered mixed transition metal oxides, LiNizMnzCo1 -2zO2, with z commonly 0.33 or 0.4 (NMC hereafter), are currently intensely pursued active materials.
+
+NMC materials have been shown to possess improved properties compared to LiCoO2, the positive electrode material initially used in most portable electronics batteries, as well as alternatives such as trivalent Ni-based LiNi1 -zCozO2. 3-7 All of these materials crystallize in the layered α -NaFeO2 ( R-3m ) structure. The use of NMC-based positive electrodes in devices contributes to a decrease in materials cost due to the lower Co-content, additionally providing improvements in practical energy density, stability, and cycle life. These characteristics make them attractive for use in traction applications, which have necessary cost, safety, and lifetime constraints, and for which LiCoO2 is inadequate. 8-15
+
+Further improvements are observed with the substitution of Al in place of Co (LiNizMnzCo1 -2z -yAlyO2). Although Al is electrochemically inactive in the material (the only stable oxidation state is Al + 3 ) substitution replaces the costly Co with an inexpensive and lightweight metal, while additionally imparting enhancements to the thermal stability and chemical reactivity properties. 16-18 Al-substitution in NMC layered oxide systems has further been shown to also improve the cycling stability of the electrodes. 17,19-22 Our previous work 23 showed that substitution in LiNi0.45Mn0.45Co0.1 -yAlyO2 imparts a slight structural distortion within the transition metal planes as Al-content is increased from y = 0 to y = 0.1, ultimately lowering the crystal symmetry to monoclinic C2/m . Furthermore, in situ X-ray diffraction indicated that the presence of Al has a significant structural impact during battery operation, acting to limit the changes in lattice parameters, especially those occurring along the layer-stacking direction, during electrochemical charging and cycling of the materials.
+
+X-ray absorption spectroscopy (XAS, or XAFS to indicate the 'fine structure') is a sensitive element-specific probe of the local geo-
+
+z E-mail: tconry@berkeley.edu
+
+metric and electronic structure of materials. It has been applied often over the last decade to the study of layered oxide materials for Li-ion batteries. Analysis of the near-edge regions (XANES) of data taken for LiNi0.5Mn0.5O2, LiNi0.33Mn0.33Co0.33O2, and LiNi0.4Mn0.4Co0.2O2 materials have confirmed that the redox states of Ni, Mn and Co are + 2, + 4, and + 3, respectively, in the as-synthesized materials when the Ni:Mn ratio is 1:1, in agreement with theoretical calculations. 24-27 Further studies have shown that the main charge compensation mechanism in NMC layered oxides proceeds via the oxidation of Ni 2 + first to Ni 3 + then to Ni 4 + , rather than by direct oxidation from the + 2 to the + 4 state as occurs in LiNi0.5Mn1.5O4 and other nickel-containing compounds. 28-30 This is indicated not only by the positions and shapes of the absorption edges during charging, but through analysis of the extended fine structure (EXAFS), allowing quantitative calculation of the Ni-O bond distances and coordination. The current study complements our previous report on the long-range crystal structure of this family of compounds, 23 and the effect of Al on the changes upon cycling. We utilized XAFS to determine the local-scale crystal structural and electronic consequences of substitution on the as-synthesized material and the changes that occurred during electrochemical charging and cycling.
+
+## Experimental
+
+The material synthesis procedure has been described previously. 23 LiNi0.45Mn0.45Co0.1 -yAlyO2 (0 ≤ y ≤ 0.1) materials were prepared using the glycine-nitrate combustion method. 31 Stoichiometric amounts of LiNO3 (Mallinckrodt or Sigma Aldrich), Ni(NO3)2 · 6H2O (Sigma Aldrich), Co(NO3)2 · 6H2O(Sigma Aldrich), Al(NO3)3 · 9H2O(Sigma Aldrich), and Mn(NO3)2 (45-50 wt% solution in dilute nitric acid, Sigma Aldrich) were mixed with glycine (98.5%, Sigma Alrich) in an aqueous solution using distilled water. A 5% excess of LiNO3 was used in all samples to account for Li loss during the synthesis procedure. The precursor solution was transferred to a heated stainless steel beaker, where it was concentrated by the evaporation of water and a subsequent self-sustaining combustion reaction ensued. The combustion product was planetary ball-milled in acetone and dried under flowing N2 gas before being annealed at 800 ◦ C for 4 hours in air.
+
+Composite electrodes were composed of 84 wt% active oxide, 8 wt% polyvinylidine fluoride (PVdF) binder (Kureha Chemical Ind. Co. Limited), 4 wt% synthetic flake graphite (SFG-6, Timcal Ltd.), and 4 wt% acetylene black (Denka). Slurries were mixed in 1methyl-2-pyrrolidinone (NMP, Sigma Aldrich) and cast onto carboncoated aluminum current collectors (Exopack Advanced Coatings). Typical active material loadings were 5-8 mg/cm 2 . The electrodes
+
+Figure 1. K-edge XANES spectra of the LiNi0.45Mn0.45Co0.1 -yAlyO2 (0 ≤ y ≤ 0.1) fresh electrode materials: a, d) the normalized edges, b, e) derivatives, and c, f) pre-edges of the Ni and Mn K-edges, respectively.
+
+<!-- image -->
+
+were dried for at least 24 hours in air, then overnight in a vacuum oven at 120 ◦ C. Size 2032 coin cells were assembled in a helium-filled glove box with Li-metal counter electrodes, porous polypropylene separators (Celgard 3401), and electrolyte composed of 1 M LiPF6 in 1:2 (v/v) ethylene carbonate (EC):dimethyl carbonate (DMC) solution (Ferro). Electrochemical testing was performed using a VMP3 potentiostat/galvanostat (BioLogic).
+
+A series of cells were charged galvanostatically to various statesof-charge (SOC), resulting in delithiation of the positive electrode materials. A rate of 12 mA/g ( ∼ C/23) was used to charge all electrodes to SOC = 50%,andsubsequently18mA/g( ∼ C/16) was used to charge beyond this point (e.g. to SOC = 70, 90%). The faster rate was used to limit organic electrolyte decomposition at the positive electrode due to the high cell potentials. Coin cells were cycled galvanostatically at 15 mA/g (c/d) between 2.0-4.3 V for 20 or 50 cycles. The coin cells were disassembled in a He-filled glove box to recover the charged and cycled electrodes, which were subsequently rinsed in DMC and encased in Kapton tape for the XAFS measurements.
+
+The X-ray absorption measurements were performed at beamline 4-1 at the Stanford Synchrotron Radiation Lightsource (SSRL) in transmission mode using a Si(220) double crystal monochromator. Measurements were taken on fresh, charged, and cycled electrodes ex situ, with the monochromator detuned by 30-50% to eliminate higher order harmonics. Two scans each of the Ni, Mn, and Co K-edge µ (E) spectra were measured and merged after spectral alignment for each electrode specimen. For each edge measurement, the corresponding metal foil (Ni, Mn, or Co) spectrum was recorded simultaneously in series for energy reference. Measurements were performed ex situ for all samples to improve EXAFS resolution, and to allow direct comparisons of each electrode material at the same states-of-charge (or cycle number) for all metal edges.
+
+Thecollected data was analyzed in a standard manner using Athena and Artemis software packages. 32 The data was calibrated using the first peak in the derivative of the absorption spectra of the reference metals. Energy values of 6539 eV, 7709 eV, and 8333 eV were used for the Mn, Co, and Ni metal edges, respectively. After merging like scans, the background contribution was subtracted by fitting a linear function to the pre-edge region and a cubic polynomial to the postedge region, and the data were normalized. A piece-wise spline was fit using the AUTOBK function to isolate the χ ( k ) EXAFS, which were subsequently weighted by k 3 to magnify the higherk signal during further processing. 33
+
+The k 3 * χ ( k ) weighted data was Fourier transformed between 3.813.8 Å -1 in k -space for Ni (3.8-13.6 Å -1 for the fresh sample series), 3.9-11.3 Å -1 for Mn, and 3.9-11.1 Å -1 for Co, using a hanning window with dk = 1 Å -1 . Structural information was obtained by a least squares fitting of the Fourier transformed spectra in R-space from R = 1.0-3.0 Å for Mn and Co data, and R = 1.0-3.1 Å for Ni data using scattering paths calculated with FEFF6. 34,35 The amplitude reduction factors S0 2 were fixed at 0.95 and 0.9 for the Ni and Mn/Co fits, respectively, after initial refinements. In all fits, the contribution of photoelectron scattering by Li was ignored due to the very weak scattering amplitude.
+
+## Results and Discussion
+
+As-synthesized materials.XANES spectra measured at the Ni and Mn K-edges for fresh LiNi0.45Mn0.45Co0.1 -yAlyO2 (0 ≤ y ≤ 0.1) electrode materials are presented in Figure 1. For each edge, the pre-edge features and derivative spectrum are additionally shown. A numberoftrendswereobservedovertheAlsubstitutionrangeintheNi edge. First, there was no observed shift in energy of the edge position with increased Al content. There was, however, a slight increase in the white line intensity. This is more clearly seen in the derivative spectrum (Fig. 1b). The sharpening of the white line peak was apparent in the growing positive and negative derivative peak features centered about 8350.5 eV. Furthermore, the intensity of the pre-edge peak at
+
+about 8333.5 eV decreased with larger Al concentrations (Fig. 1c). Similar trends were observed in the Mn K-edge data for the same samples, shown for the y = 0 and y = 0.05 data only (Figs. 1d-1e).
+
+Our previous work using high-resolution X-ray diffraction indicated that there is a symmetry-lowering structural distortion in LiNi0.45Mn0.45Co0.1 -yAlyO2 materials with high Al contents. 23 Al substitution does not affect the antisite defect concentration, i.e., Ni 2 + ions residing on 3a Li sites and an equivalent number of Li ions within the transition metal plane. All materials (0 ≤ y ≤ 0.10) contained ∼ 9 -10% defects. It was speculated that the structural effect is due to strain-relaxation as the degree of Al-substitution increased, perhaps via ordering of the transition metal octahedra. The layered oxide materials are composed of edge-sharing transition metal octahedra alternating with planes of octahedrally coordinated Li + ions. As each M O6 ( M = Ni, Mn, Co, Al, Li) has a different equilibrium M -O bond length, a highly strained system emerges from the edge-sharing octahedral arrangement. Metal ordering within the transition metal plane occurs for LiNi0.5Mn0.5O2 and some Li-rich NMCs, manifested by a flower-like cation arrangement, in which Li ions situated in the transition metal layer are preferentially surrounded by 6 Mn 4 + or 5 Mn 4 + and 1 Ni 2 + . 25,36,37 The presence of Co in NMCs breaks this correlation, providing a driving force to disorder. 36 The substitution of the smaller Al for Co relieves some of the inherent strain, perhaps by reducing the disordering effect of Co.
+
+The peak feature present within the rising edges (resulting in the first peaks in the derivative spectra at 8341.5 eV and 6449.5 eV for Ni and Mn, respetively) is attributed to a 1s → 4p electronic transition with a ligand-to-metal charge transfer (LMCT) shakedown process. 29,38 In this case, the final electronic configuration can be described as 1s 1 c 3d n + 1 L 4p 1 , where c is the 1s core hole, and L is an O-2p hole, with n(Ni 2 + ) = 8 and n(Mn 4 + ) = 3. It occurs at lower energy than the main 1s → 4p transition without shakedown due to increased screening of the core hole. The intensity of this feature can be used to infer the degree of covalency of the M -ligand bonds, as the charge transfer requires orbital overlap. As there is no observed change in the peak shape or amplitude due to the presence of Al, the covalency of the M -O bonds are assumed invariant with Al-substitution.
+
+The trends in white line and pre-edge peak intensity are strongly dependent on the disorder within the M O6 octahedra, where M is the absorbing metal. An increase in the octahedral distortion enhances the M 3d-4p orbital overlap due to a decrease in the inversion symmetry of the environment surrounding the absorbing atom. Al-substitution leads to a decrease in the observed pre-edge peak intensities and a sharpening of the white line, suggesting less strained (disordered) M O6 octahedra.
+
+The magnitudes of the Fourier transform of the EXAFS spectra, weighted by k 3 , are shown in Figure 2 for the Ni and Mn K-edges as a function of Al-content in LiNi0.45Mn0.45Co0.1 -yAlyO2. The behavior is similar for both data sets: a systematic decrease in intensity is clearly seen for the second large peak (R ≈ 2.5 Å for both edges) and some higher-R features, while a slight increase occurs in the first peak with increased Al-substitution. The first main peak is almost entirely due to scattering of the photoelectron from the nearest neighbor oxygen ions. The slight increase observed in the M -O peak intensity can be explained by a decrease in the mean-square displacement, σ 2 , of ions comprising the first coordination shell. This agrees with the XANES results, suggesting a decrease in octahedral disorder (strain) with Al-substitution. The second main peaks in the Ni and Mn Fourier transformed EXAFS mostly describe photoelectron scattering from the nearest in-plane metal ions surrounding the absorber. The higher order peaks are due to scattering from metal ions at larger radial distances, as well as multiple scattering of the photoelectron from more than one neighboring atom. The specific peaks displaying a decreased amplitude with higher Al-content suggest Al is well distributed throughout the NMC lattice, as all of the metal-metal scattering peaks are affected. Al is a lighter metal than Ni, Mn, or Co, residing one row above the transition metals in the periodic table, and thus displays weaker photoelectron scattering properties.
+
+Figure 2. The magnitude of the Fourier transforms of the a) Ni and b) Mn χ ( k ) data weighted by k 3 for LiNi0.45Mn0.45Co0.1 -yAlyO2 (0 ≤ y ≤ 0.1) materials.
+
+<!-- image -->
+
+The results of fitting the first and second shell of the Fourier transformed EXAFS data for the Ni and Mn K-edges as a function of Al-content are shown in Figure 3. Analysis of high-resolution XRD patterns revealed that y = 0.10 materials display obvious peak splitting, suggesting the breaking of the three-fold symmetry within the transition metal planes. 23 Unfortunately, two similar distances can only be reliably differentiated in EXAFS modeling if they differ by more than /Delta1 R = π 2 /Delta1 k . For the Ni EXAFS fits, which included the largest data ranges ( /Delta1 k ), this results in a distance differentiation of ∼ 0.15 Å. By contrast, the two in-plane nearest neighbor metal distances in the high Al-content oxides differ by only about 0.01 Å, as calculated by Rietveld refinement of high-resolution XRD data. 23 [This is, of course, an average measure due to the long-range structure.] Note, though, that the above 'differentiation resolution' describes the discrimination of two different coordination shells, not the precision with which bond lengths can be calculated (typically ∼ 0.01 Å). Thus, the monoclinic distortion cannot be definitively resolved in this EXAFS study, so the data was modeled with a single M-M ′ ( M ′ = first nearest metal neighbor) bond distance, as is the case in a perfect hexagonal crystal ( R-3m ). This model also assumes that Al is randomly distributed amongst the crystallographic metal sites, which may not be the case in an ordered system.
+
+The calculated Ni-O bond lengths of about 2.05 Å agree well with reported values of octahedrally coordinated Ni 2 + , as do the Mn-O bond lengths of approximately 1.91 Å with accepted values for Mn 4 + ions. 39 There is a very slight increase in the observed Ni-O distance with Al-substitution, and no significant change in the Mn-O bond length. As previously mentioned, there is a decrease in the calculated σ 2 values of the first coordination shell with Al-incorporation (Fig. 3b). The first nearest neighbor metal distances resulting from the EXAFS fits are shown in Figure 3c. The NiM ′ bond distances
+
+Figure 3. Fitted values for the first coordination shell: a) Ni-O and Mn-O bond distances and b) σ 2 values for the Ni and Mn absorbers as a function of Al-content in LiNi0.45Mn0.45Co0.1 -yAlyO2 (0 ≤ y ≤ 0.1). c) Fitted values of the NiM and MnM in-plane first-nearest metal distances.
+
+<!-- image -->
+
+show no significant trend, while the MnM ′ bond distances appear to increase slightly with Al content. The uncertainties of the calculations, however, are quite large in comparison to the observed changes. There is an apparent discrepancy with XRD results, which show a decrease in the average ahex lattice parameter. 20,23 If the bond distance trends accurately describe the system, this discrepancy could suggest selective ordering around the Mn ions upon Al-incorporation.
+
+Charging mechanism.To elucidate the effect of Al-substitution on the LiNi0.45Mn0.45Co0.1 -yAlyO2 materials during battery operation, XAFS spectra of electrodes at various states-of-charge (SOC) were measured ex situ for y = 0 and y = 0.05. Voltage vs. Li-content profiles
+
+Figure 4. Voltage profiles for the electrochemically charged LiNi0.45Mn0.45Co0.1 -yAlyO2 ( y = 0, 0.05) electrodes. XAS measurements were made ex situ for samples charged to the indicated points.
+
+<!-- image -->
+
+are shown in Figure 4 with the measurement points indicated, spanning from fresh samples to SOC = 90%. A higher operating potential of the 5% Al-substituted sample is observed; electrodes were charged to specified Li-contents rather than maximum voltage limits to ensure a direct comparison of states-of-charge between the samples.
+
+The normalized Ni K-edge XANES spectra upon charging are shown in Figures 5a and 6a for the y = 0 and y = 0.05 materials, respectively. A shift of the entire edge to about 2 eV higher in energy is observed in both cases. This shift indicates oxidation of the Ni ions for charge compensation as Li ions are electrochemically deintercalated. Beyond SOC = 50%, however, the Ni-edge shift is less pronounced in both materials ( y = 0, y = 0.05). There is significantly less progression in the XANES as the material is charged from 50% to 90% SOC than during the first half of the charging process. In contrast, the Mn and Co K-edges of both the y = 0 and y = 0.05 materials do not show a comparable energy shift to the Ni-edge at any point during Liremoval. There is, however, a clear evolution of the edge-shape for both elements, presented in Figures 5 and 6. Compared to the Ni spectra, the observed edge variations suggest the Mn and Co ions remain in the + 4 and + 3 states, respectively, throughout charge. The behavior of Co in the materials is discussed further below.
+
+XANES measurements are quite sensitive to the local geometric and electronic structure of the absorbing atoms. As Li ions are removed during charge, there is a substantial structural evolution of the electrode material: a decrease in the in-plane metal distances ( a lattice parameter) and a corresponding increase along the layered direction ( c lattice parameter) occurs during the initial oxidation stages, before a contraction at higher SOC. This behavior has been observed using in situ synchrotron XRD. 23 The geometric evolution can also be observed by the changes in the shapes of the XANES edges. The bond lengths and distortion of the M O6 octahedra are modified as a function of SOC, in turn varying the orbital overlap (both M 3dM 4p and M 3d-O2p) that gives rise to various features observed in the XANES, such as the pre-edge peaks and those ascribed to LMCT shakedown processes. 29
+
+The pre-edge features of each edge are shown in the insets of the figures. The relatively low intensity pre-edge peaks are indicative of the slightly distorted octahedral coordination of the transition metals, as mentioned above. In octahedral symmetry, crystal field splitting removes the electronic degeneracy of the transition metal d -orbitals. The Ni 2 + electronic configuration is t 6 2 g e 2 g , and the single pre-edge electronic transition observed corresponds to excitation into an unfilled eg orbital. The shift of the Ni pre-edge to higher energy is due to the oxidation of the Ni ions during charge, which increases the binding energy. The Mn 4 + configuration ( t 3 2 g e 0 g ) leads to the existence of two pre-edge peaks, indicating electronic transitions to open t 2g
+
+Figure 5. Normalized XANES spectra of the a) Ni, b) Mn, and c) Co K-edges for Li1-xNi0.45Mn0.45Co0.1O2 ( y = 0) at various states of charge. The pre-edge features are shown in the insets.
+
+<!-- image -->
+
+and eg states. The slight initial shift in energy from the fresh state to SOC = 15% is suggestive of a very small amount of Mn 3 + in the as-synthesized materials that is immediately oxidized.
+
+The Co pre-edges are more difficult to interpret here. There is a smaller signal-to-noise ratio of the measured spectra due to the lower Co-concentration compared to the other metals. Low-spin Co 3 + ( t 6 2 g e 0 g ) should display a single pre-edge peak, while higher spin-states will result in the observation of a second peak. There appears to be a single pre-edge peak for both the LiNi0.45Mn0.45Co0.1 -yAlyO2 ( y = 0 and y = 0.05) samples in this study. Other investigations of NMC materials, though, have resolved a second peak indicating a mixture of low and high spin states. 40 Such a scenario cannot be definitively excluded by the data presented here. Despite the absence of a significant shift of the main Co absorption edge, there is a slight shift
+
+Figure 6. Normalized XANES spectra of the a) Ni, b) Mn, and c) Co K-edges for Li1-xNi0.45 Mn0.45Co0.05Al0.05O2 ( y = 0.05) at various states of charge. The pre-edge features are shown in the insets.
+
+<!-- image -->
+
+of the Co pre-edge peaks to higher energy during charge, suggesting some contribution to the oxidation scheme centered at the Co ions. There remains debate regarding the roles of Co and O-anion ligands in charge compensation. Despite theoretical calculations for NMC systems, which suggest that the electrochemical oxidation of Co (or oxygen) occurs only at high voltages after the full oxidation of Ni, the reality is less well defined. 28,41,42 Rather, the results here suggest activity of the Co (or oxygen) at lower voltages, simultaneous with the oxidation of Ni, similar to what that has been proposed previously for Co-rich NMCs. 43
+
+The intensities of the pre-edge features increase with SOC for all metals in both the Al-substituted and the unsubstituted parent materials. This suggests an increase in the octahedral distortion throughout the charging process, leading to enhanced M 3d-4p orbital overlap.
+
+Figure 7. Results of linear combination fittings of the a) Ni, b) Co, and c) MnXANESedges. 'Fraction of 90% SOC' indicates the relative proximity of each charge state to the final observed.
+
+<!-- image -->
+
+This effect could at least partly be due to the Jahn-Teller active Ni 3 + ions produced as an intermediate state during the charging process. 40 The distortion due to the Ni 3 + will transmit in part to the surrounding edge-sharing metal octahedra. Al substitution does not appear to affect this change.
+
+Amore quantitative analysis of the XANES spectra features is difficult, as a sufficient mathematical description that would allow edge modeling has not yet been widely disseminated. However, the relative evolution of the absorbing environments can be further evaluated with linear combination fitting of the XANES edges. To this end, the fitting was performed for each element using two components: the collected spectra at SOC = 0% and SOC = 90%, the fresh and charged end members. Fitting the entire edge provides a more robust analysis than tracking the position of a single edge feature, such as the peak of the white line or the energy position at half of the edge step, the most common procedure in the literature. This is especially true in cases
+
+Figure 8. Magnitudes of the Fourier transformed k 3 -weighted χ ( k ) Ni Kedge EXAFS for Li1-xNi0.45Mn0.45Co0.1 -yAlyO2 electrodes with a) y = 0 and b) y = 0.05, shown for various states-of-charge. c) Fits of the magnitudes of the Fourier transformed k 3 -weighted χ ( k ) Ni K-edge EXAFS for the Li1-xNi0.45Mn0.45Co0.1 -yAlyO2 ( y = 0) data in (a).
+
+<!-- image -->
+
+where the edge shape changes throughout the measured series, as is particularly evident at the Mn K edge in layered materials such as those studied here.
+
+The results of the linear combination fitting of the Ni edges are shown in Figure 7a for both LiNi0.45Mn0.45Co0.1 -yAlyO2 ( y = 0, 0.05) materials. In both cases, the changes are mostly confined to the first part of the charging process (SOC &lt; 70%), and there is minimal change between SOC = 70% and SOC = 90%. It should be noted that the charging procedure was carried out at fairly fast rates to minimize any electrolyte decomposition. Additionally, although only the end members describing the fresh (Ni 2 + at SOC = 0%) and fully charged (Ni 4 + at SOC = 90%) states were considered, satisfactory fits were achieved to describe the relative edge energy positions and spectra shapes of the intermediate states-of-charge containing Ni 3 + .
+
+Interestingly, the linear combination fitting of the Co spectra (Fig. 7b) also shows a tapering of the spectral changes at higher states of charge. If Co-oxidation were responsible for charge compensation following the Ni-contribution, a larger change between SOC = 70% and SOC = 90% would be expected. Rather, the Co environment seems to undergo most of the observed evolution below 70% SOC. It is the Mn edge that actually shows the largest variation at high states-of-charge relative to the beginning of the charging process (Fig. 7c). Thus, it is clear that the entire layered oxide structure evolves during the Li deintercalation process, with the immediate environments of the Ni, Mn, and Co ions transforming. From the XANES analysis, however, a distinct behavioral difference due to Al-substitution is not readily apparent.
+
+ThemagnitudesoftheFourier transformed k 3 -weighted Ni EXAFS are presented in Figure 8, while that for the Mn and Co edges are shown in Figure S1. 44 The Ni data shows substantial development throughout the charging process, as expected. The first peak in the Fourier transform data (R ≈ 1.5) mainly results from scattering of the photoelectrons by the nearest neighbor oxygen anions. At the beginning of charge, this Ni-O peak initially decreases in amplitude as it shifts to lower R, with the intensity subsequently increasing from 30 to 90% SOC. The trend is indicative of the Jahn-Teller distortion associated with a Ni 3 + intermediate ion initially formed during the charging process, which is subsequently oxidized to the non- (JahnTeller) distorted Ni 4 + . Further quantitative support is discussed below.
+
+The Fourier transformed EXAFS data was fitted using a two-shell model for quantitative analysis. The bond distances of the first nearest
+
+<!-- image -->
+
+neighbor oxygen ions and second nearest neighbor metal ions were fitted as free parameters along with the mean-square displacement ( σ 2 ). Figure 8c shows the fits achieved for y = 0 at the Ni edge (Fig. 8a), illustrating the robustness of the structural model. The Ni data requires the use of two unequal Ni-O bond lengths to account for the Jahn-Teller distortion of Ni 3 + octahedra formed during the charging process (four 'short' and two 'long' bonds, closely resembling the Ni-O bond lengths for the + 4 and + 2 oxidation states, respectively). The total number of long and short Ni-O bonds was allowed to float during the fitting process, and the results agree well with the expected bond length distribution for the case of charge compensation from Ni 2 + to Ni 4 + including a Ni 3 + intermediary (Fig. S2). 44
+
+The M -O ( M = absorber) bond distances throughout the charging process, determined by fitting the Fourier transformed EXAFS spectra, are presented in Figure 9. The variation of each M -O bond length is the same within the windows of uncertainty of the fits for both LiNi0.45Mn0.45Co0.1 -yAlyO2 materials. The largest change in bond length is observed for the Ni-O bond in both the y = 0 and y = 0.05 materials. This is expected, as the Ni ion is oxidized during Li-extraction from the materials, as was seen clearly in the XANES analysis. The single values given for the intermediate charge states (15 ≤ SOC ≤ 70) correspond to an average value of the total short and long bonds calculated during the fit due to the Jahn-Teller distortion of Ni 3 + octahedra. The change is minimal at SOC &gt; 70%, also in good agreement with the data above.
+
+The Mn-O bond lengths vary much less, suggesting again that the Mn 4 + ions do not substantially oxidize throughout the charging region, as discussed above. The small variations ( &lt; 0.02 Å) are likely a secondary effect from changes in the neighboring edge-sharing M O6 octahedra. The Co-O distances vary slightly more throughout the
+
+Figure 9. Fitted values for the first coordination shell M -O bond distances ( M = Ni, Mn, Co) as a function of Li-content in Li1-xNi0.45Mn0.45Co0.1 -yAlyO2 for a) y = 0 and b) y = 0.05.
+
+charging process, with most of the changes occurring at SOC &lt; 70%. This is also in agreement with the linear combination fitting of the XANES spectra. Hence, a contribution to the charge compensation centered at the Co ions, likely including the surrounding O-anions, cannot be ruled out. In fact, the decrease in ionic radius upon oxidizing from Co 3 + to Co 4 + in octahedral coordination is only 0.015 Å according to Shannon, less than the 0.04 Å change calculated here. 39 In disagreement with theoretical suggestions, however, the majority of the bond length reduction occurs during the first half of charge.
+
+The variation of the M-M ′ bond distances are shown in Figure 10, where M ′ indicates the nearest neighbor metals to the absorbing ion. The M-M ′ distance is correlated with the a lattice parameter in the α -NaFeO2 structure. The scatterer was fixed as Co in all fits to account for scattering from Ni, Mn, or Co ions; all three transition metals are close on the periodic table ( Z Mn = 25, Z Co = 27, Z Ni = 28) and have similar scattering properties. Al was assumed randomly distributed for the y = 0.05 material in the best fits. The behavior of the NiM ′ , MnM ′ , and CoM ′ bond lengths are all similar: there is a continuous decrease in the nearest metal-neighbor distance as Li is deintercalated. Slightly less change is observed at the end of charge (70 ≤ SOC ≤ 90%), in agreement with previous XRD results for NMC systems. 12,23
+
+The calculated bond lengths differ slightly for the Ni, Mn, and Co absorbers. This could be a result of using Co as the lone transition metal scatterer, when in actuality the generated photoelectrons are interacting with mostly Ni or Mn neighbors based on the LiNi0.45Mn0.45Co0.1 -yAlyO2 stoichiometry. Each metal will scatter the photoelectron with a slightly different phase and amplitude, affecting the fits: previous EXAFS analyzes have suggested differences of ± 0.01 Å result when assuming all Ni or Mn surroundings instead
+
+Figure 10. Fitted values for the second coordination shell M -M ′ bond distances ( M = Ni, Mn, Co) as a function of Li-content in Li1-xNi0.45Mn0.45Co0.1 -yAlyO2 for a) y = 0 and b) y = 0.05. A M ′ = Co scatterer was used in all fits to account for Ni, Mn, or Co neighbors.
+
+<!-- image -->
+
+Figure 11. Normalized Mn K-edge XANES of fresh and cycled LiNi0.45Mn0.45Co0.1 -yAlyO2 electrodes with a) y = 0 and b) y = 0.05. The pre-edge features are shown in the insets. Derivative spectra for the c) y = 0 and d) y = 0.05 XANES data shown in (a) and (b), respectively.
+
+<!-- image -->
+
+of Co in a LiNi0.4Mn0.4Co0.15Al0.05O2 material. 40 M-M ′ distances that vary with the absorbing element identity could also be expected in an ordered structure; in this case each absorbing ion has a distinct surrounding environment. Regardless, no substantial local structural effect of Al-substitution on the layered structure throughout the charging procedure can be resolved within the quantitative resolution of this EXAFS probe.
+
+Cycled electrodes.The discharge capacities as a function of cycle number for the LiNi0.45Mn0.45Co0.1 -yAlyO2 ( y = 0, 0.05) electrodes are shown in Figure S3a, 44 with accompanying discharge voltage profiles for each material in Figures S3b and c. 44 The rate of capacity fade is faster in the unsubstituted ( y = 0) material. The Mn XANES data for fresh and cycled samples are shown in Figure 11. Cycling causes a decrease in the white line intensity, which is plainly seen both in the normalized edge (Figs. 11a and 11b) and derivative spectra (Figs. 11c and 11d). The changes are accompanied by an increase in the pre-edge peak intensities (Figs. 11a and 11b insets). The evolution of the spectra suggests cycling-induced disorder in the immediate environment surrounding the Mn ions, similar to that observed due to Li deintercalation during the charging process. The changes can be at least partially attributed to incomplete re-intercalation of Li on subsequent discharges, consistent with the decrease in the practical discharge capacities with cycling. 23 Although the intensity increase of the pre-edges appears similar for both the y = 0 and y = 0.05 materials, the magnitude of the white line intensity-reduction is lower for the Al-substituted compound, suggesting improved structural reversibility.
+
+The Ni XANES data is shown in Figure 12. A decrease in the white line intensity in the cycled samples compared to the fresh electrodes was again observed. This is clearly apparent in the derivative plots of the absorption edge, where a slight shift to higher energy can also be resolved (Figs. 12c and 12d). The changes are somewhat less in the Al-substituted samples. Additionally, there was an intensity increase and simultaneous narrowing of both the edge feature attributed to LMCTandthepre-edgepeaksforbothmaterials. These trends suggest further octahedral disorder that leads to more orbital overlap. The narrower peak characteristics of the highly cycled material cannot be fully explained at this time, but possibly result from increased homogeneity of the Ni-absorber environments. This can entail either a decrease in the 3a Ni concentration (via migration to the transition metal layer) or removal of the 3a Ni into a NiO-like layer on the particle surfaces, for instance. 45,46 Some studies have suggested that a majority ( ∼ 75%) of the 3a Ni moves into the transition metal layer during charge to high potentials (and most of it returns to the Lilayer upon discharge), 37,47 though a similar narrowing of the pre-edge peak feature is not observed in this voltage region, as seen above (Figs. 5a and 6a). High-resolution XRD refinements indicate cycling induces a relative decrease of the antisite Ni of ca. 10% from the initial concentration in the fresh materials. 23 Therefore, a decrease in 3a Ni content alone is therefore is not likely the only explanation, but rather additional structural changes must contribute.
+
+The magnitudes of the Fourier transformed k 3 -weighted Ni EXAFS data are shown in Figure 13 for the fresh and cycled materials. There is a slight decrease with cycling in the amplitudes of both the main peaks at R ≈ 1.6 Å and R ≈ 2.5 Å, corresponding mostly to Ni-O and NiM ′ scattering, respectively, in the unsubstituted material. Al substitution limits these changes (Fig. 13b), which likely correlates with the enhanced cycling stability observed in substituted materials. 23 Similar effects were observed at the Mn K-edge (Fig. S4). 44 However, the MnM ′ scattering peak amplitudes increase
+
+Figure 12. Normalized Ni K-edge XANES of fresh and cycled LiNi0.45Mn0.45Co0.1 -yAlyO2 electrodes with a) y = 0 and b) y = 0.05. The pre-edge features are shown in the insets. Derivative spectra for the c) y = 0 and d) y = 0.05 XANES data shown in (a) and (b), respectively.
+
+<!-- image -->
+
+slightly upon cycling. This is in agreement with the previously observed cycling-induced decrease of the 3a Ni concentration, 23,37,47 suggesting the antisite Ni that migrates to the transition metal layer preferentially occupies lattice sites next to Mn ions (previously populated by 3b Li), as would be expected with the existence of flower-type ordering.
+
+Thecalculated Mn-O bond distances, from fitting the Fourier transformed spectra, do not vary significantly with cycling, and the differences are minimal between the y = 0and y = 0.05 materials (Fig. S5). 44 A slight decrease observed for both LiNi0.45Mn0.45Co0.1 -yAlyO2
+
+( y = 0, 0.05) materials is not beyond the uncertainties of the fits. The Ni-O bond length of the parent material, however, decreases after 50 cycles, while that of the Al-substituted material does not. The difference, less than 0.01 Å, likely is associated with the improved electrochemical reversibility of the latter material: i.e., more complete reduction to Ni 2 + is observed on discharge. These results are consistent with XRD data indicating enhanced reversibility at the crystal lattice scale upon cycling. 23 The calculated M-M ′ bond lengths for the y = 0 and y = 0.05 materials behave very similarly within the uncertainties of the data fits (Fig. S5b). 44
+
+Figure 13. Magnitudes of the Fourier transformed k 3 -weighted Ni K-edge EXAFS of fresh and cycled LiNi0.45Mn0.45Co0.1 -yAlyO2 electrodes with a) y = 0 and b) y = 0.05.
+
+<!-- image -->
+
+## Conclusions
+
+X-ray absorption spectroscopy is a powerful technique to probe the local geometric and electronic structures of layered oxide materials. The consequences of Al-substitution in LiNi0.45Mn0.45Co0.1 -yAlyO2 were investigated here. Analysis of the as-synthesized materials (0 ≤ y ≤ 0.10) indicates a homogeneous distribution of Al ions occupying metal sites throughout the layered oxide structure, with substitution inducing a relaxation amongst the strained edge-sharing metal octahedra. This is inferred from both trends observed in the XANES edges as well as fitting of the Fourier-transformed EXAFS. Ex situ measurements on charged electrodes confirms that the main charge compensation mechanism occurs via oxidation of the Ni ions within the materials. The Co ions appear to bestow a supplemental contribution at the beginning of the charging process (at low SOC), rather than at high states of charge as has been previously suggested. Fitting results of the EXAFS agree well with previous X-ray diffraction studies. No significant structural effect of Al-substitution on the charging mechanism is apparent, however, within the resolution of the experiments performed here. Electrochemical cycling induces an increasingly strained system compared to the fresh electrodes, though the observed changes are smaller when Al is present in the layered oxide materials. These results further support the existence of a structural benefit of the substitution of small amounts of Al into the structure of layered materials, which is helpful to guide efforts directed at optimizing chemical compositions for electrodes with longer life.
+
+## Acknowledgments
+
+This work is supported by the Assistant Secretary for Energy Efficiency and Renewable Energy, Office of Vehicle Technologies of the U.S. Department of Energy under Contract No. DE-AC0205CH11231. Portions of this research were carried out at the Stanford Synchrotron Radiation Lightsource, a Directorate of SLAC National Accelerator Laboratory and an Office of Science User Facility operated for the U.S. Department of Energy Office of Science by Stanford University. The SSRL Structural Molecular Biology Program is supported by the DOE Office of Biological and Environmental Research, and by the National Institutes of Health, National Center for Research Resources, Biomedical Technology Program (P41RR001209). The authors are also grateful to Prof. Scott Calvin for his help with XAFS measurements and analysis.
+
+## References
+
+1. S. Davis, S. Diegel, and R. Boundy, Transportation Energy Data Book: Edition 30. Oak Ridge National Laboratory. Retrieved from cta.ornl.gov/data. (2011).
+2. USABC goals, United States Council for Automotive Research (USCAR) ,
+3. http://www.uscar.org/guest/article\_view.php?articles\_id=85. Accessed 4/1/12.
+3. N. Yabuuchi and T. Ohzuku, J. Power Sources , 119 , 171 (2003).
+4. B. J. Hwang, Y. Tsai, D. Carlier, and G. Ceder, Chem. Mater. , 15 , 3676 (2003).
+5. J. K. Ngala, N. A. Chernova, M. Ma, M. Mamak, P. Zavalij, and M. S. Whittingham, J. Mater. Chem. , 14 , 214 (2004).
+6. Z. Lu, D. D. MacNeil, and J. R. Dahn, Electrochem. Solid State Lett. , 4 , A200 (2001).
+7. J. Xiao, N. A. Chernova, and M. S. Whittingham, Chem. Mater. , 20 , 7454 (2008).
+8. I. Belharouak, Y.-K. Sun, J. Liu, and K. Amine, J. Power Sources , 123 , 247 (2003).
+9. J. Choi and A. Manthiram, J. Electrochem. Soc. , 152 , A1714 (2005).
+10. I. Belharouak, W. Lu, D. Vissers, and K. Amine, Electrochem. Commun. , 8 , 329 (2006).
+11. D. MacNeil, Z. Lu, and J. R. Dahn, J. Electrochem. Soc. , 149 , A1332 (2002).
+12. N. Yabuuchi, Y. Makimura, and T. Ohzuku, J. Electrochem. Soc. , 154 , A314 (2007).
+13. M. Ma, N. Chernova, B. Toby, P. Zavalij, and M. S. Whittingham, J. Power Sources , 165 , 517 (2007).
+14. Y. Wang, J. Jiang, and J. R. Dahn, Electrochem. Commun. , 9 , 2534 (2007).
+15. K. Amine, J. Liu, I. Belharouak, S. Kang, I. Bloom, D. Vissers, and G. Henriksen, J. Power Sources , 146 , 111 (2005).
+16. F. Zhou, X. Zhao, Z. Lu, J. Jiang, and J. R. Dahn, Electrochem. Commun. , 10 , 1168 (2008).
+17. F. Zhou, X. Zhao, and J. R. Dahn, J. Electrochem. Soc. , 156 , A343 (2009).
+18. L. Croguennec, J. Bains, J. Br« eger, C. Tessier, P. Biensan, S. Levasseur, and C. Delmas, J. Electrochem. Soc. , 158 , A664 (2011).
+19. J. Wilcox, S. Patoux, and M. M. Doeff, J. Electrochem. Soc. , 156 , A192 (2009).
+20. J. Wilcox, E. E. Rodriguez, and M. M. Doeff, J. Electrochem. Soc. , 156 , A1011 (2009).
+21. D. Liu, Z. Wang, and L. Chen, Electrochim. Acta , 51 , 4199 (2006).
+22. S. Albrecht, J. K‹ umpers, M. Kruft, S. Malcus, C. Vogler, M. Wahl, and M. Wohlfahrt-Mehrens, J. Power Sources , 119 , 178 (2003).
+23. T. E. Conry, A. Mehta, J. Cabana, and M. M. Doeff, submitted , (2012).
+24. W.-S. Yoon, Y. Paik, X.-Q. Yang, M. Balasubramanian, J. McBreen, and C. P. Grey, Electrochem. Solid State Lett. , 5 , A263 (2002).
+25. W.-S. Yoon, S. Iannopollo, C. P. Grey, D. Carlier, J. Gorman, J. Reed, and G. Ceder, Electrochem. Solid State Lett. , 7 , A53 (2004).
+26. J. Reed and G. Ceder. Electrochem. Solid State Lett. , 7 , A145 (2002).
+27. M. S. Islam, R. Davies, and J. Gale. Chem. Mater. , 15 , 4280 (2003).
+28. Y. W. Tsai, B. J. Hwang, G. Ceder, H. S. Sheu, D. G. Liu, and J. F. Lee, Chem. Mater. , 17 , 3191 (2005).
+29. W.-S. Yoon, C. P. Grey, M. Balasubramanian, X.-Q. Yang, and J. McBreen, Chem. Mater. , 15 , 3161 (2003).
+30. P.-Y. Liao, J.-G. Duh, J.-F. Lee, and H.-S. Sheu, Electrochim. Acta , 53 , 1850 (2007).
+31. L. Chick, L. Pederson, G. Maupin, J. Bates, L. Thomas, and G. Exarhos, Mater. Lett. , 10 , 6 (1990).
+32. B. Ravel and M. Newville. J. Synchrotron Rad. , 12 , 537 (2005).
+33. M. Newville, P. Livins, Y. Yacoby, J. J. Rehr, and E. A. Stern, Phys. Rev. B , 47 , 14126 (1993).
+34. S. I. Zabinsky, J. J. Rehr, A. Ankudinov, R. C. Albers, and M. J. Eller, Phys. Rev. B , 52 , 2995 (1995).
+35. J. Rehr, S. Zabinsky, and R. Albers. Phys. Rev. Lett. , 69 , 3397 (1992).
+36. D. Zeng, J. Cabana, J. Br« eger, W.-S. Yoon, and C. P. Grey, Chem. Mater. , 19 , 6277 (2007).
+37. J. Br« eger, Y. S. Meng, Y. Hinuma, S. Kumar, K. Kang, Y. Shao-Horn, G. Ceder, and C. P. Grey, Chem. Mater. , 18 , 4768 (2006).
+38. M. G. Kim, H. J. Shin, J.-H. Kim, S.-H. Park, and Y.-K. Sun, J. Electrochem. Soc. , 152 , A1320 (2005).
+39. R. Shannon. Acta Cryst. Section A: Crystal Physics, Diffraction, Theoretical and General Crystallography , 32 , 751 (1976).
+40. C. Rumble, T. E. Conry, M. Doeff, E. J. Cairns, J. E. Penner-Hahn, and A. Deb, J. Electrochem. Soc. , 157 , A1317 (2010).
+41. J. McBreen, J. Solid State Electrochem. , 13 , 1051 (2009).
+42. M. K. Aydinol, A. F. Kohan, G. Ceder, K. Cho, and J. Joannopoulos, Phys. Rev. B , 56 , 1354 (1997).
+43. D. Zeng, J. Cabana, W.-S. Yoon, and C. P. Grey, Chem. Mater. , 22 , 1209 (2010).
+44. See supplementary material at http://dx.doi.org/10.1149/2.048209jes.
+45. D. P. Abraham, R. D. Twesten, M. Balasubramanian, I. Petrov, J. McBreen, and K. Amine, Electrochem. Commun. , 4 , 620 (2002).
+46. D. P. Abraham, R. D. Twesten, M. Balasubramanian, J. Kropf, D. Fischer, J. McBreen, I. Petrov, and K. Amine. J. Electrochem. Soc. , 150 , A1450 (2003).
+47. N. Yabuuchi, S. Kumar, H. H. Li, Y.-T. Kim, and Y. Shao-Horn, J. Electrochem. Soc. , 154 , A566 (2007).

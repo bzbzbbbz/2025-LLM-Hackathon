@@ -5,7 +5,6 @@ import numpy as np
 import os
 import zipfile
 import tempfile
-import shutil
 from pathlib import Path
 import plotly.express as px
 import plotly.graph_objects as go
@@ -16,12 +15,12 @@ from rag import XASManuscriptRAG
 
 # === PAGE CONFIG ===
 st.set_page_config(
-    page_title="XAScribe", 
+    page_title="XAS Research Assistant", 
     layout="wide",
     page_icon="🧪"
 )
 
-st.title("🧪 XAScribe")
+st.title("🧪 XAS Research Assistant")
 st.markdown("**Upload your XAS data and research papers to generate comprehensive manuscript sections**")
 
 # === SIDEBAR CONFIGURATION ===
@@ -145,25 +144,12 @@ if xas_data_file or research_papers:
                         progress_bar.progress(75)
                         status_text.text("🤖 Initializing RAG system...")
                         
-                        # Set API key in environment for RAG system
-                        os.environ['GOOGLE_API_KEY'] = st.session_state.api_key
-                        
-                        # Copy papers to expected location for RAG system
-                        expected_folder = "./converted_papers"
-                        if os.path.exists(expected_folder):
-                            shutil.rmtree(expected_folder)
-                        os.makedirs(expected_folder, exist_ok=True)
-                        
-                        # Copy all files from temp folder to expected location
-                        for filename in os.listdir(papers_folder):
-                            if filename.endswith('.txt'):
-                                src_path = os.path.join(papers_folder, filename)
-                                dst_path = os.path.join(expected_folder, filename)
-                                with open(src_path, 'r', encoding='utf-8') as src, open(dst_path, 'w', encoding='utf-8') as dst:
-                                    dst.write(src.read())
-                        
-                        # Initialize RAG system with new interface
-                        rag_system = XASManuscriptRAG(force_reload=True)
+                        # Initialize RAG system
+                        rag_system = XASManuscriptRAG(
+                            force_reload=True,
+                            api_key=st.session_state.api_key,
+                            converted_folder=papers_folder
+                        )
                         
                         st.session_state.rag_system = rag_system
                         
@@ -324,33 +310,44 @@ MACHINE LEARNING CONFIDENCE:
                         else:
                             # Fallback for simpler data format
                             if hasattr(xas_data, 'shape'):
-                                xas_context = f"""
+                                                            xas_context = f"""
 
 XAS DATA ANALYSIS RESULTS:
 • Dataset contains {xas_data.shape[0]} data points with {xas_data.shape[1]} measured parameters
 • Machine learning analysis completed using Random Forest modeling
 • Spectral features processed and analyzed for structural insights
 • Data preprocessing and feature extraction performed successfully
-                                """
-                    
-                    # Prepare enhanced research question
-                    enhanced_question = f"""
+                            """
+                
+                # Prepare enhanced research question
+                enhanced_question = f"""
 Research Focus: {research_question}
 
 Manuscript Requirements:
 - Citation Style: {citation_style}
+
 {xas_context}
 
+Generate a comprehensive manuscript section that:
+1. {'Integrates the specific XAS experimental results including oxidation states, bond lengths, and spectral interpretations' if include_data_analysis else 'Focuses on theoretical aspects'}
+2. {'Incorporates relevant literature findings and comparisons with the experimental data' if include_literature else 'Provides standalone analysis'}
+3. Discusses the structural and electronic insights revealed by the analysis
+4. Interprets the machine learning predictions and their uncertainties
+5. Explains the significance of key spectral features identified by SHAP analysis
+6. Relates the findings to broader scientific understanding
+7. Uses appropriate technical language for scientific audiences
+8. Follows academic writing standards with proper scientific rigor
+
 Please write a well-structured academic manuscript section that synthesizes both the experimental findings and literature context to provide comprehensive scientific insights.
-                    """
-                    
-                    # Generate manuscript using RAG system
-                    if st.session_state.get('rag_system') and include_literature:
-                        manuscript = st.session_state.rag_system.generate_manuscript_analysis(enhanced_question)
-                    else:
-                        # Fallback: generate without literature if RAG not available
-                        st.warning("Generating manuscript without literature integration (RAG system not available)")
-                        manuscript = f"""
+                """
+                
+                # Generate manuscript using RAG system
+                if st.session_state.get('rag_system') and include_literature:
+                    manuscript = st.session_state.rag_system.generate_manuscript_analysis(enhanced_question)
+                else:
+                    # Fallback: generate without literature if RAG not available
+                    st.warning("Generating manuscript without literature integration (RAG system not available)")
+                    manuscript = f"""
 MANUSCRIPT SECTION: {research_question}
 
 {xas_context}
@@ -364,29 +361,29 @@ The predicted oxidation states and bond lengths reveal important information abo
 These experimental findings contribute to our understanding of the material's electronic structure and local atomic arrangements. Further analysis incorporating literature comparisons would provide additional context for these observations.
 
 Note: Complete manuscript generation with literature integration requires the RAG system to be properly initialized.
-                        """
-                    
-                    # Display generated manuscript
-                    st.header("📄 Generated Manuscript")
-                    st.markdown("---")
-                    st.markdown(manuscript)
-                    
-                    # Download option
-                    st.download_button(
-                        label="💾 Download Manuscript",
-                        data=manuscript,
-                        file_name=f"xas_manuscript_{research_question[:30].replace(' ', '_')}.txt",
-                        mime="text/plain",
-                        help="Download the generated manuscript as a text file"
-                    )
-                    
-                except Exception as e:
-                    st.error(f"❌ Manuscript generation failed: {e}")
-                    st.info("Please check your inputs and try again.")
+                    """
+                
+                # Display generated manuscript
+                st.header("📄 Generated Manuscript")
+                st.markdown("---")
+                st.markdown(manuscript)
+                
+                # Download option
+                st.download_button(
+                    label="💾 Download Manuscript",
+                    data=manuscript,
+                    file_name=f"xas_manuscript_{research_question[:30].replace(' ', '_')}.txt",
+                    mime="text/plain",
+                    help="Download the generated manuscript as a text file"
+                )
+                
+            except Exception as e:
+                st.error(f"❌ Manuscript generation failed: {e}")
+                st.info("Please check your inputs and try again.")
 
 # === SIDEBAR INFORMATION ===
 st.sidebar.markdown("---")
-st.sidebar.markdown("### 📊 Current Status")
+st.sidebar.markdown("### �� Current Status")
 
 # Status indicators
 if st.session_state.get('api_key'):

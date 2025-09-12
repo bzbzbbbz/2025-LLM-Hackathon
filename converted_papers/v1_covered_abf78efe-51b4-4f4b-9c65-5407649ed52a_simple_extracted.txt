@@ -1,0 +1,246 @@
+Simple Docling Extracted Data from: v1_covered_abf78efe-51b4-4f4b-9c65-5407649ed52a.pdf
+============================================================
+
+Title: v1_covered_abf78efe-51b4-4f4b-9c65-5407649ed52a
+Pages: 24
+Tables: 0
+Figures: 0
+
+MAIN TEXT:
+------------------------------
+<!-- image -->
+
+Preprints are preliminary reports that have not undergone peer review: They should not be considered conclusive; used to inform clinical practice; or referenced by the media as validated information:
+
+## Operando multi-edge XAS to unlock the effect of Co in Li- and Mn-rich NMC Li-ion cathodes
+
+Laura Simonelli
+
+ALBA Synchrotron (Spain) https://orcid.org/0000-0001-5331-0633
+
+## Oleg Usoltsev
+
+ALBA Synchrotron (Spain) https://orcid.org/0000-0002-1537-3497
+
+## Shehab Ali
+
+Suez Canal University, Faculty of Science https://orcid.org/0000-0001-9519-1054
+
+## Andrea Sorrentino
+
+ALBA Synchrotron (Spain) https://orcid.org/0000-0002-3235-8950
+
+## Matthias Kuenzel
+
+Helmholtz-Institute Ulm https://orcid.org/0000-0002-5877-7053
+
+## Dominic Bresser
+
+Karlsruhe Institute of Technology (KIT) &amp; Ulm University (UUlm) https://orcid.org/0000-0001-6429- 6048
+
+## Hyeongseon Choi
+
+Helmholtz Institute Ulm (HIU)
+
+## Stefano Passerini
+
+Karlsruhe Institute of Technology https://orcid.org/0000-0002-6606-5304
+
+## Dino Tonti
+
+Institut de Ciència de Materials de Barcelona (ICMAB)
+
+Isimonelli@cells.es
+
+## Article
+
+Keywords:
+
+Posted Date: August 14th, 2024
+
+DOI: https://doi.org/10.21203/rs.3.rs-4844249/v1
+
+License:
+
+  This work is licensed under a Creative Commons Attribution 4.0 International License.
+
+## Read Full License
+
+Additional Declarations: There is NO Competing Interest.
+
+## Operando multi-edge XAS to unlock the effect of Co in Li- and Mn-rich NMC Li-ion cathodes
+
+Oleg Usoltsev a , Shehab E. Ali a,b , Andrea Sorrentino a , Hyeongseon Choi d,e , Matthias Kuenzel d,e , Dominic Bresser d,e , Stefano Passerini d,e , Dino Tonti f , Laura Simonelli a,*
+
+a ALBA Synchrotron Light Facility, Carrer de la Llum 2-26, 08290, Cerdanyola del VallŁs, Spain
+
+b Physics Department, Faculty of Science, Suez Canal University, Ismailia, Egypt
+
+d Helmholtz Institute Ulm (HIU), Helmholtzstrasse 11, 89081, Ulm, Germany
+
+e Karlsruhe Institute of Technology (KIT), PO Box 3640, 76021, Karlsruhe, Germany
+
+f Institut de Ci Ł ncia de Materials de Barcelona (ICMAB), CSIC, Carrer dels Til·lers sn, 08193 Bellaterra, Spain
+
+*Corresponding author: lsimonelli@cells.es
+
+## ABSTRACT
+
+Thanks to their high voltage and delivered capacity, Li-rich transition metal (TM) oxide positive electrode  (cathode)  materials  are  among  the  most  promising  for  next-generation  lithium-ionbatteries,  where  Co-free  Li-rich  cathodes  join  reduced  costs  with  competitive  performance. However,  their  cycle-life  remains  limited,  and  the  individual  role  of  TMs  is  still  not  fully understood. The investigation of the TM chemical species ' evolution along the first charge for Li1.2Mn0.56Ni0.16Co0.08O2  and  Li1.2Mn0.6Ni0.2O2  has  been  accessed  by  means  of operando multi-edge XAS. The charge compensation mechanism has been studied and the effect induced by removing Co has been revealed. The absence of Co results in an accelerated and completed Ni oxidation along the first stage of charge and an inhibited formation of the undesired spinel phase and oxygen release at the end of the high voltage plateau. Interestingly, the oxygen release in the Co-containing material involves mainly the oxygen close to the Mn site and occurs while local structural interlayer re-arrangements are taking place.
+
+## INTRODUCTION
+
+The development of effective and sustainable energy storage is nowadays a societal challenge to mitigate  the  CO2  concentration increase  in  the  Earth's  atmosphere  and  possibly  to allow  its reduction in the next decades 1 .  Despite the relative scarcity of lithium and other raw materials, Li-ion batteries (LIBs) are the most remarkable success case in the energy storage technology landscape of (at least) the last fifty years. Lithiated layered transition metal (TM) oxides are widely used as positive electrode (cathode) materials in LIBs, because they offer high energy density and reversibility, while being relatively safe 2, 3, 4 , and their flexible composition allows for a fine tuning of  performance  and  properties 5 .  Since  their  appearance  in  the  market,  the  most  limiting performance factors for LIBs are cost and gravimetric &amp; volumetric capacity limits.
+
+For  this  class  of  materials,  LiCoO2  is  considered  the  basis  layered  compound,  for  which  the delithiation  process  in  a  LiCoO2/C  Li-ion  cell  is  limited  to  around  140-160  mAh  g -1 6 , while relatively  high  costs  are  related  to  the  critical  cobalt 7,  8 .  To  go  beyond  this  limit,  chemical substitutions  at  the  Co  sites  have  been  explored,  enhancing  the  maximum  energy  density  and decreasing at the same time the production costs and safety hazards. In particular, the Co 3+ partial substitution by Mn 4+ , Ni 2+ , and Li + ions, enhances the electrochemical properties, resulting in a new  layered  cathode  material  called  "Li-rich  NMC".  This  approach  combines  the  different properties and effects of Ni, Co and Mn with the possibility of storing additional Li in the TM layers, showing capacities exceeding 280 mAh g -1 9 , i.e., much higher than that of conventional LiCoO2. Despite the great potential, Li-rich NMCs suffer poor kinetics and voltage decay upon cycling. To reduce these problems, many efforts have been made. In particular, changes in the combinations of different cation ratios 10, 11, 12 , charge 13, 14 , temperature and cooling processes 15, 16, 17 ,  different  reagents  and  coatings 18,  19,  20,  21,  22,  23 have  been  studied.  Despite  this,  the  full understanding from the structural/chemical point of view is still not complete for a rational design of new materials. The occurrence of an initial activation process during the first delithiation step is always accompanied by a large irreversibility in terms of capacity, while the exceeding oxidation of  nickel  and  cobalt  and  reversible  and  irreversible  oxygen  electrochemistry  occurs 24,  25,  26,  27 . Moreover, Mn is redox-active and shows a partial reduction from Mn 4+ to Mn 3+ in both high and low  spin  configurations  along  the  first  charge,  where  the  former  corresponds  to  a  partial irreversible spinel formation and the latter is expected to favor reversible cycling 28, 29 . This requires oxygen oxidation to an even higher extent, making the charge compensation mechanism in these
+
+materials  particularly  complex,  involving  both  the  cationic  and  anionic  contributions  with overlapping reversible and irreversible processes. Indeed, the detected O2 release at the end of the first charge, or the eventual generation of partly reduced oxygen species (such as O -, O2 n(n&lt;4), and other radicals) leads to dramatic structural and/or electronic changes in the material, making complex the attribution of the redox processes involved. In this scenario operando studies become a key. Indeed, operando techniques allow the correct correlation of the observed evolution with the  electrochemistry,  enabling  the  detection  of  metastable  intermediates  and  ensuring  the characterization  under  real  conditions  (non-equilibrium)  avoiding  the  risk  of ex-situ sample evolution during manipulation. Operando experiments are thus needed for both the elucidation of redox mechanisms and also the understanding of failure processes. Synchrotron radiation-based techniques are powerful tools for battery research and allow for probing a wide range of length scales 30, 31 .
+
+Recently,  the  specific  role  of  the  different  cations  in  the  behavior  of  Li-rich  NMC  has  been increasingly of interest 32 . Indeed, it is especially relevant in the efforts to reduce the reliance on critical cobalt in lithium batteries.  The concept of Li- and Ni-rich 33, 34 and Co-poor or Co-free 35 cathodes have evolved as the most promising ones. The mechanisms involved in the absence or the presence of a minor amount of Co is here addressed, by comparing Li1.2Mn0.56Ni0.16Co0.08O2 with Li1.2Mn0.60Ni0.20O2 via operando X-ray absorption spectroscopy (XAS) at the Mn, Ni and Co K -edges,  complemented  by ex-situ full  field  transmission  X-ray  microscopy  (TXM)  at  the  O K -edge and Mn L 3-edge. The results obtained allow for following the electrochemically driven evolution of the electronic and local structure around the different cations, addressing the different phases evolution thanks to advanced statistical data treatments.
+
+## EXPERIMENTAL METHODS
+
+Material  synthesis  and  coin  cell  preparation .  Li1.2Mn0.56Ni0.16Co0.08O2  and Li1.2Mn0.60Ni0.20O2, later addressed as Co08 and Co00, were synthetized by co-precipitation followed by a solid-state reaction,  using  the  transition  metal  acetates  and  LiOH·H2O  as  precursors 36 .  The  electrode composition was 85 wt% LR-NMC, 10 wt% conductive carbon (Super C65, IMERYS) and 5 wt% binder (polyvinylidene difluoride, PVdF, Solef 6020, Solvay). To prepare the electrodes, PVdF was first dissolved in N -methyl-2 pyrrolidone (NMP). Then, the active material (Co00 or Co08) and the conductive carbon were introduced in the PVdF solution. The resulting slurry was cast on
+
+Al foil, which was dried at 80 °C in oven for 3 h and then kept at room temperature in a dry room (dew point &lt; -70 °C) overnight. Disk-shaped electrodes with a diameter of 12 mm were punched out of the electrode sheets, pressed at 10 t for 10 s, and dried at 120 °C and pressure of 10 -3 mbar for 14 h. The active material mass loading was around 3.0-3.5 mg cm -2 37 .
+
+For the ex-situ TXM measurements, Co00 or Co08 electrodes were cycled in two-electrode pouchtype cells assembled in the dry room (dew point &lt; 70 °C). The cells employed lithium metal foil (Honjo, battery grade) as the negative electrode. Whatman glass fiber sheets (GF/A) served as the separator and were drenched with 100 µL of the electrolyte (1 M LiPF6 in a 1:1 weight mixture of ethylene carbonate and dimethyl carbonate, UBE). The galvanostatic cycling was conducted using a battery tester (Maccor 4300), setting the anodic and cathodic cut-off potentials to 4.8 and 2.5 V, respectively. A dis-/charge rate of 1C corresponds to a specific current of 200 mA g -1 . The cells were fully charged and then disassembled in an argon-filled glove box. In order to minimize the contribution  of  the  conducting  salt  or  other  possible  soluble  species  from  the  electrolyte,  the samples were rinsed with dimethyl carbonate (UBE) and the active material was recovered from the electrodes.
+
+For the operando hard X-ray absorption spectroscopy (XAS), the electrodes were loaded into coin cells modified with 75-µm-thick Kapton windows to allow for photon transmission. A Li foil was used as negative electrode and standard LiPF6 in the 1:1 (w:w) mixture of ethylene carbonate and dimethyl carbonate as electrolyte soaking a glass fiber filter used as separator.
+
+Hard  X-ray  absorption  measurements . Operando Mn,  Co,  and  Ni K -edge  XAS  spectra  were acquired at the CL˘SS beamline of the ALBA synchrotron (Spain) 38 . The synchrotron radiation emitted by a wiggler source was monochromatized using a double crystal Si(111) monochromator. The  higher  harmonics'  have  been  rejected  by  choosing  proper  angles  and  coatings  of  the collimating and focusing mirrors. The spectra were recorded in transmission mode by means of two ionization chambers while cycling two cells in parallel. A beam-size of 0.4 x 0.7 mm 2 was exploited and the multi-edge measurements on two coin cells where alternated along the cycling. The pristine state, the beginning (charge to 100 mAh g -1 ) and the end (charge to 200 mAh g -1 ) of the high-voltage plateau, and the fully charged state as well as the subsequently discharged state were also measured ex-situ for a direct comparison with the operando measurements. In this case, several spectra were measured to ensure their reproducibility and to obtain a high signal-to-noiseratio.
+
+The XAS spectra were treated involving a standard procedure based on the cubic spline fit to the pre-edge  subtracted  absorption  spectra  to  extract  the  extended  X-ray  absorption  fine  structure (EXAFS) signal 39 . Prior to this, the data were calibrated, normalized and deglitched using the inhouse developed software named FDA. The Mn, Ni, and Co phases evolution have been monitored on the XANES  spectra applying multivariate curve resolution-alternating least squares (MCR-ALS) unmixing, using the MCR toolbox 40, 41 . The EXAFS signals were fitted using original code exploiting the xraylarch python library 42 . The coordination number, Debye-Waller parameter and interatomic distances were obtained for fitting with MnO2, NiO and CoO2 theoretical models. The 'H anning '  window was applied to the χ( k )  functions  with  k-ranges  of  [3-11]  ¯ -1 for  Mn K -edge, [3-8] ¯ -1 for Ni K -edge and of [3-8] ¯ -1 for Co K -edge were selected. In all cases the fitted R-range was set to [1-2] ¯. The EXAFS oscillations have been modeled considering only the first shell contribution, with the number of free fitting parameters remains always below the intrinsic limit defined by the Nyquist theorem 39 . The averaged interatomic distances (RMn-O or RNi-O), their corresponding mean square relative displacements (σ 2 ) representing the local structural disorder, and the coordination number (N) have been considered as variables in the Mn K -edge fits, while N have been found always close to 6 for the Ni K -edge modelling and have been fixed to such value for the reported results.
+
+Energy-resolved soft X-ray transmission microscopy. Ex-situ spectromicroscopy was performed at the MISTRAL beamline of the ALBA Synchrotron 43 at the O K - and Mn L3 -edges. The cathode materials were scraped from electrodes, suspended in dimethyl carbonate (Sigma-Aldrich) and drop-casted on carbon-coated Au TEM grids inside an Ar-filled glovebox. The grids were then mounted on the sample holders and transferred in the MISTRAL microscope in Ar atmosphere to avoid any air contamination. Inside the microscope samples were kept at cryogenic temperature (T  &lt;  110  K)  and  under  high  vacuum  conditions  during  all  the  measurements.  The  inorganic particles  appeared  well  distributed  on  the  carbon  surface  and  their  size  was  well  above  the instrument lateral resolution of about 30 nm half pitch. Representative regions of the samples were selected from 100 μm × 100 μm 'mosaic' images recorded on different zones of the grids as composition of many 12 μm × 12 μm fields of view (FOVs) just at two energies, above and below the  Mn L3 -edge  for  a  first  localization  of  manganese  compounds.  FOVs  with  good  particle dispersion were selected for the acquisition of the energy stack. Transmission FOV images (2 s exposure time, effective pixel size 12 nm) were collected, varying the energy across the O K - and
+
+Mn L3 -edge with a variable spectral sampling (0.5-0.1 eV). The energy resolution was determined at  the  nitrogen K -edge  measuring  the  visibility  of  nitrogen  gas  peaks  at  the  exit  slit  of  the monochromator following the strategy proposed in ref. 44 . The energy resolution at the Mn L3 -edge was extrapolated to be around 0.5 eV (full width at half maximum). A preliminary calibration of the absolute value of the energy was carefully performed before the experiment using standard references samples at different energies along the available energy range of the beamline (CaCO3, N2, TiO2, Mn2O3, and Fe2O3). The necessary total acquisition time for a single energy stack of transmission images was about 1 h.
+
+## RESULTS AND DISCUSSION
+
+The quasi-simultaneous XANES operando spectra collected at the Mn and Ni K -edge of Li1.2Mn0.56Ni0.16Co0.08O2 (Co08) and Li1.2Mn0.60Ni0.20O2 (Co00) are reported in Fig. 1, while the Co K -edge spectra obtained for Co08 and their analysis are depicted in Fig. S2, S3, and S4 of the supporting information. The corresponding electrochemical curves over the first cycles, showing the superior capacity retention of Co00 compared to Co08, are reported in Fig. S1. Comparing the two systems, despite the similarity of the two pristine states to LiNi 1/3 Mn1/3Co1/3 O2 (Fig. S5), larger spectral evolutions as a function of the first charge are evidenced at the Mn K -edge of Co08, while stronger spectral evolutions are visible at the Ni K -edge of Co00.
+
+Figure  1: Evolution  of  the  Mn  (top)  and  Ni  (bottom) K -edge  XANES spectra collected  over Li1.2Mn0.60Ni0.20O2 (left) and Li1.2Mn0.56Ni0.16Co0.08O2 (right) cathodes along the first charge, where the black (red) color corresponds to the pristine (charged) state.
+
+<!-- image -->
+
+While the pristine and charged states overlap with the corresponding ex-situ spectra (Fig. S6) and agree with the literature 13, 28 , this is not the case for the first discharged state. Indeed, along the measurements, the electrolyte close to the irradiated part of the cathodes progressively dried out, limiting the investigation to the first charge, as shown by the evolution of the absorption jump in Fig. S7. Nonetheless, the continuous decrease of the absorption jumps and the comparison with the ex-situ data  along  the  first  charge  (Fig.  S6)  support  the  significance  of operando data  in characterizing the electrochemical behavior.
+
+To deconvolute each operando spectra data set in its major components, the multivariate curve resolution (MCR) approach was applied. The spectra of the chemical components resolved by MCR are displayed in Fig. 2a and d for the Mn and Ni K -edge XANES spectra, respectively, and are compared with the LiNi1/3Mn1/3Co1/3O2 and LiMn2O4 references in Fig. S8. At the Mn K -edge, the first identified component, the gray curve, corresponds to the pristine state, while the other two components are needed to describe the spectral evolution as a function of delithiation in both Co00 and Co08 electrodes. The second component (red curve) could resemble the Mn spinel phase, which is known to form in Co08 along the first charge 28 , but its spectral shape shows significant differences with respect to the LiMn2O4 reference, making this assignment not straightforward. Moreover, by looking to the evolution of the MCR components weight as a function of the Li content  (Fig.  2b,c)  it  seems  that  Co08  contains  a  significant  amount  (20%)  of  the  second component already at the pristine state, which becomes the major one (70%) in the charged state. Previous studies based on EXAFS fits on the same material quantified the formation of the spinel phase  up  to  only  10%  during  the  first  charge 28 .  It  is  possible  that  this  second  component corresponds  to  the  overlapping  contribution  of  the  spinel  formation  and  some  structural  stack changes. Indeed, similarly to the LiCoO2 case, the detected spectral variation around 6553 eV could correspond to a different level of random stacking sequence of the layered structure and those  of  Li/Mn  arrangement  in  ordered  rocksalt  polymorphs 45,  46 .  Finally,  the  third  MCR component corresponds to the delithiated state in Co00, where the local lattice compression due to the Li removal could correspond to the detected shift toward higher energies of the main absorption feature 24,  32 .  At  a  charge  capacity  of  around  140  mAh  g -1 ,  the  Mn K -edge spectral component corresponding to the pristine state is still the major one in Co08 while it is already the minor one in Co00, suggesting an accelerated response to the delithiation in the latter material (Fig. 2b,c). At the same time, the Mn K -edge spectra collected on Co00 as a function of the first charge could be represented  with  only  two  main  components,  the  pristine  state  component  almost  fully transforming  in  the  third  component  representing  the  charged  state,  where  the  additional  one (second  component,  red  curve  in  Figure  2a)  most  likely  accounts  for  less  than  10%  of  spinel formation  above  200  mAh  g -1 .  Instead,  the  spectral  evolution  in  Co08  seems  more  complex. Indeed, the initial state only partially transforms into the charged contracted state.  The second component evolution accounts for the expected 10% of spinel formation 24 , to which most likely the step like behavior around 130 mAh g -1 corresponds, and probable stacking re-arrangements 32 .
+
+The second component, differently from the Co00 case, strongly increases above 250 mAh g -1 at the expense of the delithiated state, most likely because of structural rearrangements.
+
+Figure 2: (a) MCR components of the operando Mn (a) and Ni K -edge (d) absorption spectra and their evolution for the Co00 (b,e) and Co08 (c,f) cathodes. Respective scree plots are presented in Fig. S9.
+
+<!-- image -->
+
+The spinel formation has been confirmed by ex-situ accessing the Mn L 3-edge, where a shift of the first absorption feature toward lower energy is visible already with a minor spinel formation 28 . The Mn L 3-edge spectra, collected on the pristine and charged states by means of transmission X-ray microscopy (TXM), are reported in Fig. 3, left and middle panels. Both spectra corresponding to the pristine state mainly indicate for a Mn 4+ phase, while both spectra collected in the charged state present a tiny shift of the first absorption feature toward lower energy in agreement with a partial Mn reduction, which can be associated to the minor spinel formation. The direct comparison of the  charged  state  of  Co00  and  Co08  indicates  a  slightly  larger  spinel  formation  in  the  latter material,  as  shown  in  Fig.  3  middle  panel.  The  TXM  image  reported  in  Fig.  3  right  panel corresponds to Co00 in the charged state and has been obtained through the formula: (y - y pre )/(ypost - y pre),  where y is the TXM image collected at 642 eV and ypre and ypost represent the images
+
+collected before and after the edge at 638.8 and 642.6 eV, respectively. Pixels not containing Mn or  with  a  too  high  absorption  (peak  at  642  eV  &lt;  2)  have  been  dark-shadowed.  The  regions corresponding to a shifted first absorption feature toward lower energy, i.e., corresponding to the spinel formation, appear brighter in this image. Despite the limited number of isolated particles, it seems that the spinel formation is happening at the particle surface in the Co-free material, an effect that we were not able to observe for Co08, where the spinel rather seems to form in the bulk of the particles 28-29 . This, together with a detected global reduced spinel formation in Co00 when compared with Co08, is in agreement with the proposition that Co favors fast kinetics of  TM migration along the charge process 32 . In particular, the TXM data suggest a possibly reduced Mn migration in the Co-free material. Comparing the herein reported results for Li1.2Mn0.56Ni0.16Co00.08O2  with  those  obtained  for  Li1.2Mn0.4Co00.4O2 32 ,  where  the  latter  was containing around 4 times more Co, it seems possible to generalize the above reported Co effects in Li-rich NMC cathodes, despite the typical high variability of the performance of this class of cathodes as a function of different TM compositions.
+
+Figure 3 : (left) Mn L 3-edge spectra collected on the pristine and charge state of the Co00 and Co08 electrodes. (middle) Comparison in between the spectra collected on the two charge states. (right) Normalized TXM image collected at 642eV, considering as pre- and post-edge energies 638.8 and 642.6 eV, respectively. The scale bar in the bottom left corresponds to 120 nm. Brighter regions correspond to the zones where a partial Mn reduction occurred.
+
+<!-- image -->
+
+Also, the Co K -edge XANES data collected on Co08 can be represented by 3 components (Fig. S3): a first one (grey line) corresponding to the pristine state (Co 3+ ), a second one (red line)  to variations in the stacking arrangements 45 , and a third one (blue line) to the charged state (Co 4+ ). The pristine component is almost fully converted on the ones representing the charged state with a  behavior  correlating  with  the  Mn K -edge  components  detected  on  the  same  cathode. Interestingly, at the end of the charge process, the oxidized component is decreasing in favor of the  second  one,  suggesting,  as  at  the  Mn K -edge,  local  interlayer  structural  rearrangements occurring in Co08 above 240 mAh g -1 , most likely corresponding to the O2 release that occurs at the end of the voltage plateau.
+
+Instead, the Ni K -edge data set can be represented with only two components for both Co00 and Co08. Such two components correspond to Ni 2+ and Ni 4+ species, with the former being present in the pristine state, while the latter exists in the charged state. Interestingly, the Ni oxidation seems almost complete at 140 mAh g -1 in Co00, while it just started in Co08 (Fig. 2, panel e and f), and it correlates to the first-to-third component transformation shown at the Mn K -edge. Indeed, Ni 2+ almost fully oxidizes to Ni 4+ along charge in Co00, while it seems to not entirely oxidize in Co08. This is supported by the O K -edge pre-peak presented in Fig. S10, where a tiny shifts toward higher energy of the feature around 533 eV is a signature of remnant Ni 2+ in  Co08. The Ni oxidation induces a strong local contraction of the Ni-O shell, which is expected to induce strains on the Mn network 24 , probably at the origin of the reported correlation in between the spectral components evolution reported for the two absorption edges.
+
+Consistently with the previously reported results, the detected TM oxidation does not fully justify the  experimentally  measured  capacity,  but  O  oxidation  is  taking  place  along  the  charge 24 . Interestingly, in the absence of Co, the early occurring Ni oxidation limits the oxygen redox to the voltage plateau, while in Co08 both the cation and anion oxidation contribution are present and comparable at the beginning of the charge plateau (starting around 120 mAh g -1 ), which is in good agreement  with  previous  results 24 . This  could  be  related  to the local different  stacking arrangements in the two pristine materials and how they evolve upon charge, where low-defect samples are expected to convert faster to the spinel phase, seriously affecting cycling stability, while higher capacities are achieved with highly defective samples 46 . Within this consideration, it is tempting to deduce that Co00 presents higher defects, i.e., a higher amount of random stacking sequences of the layered structure compared to Co08.
+
+The quasi-simultaneous, operando EXAFS spectra collected at the TM K -edge on Co08 and Co00 allow for accessing quantitative details of the local structural evolution around the absorbers and as  a  function  of  the  first  charge.  In  Fig.  4,  the  Fourier  transforms  of  the k 2 weighted  EXAFS oscillations collected at the Mn and Ni K -edges and on both systems are displayed, and the Fourier transforms of the k 2 weighted EXAFS oscillations collected at the Co K -edge on the Co08 cathode are presented in Fig. S2b.
+
+The first peak around 1.4 ¯ corresponds to the TM-O shell, while the contribution around 2.5 ¯ corresponds to the TM-TM bond. At the Mn K -edge, the charge induces a damping of both the first and second shell contribution in both materials, with a stronger spectral variability for the Co08 system. The minor intensity decrease of the Mn -TM contribution in the Co-free sample could correspond to an improved structural stability and slower oxygen release 47 . At the Co K -edge, the charge induces a damping of both the first and second shell contribution similarly to the Mn K -edge collected on the same Co08 cathode. At the Ni K -edge, the Fourier transform evolution as  a  function  of  charge shows clear differences for the two systems, where a strong structural disorder  increase  characterizes  the  Co08  spectral  evolution  toward  a  contracted  charge  state. Instead, the Ni-TM contribution intensity for Co00 seems to be not affected by the charge, while the Ni-O shell contracts.
+
+The EXAFS fitting results are presented in Figs. 5, 6, and S4 for the Mn, Ni, and Co K -edge results, respectively.
+
+Figure 4: Evolution of the Mn (top) and Ni (bottom) Fourier transform of the k 2 weighted EXAFS oscillations collected from Li1.2Mn0.60Ni0.20O2 (left) and Li1.2Mn0.56Ni0.16Co0.08O2 (right) cathodes along the first charge, where the black (red) color corresponds to the pristine (charged) state.
+
+<!-- image -->
+
+The Mn-O shell contracts in both materials upon charge (Fig. 5a,d), consistently with the shift toward higher energies of the main XANES feature. Generally, a shorter Mn -O bond implies a higher Mn -O covalence, which in fact results from a greater charge transfer from oxygen in Li-rich NMC materials 24 .  This  can  activate  the  oxygen  redox,  potentially  generating  highly  unstable oxygen species, so as to contribute to the oxygen release and poor thermal stability 47 . Interestingly, while the Mn coordination number N is constant for Co00, it decreases for Co08 above 240 mAh
+
+g -1 (Fig. 5 b and e), which is consistent with the O2 release that was evidenced at the end of the voltage plateau for this system 27, 48 . This suggests the suppression of the oxygen release for the Co-free material, in agreement with the detected reduced Mn migration along the charge. Finally, the parameter defining the local disorder ( σ 2 ) increase upon charge correlates with the Mn K -edge XANES first and third component exchange behavior (Fig. 2b,c), indicating higher local structural disorder in the charged state.
+
+Figure  5: Evolution along the first charge of the Mn-O  interatomic  distance (RMn-O), corresponding coordination number (N), and mean square relative displacement ( σ 2 )  for  Co00 (top) and Co08 (bottom).
+
+<!-- image -->
+
+The Co-O shell slightly contracts while, interestingly, its local structural disorder increases above 240  mAh  g -1 (Fig.  S4),  correlating  with  the  O2  release  and  the  local  interlayer  structural rearrangements occurring close to both the Mn and Co sites, suggesting their proximity and relative influence.
+
+The Ni-O shell strongly contracts as a function of charge, at lower capacity and in higher amount for Co00, in agreement with the full change in the Ni oxidation state from 2+ to 4+. The evolution as a function of specific capacity of RNi-O for both systems directly correlates with the Ni K -edge
+
+XANES components evolution along charge (Fig. 2 e, f) and the Mn-O local structural disorder (Fig 5c, f). The Ni-O shell σ 2 parameter increases in both systems, but to a lower extent for Co00, while a peak is evidenced where both Ni 2+ and Ni 4+ oxidation states coexist, which is in agreement with  the  existence  of  two  different  Ni-O  shells  corresponding  to  the  two  Ni  oxidation  states. Instead, the σ 2 parameter increases with a step-like behavior for Co08, suggesting the coexistence of the two oxidation states at the end of the charge process, in agreement with the XANES results (Fig. 2f). In the error bar, no local interlayer structural rearrangements can be hypothesized close to the Ni sites, suggesting its minor role in the undesired oxygen release.
+
+Figure 6: Evolution along the first charge of the Ni-O interatomic distance (RNi-O), corresponding coordination  number  (N),  and  mean  square  relative  displacement  ( σ 2 )  for  Co00  (top)  Co08 (bottom).
+
+<!-- image -->
+
+## CONCLUSIONS
+
+The operando evolution of the Mn, Co and Ni K -edge absorption spectra have been investigated on Li- and Mn-rich cathodes, focusing on the effect of Co in the transition metal layer. Clear correlations have been identified from the TM response to the first charge, where the absence of Co is anticipating and completing the TM reactions in accordance to the better performance. While Ni is oxidized from 2+ to 4+ along the first charge, Mn is mainly maintaining its 4+ oxidation state, and, in Co08, Co is oxidized from 3+ to 4+. The early Ni oxidation in Co00 limits the oxygen redox to the voltage plateau, while only in Co08 both the cationic and anionic contributions are present and comparable at the beginning of the charge. Only around 10% of Mn spinel phase has been detected to form along the first charge and it seems reduced by the absence of Co in the inner part of the cathode material particles, confining its formation to the particle surface. Interestingly, the absence of Co affects the local interlayer structural rearrangement and suppresses the oxygen release at the end of the voltage plateau, in agreement with the better cyclability observed for Co00. The oxygen redox could, in fact, be affected by the amount of random stacking sequence of the layered structure, where low-defect samples are expected to convert faster to the spinel phase, while defective samples give access to higher capacities. Within this picture we hypothesize that Co00  is  presenting  a  higher  amount  of  random  stacking  sequences  of  the  layered  structure compared to Co08. Finally, the oxygen release and the  concomitant local  interlayer  structural rearrangements occurring in Co08 at the end of the voltage plateau have been identified to occur close to the Mn sites.
+
+## ACKNOWLEGEMENTS
+
+The  authors  acknowledge  financial  support  from  the  Spanish  State  Research  Agency  (AEI), through the Severo Ochoa Programme for Centres of Excellence in R&amp;D (CEX2023-001263-S), and the projects PID2021-124681OB-I00 and TED2021-132707B-I00.
+
+## REFERENCES
+
+1. Haas J , et al. Challenges and trends of energy storage expansion planning for flexibility provision in low-carbon power systems -a review. Renewable and Sustainable Energy Reviews 80 , 603-619 (2017).
+2. Ellabban O, Abu-Rub H, Blaabjerg F. Renewable energy resources: Current status, future prospects and their enabling technology. Renewable and Sustainable Energy Reviews 39 , 748-764 (2014).
+3. Owusu PA, Asumadu-Sarkodie S. A review of renewable energy sources, sustainability issues and climate change mitigation. Cogent Engineering 3 , 1167990 (2016).
+4. Panwar NL, Kaushik SC, Kothari S. Role of renewable energy sources in environmental protection: A review. Renewable and Sustainable Energy Reviews 15 , 1513-1524 (2011).
+5. Camargos  PH,  dos  Santos  PHJ,  dos  Santos  IR,  Ribeiro  GS,  Caetano  RE.  Perspectives  on  Li-ion battery  categories  for  electric  vehicle  applications:  A  review  of  state  of  the  art. International Journal of Energy Research 46 , 19258-19268 (2022).
+6. Mizushima K, Jones PC, Wiseman PJ, Goodenough JB. LixCoO2 (0&lt;x&lt;-1): A new cathode material for batteries of high energy density. Materials Research Bulletin 15 , 783-789 (1980).
+7. Olivetti EA, Ceder G, Gaustad GG, Fu X. Lithium-Ion Battery Supply Chain Considerations: Analysis of Potential Bottlenecks in Critical Metals. Joule 1 , 229-243 (2017).
+8. Vaalma C, Buchholz D, Weil M, Passerini S. A cost and resource analysis of sodium-ion batteries. Nature Reviews Materials 3 , 18013 (2018).
+9. Rozier  P,  Tarascon  JM.  Review -Li-Rich  Layered  Oxide  Cathodes  for  Next-Generation  Li-Ion Batteries: Chances and Challenges. Journal of The Electrochemical Society 162 , A2490 (2015).
+10. Kim M-H, Shin H-S, Shin D, Sun Y-K. Synthesis and electrochemical properties of Li[Ni0.8Co0.1Mn0.1]O2 and Li[Ni0.8Co0.2]O2 via co-precipitation. Journal of Power Sources 159 , 13281333 (2006).
+11. Laszczynski N, von Zamory J, Kalhoff J, Loeffler N, Chakravadhanula VSK, Passerini S. Improved Performance of VOx-Coated Li-Rich NMC Electrodes. ChemElectroChem 2 , 1768-1773 (2015).
+12. Noh H-J, Youn S, Yoon CS, Sun Y-K. Comparison of the structural and electrochemical properties of layered Li[NixCoyMnz]O2 (x = 1/3, 0.5, 0.6, 0.7, 0.8 and 0.85) cathode material for lithium-ion batteries. Journal of Power Sources 233 , 121-130 (2013).
+
+13. Buchholz D, Li J, Passerini S, Aquilanti G, Wang D, Giorgetti M. X-ray Absorption Spectroscopy Investigation of Lithium-Rich, Cobalt-Poor Layered-Oxide Cathode Material with High Capacity. ChemElectroChem 2 , 85-97 (2015).
+14. Wang J,  He  X,  Paillard  E,  Laszczynski  N,  Li  J,  Passerini  S.  Lithium-  and  Manganese-Rich  Oxide Cathode Materials for High-Energy Lithium Ion Batteries. Advanced Energy Materials 6 , 1600906 (2016).
+15. Liu Z, Yu A, Lee JY. Synthesis and characterization of LiNi 1-x-y CoxMnyO2 as the cathode materials of secondary lithium batteries. Journal of Power Sources 81-82 , 416-419 (1999).
+16. Ohzuku T, Makimura Y. Layered Lithium Insertion Material of LiCo1/3Ni1/3Mn1/3O2 for Lithium-Ion Batteries. Chemistry Letters 30 , 642-643 (2003).
+17. Rosina KJ, Jiang M, Zeng D, Salager E, Best AS, Grey CP. Structure of aluminum fluoride coated Li [Li1/9Ni1/3Mn5/9]O2 cathodes for secondary lithium-ion batteries. Journal of Materials Chemistry 22 , 20602-20610 (2012).
+18. Guan  X,  Ding  B,  Liu  X,  Zhu  J,  Mi  C,  Zhang  X.  Enhancing  the  electrochemical  performance  of Li1.2Ni0.2Mn0.6O2 by surface modification with nickel -manganese composite oxide. Journal of Solid State Electrochemistry 17 , 2087-2093 (2013).
+19. Myung S-T , et al. Functionality of Oxide Coating for Li[Li0.05Ni0.4Co0.15Mn0.4]O2 as Positive Electrode Materials for Lithium-Ion Secondary Batteries. The Journal of Physical Chemistry C 111 , 4061-4067 (2007).
+20. Shi SJ ,  et  al. Enhanced cycling stability of Li[Li0.2Mn0.54Ni0.13Co0.13]O2 by surface modification of MgO with melting impregnation method. Electrochimica Acta 88 , 671-679 (2013).
+21. Wu  Y,  Manthiram  A.  High  Capacity,  Surface-Modified  Layered  Li[Li (1-x) ∕3 Mn (2-x) ∕ 3 Ni x∕3 Co x∕3 ]O2 Cathodes with Low Irreversible Capacity Loss. Electrochemical and Solid-State Letters 9 ,  A221 (2006).
+22. Zhao Y, Zhao C, Feng H, Sun Z, Xia D. Enhanced Electrochemical Performance of Li[Li0.2Ni0.2Mn0.6]O2 Modified by Manganese Oxide Coating for Lithium-Ion Batteries. Electrochemical and Solid-State Letters 14 , A1 (2011).
+
+23. Zheng JM, Li J,  Zhang  ZR,  Guo  XJ,  Yang  Y.  The  effects  of  TiO2  coating  on  the  electrochemical performance of Li[Li0.2Mn0.54Ni0.13Co0.13]O2 cathode material for lithium-ion battery. Solid  State Ionics 179 , 1794-1799 (2008).
+24. Ali SE , et al. Quantification of charge compensation in lithium- and manganese-rich Li-ion cathode materials by x-ray spectroscopies. Materials Today Physics 24 , 100687 (2022).
+25. Luo K ,  et  al. Charge-compensation in 3d-transition-metal-oxide intercalation cathodes through the generation of localized electron holes on oxygen. Nature Chemistry 8 , 684-691 (2016).
+26. Seo D-H, Lee J, Urban A, Malik R, Kang S, Ceder G. The structural and chemical origin of the oxygen redox activity in layered and cation-disordered Li-excess cathode materials. Nature Chemistry 8 , 692-697 (2016).
+27. Yu Y ,  et  al. Towards controlling the reversibility of anionic redox in transition metal oxides for high-energy Li-ion positive electrodes. Energy &amp; Environmental Science 14 , 2322-2334 (2021).
+28. Ali  SE ,  et  al. Local  Interactions  Governing  the  Performances  of  Lithium-  and  Manganese-Rich Cathodes. The Journal of Physical Chemistry Letters 12 , 1195-1201 (2021).
+29. Simonelli L , et al. Role of Manganese in Lithium- and Manganese-Rich Layered Oxides Cathodes. The Journal of Physical Chemistry Letters 10 , 3359-3368 (2019).
+30. Black  AP ,  et  al. Synchrotron  radiation  based operando characterization  of  battery  materials. Chemical science 14 , 1641-1665 (2023).
+31. Fehse M, Iadecola A, Simonelli L, Longo A, Stievano L. The rise of X-ray spectroscopies for unveiling the functional mechanisms in batteries. Physical  Chemistry Chemical Physics 23 ,  23445-23465 (2021).
+32. Li B ,  et al. Decoupling the roles of Ni and Co in anionic redox activity of Li-rich NMC cathodes. Nature Materials 22 , 1370-1379 (2023).
+33. Li B , et al. Constructing 'Li -rich Nirich' oxide cathodes for high -energy-density Li-ion batteries. Energy &amp; Environmental Science 16 , 1210-1222 (2023).
+34. Manthiram A, Knight JC, Myung S-T, Oh S-M, Sun Y-K. Nickel-Rich and Lithium-Rich Layered Oxide Cathodes: Progress and Perspectives. Advanced Energy Materials 6 , 1501010 (2016).
+
+35. Wu F , et al. Elucidating the Effect of Iron Doping on the Electrochemical Performance of CobaltFree Lithium-Rich Layered Cathode Materials. Advanced Energy Materials 9 , 1902445 (2019).
+36. Li  J ,  et  al. Synthesis  and  electrochemical  performance  of  the  high  voltage  cathode  material Li[Li0.2Mn0.56Ni0.16Co0.08]O2 with improved rate capability. Journal of Power Sources 196 , 4821-4825 (2011).
+37. Kazzazi A, Bresser D, Birrozzi A, von Zamory J, Hekmatfar M, Passerini S. Comparative Analysis of Aqueous Binders for High-Energy Li-Rich NMC as a Lithium-Ion Cathode and the Impact of Adding Phosphoric Acid. ACS Applied Materials &amp; Interfaces 10 , 17214-17222 (2018).
+38. Simonelli L ,  et  al. CLÆSS: The hard X-ray absorption beamline of the ALBA CELLS synchrotron. Cogent Physics 3 , 1231987 (2016).
+39. Prins R, Koningsberger D. X-ray absorption: principles, applications, techniques of EXAFS, SEXAFS, and XANES . Wiley (1988).
+40. Jaumot J, de Juan A, Tauler R. MCR-ALS GUI 2.0: New features and applications. Chemometrics and Intelligent Laboratory Systems 140 , 1-12 (2015).
+41. de  Juan  A,  Tauler  R.  Chapter  2  -  Multivariate  Curve  Resolution-Alternating  Least  Squares  for Spectroscopic  Data.  In: Data  Handling  in  Science  and  Technology (ed  Ruckebusch  C).  Elsevier (2016).
+42. Newville M. Larch: An Analysis Package for XAFS and Related Spectroscopies. Journal of Physics: Conference Series 430 ,  (2013).
+43. Sorrentino  A ,  et  al. MISTRAL:  a  transmission  soft  X-ray  microscopy  beamline  for  cryo  nanotomography  of  biological  samples  and  magnetic  domains  imaging. Journal  of  Synchrotron Radiation 22 , 1112-1117 (2015).
+44. Otón J, Sorzano COS, Marabini R, Pereiro E, Carazo JM. Measurement of the modulation transfer function of an X-ray microscope based on multiple Fourier orders analysis of a Siemens star. Opt Express 23 , 9567-9572 (2015).
+45. Koyama Y, Arai H, Ogumi Z, Tanaka I, Uchimoto Y. Co K -edge XANES of LiCoO2 and CoO2 with a variety of structures by supercell density functional calculations with a core hole. Physical Review B 85 , 075129 (2012).
+
+46. Serrano-Sevillano J ,  et  al. Enhanced  electrochemical performance of Li-rich cathode  materials through microstructural control. Physical Chemistry Chemical Physics 20 , 23112-23122 (2018).
+47. Li  X ,  et  al. Rational design of thermally stable polymorphic layered cathode materials for next generation lithium rechargeable batteries. Materials Today 61 , 91-103 (2022).
+48. Hu E ,  et  al. Evolution of redox couples in Li- and Mn-rich cathode materials and mitigation of voltage fade by reducing oxygen release. Nature Energy 3 , 690-698 (2018).
+
+## Supplementary Files
+
+This is a list of supplementary ¬les associated with this preprint. Click to download.
+
+- SupplementaryinformationUsoltsevetall2024.pdf

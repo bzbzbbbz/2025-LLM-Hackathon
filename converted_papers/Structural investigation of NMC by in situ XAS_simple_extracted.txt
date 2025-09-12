@@ -1,0 +1,183 @@
+Simple Docling Extracted Data from: Structural investigation of NMC by in situ XAS.pdf
+============================================================
+
+Title: Structural investigation of NMC by in situ XAS
+Pages: 8
+Tables: 0
+Figures: 0
+
+MAIN TEXT:
+------------------------------
+<!-- image -->
+
+## Abstract
+
+A combination technique of in situ synchrotron X-ray absorption spectroscopy (XAS) and X-ray diffraction (XRD) was employed to study the Li1 -x Ni0.5Co0.25Mn0.25O2 cathode material for Li-ion battery. The Li/Li1 -x Ni0.5Co0.25Mn0.25O2 cell with x =0.82 charged to 4.5 V showed the first charge capacity of 225 mAh/g. The X-ray absorption near edge structure (XANES) indicated that the initial valences were +2/+3, +3 and +4 for Ni, Co and Mn, respectively. The main redox reaction during delithiation was achieved by Ni via the reaction Ni 2+ → Ni 3+ followed by Ni 3+ → Ni 4+ . The oxidation states of Co and Mn remained Co 3+ and Mn 4+ . The bond length of Ni-O decreased drastically, while the Co-O and Mn-O distances exhibited a slight change with the decrease of Li content in the electrode. It was further revealed that all the second shell metal-metal (Ni-M, Co-M and Mn-O) distances decreased due to the oxidation of metal ions. In situ XRD data showed that both a - and c -axes varied with different Li contents in this material system. At the beginning of charge, there was a contraction along the c -axis and a slight expansion along the a -axis. As x reached 0.57, the trend of the variation in c -axis was opposite. The changes of lattice parameters could be explained by the balance between ionic radius and the repulsive force of the layer-structured material. '2007 Elsevier Ltd. All rights reserved.
+
+Keywords: Li-ion battery; X-ray diffraction; Phase transition; X-ray absorption spectroscopy
+
+## 1. Introduction
+
+In the past decade, various cathode materials with low material cost, high stability and good electrochemical performance have been investigated. Layer-structured LiCoO2 has been commercialized for its high energy density and stability [1-3]. However, due to the high cost and relative toxicity of Co, other cathode materials have been probed. LiNiO2 with the iso-structure of LiCoO2 is the most attractive material because of cost effectiveness and higher discharge capacity. Nevertheless, lithium occupies nickel sites, leading to structural instability and capacity deterioration during cycling [4]. For improving the electrode performance of LiNiO2, there have been lots of researches concerning elemental dopant in LiNiO2 to stabilize the structure. Recently, a one-to-one solid solution of LiNiO2, LiCoO2 and LiMnO2, i.e. LiNi1/3Co1/3Mn1/3O2,
+
+∗ Corresponding author. Tel.: +886 3 5712686; fax: +886 3 5712686. E-mail address: jgd@mx.nthu.edu.tw (J.-G. Duh).
+
+with an 𝛂 -NaFeO2 structure was reported by Ohzuku and Makimura [5]. It showed a capacity of 200 mAh/g in the voltage window of 2.5-4.6 V [5,6]. By modifying the percentage of Co and Mn dopants, new type of layer-structured compounds Li(Ni1 -x -y Co y Mn x )O2 with high capacity and reasonable cycling performance have been developed [7-10]. More recently, a series of LiNi0.6Co0.4 -x Mn x O2 materials synthesized by mixing hydroxide method were calcined at various temperatures to search for the optimal synthesis condition [10]. In addition, the oxidation states of Ni, Co and Mn were probed and discussed [8]. The X-ray photoelectron spectroscopy measurement indicated that the valence of Co was +3, while those of Ni and Mn ions were mixture of 2+/3+ and +3/+4, respectively, in the pristine materials.
+
+In this study, LiNi05Co0.25Mn0.25O2 calcined at 900 ◦ C for 15 h was focused to study the local environment changes and phase transition during charge. A real time tracking of the valence and structure changes induced by Li + de-intercalated from the cathode was achieved by a specially designed in situ electrochemical cell. The combination of X-ray diffraction
+
+Available online at www.sciencedirect.com
+
+<!-- image -->
+
+Electrochimica Acta 53 (2007) 1850-1857
+
+## Structural investigation of Li1 -x Ni0.5Co0.25Mn0.25O2 by in situ XAS and XRD measurements
+
+Pei-Yun Liao a , Jenq-Gong Duh a , ∗ , Jyh-Fu Lee b , Hwo-Shuenn Sheu b a Department of Materials Science and Engineering, National Tsing Hua University, Hsinchu, Taiwan b National Synchrotron Radiation Research Center, Hsinchu Science-Based Industrial Park, Hsinchu, Taiwan
+
+Received 8 June 2007; received in revised form 9 August 2007; accepted 20 August 2007 Available online 30 August 2007
+
+<!-- image -->
+
+(XRD) and X-ray absorption spectroscopy (XAS), incorporated by simultaneous electrochemical measurements, provided a powerful technique to study the electrode performance. It was aimed to achieve a better understanding of the associated mechanism during cycling.
+
+## 2. Experimental
+
+## 2.1. Powder preparation and cell fabrication
+
+The compound LiNi05Co0.25Mn0.25O2 was synthesized by the mixed hydroxide method. The aqueous solution of the metal sulfate composed with a cation ratio of Ni:Co:Mn=0.5:0.25:0.25 was slowly dripped into the beaker; meanwhile the aqueous solutions of NH4OH and NaOH were pumped into the solution at a constant rate to adjust the pH value at 12. The filtrated precipitate was washed several times to ensure that the residual ions (Na + , SO4 2 -or others) were almost removed. The product was dried, then mixed with Li2CO3 in ethanol using a mortar and pestle, and heated to 900 ◦ C for 15 h in the flowing oxygen atmosphere.
+
+The electrode was made of mixing 91 wt.% cathode powder with 6 wt.% super P carbon black, and 3 wt.% polyvinylidene difluoride binder (PVDF) in N -methyl-2-pyrrolidone (NMP) to obtain a slurry. 1 M LiPF6 in a 1:1 (volume ratio) mixture of EC/DMC was used as the electrolyte. Type 2016 coin cells (20 mm in diameter and 1.6 mm thick) were assembled with the Li foil as an anode in an argon glove box where both moisture and oxygen content were &lt;2 ppm. The mass of the electrodes was 23-25 mg. The cell was cycled using CCCV mode, which wascharged at a constant current (0.33 mA, at C /10 rate) to 4.5 V and followed by keeping at constant voltage 4.5 V for 3 h, then discharged to 3 V using a constant current.
+
+The designation of 2016 coin cells for the in situ experiments was similar to the regular one for the electrochemical test. To have in situ X-ray pass through the cathode electrode, holes with 4 ϕ were drilled in the upper cover, bottom cover and Ni spacer of the 2016 coin cells and followed by sealing with a Kapton film.
+
+## 2.2. In situ XAS measurements
+
+In situ XAS experiments of metal K-edge were performed in transmission mode at beam line BL-17C at the National Synchrotron Radiation Research Center (NSRRC) at Hsinchu, Taiwan. The stored beam current was top-up mode, which was initially maintained at 200 mA with approximately 0.6 mA per current bin and photon stability in the range of 10 -3 to 10 -4 . Theenergy selection was actualized by a Si (1 1 1) double crystal monochromator. The metal foil (Ni, Co and Mn) was employed for energy calibration in each scan simultaneously. To analyze the in situ XAS data, all raw absorption spectra were normalized to compare the regions of pre-edge, near-edge and post-edge. For extended X-ray absorption fine structure (EXAFS) spectra, pre-edge background was subtracted, and then normalized with respect to the edge jump. The normalized χ ( E ) spectra were converted to χ ( k ) in k space. The k 3 -weighted χ ( k ) data ranged from 3.5 ˚ A -1 to 13.65 ˚ A -1 for Ni K-edge, 3.65 ˚ A -1 to 11.4 ˚ A -1 for Co K-edge, and 3.75 ˚ A -1 to 12.4 ˚ A -1 for Mn Kedge were Fourier transformed (FT) to r space by separating the EXAFS contributions according to different coordination shells. EXFAS structural parameters were obtained by nonlinear least-squares analysis using phase and amplitude functions generated by FEFF7 code. All fitting procedure and parameters including the coordination number ( N ) and the Debye-Waller factor were executed by the UWXAFS 3.0 software package.
+
+## 2.3. In situ XRD measurements
+
+In situ X-ray studies were carried out in the transmission mode at 16 keV ( λ =0.774 ˚ A) for the exposure time of 5 min at the National Synchrotron Radiation Research Center (NSRRC, Taiwan). The monochromator was equipped with a double Si (1 1 1) crystal to deliver the high-resolution X-ray photons with energy from 5 keV to 33 keV. The optics was designed to focus the beam into a 1 mm spot size at the middle of the 2016 coin cells, and data was collected by using a Debye-Scherrer camera with a translating curved imaging plate detector, which covered two theta ranging up to 75 ◦ . An offline imaging plate (IP, Fuji BASIII, Japan) of the size 20 cm × 40 cm was used to record 2D X-ray diffraction data. All in situ X-ray diffraction patterns were normalized before further analysis.
+
+## 3. Results and discussion
+
+## 3.1. Electrochemical performance
+
+Fig. 1 shows the first charge curve for the Li/LiNi0.5Co0.25Mn0.25O2 cell. The electrochemical cycling was performed at a constant current of 0.33 mA to 4.5 V, which was corresponding to C /10 rate. The voltage was kept at 4.5 V for 3 h to extract more Li + from the cathode.
+
+Fig. 1. The first charge curve of a Li/LiNi05Co0.25Mn0.25O2 cell charged from 3 V to 4.5 V at current 0.33 mA ( C /10) rate.
+
+<!-- image -->
+
+## 3.2. K-edge XANES analysis of pristine
+
+LiNi0.5Co0.25Mn0.25O2
+
+Fig. 2 shows the X-ray absorption near edge structure (XANES)spectraforLiNi0.5Co0.25Mn0.25O2 comparedwiththe reference compounds at Ni, Co and Mn K-edges. The XANES analysis provides the information concerning the valence and local environment of the absorber atom [11,12]. Fig. 2(a) shows that the main absorption peaks for Ni K-edge are at 8350.2 eV, 8352.2 eV and 8351.8 eV for NiO, LiNiO2 and LiNi0.5Co0.25Mn0.25O2, respectively, suggesting that Ni 2+ and Ni 3+ exist in the sample simultaneously. The energy positions for Co (7728.2 eV) and Mn (6560 eV) in LiNi0.5Co0.25Mn0.25O2 are close to that of Co 3+ for LiCoO2 (7728.2 eV) and Mn 4+ for MnO2 (6560.3 eV), respectively, as shown in Fig. 2(b-c). It means that the oxidation states are +3 for Co and +4 for Mn in the pristine LiNi0.5Co0.25Mn0.25O2. The result is different from that of LiNi1/3Co1/3Mn1/3O2 material, in which the valences of Ni, Co and Mn were +2, +3 and +4, respectively [7,13,14]. The XANES spectrum shows the mixed valence of Ni 2+ and Ni 3+ , which is consistent with a previous XPS study [8]. Besides, according to XPS investigation, it was believed that a small amount of Mn 3+ existed in the pristine material to maintain the electroneutrality in charge, although it is not visible in this Mn K-edge spectrum.
+
+## 3.3. In situ XANES study
+
+The normalized XANES spectra at Mn, Co and Mn K-edges for Li1 -x Ni0.5Co0.25Mn0.25O2 as a function of x during charge are shown in Fig. 3. The metal K-edge XANES spectra are originated from the transition of 1s core electron to the excited vacant states. The inserts show the features of the pre-edge peaks for the respective XAS spectra. The weak intensity of pre-edge is due to the pure electric coupling and/or the mixing of the 3d-4p orbital arising from the noncentrosymmetric environment of the slightly distorted octahedral site [15]. The shoulders on the lower energy region with respect to main absorption peak at 6550 eV, 7720 eV and 8343 eV for Mn, Co and Ni K-edge, respectively, as shown in Fig. 3, correspond to a shakedown process involving 1s → 4p transition followed by ligand to metal charge transfer (LMCT). The main absorption peaks of Mn, Co and Ni K-edge
+
+Fig. 2. Normalized XANES comparison of (a) Ni K-edge with reference compound LiNiO2 and NiO, (b) Co K-edge with reference compound LiCoO2 and Co and (c) Mn K-edge with reference compound MnO2 and Mn2O3 for pristine LiNi05Co0.25Mn0.25O2.
+
+<!-- image -->
+
+Fig. 3. Normalized (a) Ni K-edge, (b) Co K-edge and (c) Mn K-edge XANES spectra for Li1 -x Ni05Co0.25Mn0.25O2 as a function of lithium content x during charge.
+
+<!-- image -->
+
+represent the purely dipole-allowed 1s → 4p transition without shakedown process [16].
+
+As Li-ion is de-intercalated, the Ni K-edge shifts to higher energy as shown in Fig. 3(a), indicating that the average valence of Ni ions increase during the overall charge process. At x =0.36, the edge position and the pre-edge feature of Ni K-edge is similar to that of LiNiO2, implying that Ni 2+ ions in the pristine material oxidize to Ni 3+ . It is deduced that the charge compensation during x =0-0.36 is mainly due to redox reaction of Ni 2+ /Ni 3+ . This is close to the calculated result that Ni 2+ /Ni 3+ reacts in 0 /lessdblequal x /lessdblequal 1/3 for Li1 -x Ni1/3Co1/3Mn1/3O2, as reported by Koyama [13]. With further de-intercalation of lithium, the edge of Ni K-edge XANES continuously shifts to higher energy, meaning that Ni 3+ converts to Ni 4+ . The Co K-edge XANES as a function of x is shown in Fig. 3(b). The edge position for Co shows insignificant change, and the oxidation state of Co remains +3 during delithiation. Fig. 3(c) shows the in situ Mn XANES spectrum for Li1 -x Ni0.5Co0.25Mn0.25O2. Almost no shift in edge position is observed, implying that Mn is electrochemically inactive and fixed at tetravalent state in the charge potential window of 3-4.5 V. However, an obvious shape change of the Mn K-edge shows up, which is attributed to local structure variations around Mn atom during charge. The character of Mn absorption edge is often observed in the layered structure cathode materials, in which Mn remains +4 and no oxidation occurs during charging [16-18].
+
+## 3.4. In situ EXAFS
+
+In addition to the oxidation state corresponding to the XANES spectra, the local structure of selected absorbers Ni, Co and Mn are also investigated using individual extended X-ray absorption fine structure (EXAFS) for Li1 -x Ni0.5Co0.25Mn0.25O2. Fig. 4 shows Fourier transform magnitudes of Ni, Co and Mn K-edge EXAFS spectra during charge. The first peak is attributed to Ni-O, Co-O and Mn-O, as shown in Fig. 4(a-c), respectively. It is revealed that on delithiation the Ni-O distance varies dramatically, while the changes for Co-O and Mn-O distances are rather negligible. It is because that the charge compensation mainly occurs at the Ni atoms and Ni 2+ is oxidized to Ni 4+ , resulting in a significant decrease in the average Ni-O distance. The second peak at 2.8 ˚ Ain Fig. 4 is
+
+Fig. 4. Fourier transformed spectra of the (a) Ni K-edge, (b) Co K-edge and (c) Mn K-edge for Li1 -x Ni05Co0.25Mn0.25O2 as a function of lithium content x during charge.
+
+<!-- image -->
+
+assigned to the six-coordinated transition metal Ni/Co/Mn ions around the absorber atom in transition metal layer. The peaks shown up at 4.8 ˚ A and 5.5 ˚ A in the higher R region correspond to single M-M and multiple M-M-M scattering, respectively.
+
+Fig. 5. First shell of metal-oxygen bond lengths for Li1 -x Ni05Co0.25Mn0.25O2 as a function of lithium content x during charge.
+
+<!-- image -->
+
+The EXAFS structural parameters were obtained by fitting the first two peaks of FT spectra. The first shell metal-oxygen (Ni-O, Co-O and Mn-O) distance as a function of x for Li1 -x Ni0.5Co0.25Mn0.25O2 is shown in Fig. 5. For the pristine
+
+Fig. 6. Second shell of metal-oxygen bond lengths for Li1 -x Ni05Co0.25 Mn0.25O2 as a function of lithium content x during charge.
+
+<!-- image -->
+
+Fig. 7. The XRD pattern of Li/LiNi0.5Co0.25Mn0.25O2 cell before charge ( λ =0.774 ˚ A).
+
+<!-- image -->
+
+state, bond lengths are 1.99 ˚ A, 1.93 ˚ A and 1.92 ˚ A for Ni-O, Co-O and M-O, respectively. As referred to the literatures, the bondlength of Co-O is the same as that in LiCo0.85Al0.15O2 [18] and LiNi1/3Co1/3Mn1/3O2 [20]. Yabuuchi et al. stated that the layer-structured LiNi1/3Co1/3Mn1/3O2 consisted of Co 3+ , Ni 2+ and Mn 4+ [20]. This indicates that Co is in the trivalent state for bare LiNi0.5Co0.25Mn0.25O2, which is consistent with XANES result. In addition, the distance of 1.99 ˚ AforNi-Oissmallerthan that in LiNi1/3Co1/3Mn1/3O2 (2.03 ˚ A) due to the co-existence of Ni 2+ and Ni 3+ . The distance of 1.92 ˚ A for Mn-O is larger than that in LiNi1/3Co1/3Mn1/3O2 (1.91 ˚ A), suggesting that the compound in this study contained a small amount of Mn 3+ [8,21]. Fig. 5 clearly demonstrates that the variation in Mn-O distance is the least (only 0.01 ˚ A), while that of the Ni-O distance is the largest, i.e. 0.11 ˚ Aduring the whole charge process. It is worth-
+
+Fig. 8. In situ X-ray diffraction patterns of Li/LiNi0.5Co0.25Mn0.25O2 cell charged from 3 V to 4.5 V ( λ =0.774 ˚ A).
+
+<!-- image -->
+
+whiletonotethatthebonddistanceofNi-Odecreasesdrastically from x =0 to x =0.36 and then the change is relatively small as x &gt;0.5 for the Li1 -x Ni0.5Co0.25Mn0.25O2. Fig. 6 shows the second shell metal-metal distance (Ni-M, Co-M and Mn-M) as a function of Li concentration. It appears that on delithiation all the bond distances decrease, yet almost remain constant at the end of charge.
+
+## 3.5. Structural investigation
+
+Fig. 7 shows the X-ray diffraction pattern of the cell before the first charge. The peaks for LiNi0.5Co0.25Mn0.25O2 were indexed by the Miller indices based on the 𝛂 -NaFeO2 structure (space group: R fl 3 m , no. 166). There are also reflections for Al current collector and is used as an internal standard throughout the experiment. The lattice constants calculated by
+
+Fig. 9. An expanded view of the in situ X-ray diffraction patterns of Li/LiNi0.5Co0.25Mn0.25O2 cell charged from 3 V to 4.5 V for the 2 θ ranging of (a) 8-10 ◦ and (b) 30-32 ◦ .
+
+<!-- image -->
+
+the least square method with ten Bragg peaks are a =2.8639 ˚ A and c =14.2004 ˚ A.
+
+The evolution of in situ XRD patterns from (0 0 3) to (1 1 3) for a Li/Li1 -x Ni0.5Co0.25Mn0.25O2 cell as the function of x is presented in Fig. 8. Since Li1 -x Ni0.5Co0.25Mn0.25O2 is hexagonal structure, (0 0 3) and (1 1 0) reflections are focused to evaluate the changes of c -axis and a -axis, respectively. Fig. 9(a) shows the details of (0 0 3) on delithiation. As Li-ions are deintercalated from the layered structure, the (0 0 3) peak gradually shifts to the lower angle until x =0.57, suggesting that c -axis mightexpand.Whenchargedtohighervoltagefor x =0.57-0.82, the position of (0 0 3) peak tends to move towards higher 2 θ angle and there is broadening in the peak width. In the structural study of LiNiO2, Yang el al. reported that a new phase H2 with longer c -axis and shorter a -axis than the original H1 showed up near 4.1 V [22], and every new (0 0 3) peak represented a new phase [22,23]. However, distinct separation of (0 0 3) peak is not observed in this study. Nevertheless, in comparison with the variation of (0 0 3) peak intensity, it is believed
+
+Fig. 10. (a) Lattice constant a and (b) lattice constant c for Li1 -x Ni0.5Co0.25 Mn0.25O2 as a function of x during charge.
+
+<!-- image -->
+
+the phase transition from H1 to H2 also occurs at x =0.4 for Li1 -x Ni0.5Co0.25Mn0.25O2. The high level doping and size difference of cations lead to more defects in the crystal and cause the smeared boundary of phase transition [19,24,25]. Fig. 9(b) shows the detailed view of the evolution of (1 0 8) and (1 1 0) from 30 ◦ to 32 ◦ . The fixed peak Al (2 0 0) is also identified. It is apparent that (1 1 0) peak shifts toward higher angle and separates from Al (2 0 0), indicating that the a -axis of hexagonal structure continuously contracts during charge. From x =0.57 to x =0.82, the movement of (1 1 0) peak becomes small. It is noted that the tendency to shift toward the lower angle at the end of charge becomes even less.
+
+Fig. 10 shows the lattice constant obtained from least square method as a function of lithium content during charge. The lattice parameter ' a ' decreases gradually from initial value 2.864 ˚ Ato2.811 ˚ Afor x =0.64 and then remains around 2.811 ˚ A for x =0.64-0.82 in Li1 -x Ni0.5Co0.25Mn0.25O2, as shown in Fig. 10(a). As mentioned previously, the decrease in lattice parameter ' a ' is caused by the oxidation of transition metal ions, such as Ni 2+ → Ni 4+ . The variation of a parameter is consistent with that of the metal-metal (Ni-M, Co-M and Mn-M) distance obtained by EXAFS. On the other hand, the lattice parameter ' c ' increases gradually as shown in Fig. 10(b). The initial increase in c parameter can be ascribed by the increasing repulsive force between oxygen ions due to the weaker screening power by remaininglithiumions. The rapid decrease in c -axis near x =0.57 suggests that more Li-ions have been extracted from the Li layers at the end of charge.
+
+## 4. Conclusions
+
+With the high S/N ratio synchrotron X-ray, structural changes during charge for Li1 -x Ni0.5Co0.25Mn0.25O2 were determined by in situ XAS and XRD. The XANES data indicated that the oxidation state for Ni, Co and Mn were +2/+3, +3 and +4, respectively, in the pristine Li1 -x Ni0.5Co0.25Mn0.25O2. During delithiation, the charge compensation occurred mainly on Ni, which took place in two steps, i.e. Ni 2+ to Ni3 + and Ni 3+ to Ni 4+ . There was no appreciable change in the valences of Co and Mn even charging to the cut-off voltage 4.5 V. In situ XRD technique was used to investigate the long-range structural changes of LiNi0.5Co0.25Mn0.25O2. At the initial stage of charge, the c -axis expanded, while the a -axis contracted. As more lithium ions were extracted from layered structure, there was a drastic contraction along the c -axis and a slight expansion along a -axis. These variations could be explained by the balance between ionic radius and the repulsive force between layers during the delithiation. The changes of a -axis obtained by XRD measurement corresponded to the second shell of metal-metal distance of EXAFS structural parameters.
+
+## Acknowledgments
+
+The authors are grateful to the Coremax Taiwan Corporation, Taiwan, for the partial financial support. Special thanks to General Manager Mr. Jim Ho, for his kindness to endorse the project. The support from Ministry of Economic Affairs, Taiwan, under
+
+contract No. 95-EC-17-A-08-S1-0003 and the National Synchrotron Radiation Research Center (NRSSC), Hsinchu, are also acknowledged.
+
+## References
+
+- [1] K. Mizushima, P.C. Jones, P.J. Wisemen, J.B. Goodenough, Mater. Res. Bull. 15 (1980) 783.
+- [2] T. Ohzuku, A. Ueda, J. Electrochem. Soc. 141 (11) (1994) 2972.
+- [3] J.R. Dahn, U. von Sacken, M.W. Juzkow, H. Al-Janaby, J. Electrochem. Soc. 138 (8) (1991) 2207.
+- [4] C. Delmas, M. M· en· etrier, L. Croguennec, I. Saadoune, A. Rougier, C. Pouillerie, G. Prado, M. Gr¤ une, L. Fourn' es, Electrochim. Acta 45 (1999) 243.
+- [5] T. Ohzuku, Y. Makimura, Chem. Lett. (2001) 642.
+- [6] N. Yabuuchi, T. Ohzuku, J. Power Sources 119-121 (2003) 171.
+- [7] B.J. Hwang, Y.W. Tsai, C.H. Chen, R. Santhanam, J. Mater. Chem. 13 (2003) 1962.
+- [8] P.Y. Liao, J.G. Duh, S.R. Sheen, J. Electrochem. Soc. 152 (2005) A1695.
+- [9] S. Venkatraman, J. Choi, A. Manthiram, Electrochem. Commun. 6 (2004) 832.
+- [10] P.Y. Liao, J.G. Duh, S.R. Sheen, J. Power Sources 143 (2005) 212.
+- [11] I. Nakai, K. Takahashi, Y. Shiraishi, T. Nakagome, F. Izumi, Y. Ishii, F. Nishikawa, T. Konishi, J. Power Sources 68 (1997) 536.
+- [12] O. Haas, A. Deb, E.J. Carins, A. Wokaun, J. Electrochem. Soc. 152 (1) (2005) A191.
+- [13] Y. Koyama, N. Yabuuchi, I. Tanaka, H. Adachi, T. Ohzuku, J. Electrochem. Soc. 151 (10) (2004) A1545.
+- [14] M.G. Kim, H.J. Shin, J.H. Kim, S.H. Park, Y.K. Sun, J. Electrochem. Soc. 157 (7) (2005) A1320.
+- [15] U. Deb, S.P. Bergmann, E.J. Cramer, Cairns, J. Appl. Phys. 97 (2005) 113523.
+- [16] Y.W. Tasi, B.J. Hwang, G. Ceder, H.S. Sheu, D.G. Liu, J.F. Lee, Chem. Mater. 17 (2005) 3191.
+- [17] W.S. Yoon, C.P. Grey, M. Balasubramanian, X.Q. Yang, J. McBreen, Chem. Mater. 15 (2003) 3161.
+- [18] B. Ammundsen, J. Paulsen, I. Davidson, R.S. Liu, C.H. Shen, J.M. Chen, L.Y. Jang, J.F. Lee, J. Electrochem. Soc. 149 (4) (2002) A431.
+- [19] M.G. Kim, C.H. Yo, J. Phys. Chem. B 103 (1999) 6457.
+- [20] N. Yabuuchi, Y. Koyama, N. Nakayama, T. Ohzuku, J. Electrochem. Soc. 152 (7) (2005) A1434.
+- [21] S.T. Myung, S. Komaba, N. Hirosaki, N. Kumagai, K. Arai, R. Kodama, I. Nakai, J. Electrochem. Soc. 150 (12) (2003) A1560.
+- [22] X.Q. Yang, X. Sun, J. McBreen, Electrochem. Commun. 1 (1999) 227.
+- [23] X.Q. Yang, X. Sun, J. McBreen, Electrochem. Commun. 2 (2000) 100.
+- [24] E. Levi, M.D. Levi, G. Salitra, D. Aurbach, R. Oesten, U. Heider, L. Heider, Solid State Ionics 126 (1999) 97.
+- [25] W.S. Yoon, K.Y. Chung, J. McBreen, X.Q. Yang, Electrochem. Commun. 8 (2006) 1257.

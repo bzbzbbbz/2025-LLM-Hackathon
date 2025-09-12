@@ -1,0 +1,193 @@
+Simple Docling Extracted Data from: 2D XAS of NMCAl cathode in the overcharged state.pdf
+============================================================
+
+Title: 2D XAS of NMCAl cathode in the overcharged state
+Pages: 5
+Tables: 1
+Figures: 0
+
+MAIN TEXT:
+------------------------------
+<!-- image -->
+
+Contents lists available at SciVerse ScienceDirect
+
+## Vibrational Spectroscopy
+
+j o u r n a l homepage: www.elsevier.com/locate/vibspec
+
+<!-- image -->
+
+## Two-dimensional hetero-spectral Raman/XAS correlation analysis of Li[Ni0.45Co0.18Mn0.25Al0.12]O2 cathode in the overcharged state
+
+Yeonju Park a , Nam Hoon Kim a , Hyun Chul Choi b , ∗ , Sung Man Lee c , Hoon Hwang a , Yeon Uk Jeong d , Young Mee Jung a , ∗∗
+
+- a Department of Chemistry, and Institute for Molecular Science and Fusion Technology, Kangwon National University, Chunchon 200-701, Republic of Korea
+- b Department of Chemistry, Chonnam National University, Gwangju 500-757, Republic of Korea
+- c Department of Advanced Materials Science &amp; Engineering, Kangwon National University, Chunchon 200-701, Republic of Korea
+- d School of Materials Science and Engineering, Kyungpook National University, Daegu 702-701, Republic of Korea
+
+## a r t i c l e i n f o
+
+Article history: Received 2 September 2011 Received in revised form 13 March 2012 Accepted 13 March 2012
+
+Available online 20 March 2012
+
+Keywords: Li-ion battery Overcharge Raman spectroscopy X-ray absorption spectroscopy 2D hetero-spectral correlation spectroscopy
+
+## 1. Introduction
+
+Li-ion batteries have been widely used as portable energy sources because of their high capacity, high energy density, excellent cycling stability, and light weight compared to other currently used battery systems. During battery charging/discharging, various reactions and transport processes occur. However, some of these reactions and processes are very exothermic and can sometimes cause safety concerns at very high temperatures or under extreme overcharge conditions. Therefore, safety concerns have become the most important issue for the development of Li-ion batteries. In order to develop adequate safety measures, it is important to analyze the surface reactions of the electrode-electrolyte interface in detail. However, there have been few reports covering specifically the systematic study of the overcharge reaction in Li-ion batteries.
+
+The surface reactions of Li-ion batteries have been extensively studied by various electrochemical and spectroscopic methods [1-12]. Among these techniques, Raman spectroscopy is the best
+
+∗ Corresponding author. Tel.: +82 62 530 3491; fax: +82 62 530 3389.
+
+E-mail addresses: chc12@chonnam.ac.kr (H.C. Choi), ymjung@kangwon.ac.kr (Y.M. Jung).
+
+∗∗ Corresponding author. Tel.: +82 33 250 8495; fax: +82 33 253 7582.
+
+## a b s t r a c t
+
+We investigated an electrochemical reaction on the cathode surface of an overcharged Li[Ni0.45Co0.18Mn0.25Al0.12]O2/Li system at the molecular level by using Raman, X-ray absorption spectroscopy (XAS), and 2D hetero-spectral correlation analyses. Changes in the Raman spectra during the overcharging process showed that variations in the local atomic environment occurred with increasing extraction of Li + ions. XAS spectra obtained during the overcharging process showed that oxidized transition metals coexisted with inoxidizable transition metals. Additionally, synchronous 2D hetero-spectral Raman/XAS correlation spectra clearly elucidated the correlation between the Raman and XAS bands, confirming their band assignments.
+
+©2012 Elsevier B.V. All rights reserved.
+
+method for the investigation of these electrochemical systems because it provides the specific molecular information required to formed on the surfaces of the electrode materials. Raman spectra are very useful for the detailed interpretations lithium reaction mechanisms with electrode materials. However, it is very difficult to separate the surface reactions in the Raman spectra because the probing depth of the Raman technique is several tens of micrometers deep. To solve this problem, X-ray absorption spectroscopy (XAS) has been used as a complementary technique to investigate surface reactions. XAS is a useful method for obtaining information onelectronicandlocalstructureswithoutcausinganysampledamage, and it has a probing depth of approximately 50-100 ˚ A [10-16]. Because XAS measurements involve the excitations of electrons from a core level to partially filled and empty states, the peak positions and spectral features of an XAS spectrum carry important information regarding the physical and chemical properties of the X-ray absorbing elements. Although Raman and XAS have many advantages, the correlation of data obtained by both techniques is very difficult.
+
+2D hetero-spectral correlation spectroscopy is a very powerful method in 2D correlation spectroscopy, where two completely different types of spectra for a system obtained by using multiple spectroscopic probes under the same external perturbation
+
+are compared [17]. We have previously used 2D hetero-spectral XAS/Raman correlation analysis, and it helped to determine the sequenceofeventsbetweentheXASandRamansignalsofthesame species and to confirm their assignments [18].
+
+In this study, to investigate the electrochemical reaction on the cathode surface of the overcharged Li[Ni0.45 Co 0.18 Mn 0.25 Al 0.12]O2/Li system, Raman, XAS, and 2D hetero-spectral Raman/XAS correlation spectroscopies are used. Synchronous 2D hetero-spectral Raman/XAS correlation spectra elucidated the correlation between Raman and XAS bands, confirming their band assignments. Based on our findings, it could open a way for the investigation of electrochemical reactions on the cathode surface of lithium batteries.
+
+## 2. Experimental
+
+The electrochemical behavior of Li[Ni0.45Co0.18Mn0.25Al0.12]O2 was investigated by using coin cells (2016 type). Slurries were prepared consisting of 95-wt% Li[Ni0.45Co0.18Mn0.25Al0.12]O2 (Nippon chemical Co. Ltd.) powder, 3-wt% acetylene black, and 2-wt% polyvinylidene fluoride (PVdF) dissolved in 1-methyl-2pyrrolidinone. Cathodes were prepared by coating the slurry onto an aluminum foil substrate. Test cells were fabricated using the above electrodes, metallic Li anodes, and polypropylene separators (Celgard 2400) in a glove box filled with Ar gas. The electrolyte used in this study was 1.0 M solution of LiPF6 in ethylene carbonate-diethyl carbonate (EC:DEC=1:1 by volume) purchased from Merck. Test cells were aged for 4 h at 40 ◦ C in a vacuum oven. Cell performance was evaluated by galvanostatically discharging and charging the cell at a constant current density of 0.2 C-rate at room temperature with a WBCS 3000 battery tester system (Won A Tech Corp, Korea).
+
+X-ray diffraction (XRD) analysis was performed using a XPERTPRO high-resolution X-ray diffractometer (HRXRD, PANalytical, Netherlands) and using Cu K 𝛂 radiation ( /NAK =1.5406 ˚ A). Data were collected at room temperature within the range of 4 ◦ -60 ◦ and at increments of 0.05 ◦ .
+
+Raman spectra were obtained ex situ at room temperature using a Jobin Yvon/HORIBA LabRam ARAMIS Raman spectrometer equippedwithanintegralBX41confocalmicroscope.Theradiation from an air-cooled frequency-doubled Nd:Yag laser (532 nm) was used as the excitation source. The radiation is focused in a less than 1 𝛍 mdiameter circle area by using Raman microprobe with a 100 × objective. Raman scattering was detected with a 180 ◦ geometry using a multi-channel air-cooled ( -70 ◦ C) charge-coupled device (CCD) camera (1024 × 256pixels) with 1800grooves/mm grating.
+
+The O K-edge, Co, Ni and Mn LII,III-edge XAS measurements of the Li[Ni0.45 Co0.18 Mn0.25 Al 0.12 ]O 2 cathodes were performed at the U7 beam line of Pohang Light Source (PLS); the energy resolution waslessthan0.20eV.Allspectraweretakeninatotalelectronyield mode, while also recording the sample current at room temperature. The photon energy was calibrated against the second peak in the 𝛑 * resonance of N2 gas found to be 401.1 eV and was used as a reference. To eliminate the effect of incident beam intensity fluctuations and monochromator absorption features, all spectra were normalized by a reference signal from an Au mesh with 90% transmission. The base pressure of the experimental chamber was of the order of 10 -8 mbar.
+
+Synchronous2Dhetero-spectralRaman/XAScorrelationspectra were obtained using MATLAB R2010a (The Mathworks Inc.) software, where the black/solid and gray/dashed lines were defined as the positive and negative correlation intensities, respectively. Prior to the 2D hetero-spectral Raman/XAS correlation calculations, intensity normalization with respect to concentration was applied to all the XAS spectra. Baseline corrections, 15 points FFT smoothing
+
+Fig. 1. Charge profiles at 0.2 C-rate in the second cycle of the Li[Ni0.45Co0.18Mn0.25Al0.12]O2/Li cell. The delithiation content is denoted by x , as in Li1 -x [Ni0.45Co0.18Mn0.25Al0.12]O2, where x is calculated from the amount of electricity passed.
+
+<!-- image -->
+
+and area normalization of all the Raman spectra were also carried out before the 2D hetero-spectral Raman/XAS correlation calculation.
+
+## 3. Results and discussion
+
+Fig. 1 shows the curves for the second galvanostatic charges (the extraction of Li + from the Li[Ni0.45 Co0.18 Mn0.25 Al0.12 ]O2 electrode) in the voltage range of 3.0-4.5 V and with a current density of 0.2 Crate. In this study, the delithiation content is denoted by x , as in Li 1 -x [Ni0.45 Co 0.18 Mn 0.25 Al 0.12]O2, where x is calculated from the amount of electricity passed. To produce electrodes with varying lithium content for the spectroscopic measurements, we controlled the charging voltage at a constant current density. The values of x in the cut-off voltage range of 4.2-4.5 V were 0.58 at 4.3 V, 0.61 at 4.4 V and 0.64 at 4.5 V, respectively.
+
+Fig. 2. XRD patterns of Li x [Ni0.45Co0.18Mn0.25Al0.12]O2 at different delithiation contents ( x ). All the diffraction peaks can be indexed as a layered oxide structure based on a hexagonal 𝛂 -NaFeO2 structure (space group R ¯ 3 m ). No impurities and secondary phases are observed in this figure. In order to know the variation of lattice parameters, the lattice parameters a and c are also calculated from the measured XRD patterns (insert). Parameter a decreased, while parameter c increased with increasing extractions of Li + ions.
+
+<!-- image -->
+
+Fig. 2 shows the XRD patterns of the Li[Ni0.45 Co 0.18 Mn 0.25 Al 0.12]O2 powder and delithiated Li1 -x [Ni0.45 Co0.18 Mn0.25 Al0.12 ]O 2 ( x =0.64) electrode in the second charge process. The XRD pattern of the Li[Ni0.45 Co 0.18 Mn 0.25 Al 0.12]O2 powder indicates a typical layered 𝛂 -NaFeO2-type structure with O3-type stacking and a R ¯ 3 m space group [19,20]. In the XRD pattern of the delithiated Li 1 -x [Ni0.45 Co 0.18 Mn 0.25 Al 0.12]O2 ( x =0.64) electrode, there is no clear difference in the XRD pattern compared with that of the pristine Li[Ni0.45Co0.18Mn0.25Al0.12]O2. The inset of Fig. 2 shows the variations of the lattice parameters for the Li1 -x [Ni0.45 Co 0.18 Mn 0.25 Al 0.12 ]O2 ( x =0, 0.58, 0.61 and 0.64) electrodes. As shown, parameter a decreased, while parameter c increased with increasing extractions of Li + ions. This phenomenon resulted from the oxidation of the transition metals Co and Ni [21,22]; however, no noticeable structural change was observed.
+
+The Raman spectra of the Li 1 -x [Ni0.45 Co 0.18 Mn 0.25 Al 0.12]O2 ( x =0, 0.58, 0.61 and 0.64) electrodes are shown in Fig. 3. In the Ramanspectrumofthepristine,twobandsat580and500cm -1 are observed, which were assigned as the A1g and Eg modes, respectively. These two modes in the Raman spectrum suggest clearly that pristine Li[Ni0.45 Co0.18 Mn0.25 Al0.12 ]O 2 has R ¯ 3 m rhombohedral symmetry [23-25]. Therefore, this datum is in good agreement with the indexing of the peaks in the XRD pattern of pristine Li[Ni0.45 Co 0.18 Mn 0.25 Al 0.12]O2. For Li[Ni0.45 Co 0.18 Mn 0.25 Al 0.12]O2 ( x =0.58, 0.61, and 0.64) electrodes, the band at 580 cm -1 decreased while the band at 500 cm -1 increased with increasing extractions of Li + ions. These findings show that the bands were shifting to higher wavenumbers. It demonstrates that variation of the local atomic environment occurred with increasing extractions of Li + ions.
+
+To investigate the variations in the electronic structure of the metal species in the overcharged state, XAS data were collected at different charging voltages. Fig. 4 shows the Ni LII,III-edge,
+
+Fig. 3. Raman spectra of Li[Ni0.45Co0.18Mn0.25Al0.12]O2 at different delithiation contents.
+
+<!-- image -->
+
+Co LII,III-edge, Mn LII,III -edge, and O K-edge XAS spectra of the Li 1 -x [Ni0.45 Co 0.18 Mn 0.25 Al 0.12]O2 ( x =0, 0.58, 0.61 and 0.64) electrodes. The Ni, Co, and Mn LII,III-edge XAS spectra correspond to the electric dipole-allowed transitions of the 1s electrons to the unoccupied 3d orbital of the transition metal ions [12,26,27]. The reason two L-edge features result for each of these ions is that the 2p spin-orbit coupling can split the initial state into 2p 3/2 and 2p1/2 states [28]. In the Ni LII,III -edge XAS spectrum of pristine Li[Ni0.45 Co0.18 Mn0.25 Al 0.12 ]O 2 (Fig. 4(a)), two main peaks at 856.6eV of the LIII-edge and 874.9 eV of the LII-edge are observed. TwopeaksarealsoobservedattheLIII-edge. These peaks mean that the Ni 2+ ions coexist with a small amount of Ni 3+ ions in pristine
+
+Fig. 4. Ni LII,III-edge (a), Co LII,III-edge (b), Mn LII,III-edge (c), and O K-edge (d) XAS spectra of Li[Ni0.45Co0.18Mn0.25Al0.12]O2 at different delithiation contents.
+
+<!-- image -->
+
+Fig. 5. Synchronous 2D hetero-spectral Raman/Ni LII-III-edge XAS (a) and Raman/Co LII-III-edge (b) correlation spectra for Li[Ni0.45Co0.18Mn0.25Al0.12]O2 at different delithiation contents. Black/solid and gray/dashed lines represent positive and negative cross peaks, respectively.
+
+<!-- image -->
+
+Li[Ni0.45 Co 0.18 Mn 0.25 Al 0.12]O2. However, upon charging, the relative intensities of these two peaks at the LIII -edge change, and the peak of the LII -edge is shifted to higher binding energy due to the oxidation of the Ni 2+ ions in the octahedral field. The intensity of the second peak at the LIII-edge also increases during the charge process, indicating that the amount of Ni 3+ ions increased due to the oxidation of Ni 2+ ions.
+
+In the Co LII,III-edge XAS spectrum of pristine Li[Ni0.45 Co 0.18 Mn 0.25 Al 0.12]O2 (Fig. 4(b)), two main peaks at 782.8eV of the LIII-edge and 797.3 eV of the LII-edge are observed. These peaks shift to higher binding energies with increased extraction of Li + ions. This result means that the oxidation state of 3+ for the Co ion changes during the charge process. Additionally, a variation of the relative intensity between the LIII and LII -edges is observed with increasing extractions of Li + ions. From this result, we found that the local environment of Co has changed during the charge process due to the change of the oxidation state of the Co ion.
+
+In the Mn LII,III-edge XAS spectrum of pristine Li[Ni0.45 Co 0.18 Mn 0.25 Al 0.12]O2 (Fig. 4(c)), two main peaks at 644.5eV of the LIII-edge and 655.3 eV of the LII-edge are observed. However, minimal variations in the positions, shapes, and intensities of the main peaks are observed with increasing extractions of Li + ions. This result indicates that the Mn ion is more stable than others because the Mn 4+ ion did not display a change of oxidation state.
+
+The O K-edge XAS spectra correspond to transitions of the oxygen 1s core level electrons into the empty or partially filled O 2p state. In the O K-edge XAS spectrum of pristine Li[Ni0.45 Co0.18 Mn0.25 Al 0.12 ]O 2 (Fig. 4(d)), a pre-edge peak at 532.9eV is observed due to the transition of the oxygen 1s electron to the hole state in the oxygen 2p level [29]. Additionally, the higher energy peaks above 540eV correspond to the transitions of the oxygen 1s electrons to the O 2p-Co 4sp hybridized orbitals [29]. In the delithiated Li1 -x [Ni0.45 Co 0.18 Mn 0.25 Al 0.12]O2 ( x =0.58, 0.61 and 0.64) electrodes, the pre-edge peak is separated into two peaks because the oxidized transition metals ( i.e. , Ni 3+ and Co 4+ ) coexist with the inoxidizable transition metals ( i.e. , Ni 2+ , Co 3+ , and Mn 4+ ).
+
+To better understand this phenomenon between the molecular vibration modes on the surface of the Li 1 -x [Ni0.45 Co 0.18 Mn 0.25 Al 0.12]O2 ( x =0, 0.58, 0.61 and 0.64) electrodes and to clearly determine the band assignments in the Raman and XAS spectra for these system, we performed 2D hetero-spectral Raman/XAS correlation analyses. Fig. 5(a) shows the synchronous 2D hetero-spectral Raman/Ni LII,III-edge XAS correlation spectrum of the Li 1 -x [Ni0.45 Co 0.18 Mn 0.25 Al 0.12]O2
+
+( x =0, 0.58, 0.61 and 0.64) electrodes. 2D hetero-spectral correlation analysis provides very important results that are not readily detected in conventional 2D correlation analysis. From the response patterns of the system monitored by two different probes under the same perturbation, one could detect a correlation between two spectral signals. For instance, 2D hetero-spectral correlation analysis between closely related spectroscopic measurements, such as IR and Raman spectra, are very attractive from the point of better understanding its complementary vibration spectra. Such a combination provides especially rich insight and clarification into the in-depth study of vibrational spectra. Another type of the application of this technique is the hetero-correlation between completely different types of spectroscopic or physical techniques, which is useful for investigating the structural and physical properties of materials under a particular external perturbation. It has, for example, been applied to X-ray absorption and Raman spectroscopy. Hetero-spectral correlation has become one of the most active areas of research in 2D correlation spectroscopy. A positive cross peak in the synchronous 2D hetero-spectral correlation spectrum means that the two bands (Raman and XAS bands in this study) sharing a cross peak have the same origin, while a negative cross peak means that the two bands have different origins. Thus, the positive cross peak at (856.9 eV, 585 cm -1 ) and (856.9eV, 627cm -1 ) indicate that the peaks at 856.9eV in the XAS spectra and Raman band at 585cm -1 arise from the same origin. However, the negative cross peaks related to 856.9eV in the XAS spectra should be assigned to different Raman band at 517cm -1 . As shown in the 1D Raman and Ni LII,III-edge XAS spectra, the intensities of the three bands at 585 cm -1 , 627cm -1 , and 856.9eV are decreased during the charge process. It means that a Raman band at 585 and 517cm -1 are relative to peaks for Ni 2+ ion and Ni 3+ ion in XAS spectra, respectively. In Fig. 5(b), the synchronous 2D hetero-spectral Raman/Co LII,III-edge XAS correlation spectrum of the Li1 -x [Ni0.45 Co 0.18 Mn 0.25 Al 0.12]O2 ( x =0, 0.58, 0.61 and 0.64) electrodes is shown. Positive cross peaks at (782.5 eV, 585 cm -1 ) and (782.5eV, 627cm -1 ) show that the intensities of the three bands at 585 cm -1 , 627 cm -1 , and 782.5 eV decrease during the charge process. It means that Raman bands at 585 and 517cm -1 are correlated with peaks for Co 3+ ion and Co 4+ ion in XAS spectra, respectively. Therefore, 2D hetero-spectral Raman/XAS correlation spectra clearly show that the A1g mode of the Raman spectrum is correlated with Ni 2+ and Co 3+ ions, and the Eg mode of the Raman spectrum is related to Ni 3+ and Co 4+ ions. Moreover, 2D hetero-spectral Raman/XAS correlation spectra of Li[Ni0.45 Co 0.18 Mn 0.25 Al 0.12]O2 under high voltage conditions clearly showed a correlation between the Raman and XAS bands, confirming their band assignments. Detailed band assignments for
+
+Table 1 Band assignments for Raman and XAS spectra of Li[Ni0.45Co0.18Mn0.25Al0.12]O2.
+
+| Bands     |                     | Assignments                                         |
+|-----------|---------------------|-----------------------------------------------------|
+| 1D        | 2D                  |                                                     |
+| 500cm - 1 | 517cm - 1 585cm - 1 | E g mode (Raman)                                    |
+| 580cm - 1 | 627cm - 1           | A 1g mode (Raman)                                   |
+| 782.8eV   | 782.5eV 783.2eV     | Co 3+ (CoL III -edge XAS) Co 4+ (CoL III -edge XAS) |
+| 797.3eV   | 797.3eV             | Co 3+ (CoL II -edge XAS)                            |
+| 856.6eV   | 856.9eV             | Ni 2+ (NiL III -edge XAS)                           |
+| 858.9eV   | 858.9eV             | Ni 3+ (NiL III -edge XAS)                           |
+| 874.9eV   | 874.9eV             | Ni 2+ (NiL II -edge XAS)                            |
+
+the Raman, XAS, and 2D hetero-spectral correlation spectra are summarized in Table 1.
+
+## 4. Conclusion
+
+In this study, we investigated the electrochemical reactions of Li[Ni0.45 Co0.18 Mn0.25 Al 0.12 ]O 2 with lithium in the overcharged state by using Raman, XAS, and 2D hetero-spectral correlation analysis. The results from the XRD patterns show variations of the a and c axes. Spectral changes of the Raman spectra during the overcharging process showed that the variations of the local atomic environment occur with increasing extraction of Li + ions. XASspectra obtained during the overcharging process showed that oxidizedtransitionmetalscoexistwithinoxidizabletransitionmetals, and 2D hetero-spectral Raman/XAS correlation spectroscopy allowed for further interpretations of the Raman and XAS data. The results of the 2D hetero-spectral Raman/XAS correlation spectra of Li[Ni 0.45 Co 0.18Mn0.25Al0.12]O2 under high voltage conditions specifically elucidatedthecorrelationsbetweentheRamanandXAS bands by confirming band assignments. Overall, this study could be potentially extended to the characterization of battery materials and electrochemical reactions on the cathode surface of lithium ion batteries based on the correlations that could be drawn from the 2D hetero-spectral correlation spectroscopy utilized.
+
+## Acknowledgments
+
+This work was supported by National Research Foundation of Korea (NRF) grants funded by the Korea government (MEST) (No. 2009-0087013) and the BK 21 program from the Ministry of
+
+Education, Science and Technology of Korea. The authors thank Pohang Accelerator Laboratory (PAL) for XAS measurements and the Central Laboratory, Kangwon National University, Korea, for the measurement of the Raman spectra and XRD patterns.
+
+## References
+
+- [1] K. Sawai, R. Yamato, T. Ohzuku, Electrochim. Acta 51 (2006) 1651-1655.
+- [2] S. Seki, N. Kihira, Y. Mita, T. Kobayashi, K. Takei, T. Ikeya, H. Miyashiro, N. Terada, J. Electrochem. Soc. 158 (2011) A163-A166.
+- [3] T. Yang, N. Zhang, Y. Lang, K. Sun, Electrochim. Acta 56 (2011) 4058-4064.
+- [4] C. Nithya, R. Thirunakaran, A. Sivashanmugam, G.V.M. Kiruthika, S. Gopukumar, J. Phys. Chem. C 113 (2009) 17936-17944.
+- [5] X. Wang, H. Hao, J. Liu, T. Huang, A. Yu, Electrochim. Acta 56 (2011) 4065-4069.
+- [6] W.Märkle,J.-F.Colin,D.Goers,M.E.Spahr,P.Novák,Electrochim.Acta55(2010) 4964-4969.
+- [7] S. Oswald, D. Mikhailova, F. Scheiba, P. Reichel, A. Fiedler, H. Ehrenberg, Anal. Bioanal. Chem. 400 (2011) 691-696.
+- [8] P. Verma, P. Maire1, P. Novák, Electrochim. Acta 55 (2010) 6332-6341.
+- [9] L. Dahéron, H. Martinez, R. Dedryvère, I. Baraille, M. Ménétrier, C. Denage, C. Delmas, D. Gonbeau, J. Phys. Chem. C 113 (2009) 5843-5852.
+- [10] T. Okumura, T. Nakatsutsumi, T. Ina, Y. Orikasa, H. Arai, T. Fukutsuka, Y. Iriyama, T. Uruga, H. Tanida, Y. Uchimoto, Z. Ogumi, J. Mater. Chem. 21 (2011) 10051-10060.
+- [11] H.M. Hollmark, L.-C. Duda, M. Dahbi, I. Saadoune, T. Gustafsson, K. Edström, J. Electrochem. Soc. 157 (2010) A962-A966.
+- [12] M.G. Kim, H.J. Shin, J.-H. Kim, S.-H. Park, Y.-K. Sun, J. Electrochem. Soc. 152 (2005) A1320-A1328.
+- [13] H.C. Choi, M.K. Lee, H.J. Shin, S.B. Kim, J. Electron Spectrosc. Relat. Phenom. 130 (2003) 85-96.
+- [14] J. Stöhr, NEXAFS Spectroscopy, Springer-Verlag, New York, 1992.
+- [15] J.G. Chen, Surf. Sci. Rep. 30 (1997) 1-152.
+- [16] D. Attwood, Soft X-ray and Extreme Ultraviolet Radiation: Principle and Applications, Cambridge University Press, Cambridge, 1999.
+- [17] I. Noda, Y. Ozaki, Two-Dimensional Correlation Spectroscopy: Applications in Vibrational Spectroscopy, John Wiley &amp; Sons, Inc, New York, 2004.
+- [18] H.C. Choi, Y.M. Jung, I. Noda, S.B. Kim, J. Phys. Chem. B 107 (2003) 5806-5811.
+- [19] D. Zeng, J. Cabana, W.-S. Yoon, C.P. Grey, Chem. Mater. 22 (2010) 1209-1219.
+- [20] X.-J. Guo, Y.-X. Li, M. Zheng, J.-M. Zheng, J. Li, Z.-L. Gong, Y. Yang, J. Power Sources 184 (2008) 414-419.
+- [21] J.-M. Kim, H.-T. Chung, Electrochim. Acta 49 (2004) 3573-3580.
+- [22] L. Wang, J. Li, X. He, W. Pu, C. Wan, C. Jiang, J. Solid State Electrochem. 13 (2009) 1157-1164.
+- [23] K. Ben Kamel, N. Amdouni, M. Dhahbi, C.M. Julien, J. Sol-Gel Sci. Technol. 59 (2011) 358-363.
+- [24] J.J. Saavedra-Arias, N.K. Karan, D.K. Pradhan, A. Kumar, S. Nieto, R. Thomas, R.S. Katiyar, J. Power Sources 183 (2008) 761-765.
+- [25] R. Baddour-Hadjean, J.-P. Pereira-Ramos, Chem. Rev. 110 (2010) 1278-1319.
+- [26] W. Kong, H. Li, X. Huang, L. Chen, J. Power Sources 142 (2005) 285-291.
+- [27] W.-S. Yoon, M. Balasubramanian, K.Y. Chung, X.-Q. Yang, J. McBreen, C.P. Grey, D.A. Fischer, J. Am. Chem. Soc. 127 (2005) 17479-17487.
+- [28] W.-S. Yoon, K.Y. Chunga, J. McBreena, D.A. Fischer, X.-Q. Yang, J. Power Sources 174 (2007) 1015-1020.
+- [29] W.-S. Yoon, K.-B. Kim, M.-G. Kim, M.-K. Lee, H.-J. Shin, J.-M. Lee, J.-S. Lee, C.-H. Yo, J. Phys. Chem. B 106 (2002) 2526-2532.
+
+TABLES:
+------------------------------
+
+Table 1:
+Caption: 
+Content: | Bands     |                     | Assignments                                         |
+|-----------|---------------------|-----------------------------------------------------|
+| 1D        | 2D                  |                                                     |
+| 500cm - 1 | 517cm - 1 585cm - 1 | E g mode (Raman)                                    |
+| 580cm - 1 | 627cm - 1           | A 1g mode (Raman)                                   |
+| 782.8eV   | 782.5eV 783.2eV     | Co 3+ (CoL III -edge XAS) Co 4+ (CoL III -edge XAS) |
+| 797.3eV   | 797.3eV             | Co 3+ (CoL II -edge XAS)                            |
+| 856.6eV   | 856.9eV             | Ni 2+ (NiL III -edge XAS)                           |
+| 858.9eV   | 858.9eV             | Ni 3+ (NiL III -edge XAS)                           |
+| 874.9eV   | 874.9eV             | Ni 2+ (NiL II -edge XAS)                            |
