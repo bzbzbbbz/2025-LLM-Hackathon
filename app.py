@@ -6,7 +6,6 @@ from pathlib import Path
 
 # === BACKEND IMPORTS ===
 from Backend.Modeling import run_pipeline
-from Backend.Standardization import preprocessing
 
 st.set_page_config(page_title="XAS Chatbot Assistant", layout="wide")
 st.title("XAS Chatbot Assistant")
@@ -21,12 +20,8 @@ uploaded_file = st.file_uploader(
 # === Running Modeling.py ===
 df = None
 if uploaded_file is not None:
-    #df = preprocessing(uploaded_file)
     out = run_pipeline(uploaded_file, models_dir=None)
     st.success(f"File `{uploaded_file.name}` uploaded successfully!")
-    #out = run_pipeline(df, models_dir=None)
-
-
 
 # --- Chat section ---
 st.header("Chatbot")

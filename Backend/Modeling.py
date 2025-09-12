@@ -18,38 +18,86 @@ ENERGY_MAX = 8370
 TOP_K = 20
 
 # === Getting Data ===
-def load_input(uploaded_file_or_df, limit: int | None = None) -> tuple[pd.DataFrame, np.ndarray]:
-    """
-    Load the user data. Accepts either:
-      - a file-like object (Streamlit uploader) OR
-      - a pandas DataFrame
 
-    Returns (df_input, X_exp) where X_exp is the numpy array from 'cdf' column.
-    """
+#def load_input(uploaded_file_or_df, limit: int | None = None) -> tuple[pd.DataFrame, np.ndarray]:
+#    """
+#    Load the user data. Accepts either:
+#      - a file-like object (Streamlit uploader) OR
+#      - a pandas DataFrame
+
+#    Returns (df_input, X_exp) where X_exp is the numpy array from 'cdf' column.
+#    """
+#    if isinstance(uploaded_file_or_df, pd.DataFrame):
+#        df_input = uploaded_file_or_df
+#    else:
+#        # file-like object (e.g., from st.file_uploader)
+#        df_input = pd.read_json(uploaded_file_or_df)
+
+#    if limit is not None:
+#        df_input = df_input.iloc[:limit, :]
+
+#    X_exp = np.array(df_input["cdf"].to_list())
+#    return df_input, X_exp
+
+def load_input(uploaded_file_or_df, limit: int | None = None) -> tuple[pd.DataFrame, np.ndarray]:
     if isinstance(uploaded_file_or_df, pd.DataFrame):
         df_input = uploaded_file_or_df
     else:
-        # file-like object (e.g., from st.file_uploader)
-        df_input = pd.read_json(uploaded_file_or_df)
+        file_name = getattr(uploaded_file_or_df, "name", "uploaded")
+        if file_name.endswith(".csv"):
+            df_input = pd.read_csv(uploaded_file_or_df)
+        elif file_name.endswith((".xlsx", ".xls")):
+            df_input = pd.read_excel(uploaded_file_or_df)
+        elif file_name.endswith(".json"):
+            df_input = pd.read_json(uploaded_file_or_df)
+        elif file_name.endswith(".txt"):
+            df_input = pd.read_csv(uploaded_file_or_df, delim_whitespace=True)
+        else:
+            raise ValueError(f"Unsupported file format: {file_name}")
 
     if limit is not None:
         df_input = df_input.iloc[:limit, :]
 
-    X_exp = np.array(df_input["cdf"].to_list())
-    return df_input, X_exp
+    # Case 1: already has cdf
+    if "cdf" in df_input.columns:
+        X_exp = np.array(df_input["cdf"].to_list())
+        return df_input, X_exp
+
+    # Case 2: try to detect energy + intensity
+    lower_cols = [c.lower() for c in df_input.columns]
+    try:
+        energy_col = next(c for c in df_input.columns if "energy" in c.lower())
+        intensity_col = next(c for c in df_input.columns if "intensity" in c.lower() or "value" in c.lower() or "abs" in c.lower())
+    except StopIteration:
+        raise KeyError(f"Could not detect energy/intensity columns in {df_input.columns}")
+
+    # Interpolate + build cdf
+    # Interpolate + build cdf
+    from scipy.interpolate import interp1d
+    f = interp1d(df_input[energy_col], df_input[intensity_col], fill_value="extrapolate")
+    x_new = np.linspace(ENERGY_MIN, ENERGY_MAX, 100)
+    y_new = f(x_new)
+    cdf = np.cumsum(y_new)
+    norm_cdf = (cdf - cdf.min()) / (cdf.max() - cdf.min())
+
+    # Build a new dataframe with one row containing the cdf list
+    df_processed = pd.DataFrame({"cdf": [norm_cdf]})
+
+    X_exp = np.array(df_processed["cdf"].to_list())
+    return df_processed, X_exp
+
 
 # === Loading Models ===
 def resolve_models_dir(models_dir: str | Path | None = None) -> Path:
     """
-    Default to <project-root>/Random Forest Model
+    Resolve the Models directory. By default, looks for a sibling 'Models' folder
+    one level above this file (project root / Models).
     """
     if models_dir is None:
-        # backend/.. -> project root
-        base_dir = Path(__file__).resolve().parent.parent
-        return base_dir / "Random Forest Model"
+        base_dir = Path(__file__).resolve().parent.parent  # backend/.. → project root
+        return base_dir / "Models"
     return Path(models_dir)
 
-# Backend/Modeling.py
 def load_models(models_dir: str | Path | None = None):
     """
     Load oxidation and bond length models from the Models directory.
@@ -63,12 +111,10 @@ def load_models(models_dir: str | Path | None = None):
         ox_model = pickle.load(f)
     with open(bl_path, "rb") as f:
         bl_model = pickle.load(f)
-    
-    
+
     explainer_ox = shap.TreeExplainer(ox_model)
     explainer_bl = shap.TreeExplainer(bl_model)
     return ox_model, bl_model, explainer_ox, explainer_bl
-
 
 # === Helper Functions ===
 def top_contributors(expected, pred, shap_vals, energy_bins, top_k: int = TOP_K):
