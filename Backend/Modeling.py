@@ -41,14 +41,15 @@ def load_input(uploaded_file_or_df, limit: int | None = None) -> tuple[pd.DataFr
 # === Loading Models ===
 def resolve_models_dir(models_dir: str | Path | None = None) -> Path:
     """
-    Resolve the Models directory. By default, looks for a sibling 'Models' folder
-    one level above this file (project root / Models).
+    Default to <project-root>/Random Forest Model
     """
     if models_dir is None:
-        base_dir = Path(__file__).resolve().parent.parent  # backend/.. → project root
-        return base_dir / "Models"
+        # backend/.. -> project root
+        base_dir = Path(__file__).resolve().parent.parent
+        return base_dir / "Random Forest Model"
     return Path(models_dir)
 
+# Backend/Modeling.py
 def load_models(models_dir: str | Path | None = None):
     """
     Load oxidation and bond length models from the Models directory.
@@ -62,10 +63,12 @@ def load_models(models_dir: str | Path | None = None):
         ox_model = pickle.load(f)
     with open(bl_path, "rb") as f:
         bl_model = pickle.load(f)
-
+    
+    
     explainer_ox = shap.TreeExplainer(ox_model)
     explainer_bl = shap.TreeExplainer(bl_model)
     return ox_model, bl_model, explainer_ox, explainer_bl
+
 
 # === Helper Functions ===
 def top_contributors(expected, pred, shap_vals, energy_bins, top_k: int = TOP_K):
