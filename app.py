@@ -20,7 +20,7 @@ uploaded_file = st.file_uploader(
 # === Running Modeling.py ===
 df = None
 if uploaded_file is not None:
-    out = run_pipeline(uploaded_file, models_dir=None)
+    out = run_pipeline(uploaded_file, models_dir="Random Forest Model")
     st.success(f"File `{uploaded_file.name}` uploaded successfully!")
 
 # --- Chat section ---
