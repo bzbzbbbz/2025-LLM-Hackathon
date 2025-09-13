@@ -1,0 +1,173 @@
+Simple Docling Extracted Data from: 1-s2.0-S0378775314019612-main.pdf
+============================================================
+
+Title: 1-s2.0-S0378775314019612-main
+Pages: 6
+Tables: 0
+Figures: 0
+
+MAIN TEXT:
+------------------------------
+<!-- image -->
+
+Contents lists available at ScienceDirect
+
+## Journal of Power Sources
+
+j o urnal homepage: www.elsevier.com/locate/jpowsour
+
+## Direct observation of reversible charge compensation by oxygen ion in Li-rich manganese layered oxide positive electrode material, Li1.16Ni0.15Co0.19Mn0.50O2
+
+Masatsugu Oishi a, * , Chihiro Yogi b , Iwao Watanabe b , Toshiaki Ohta b , Yuki Orikasa c , Yoshiharu Uchimoto c , Zempachi Ogumi d
+
+- a Graduate School of Engineering, Kyoto University, Sakyo-ku, Kyoto 606-8501, Japan
+
+b SR Center, Ritsumeikan University, Kusatsu, Shiga 525-8577, Japan
+
+- c Graduate School of Human and Environmental Studies, Kyoto University, Sakyo-ku, Kyoto 606-8501, Japan
+- d Of /uniFB01 ce of Society-Academia Collaboration for Innovation, Kyoto University, Gokasho, Uji, Kyoto 611-0011, Japan
+
+## h i g h l i g h t s
+
+- /C15 Ni and Co ions reversibly participate in the charge compensation.
+- /C15 The reversible redox reaction of oxygen ion was con /uniFB01 rmed by O K -edge XAS spectra.
+- /C15 Mn ion stayed unchanged in the in the Mn 4 þ state even at the charged states.
+- /C15 The peroxide phase exists stably in the crystalline network.
+
+## a r t i c l e i n f o
+
+Article history: Received 13 October 2014 Accepted 22 November 2014 Available online 23 November 2014
+
+## Keywords:
+
+Lithium ion battery Li-rich manganese layered oxide Soft XAS
+
+## 1. Introduction
+
+A series of Li-rich manganese layered oxides, y Li2MnO3 ∙ (1 /C0 y ) LiMO2 (M ¼ Ni, Co, and Mn), are one of the candidates for highcapacity positive electrodes in the next-generation lithium-ion batteries. [1,2] Most studied Li-rich manganese layered oxide is the y Li2MnO3 ∙ (1 /C0 y )LiNi1/3Co1/3Mn1/3O2 system. Compared to the reversible-cycle capacity of 160 mAh g /C0 1 in the conventional layered oxides such as LiCoO2 and LiNi1/3Co1/3Mn1/3O2, the wellstudied Li-rich positive-material system can be cycled with a capacity of 250 mAh g /C0 1 [2]. The Li-rich manganese layered oxide shows a characteristic voltage pro /uniFB01 le in the initial charging process; it shows a voltage plateau where a crystal rearrangement
+
+* Corresponding author. Yoshida-Honmachi, Sakyo-ku, Kyoto 606-8501, Japan. E-mail address: ooishi.masatsugu.6e@kyoto-u.ac.jp (M. Oishi).
+
+## a b s t r a c t
+
+The reversible redox reaction of oxygen ion was directly observed by soft X-ray absorption spectroscopy for Li1.16Ni0.15Co0.19Mn0.50O2, the Li-rich manganese layered oxide. The O K -edge spectra indicated that a peroxide phase (namely the formation of O2 2 /C0 ) appeared and disappeared reversibly by charging and discharging. It was simultaneously observed both in the total electron yield mode and in the partial /uniFB02 uorescence X-ray yield mode, indicating that the peroxide phase exists stably in the crystalline network. These species should play an important role in the high capacity positive electrode.
+
+© 2014 Elsevier B.V. All rights reserved.
+
+takes place by oxygen evolution and cation migration [1 e 5]. The initial charging process is an irreversible process, and the voltage plateau is not observed in the subsequent charging process. Eventually, the Li-rich manganese layered oxide shows reversible charging and discharging pro /uniFB01 les and it allows to extract and insert large amount of lithium ions. Intensive studies have been devoted in the researches of the irreversible initial process of the Li-rich manganese layered oxides [1,2,5 e 8]. We also investigated a charge compensation mechanism of Li1.16Ni0.15Co0.19Mn0.50O2 in the irreversible initial charging and discharging process by using both hard and soft X-ray absorption /uniFB01 ne structure (XAFS) spectroscopies [9]. Although there are many papers concerning the charge compensation mechanism of the irreversible initial cycle process, the mechanism to explain the origin of the high capacity in the reversible cycle process has not been well investigated.
+
+<!-- image -->
+
+<!-- image -->
+
+It is common knowledge shared among researchers that the oxygen ions contribute to the high capacity of the y Li2MnO3 ∙ (1 /C0 y ) LiNi1/3Co1/3Mn1/3O2 system [7,8,10,11]. Koyama et al. [12] and Xiao et al. [13] deduced the charge compensation by the oxygen in Li2MnO3 from the density functional theory calculations. Recently, Sathiya et al. con /uniFB01 rmed the redox reaction of oxygen ion in Li2(Ru, M)O3 (M ¼ Mn, Sn) materials by using X-ray photoelectron spectroscopy and electron paramagnetic resonance [14,15]. They also reported the partial reduction of cations during the charging process; a reductive coupling mechanism proceeds to stabilize the high valence states of Ru 6 þ by forming Ru 5 þ -(O2) 2 /C0 or Ru 4 þ -(O2) /C0 . In the previous paper [9], we reported that the partial reduction of the Ni and Co ions of Li1.16Ni0.15Co0.19Mn0.50O2 occurs at the charged state in spite of the lithium extraction in the initial charging process. This result suggests that the reductive coupling mechanism also proceeds in the y Li2MnO3 ∙ (1 /C0 y )LiNi1/3Co1/3Mn1/3O2 materials where the high valence states of Ni 4 þ and Co 4 þ are stabilized by the surrounding oxygen ions, resulted in the partial reduction of Ni and Co ions in the initial charging process.
+
+Although the participation of oxygen ion in the Li2MnO3-related materials have been examined theoretically and experimentally in the papers, a direct observation of the redox reaction of oxygen in the y Li2MnO3 ∙ (1 /C0 y )LiNi1/3Co1/3Mn1/3O2 system has not been reported so far. This subject has been discussed in many papers simply because the high capacities could not be explained by the cation redox reaction alone. In this study, the electronic structures of Li1.16Ni0.15Co0.19Mn0.50O2 are examined during the reversible charge/discharge processes by using the Ni, Co, Mn L -edge and O K -edge XAFS spectra, which would provide us direct evidence of the charge compensation mechanism [16]. There has been in dispute about what kinds of reactions take place in the initial irreversible charge as discussed in a number of papers. However, in this paper, we focus on the role of oxygen in the Li-rich manganese layered oxide during the reversible charging and discharging processes.
+
+## 2. Experimental
+
+## 2.1. Sample preparation
+
+The powder of Li1.16Ni0.15Co0.19Mn0.50O2 was prepared by a solid state reaction from lithium hydroxide and
+
+Fig. 1. Charge and discharge pro /uniFB01 les of Li1.16Ni0.15Co0.19Mn0.50O2. The XAFS measurements were carried out for the samples numbered 1 to 4 in the /uniFB01 gure.
+
+<!-- image -->
+
+nickel e cobalt e manganese carbonate. Details are described in the previous paper [9]. An aluminum laminated cell was used, which consisted of a cathode electrode, a lithium metal anode and reference electrode, and a porous polypropylene /uniFB01 lm used as a separator. Cathode electrode was fabricated from mixtures composed of active material (80%), carbon (10%), and PVdF binder (10%). The electrolyte was 1 M LiPF6 in ethylene carbonate/dimethyl carbonate (3:7 ratio by volume). The charge and discharge current density was 40 mA g /C0 1 with a cut-off voltage of 2.0 e 4.8 V vs Li þ /Li o at room temperature. Fig. 1 shows the charging and discharging pro /uniFB01 les of the Li1.16Ni0.15Co0.19Mn0.50O2 electrode. The characteristic charging pro /uniFB01 le, the voltage plateau at 4.5 V, was observed in the initial charging process, followed by a large irreversible discharge capacity. After the irreversible initial cycle process, the reversible charge and discharge reactions were observed; the voltage plateau was not observed in the reversible 1st and 2nd charging processes. Electrode samples for the XAFS measurements were electrochemically prepared at 4.8 V (the fully charged state) and at 2.0 V (the discharged state) of the reversible 1st and 2nd cycles, which are indicated as the numbered points in Fig. 1. The cells were disassembled in an argon /uniFB01 lled glove box to take out the samples of positive electrode material. They were rinsed with dimethyl carbonate to remove the electrolyte and dried.
+
+## 2.2. X-ray absorption measurements
+
+O K -edge and transition metal L -edges XAFS spectra were obtained at the beam line BL-2 of Ritsumeikan University SR Center (Shiga, Japan) [17]. To avoid exposure of the samples to air, the electrode samples were transferred to a high vacuum sample chamber of BL-2 via a transfer vessel /uniFB01 lled with argon gas [18]. The XAFS data were obtained both in the total electron yield (TEY) mode using a sample drain current and in the partial /uniFB02 uorescence X-ray yield (PFY) mode with a silicon drift detector (KETEK, VITUS R100 with a 0.1 m mthick Palylene-N /uniFB01 lm window), simultaneously. The use of two kinds of detection modes, TEY mode and PFY mode, enables us to reveal a depth pro /uniFB01 le: the TEY mode is surface sensitive, while the PFY mode is bulk sensitive. It is especially important to probe surface and bulk separately for the LIB electrode analysis since most of the electrochemical reactions occur from surface to bulk and the surface and bulk chemical states are often different from each other.
+
+## 3. Results
+
+Fig. 2 shows Ni, Co and Mn L II,III-edge XAFS spectra taken both with the TEY and PFY modes. The Ni L III- peak is positioned at 855.7 eV in the charged states with a shoulder in the lower energy side, while the peak appears at 854.1 eV in the discharged states. The peak observed at the higher photon energy in the charged states implies the oxidization of Ni ions to the Ni 3 þ /Ni 4 þ state. The Ni L III-edge peak position of the discharged states coincides with that of NiO (854.0 eV), indicating the Ni ions exist mostly as Ni 2 þ in the discharged states. A shoulder peak at the lower energy of the Ni L III-edge peak in the charged states is notably recognized in the TEY mode and it coincides with that of the bivalent state. NiO-type layers must be formed on the surface. Similar results were also reported in the conventional Ni based layered oxides, such as LiNi0.8Co0.15Al0.05O2 [19], LiNi0.8Co0.2O2 [20] and LiNi0.5Mn0.5O2 [21].
+
+The Co L II,III-edge peak position also reversibly shifts between the charged/discharged states, although the energy shift is very small. The Co L III-edge peak position of the discharged state is in good agreement with that of LiCoO2, indicating Co ions exist as Co 3 þ state. The peak observed at the higher photon energy in the
+
+Fig. 2. The L II,III-edge XAFS spectra at the numbered points indicated in Fig. 1 during the reversible 1st and 2nd cycle processes. (a) Ni in TEY mode, (b) Ni in PFY mode, (c) Co in TEY mode, (d) Co in PFY mode, (e) Mn in TEY mode and (f) Mn in PFY mode.
+
+<!-- image -->
+
+charged states indicates the oxidization of Co ions to Co 4 þ state. The small shift of Co L II,III-edge peak is due to a large contribution of the electron from the O 2p level in the hybridized Co 3d and O 2p orbitals, as reported in the LiCoO2 electrode by Yoon et al. [22,23].
+
+In contrast, the Mn L II,III-edge peak positions for both TEY and PFY spectra scarcely change between the charged and discharged states, as shown in Fig. 2(e) and (f). The Mn L -edge spectra are coincident with that of the Mn 4 þ state which has a main peak at 643.2 eV and a sub-peak at 640.7 eV due to the spin multiplicity and the crystal /uniFB01 eld effect. No shift of Mn L II,III-peaks indicates that Mn ion stays unchanged in the Mn 4 þ state even at the charged state. However, the Mn L III-edge TEY spectra show a decrease of the subpeak intensity at the charged states and an increase of the sub-peak at the discharged states, which implies the distortion of local structure around Mn ions by the extraction/insertion of lithium ions at the surface. In the Mn L III-edge PFY mode, the peak is heavily suppressed. This is due to the presence of neighboring oxygen ions, which have the K -edge energy (543.1 eV) close to the Mn L III-edge (638.7 eV) and absorbs a fairly large amount of Mn L a emission [24].
+
+Hence, the Mn L -edge spectra in the TEY and PFY modes give quite different pro /uniFB01 les. For this reason, the variation of the sub-peak intensity in the PFY mode is not discussed here.
+
+Fig. 3 shows the O K -edge XAFS spectra taken both in the TEY and PFY modes. The broad structures above 534 eV correspond to the transition from O 1s to the hybridized states consisting of metal 4sp and oxygen 2p orbitals, M4sp-O2p. The pre-edge structure below 534 eV corresponds to the transition to the hybridized states consisting of metal 3d and oxygen 2p orbitals, M3d-O2p [25 e 27], which consists of a major peak at 529.1 eV and a sub-peak at 531.4 eV. The broad structure above 534 eV in the discharged states consists of double bands at ~536 and ~540 V. This is a typical feature of the O K -edge spectra for the octahedrally coordinated metal oxides [27]. On the other hand, double bands are smeared out in the spectra of the charged states. It should be noted that the broad band peaked at 540 eV at the discharged state shifts to the higher energy by charging up to 4.8 V and shifts back by discharging. Zhou et al. reported the similar phenomenon for the cathode LiNi0.5Mn1.5O4 [28]. This broad band can be also interpreted as the transition to the
+
+Fig. 3. O K -edge XAFS spectra at the numbered points indicated in Fig. 1 during the reversible 1st and 2nd cycle processes. They are obtained in (a) TEY and (b) PFY mode. The preedge structures are expanded in (c) TEY and (d) PFY mode.
+
+<!-- image -->
+
+anti-bonding s * state (so-called ' shape resonance ' [29]), whose energy shifts sensitively with the metal e ligand bond distance. In the present case, the upward shift with charging corresponds to the shortening of the metal e oxygen bond distance. This corresponds to the decrease of the ionic radius of the Ni and Co ions due to the oxidation of the Ni and Co ions at the charged state. On the other hand, three major changes were observed in the pre-edge structure below 534 eV at the charge state as depicted by arrows in Fig. 3(c) and (d); shift of the pre-edge peak position to the lower energy, an increase of the pre-edge intensity at the lower photon energy (arrow 1), and an evolution of peak at the higher photon energy (arrow 2). These variations proceeded vice versa in the discharging process.
+
+## 4. Discussion
+
+According to the review paper by Goodenough and Kim [30], the potential of the redox couple of Ni 4 þ /Ni 3 þ and Co 4 þ /Co 3 þ is pinned at the top of O 2p band in the Li-rich manganese layered oxides. During the charging in the high-voltage regions, a contribution of oxygen in the charge compensation becomes dominant where some peroxide ions may reversibly form in the oxide [30]. However, the higher oxidation states of oxygen ion are generally unstable, and it would eventually lead to an evolution of O2 gas [31]. As a result, the material is decomposed and the reversible redox reaction of oxygen ion is not realized, which is well recognized in the conventional layered oxides. However, in the Li-rich manganese layered oxides, the crystal is kept stable even at the high-voltage regions owing to the Li2MnO3 structure acting as a stabilizing unit in the Li-rich manganese layered oxides [2]. Our results showed that Ni and Co ions participate in the charge compensation in the reversible-cycle processes, which indicates that Fermi level is formed by Ni, Co 3d and O 2p orbitals. The O K -edge spectra showed a signi /uniFB01 cant variation by the extraction/insertion of lithium ions, indicating a large portion of the electrons from the oxygen sites contributes to the charge compensation. Moreover, the O K -edge spectra reversibly changed in the reversible-cycle process, which indicates the reversible participation of the oxygen in the charge compensation.
+
+To clarify the change between the charged and discharged states, the difference spectra between these states in the reversible 1st and 2nd cycles are shown in Fig. 4. Two apparent peaks, labeled as A1 and A2 in the /uniFB01 gure appear in the pre-edge region. These are
+
+<!-- image -->
+
+associated with the charged state. The O K pre-edge peak corresponds to the transition to the empty hybridized M3d-O2p orbitals. In the charging process, the electrons are removed from the highest occupied molecular orbital (HOMO) made of the /uniFB01 lled M3d-O2p orbitals lying below the empty hybridized Me3d-O2p level. The valence changes of Ni and Co ions were observed in their L III edge XANES spectra and thus HOMO level consists of the Ni and Co orbitals forming the hybridized levels with O 2p orbitals. Hence, the empty states are created in the hybridized Ni, Co 3d and O 2p orbitals during the charging process. This empty states contribute to the Al peak additionally evolved in the O K -pre-edge region. This implies that a larger part of electrons is extracted from O 2p orbitals in the charging process. In other words, the hole-state is formed in the hybridized level in the charged states, as also reported in the conventional layered oxides such as LiCoO2 [22] and LiNiO2 [32]. The shift of the O K pre-edge peak to the lower energy at the charged states observed in Fig. 3(c) and (d) also implies the formation of the hole-states in the hybridized orbital due to both the local structural distortion and the increased effective nuclear charge of the metal ion [22].
+
+Another peak indicated as A2 in the /uniFB01 gure evolved above the O K pre-edge peak in the charged state. It coincides with that of Li2O2 reported by Yilmaz et al. [33] and Qiao et al. [34] indicating that a peroxide state is repetitiously formed at the charged states. Note that the A2 peak is observed both in the TEY and PFY modes. This means that the bulk phenomenon is relevant to the peak. Since it disappears/reappears in the subsequent discharged/charged processes, the peroxide state observed by the XAFS spectra is derived not only from the oxygen ions in the decomposed surface species, but also from those in the crystalline network. The formation of peroxide species causes to disrupt the octahedral coordination of metal oxides. This local structural change is re /uniFB02 ected in the broad bands above 534 eV, where the double-band structure appeared in the spectra of the discharged states is smeared out in those of the charged states.
+
+## 5. Conclusion
+
+The electronic structures of Li1.16Ni0.15Co0.19Mn0.50O2 were examined during the reversible charging/discharging processes by using the XAFS spectroscopy. We have observed the reversible valence variations of oxygen ions in the y Li2MnO3 ∙ (1 /C0 y )LiNi1/ 3Co1/3Mn1/3O2 systems. In addition to the charge compensation by
+
+Fig. 4. The intensity difference of the O K pre-edge spectra between the charged and discharged states.
+
+<!-- image -->
+
+the Ni and Co ions, the redox reaction of the oxygen ions conduce to the high capacity in the Li-rich manganese layered oxide.
+
+The results are summarized as follows:
+
+1. The Ni and Co L -edge XAFS spectra indicate that the Ni and Co ions reversibly participate in the charge compensation. The Mn L -edge spectra indicate that the Mn ions stay mostly unchanged as the tetravalent states, while the local structure around Mn ions would reversibly be varied during the charging/discharging processes.
+2. The analysis of the pre-edge peak of the O K-XAFS spectra give direct evidence of the peroxide species which appear in the charged state and disappear in the discharged state.
+
+## Acknowledgments
+
+The authors would like to thank Prof. Eiichiro Matsubara and Prof. Tetsu Ichitsubo, Kyoto University, for their valuable discussions. The authors appreciate the experimental assistance by Mr. Keisuke Yamanaka, Ritsumeikan University. The authors thank Prof. Atsushi Mineshige and Mr. Satoshi Yamahara, University of Hyogo, for their help in preparing the samples. The author is grateful to Prof. Noboru Yamada, Kyoto University, for the fruitful discussions. This work was supported by the Research and Development Initiative for Scienti /uniFB01 c Innovation of New Generation Batteries (RISING) project from New Energy and Industrial Technology Development Organization (NEDO) of Japan.
+
+## References
+
+- [1] Z. Lu, J.R. Dahn, J. Electrochem. Soc. 149 (7) (2002) A815.
+- [2] M.M. Thackeray, S.H. Kang, C.S. Johnson, J.T. Vaughey, R. Benedek, S.A. Hackney, J. Mater. Chem. 17 (2007) 3112.
+- [3] A.R. Armstrong, M. Holzapfel, P. Novak, C.S. Johnson, S.H. Kang, M.M. Thackeray, P.G. Bruce, J. Am. Chem. Soc. 128 (2006) 8694.
+- [4] S. Hy, F. Felix, J. Rick, W.N. Su, B.J. Hwang, J. Am. Chem. Soc. 136 (2014) 999.
+- [5] N. Tran, L. Croguennec, M. M /C19 en /C19 etrier, F. Weill, Ph Biensan, C. Jordy, C. Delmas, Chem. Mater. 20 (2008) 4815.
+- [6] A.D. Robertson, P.G. Bruce, Chem. Mater. 15 (2003) 1984.
+- [7] N. Yabuuchi, K. Yoshii, S.T. Myung, I. Nakai, S. Komaba, J. Am. Chem. Soc. 133 (2011) 4404.
+- [8] A. Ito, Y. Sato, T. Sanada, M. Hatano, H. Horie, Y. Ohsawa, J. Power Sources 196 (2011) 6828.
+- [9] M. Oishi, T. Fujimoto, Y. Takanashi, Y. Orikasa, A. Kawamura, T. Ina, H. Yamashige, D. Takamatsu, K. Sato, H. Murayama, H. Tanida, H. Arai, H. Ishii, C. Yogi, I. Watanabe, T. Ohta, A. Mineshige, Y. Uchimoto, Z. Ogumi, J. Power Sources 222 (2013) 45.
+- [10] H. Koga, L. Croguennec, M. M /C19 en /C19 etrier, P. Mannessiez, F. Weill, C. Delmas, J. Power Sources 236 (2013) 250.
+- [11] H. Koga, L. Croguennec, M. M /C19 en /C19 etrier, K. Douhil, S. Belin, L. Bourgeois, E. Suard, F. Weill, C. Delmas, J. Electrochem. Soc. 160 (6) (2013) A786.
+- [12] Y. Koyama, I. Tanaka, M. Nagao, R. Kanno, J. Power Sources 189 (2009) 798.
+- [13] R. Xiao, H. Li, L. Chen, Chem. Mater. 24 (2012) 4242.
+- [14] M. Sathiya, K. Ramesha, G. Rousse, D. Foix, D. Gonbeau, A.S. Prakash, M.L. Doublet, K. Hemalatha, J.M. Tarascon, Chem. Mater. 25 (2013) 1121.
+- [15] M. Sathiya, G. Rousse, K. Ramesha, C.P. Laisa, H. Vezin, M.T. Sougrati, M.L. Doublet, D. Foix, D. Gonbeau, W. Walker, A.S. Prakash, M. Ben Hassine, L. Dupont, J.M. Tarascon, Nat. Mater. 12 (2013) 827.
+- [16] K. Kubobuchi, M. Mogi, H. Ikeno, I. Tanaka, H. Imai, T. Mizoguchi, Appl. Phys. Lett. 104 (2014) 053906.
+- [17] H. Ishii, K. Nakanishi, I. Watanabe, T. Ohta, K. Kojima, J. Surf. Sci. Nanotech. 9 (2011) 416.
+- [18] K. Nakanishi, T. Ohta, in: Z. Haq (Ed.), Advanced Topics in Measurements, InTech, Croatia, 2012, p. 43.
+- [19] S. Muto, Y. Sasano, K. Tatsumi, T. Sasaki, K. Horibuchi, Y. Takeuchi, Y. Ukyo, J. Electrochem. Soc. 156 (2009) A371.
+- [20] D.P. Abraham, R.D. Twesten, M. Balasubramanian, J. Kropf, D. Fischer, J. McBreen, I. Petrov, K. Amine, J. Electrochem. Soc. 150 (11) (2003) A1450.
+- [21] W.S. Yoon, M. Balasubramanian, X.Q. Yang, Z. Fu, D.A. Fischer, J.M. McBreen, J. Electrochem. Soc. 151 (2) (2004) A246.
+- [22] W.S. Yoon, K.B. Kim, M.G. Kim, M.K. Lee, H.J. Shin, J.M. Lee, J.S. Lee, C.H. Yo, J. Phys. Chem. B 106 (2002) 2526.
+- [23] W.S. Yoon, K.B. Kim, M.G. Kim, M.K. Lee, H.J. Shin, J.M. Lee, J. Electrochem. Soc. 149 (6) (2002) A1305.
+- [24] Y. Tamenori, M. Morita, T. Nakamura, J. Synchrotron. Radiat. 18 (2011) 747.
+- [25] W.S. Yoon, M. Balasubramanian, K.Y. Chung, X.Q. Yang, J. McBreen, C.P. Grey, D.A. Ficher, J. Am. Chem. Soc. 127 (2005) 17479.
+- [26] J. Graetz, A. Hightower, C.C. Ahn, R. Yazami, P. Rez, B. Fultz, J. Phys. Chem. B 106 (2002) 1286.
+- [27] F.M.F. de Groot, M. Grioni, J.C. Fuggle, J. Ghijsen, G.A. Sawatzky, H. Petersen, Phys. Rev. B40 (1989) 5715.
+- [28] J. Zhou, D. Hong, J. Wang, Y. Hu, X. Xied, Haitao Fang, Phys. Chem. Chem. Phys. 16 (2014) 13838.
+- [29] J. St € ohr, NEXAFS Spectroscopy, Springer-Verlag, Berlin, 1992.
+- [30] J.B. Goodenough, Y. Kim, Chem. Mater. 22 (2010) 587.
+- [31] A. Manthiram, J. Choi, J. Power Sources 159 (2006) 249.
+- [32] Y. Uchimoto, H. Sawada, T. Yao, J. Power Sources 97-98 (2000) 326.
+- [33] E. Yilmaz, C. Yogi, K. Yamanaka, T. Ohta, H.R. Byon, Nano Lett. 13 (2013) 4679.
+- [34] R. Qiao, Y.D. Chuang, S. Yan, W. Yang, PLoS One 11 (2012) 1.

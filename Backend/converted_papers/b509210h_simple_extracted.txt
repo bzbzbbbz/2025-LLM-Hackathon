@@ -1,0 +1,391 @@
+Simple Docling Extracted Data from: b509210h.pdf
+============================================================
+
+Title: b509210h
+Pages: 10
+Tables: 4
+Figures: 0
+
+MAIN TEXT:
+------------------------------
+## Structural and electrochemical properties of new nanospherical manganese oxides for lithium batteries
+
+P. Strobel, * a F. Thie ´ry, a C. Darie, a O. Proux, b A. Ibarra-Palos, { a M. Bacia a and J. B. Soupart c
+
+Received 29th June 2005, Accepted 16th September 2005 First published as an Advance Article on the web 3rd October 2005 DOI: 10.1039/b509210h
+
+The products of decomposition of manganese carbonate with and without doping by copper or cobalt, at temperatures , 500 u C in air were studied. Doped systems with 20 atom% Cu or Co give new nanometric manganese oxides agglomerated in submicronic spheres at 370 u C. Transmission electron microscopy (TEM) shows that these X-ray amorphous compounds are nanocrystalline with grain size in the 10 nm range and a spinel substructure. The electrochemical behaviour of these materials in lithium cells was studied. Whereas non-doped manganese oxide exhibits poor intercalation capabilities, the freshly co-precipitated Cu or Co doped materials can be cycled successfully around 3 V vs . Li/Li + . Step-potential electrochemical spectroscopy shows that the initial discharge gives rise to a two-phase transition and is followed by stable, reversible, singlephase cycling. Best results are obtained on a cobalt-doped manganese oxide (Co : Mn 5 1 : 5), which can sustain more than 100 charge-discharge cycles with a 175 mA h g 2 1 capacity in the 1.8-4.2 V range. XAS spectra were measured on pristine and electrochemically discharged materials, showing that (1) in the cobalt-doped material, cobalt is divalent and manganese is the only redox-active species, (2) the variations in local structure around Mn on discharge are much smaller than in long-range ordered compounds such as Li-Mn-O spinels.
+
+## Introduction
+
+Manganese oxides are among the most attractive cathode materials for lithium batteries. Compared to the cobalt oxide used in presently commercialized batteries, they present significant advantages in terms of cost and environmental impact. The most widely studied manganese oxide in this respect is LiMn2O4 (and substituted variants) with the spinel structure. Its use, however, is beset by a constant decrease in capacity with cycling or with storage at temperatures in excess of ca . 50 u C. 1-3 Layered manganates of the birnessite or LiMnO2 type are attractive, but the structures are unstable on delithiation and these materials convert progressively to spinel on cycling. 4-7
+
+This situation has prompted various groups to investigate non-crystalline manganese oxides as cathode materials. The most widely studied amorphous or nanocrystalline phases reported so far are obtained from permanganates, using various reducing agents such as oxalic acid, 8 fumaric acid, 9 potassium borohydride, 10 or lithium iodide in either acetonitrile 11 or aqueous medium. 12 The manganese oxy-iodides obtained showed promising capacities and no significant tendency to convert into spinel.
+
+a Centre National de la Recherche Scientifique, Laboratoire de Cristallographie, BP166, 38042 Grenoble Cedex 9, France. E-mail: strobel@grenoble.cnrs.fr
+
+b
+
+Laboratoire de Ge ´ophysique Interne et Tectonophysique, CNRS -
+
+Universite ´ Joseph Fourier, 38400 Saint-Martin-d'He `res, France
+
+c Erachem-Comilog, B-7333 Tertre, Belgium
+
+{ Now at Instituto de Investigaciones en Materiales, Universidad Nacional Auto ´noma de Me ´xico, A.P. 70-360, Ciudad Universitaria, Coyoacan 04510, Me ´xico, D.F.
+
+The permanganate route has one practical drawback, however: the cost of permanganate. Another possible route to obtain X-ray amorphous manganese oxides is the oxidation of aqueous Mn 2 + ion in specific conditions, especially with hypochlorite or hydrogen peroxide. 13,14
+
+All these attempts overlooked an earlier work by Feltz et al. 15 showing that the decomposition of manganese carbonate in air yields an amorphous material if carried out in a rather narrow temperature range around 400 u C followed by quenching.
+
+In this paper, we present a re-investigation of the carbonate decomposition route and electrochemical tests of the ''amorphous'' oxides obtained in lithium cells. In view of the reported beneficial effect of copper 16 and cobalt doping on battery performances of various manganese oxides, we also investigated the influence of Cu and Co addition on the electrochemical behaviour of these materials. Coprecipitation of carbonates of Mn and Cu or Co gives rise to a remarkable morphology consisting of well-separated, submicronic spherical particles of the new oxides.
+
+Finally, we wish to point out the ambiguity when calling compound ''amorphous'' with the absence of powder XRD reflections as the only evidence. This is not correct in many cases-as we showed recently on ''amorphous'' manganese obtained by the permanganate-iodide route. 17 Materials with poor X-ray diffraction characteristics need to be investigated using more local structural tools such as electron diffraction. Using this tool, we will show that the new compounds turn out to be nanocrystalline and not amorphous.
+
+This study will be completed by X-ray absorption spectroscopy (XAS). This technique allows one to determine the local structure around the absorbing element (here manganese) and to follow the variation of its environment and oxidation state
+
+|
+
+with lithium insertion. It has been recently used in the study of nanometric or amorphous manganese oxides by several groups. 18-21 It is especially powerful in the case of a compound containing different potentially active elements. We will show here that the chemical selectivity of XAS allows one to determine without ambiguity which species is active in the electrochemical redox reactions under study.
+
+## Experimental
+
+## Synthesis procedure
+
+The starting materials were standard reagent grade chemicals (Aldrich). Thermal treatments were carried out using alumina boats in tubular furnaces at variable temperatures as shown in Table 1. In a typical run, samples were introduced in a preheated furnace, left at the desired temperature for 15-18 h, then quenched between metal plates.
+
+The samples used were either commercial manganese carbonate or ''fresh'' carbonate obtained by precipitation in aqueous medium. In the latter case, a 0.13 M solution of lithium carbonate was added at room temperature under stirring into a solution of the Mn 2 + (0.5 M) and doping salts (0.1 M). The salts used are indicated in Table 1. The mixture was stirred overnight, then the precipitate was filtered, washed with abundant quantities of distilled water, and dried at 80 u C before being submitted to thermal decomposition. The nominal dopant/Mn molar ratio was fixed to 0.20 in all preparations.
+
+## Chemical and structural characterization
+
+Samples were studied by X-ray diffraction (XRD) using a Siemens D5000 diffractometer with Cu K a radiation. The morphology of grains were determined using a JEOL 840 scanning electron microscope (SEM). For doped samples, the Mn, Co and Cu contents were determined by EDX analysis. Li and Mn contents were measured by atomic absorption spectrophotometry. The manganese oxidation state was determined by standard oxalate/permanganate volumetric titration after dissolution of samples in 2 M sulfuric acid.
+
+Transmission electron microscope (TEM) studies were carried out using a Philips CM300 microscope operated at 300 kV (resolution 1.9 A ˚ ). Samples for TEM observation were ground under ethanol and deposited on copper grids covered with thin holey carbon films.
+
+Table 1 Synthesis conditions
+
+|            |        |                                | Thermal treatment   | Thermal treatment   |                                            |
+|------------|--------|--------------------------------|---------------------|---------------------|--------------------------------------------|
+| Sample no. | Dopant | Reagents or precursors         | Temp./ u C          | Dur./h              | Phases detected by XRD                     |
+| 121        | -      | Solid MnCO 3                   | 370                 | 18                  | MnCO 3 (weak peaks)                        |
+| 125        | -      | Solid MnCO 3                   | 370 a               | 18                  | MnCO 3 (weak peaks).                       |
+| 122        | -      | Solid MnCO 3                   | 385                 | 18                  | MnCO 3 (weak) + Mn 2 O 3 (very weak))      |
+| 117        | -      | Solid MnCO 3                   | 400                 | 18                  | Mn 2 O 3                                   |
+| 116        | -      | Solid MnCO 3                   | 460                 | 18                  | Mn 2 O 3 + Mn 5 O 8                        |
+| 130        | Cu     | solid mixture MnCO 3 + CuCO 3  | 370                 | 18                  | Mn 2 O 3 (broad, weak) + CuO (sharp, weak) |
+| 132        | Cu     | CC b from MnCl 2 + Cu(NO 3 ) 2 | 370                 | 65                  | Broad bump 37                              |
+| 133        | Cu     | CC from Mn and Cu acetates     | 370                 | 65                  | u Broad bump 37 u                          |
+| 134        | Cu     | CC from Mn and Cu nitrates     | 370                 | 65                  | Broad bump 37 u                            |
+| 135        | Co     | CC from Mn and Co acetates     | 370                 | 65                  | Broad bump 37 u                            |
+
+|
+
+## Electrochemical measurements
+
+Electrochemical tests were carried out in liquid electrolyte at room temperature using Swagelok-type batteries at room temperature. Cathodic paste were prepared by intimately mixing the oxide powder with carbon black (for those samples where carbon was not added earlier) and PTFE emulsion in weight ratio 70 : 20 : 10. This paste was rolled down to 0.1 mm thickness, cut into pellets with diameter 10 mm and dried at 240 u C under vacuum. Typical active material weights used were 6-12 mg cm 2 2 . The electrolyte was a 1 M solution of LiPF6 in EC-DMC 1 : 2. Negative electrodes were 200 m m thick lithium foil (Metall Ges., Germany). Cells were assembled in a glove box under argon with ¡ 1 ppm H2O. Electrochemical studies were carried out using a MacPile Controller (Bio-Logic, Claix, France) in the potential window 1.8-3.8 V, in either galvanostatic mode or by step-potential electrochemical spectroscopy (SPES), 22 using typically 10 mV steps changed every 30 mn.
+
+## X-Ray absorption spectroscopy
+
+X-Ray absorption spectroscopy experiments were performed at the FAME beamline (BM30B) at the European Synchrotron Radiation Facility storage ring in Grenoble, operating in 16 bunch mode at 6 GeV. 23 Spectra were recorded in transmission mode at the Mn and Co K edge, using a double-crystal Si(220) monochromator. The intensities of the incident and transmitted beams were measured using silicon diodes. The full fan delivered by the bending magnet source was focused in the horizontal plane by the second crystal of the monochromator and by the second rhodium-coated mirror in the vertical plane. Finally, a feedback system was used to maximize the output of the two-crystal X-ray monochromator. The size of the X-ray spot, around 300 6 200 m m(H 6 V FWHM), and its position on the sample were kept constant during the acquisition.
+
+Samples for XAS measurements were pellets made of the oxide diluted in boron nitride in the appropriate proportions to give an optimum absorption jump (1 ¡ D m t ¡ 3). For samples studied after electrochemical discharge, the thickness of the electrode pellets (diameter 10 mm) was adjusted to give the appropriate absorption and used as is on the beam line shortly after opening the freshly discharged batteries.
+
+The absolute energy scale was calibrated using Mn and Co metal sheets. The energy calibration was initially performed
+
+with a Mn metal foil ( E K 5 6.539 keV) and carefully checked for each spectrum by measuring the absorption of the metallic reference, using the transmitted beam through the samples as an incident beam for the pure metal foil.
+
+The oxidation state of manganese was estimated by comparing the near-edge features (XANES) with following reference compounds: LiMn2O4, 24 l -MnO2 (prepared by chemical extraction of lithium from LiMn2O4), and Mn2O3 (prepared by heating MnO2 at 750 u C in air for 24 h). Standards for cobalt were GeCo2O4 spinel and LiCoO2 obtained by standard solid state reactions in air.
+
+EXAFS oscillations x ( k ) were extracted from the raw data using the Athena program. 31 All the analysis were performed with the k 2 x ( k ) signals. The Fourier transform (FT) of the k 2 x ( k ) signal was performed over the 2.6-11.9 A ˚ k -range to obtain the so-called radial distribution pseudofunction, which displays peaks roughly characteristic of each shell around the central Mn atoms. Filtering of the first two peaks in the FT (containing the contribution of Mn-O and/or Mn-Mn shells) was done by inverse FT over the 0.6-2.9 A ˚ R -range with a Kaiser window t 5 2.5. The fitting procedure was performed on the filtered k 2 x ( k ) signals with the Artemis program. 25
+
+1
+
+Fig. 1 XRD diagrams of samples resulting from thermal decomposition of manganese carbonate at different temperatures in air. Bottom markers (black squares): MnCO3; top markers: triangles 5 Mn2O3, vertical lines 5 Mn5O8. For a comparison of intensities with those of ''normal'' crystallized MnCO3 recorded in same conditions, see Fig. 2, top.
+
+<!-- image -->
+
+## Results and discussion
+
+## 1. XRD and chemical composition
+
+Fig. 1 shows the XRD patterns of products obtained from solid manganese carbonate as a function of quenching temperature. At 370 u C, MnCO3 reflections remain, but they are weak and broad: for comparison, the intensity of the strongest reflection at 31 u is ca . ten times lower than that of crystallized MnCO3 measured in same conditions (shown in Fig. 2). In the 385 u C pattern, Mn2O3 starts weakly showing up (see sharp peak at 33 u ). This phase crystallises considerably between 385 and 400 u C, which seems to be a critical limit for the formation of a long-range ordered structure. In the sample quenched from 460 u C, Mn2O3 is still the major phase, but Mn5O8 is also formed. These results confirm the report of Feltz et al. , 15 with a more accurate definition of the limit temperature below which a X-ray amorphous oxide is the major phase. Our XRD results are also consistent with the elemental analysis giving a carbonate/Mn molar ratio of 0.115 at 370 u C.
+
+All further attempts were carried out at 370 u C. First, we checked that annealing under oxygen flow did not significantly change the composition of the phase obtained. Second, doping by copper and cobalt was investigated. The reagents used and
+
+1
+
+1
+
+Fig. 2 XRD diagrams of samples resulting from decomposition of freshly co-precipitated Mn-Cu or Mn-Co carbonates at 370 u C. From bottom to top: samples 130, 132, 133, 134, 135 (see description in Table 1). Asterisks 5 strongest reflections of CuO. The top diagram is that of standard, crystallized MnCO3 recorded in same conditions.
+
+<!-- image -->
+
+|
+
+Table 2 Physico-chemical analysis and initial electrochemical capacity Q 1 of representative samples
+
+| Sample no.              | M/Mn nominal                              | M/Mn measured         | Li/Mn measured             | Mn oxidation state                 | CO 2 %                  | SSA/m 2 g 2 1       | Q 1 /mA h g 2 1             |
+|-------------------------|-------------------------------------------|-----------------------|----------------------------|------------------------------------|-------------------------|---------------------|-----------------------------|
+| 121-125 132 133 134 135 | - 0.20 (Cu) 0.20 (Cu) 0.20 (Cu) 0.20 (Co) | - 0.20 0.21 0.20 0.24 | 0 , 0.03 0.035 0.034 0.033 | 3.45 3.40 3.54 3.64 3.62 if Co 2 + | 9.24 n/d 7.03 6.03 2.60 | n/d n/d 112 112 102 | 165-180 165 187 175 200-220 |
+
+XRD results are given in Table 1 and Fig. 2, respectively. Using a simple physical mixture of manganese and copper carbonates (sample 130) yields a rather heterogeneous decomposition reaction, with MnCO3 and CuO visible in XRD (see asterisks in Fig. 2). It was then decided to make an atomicscale mixed precursor by coprecipitating Mn-Cu or Mn-Co carbonate from an aqueous solution. Fig. 2 shows that the compounds obtained are X-ray amorphous; only a wide bump around 2 h 5 37 u is visible. No significant change was noticed as a function of the initial salt used or of the nature of doping element (copper or cobalt).
+
+As shown in Table 2, the oxides obtained have manganese oxidation states in the range 3.25-3.45, i.e. , considerable oxidation of manganese takes place during the thermal process. We believe that quenching is important in order to prevent the formation of a more crystallized form of manganese oxide such as MnO2, which is the equilibrium form in the ( T , p [O2]) conditions used. The residual carbonate content does not exceed 10% (Table 2, corresponding to C/Mn atomic ratios lower than 0.12), in agreement with the diffraction results. Note that the doped phases have both higher oxidation states and lower carbonate contents, two factors favourable for electrochemical performances. The carbon content is especially low in the Co-doped sample (no.135). In this case, the oxidation state measurement gives a combined oxidizing power of Mn and Co; the value given in Table 2 corresponds to the hypothesis of divalent cobalt.
+
+## 2. Physico-chemical characterization
+
+Specific surface area (SSA) measurement give values in the 100 m 2 g 2 1 range for samples obtained by carbonate co-precipitation (see Table 2). These values are close to those reported for other nanometric manganese oxides obtained by alternate routes such as aerogel pyrolysis 26 or permanganate reduction. 27
+
+Representative SEM micrographs (Fig. 3) show remarkable differences in morphology between samples obtained from solid manganese carbonate and from different precursors. The decomposition of solid MnCO3 yields irregular particles with rounded edges and a fairly homogeneous size distribution around 1-2 m m (Fig. 3a). On the contrary, samples obtained from co-precipitation of mixed manganese-copper carbonate show as the major constituent almost perfect spheroids with loose agglomeration state (Fig. 3b). As shown by images at higher magnification (Fig. 3c,d), the spheres are constituted of smaller grains which form a rougher surface in sample 134 (precipitated from a nitrate solution) than in sample 135 (acetate solution). The sphere smoothness is found to increase (and the grain size to decrease) in the following order:
+
+|
+
+chloride-nitrate solution (sample 132) , nitrates (134) , acetates (133, 135). The latter, with cobalt instead of copper as dopant, gives the most perfect spheroid formation (Fig. 3d). A statistical analysis of 55 grains in sample 135 gives an average sphere diameter of 0.8 m m. The size of the sphere seems to be unaffected by the reaction medium.
+
+It should be noted that this particular morphology is mainly encountered in synthesis techniques including precipitation in liquid droplets such as spray pyrolysis. 28-30 Its occurrence in a carbonate precipitation route seems remarkable. In spite of the widespread use of this synthesis route for the preparation of battery materials, 31 we are aware of only one recent report of such a morphology (on layered oxides). 32 However, most synthesis procedures in this domain differ from the one used here in a key aspect: they usually include annealing at much higher temperatures, resulting in sintering and further morphology changes.
+
+## 3. Nanostructural characterization
+
+More morphological and structural details were revealed by high-resolution transmission electron microscopy. TEM observations show that the spherical grains are constituted of very small angular nanocrystallites ¡ 10 nm in size (Fig. 4). The grains agglomeration made it difficult to record electron
+
+Fig. 3 SEM micrographs of samples 121 (8000 6 ), 134 (Cu-doped, nitrate solution, 13 000 6 ) and 135 (Co-doped, acetate solution) at 6000 6 and 15 000 6 magnification.
+
+<!-- image -->
+
+Fig. 4 TEM micrograph of a sphere edge in sample 135 at 110 000 6 magnification.
+
+<!-- image -->
+
+Fig. 5 Selected area electron diffraction patterns of crystallite from samples 132 and 135.
+
+<!-- image -->
+
+diffraction diagrams from isolated grains, even after extended grinding. SAED images show ring diagrams, more or less resolved into discrete spots depending on the grains (see Fig. 5). This is direct evidence that these materials are not amorphous, but nanocrystalline. Table 3 summarizes the list of interreticular distances collected for sample 135 from both discrete spots and rings in SAED, as well as from the weak bumps observed in X-ray diffraction. Among the basic structural units consistent with a manganese oxide with valence + 3 ¡ v ¡ + 4, the only solution allowing a complete indexation of this list is a face-centered cubic cell with a cell parameter of 8.05-8.10 A ˚ . So the main phase is likely to be a nanometric and nonstoichiometric Co-Mn-O spinel. Significant cation vacancies
+
+Table 3 List of observed reflections (in A ˚ ) from SAED on sample 135
+
+| d /A ˚      | Cubic indexation   |
+|-------------|--------------------|
+| 4.68-4.70   | 111                |
+| 2.78-2.85   | 220                |
+| 2.43-2.46   | 311                |
+| 2.028-2.033 | 400                |
+| 1.558-1.567 | 511, 333           |
+| 1.428-1.443 | 440                |
+
+Fig. 6 Micrograph of columnar-type minor phase found in most samples. 90 000 6 Magnification.
+
+<!-- image -->
+
+have indeed to be assumed to reconcile the experimental composition (close to MnCo0.2O2.0, giving a cation/anion ratio r c/a equal to 0.6), with a spinel formula (theoretical r c/a 0.75 for a stoichiometric AB2O4 formula). We note that cation deficiencies are not uncommon in spinel crystal chemistry: in the field of manganese compounds, other known examples are c -Mn2O3 ( r c/a 5 0.67) and l -MnO2 ( r c/a 5 0.50).
+
+These new nanometric products also contain a few larger crystals with columnar shape (Fig. 6). This morphology is typical of tunnel-containing manganese oxides such as hollandites ('' a -MnO2''), which have tetragonal (or distorted tetragonal) symmetry with c / a # 4, in agreement with the observed morphology. 33,34 These crystals are a minority phase and were not investigated further.
+
+## 4. Electrochemical behaviour
+
+Fig. 7 shows the first two discharge-charge cycles of representative samples. All compositions give smooth, S-shaped curves. The first discharge capacities Q 1 are in the range 165190 mA h g 2 1 for all samples (see Table 2, last column), with one remarkable exception, sample 135 (cobalt-doped), which yields Q 1 5 200-220 mA h g 2 1 . These capacity values correspond to fractions of intercalated lithium in the range 0.5-0.6 Li per Mn atom, in good agreement with experimental manganese oxidation states (see Table 2).
+
+A closer look at Fig. 7 shows that all samples exhibit a significant difference in shape between the first and subsequent
+
+|
+
+Fig. 7 Showing the first two discharge-charge cycles of various samples in electrochemical cells. Conditions: room temperature, voltage window 1.8-4.3 V, discharge regime ca . C /20.
+
+<!-- image -->
+
+discharges, namely a flatter plateau on the first discharge. This difference can be seen more clearly by slow scanning voltammetric curves (Fig. 8). An examination of the current evolution during potential steps in the reduction peaks (Fig. 9) shows a different behaviour of the current decay between the first and second discharges. In the former, the current in the potential steps corresponding to the reduction peak first decreases, then stabilizes to a constant value as a function of time (Fig. 9a). This is typical of a 2-phase reaction, where kinetics are controlled by the displacement of a phase front. In
+
+Fig. 8 Step-potential electrochemical spectroscopy of sample 121 (first two cycles). Voltage sweep rate 10 mV/30 mn.
+
+<!-- image -->
+
+|
+
+Fig. 9 Step-potential electrochemical spectroscopy of sample 121: details of the incremental current evolution during (a) the first reduction peak (discharge) and (b) the first oxidation peak (charge).
+
+<!-- image -->
+
+the second discharge, on the contrary, the current shows an exponential decay as expected for a single-phase, diffusioncontrolled reaction 35 (Fig. 9b). So it seems that these materials undergo a phase change during the first discharge, and subsequently cycle on a different phase formed in situ .
+
+The S-shaped cycling curves centered on potentials in the 2.7-2.9 V range agree well with the electrochemical behaviour described for other amorphous or nanometric manganese oxides. 11,12,14 After the first discharge, the shape of the chargedischarge curves does not change significantly on cycling, and differs considerably from the behaviour of long-range 2D or 3D manganese oxide networks such as spinel or LiMnO2. More specifically, although SAED showed that the basic structure of these materials at the nanometric scale is spinellike, they do not at all show the double voltage plateau (4.0 V and 2.9 V) typical of electrochemical lithium intercalation in the Li x Mn2O4 spinel system. One major difference with the latter is the absence of de-intercalable lithium in the nanometric spinel, explaining the absence of a 4.0 V intercalation step. In addition, the 2.9 V plateau in ordered, crystallized Li x Mn2O4, which is actually a 2-phase reaction with poor reversibility, whereas the 2.9 V reaction in the new nanometric phases remains single-phase after the first discharge. It seems that the nanometric and disordered nature of the nanometric material prevents or smoothly absorbs the structural distortion appearing at high Mn 3 + concentrations due to the Jahn-Teller character of the Mn 3 + ion and the subsequent reversibility problems encountered in the ordered spinel systems.
+
+Fig. 10 shows the evolution of capacity with cycling in mild conditions ( C /20). Two of the samples tested fail badly in capacity retention on cycling: sample 121, obtained by simple decomposition of undoped manganese carbonate, and sample 132, obtained by co-precipitation from a solution containing chloride ions, which give capacities constantly and rapidly decreasing with cycling. For sample 121, this capacity drop is probably due to the large grain size of the manganese carbonate used (commercial reagent), which in turn yields a grain size in the decomposition product significantly larger than that of materials obtained from freshly co-precipitated carbonates. For sample 132, the result is more surprising since its composition is very similar to that of samples 133 and 134. The key difference could result from the use of manganese chloride as the manganese source in sample 132. It is very
+
+Fig. 10 Evolution of capacity of various samples as a function of cycling. Cycling conditions are as in Fig. 7.
+
+<!-- image -->
+
+likely that sample 132 still contains residual chloride, which is known to ''poison'' reversible lithium intercalation because of its tendency to oxidize irreversibly into chlorine on charge. Other samples obtained from co-precipitated carbonates with precursor solutions of acetates or nitrates show the following features: (i) a significant initial drop in capacity, probably related to the initial 2-phase reduction revealed in the first discharge and addressed above, (ii) an extremely stable capacity with cycling. In particular, the Co-doped sample exhibits superior performances with a capacity of 176 mA h g 2 1 at the 100th cycle, i.e. , a capacity drop lower than 2% between discharges 2 and 100.
+
+## 5. X-Ray absorption analysis
+
+EXAFS spectra were recorded on the sample giving the best electrochemical performances in this series, namely the Cu-doped sample 133 and the Co-doped sample 135. Both Mn and Co edges were recorded on the pristine material and the cathodic pellet extracted from a lithium battery after discharge to a Li intercalation level of 0.60. Standards used were l -MnO2, LiMn2O4 and Mn2O3 for Mn, LiCoO2 and GeCo2O4 for Co.
+
+Considering first the near-edge spectra (XANES), the edge position is known to vary with the oxidation state (OS) of the absorber, with the edge shifted towards higher energies with increasing valence. 36 XANES data for two samples (both Mn and Co edges recorded in the sample 135 case) are shown in Fig. 11. In the Mn case, this figure clearly shows that the initial material has a manganese oxidation state intermediate between + 3 and + 4, and that Mn is indeed reduced on discharge. The shift in edge position is usually quantified using the value of the first inflexion point in the edge; these values are plotted in Fig. 12, showing a good agreement between XANES data and the Mn oxidation state change expected from electrochemical reduction.
+
+The cobalt edge (Fig. 11c) reveals a very different behaviour: the initial material has an edge typical of Co 2 + , and it shows negligible changes after discharge. This gives clear evidence that cobalt is not involved in the first-discharge electrochemical redox process. Such a result is consistent with the
+
+Fig. 11 Normalized XANES spectra before and after discharge corresponding to the insertion of 0.60 Li/transition metal. (a) sample 133, Mn edge, (b) sample 135, Mn edge, (c) sample 135, Co edge. Dashed lines: spectra of standards with known oxidation states: Mn + 4 ( l -MnO2), Mn + 3.5 (LiMn2O4), Mn + 2 (Mn2O3), Co + 3 (LiCoO2), Co + 2 (GeCo2O4 spinel).
+
+<!-- image -->
+
+|
+
+Fig. 12 Evolution of the energies of the first inflexion point of the XANES spectra with manganese valence. Open circles: Mn standards, open triangles: initial samples 133 and 135, filled triangles: samples 133 and 135 after discharge.
+
+<!-- image -->
+
+electrochemical behaviour, since (i) the shape of the chargedischarge curves is similar to that of undoped and Cu-doped samples and contains only one reduction step, (ii) the valence distribution is then Co + 2 /Mn + 3.62 compound (see Table 2, last line), yielding an available capacity of 0.62 Li/Mn, in good agreement with the observed electrochemical capacity.
+
+Regarding EXAFS, fits were performed after filtering in the R -space range 0.6-2.9 A ˚ of the Fourier transforms. The two simple diffusion paths Mn-O and Mn-Mn, as well as the first multiple one (Mn-O-O), were taken into account. Including the latter improves the quality of the fit, although its weighted contribution to the amplitude of the oscillations remains weak. The normalized k 2 x ( k ) experimental and fitted spectra are shown in Fig. 13, and the structural parameters deduced from quantitative analysis are listed in Table 4. The experimental spectra of LiMn2O4 and Mn2O3 standards were simulated to check the validity of both the analysis procedure and the used phases and amplitudes calculated from the FEFF code. 25
+
+The results show that samples 133 and 135 are structurally very similar. Manganese is found to be octahedrally coordinated by oxygen in sample 135 (refined CN value 5.7), whereas the coordination number appears to be slightly lower in sample 133 (4.8). Mn-O and Mn-Mn distances are consistent with
+
+Fig. 13 Normalized k 2 x ( k ) for samples studied in EXAFS at Mn edge. Open symbols: experimental data; solid lines: fitted spectra.
+
+<!-- image -->
+
+those found in tetravalent manganese oxides such as b -MnO2 (rutile-type structure, d Mn-O 5 1.88 + 1.90 A ˚ ) or l -MnO2 (delithiated spinel, d Mn-O 5 1.90 A ˚ ).
+
+The insertion of lithium induces only small changes in the first manganese coordination shell: the Mn-O distances increase slightly, as expected for a decrease in Mn oxidation state, while the first-shell coordination number decreases slightly. The increase in the s 2 value of the Mn-O path (characteristic of the distribution of Mn-O distances) with discharge can be attributed to the increasing fraction of Mn 3 + in the material, which induces a Jahn-Teller distortion of the Mn-O octahedra. For comparison, the effect measured here (Mn-O distance increase + 0.26%) is much smaller than the changes induced by lithium intercalation in long-range ordered manganese spinels between LiMn2O4 (Mn valence + 3.5) and Li2Mn2O4 (Mn valence + 3), where the cell volume is expanded by 5.3% and the Mn-O octahedron is distorted by 15% along the c -axis.
+
+In the new nanospinel, the effect of lithium insertion is more pronounced at longer range: the coordination numbers in the second shell could not be reliably refined for the lithiated materials and the increase in s 2 illustrates a significant
+
+Table 4 Local structure parameters deduced from quantitative analysis of EXAFS data: R 5 interatomic distance, CN 5 coordination number, s 5 Debye-Weller factor
+
+| Sample no.          | X-Y pair   | R /A ˚                | s 2 /10 2 3 A ˚ 2        | CN                  |   R -factor |
+|---------------------|------------|-----------------------|--------------------------|---------------------|-------------|
+| 133                 | Mn-O Mn-Mn | 1.881 (9) 2.882 (14)  | 3.2 (fixed 5 135) 13 (4) | 4.8 (3) 4.7 (15)    |       0.012 |
+| 133 after discharge | Mn-O Mn-Mn | 1.886 (12) 2.914 (25) | 3.3 (22) 21 (3)          | 4.0 (7) 4.7 (fixed) |       0.038 |
+| 135                 | Mn-O Mn-Mn | 1.885 (11) 2.882 (18) | 3.2 (22) 12 (4)          | 5.7 (8) 5.7 (21)    |       0.017 |
+| 135 after discharge | Mn-O Mn-Mn | 1.900 (11) 2.924 (15) | 5.1 (22) 15 (1)          | 5.2 (9) 5.7 (fixed) |       0.018 |
+| 135                 | Co-O       | 1.921 (6)             | 5.0 (9)                  | 4.0 (3)             |       0.018 |
+
+|
+
+Fig. 14 EXAFS normalized k 2 x ( k ) for sample 135 at cobalt edge. Open symbols: experimental data; solid lines: fitted spectra.
+
+<!-- image -->
+
+increase in structural disorder. However, the very small structural changes induced by lithium insertion on the near environment of manganese (first shell) is very favourable for the reversibility of the lithium insertion-extraction reaction, and is consistent with the excellent cyclability of samples 133 and 135 (see Fig. 9).
+
+Cobalt EXAFS results (see Table 4, last line, and Fig. 14) unambiguously yield a tetrahedral first-shell environment with Co-O distances 1.92 A ˚ . Cobalt lies then in a different environment than manganese in sample 135. These result are very consistent with the hypothesis of a spinel nanostructure as inferred from SAED, and a plausible structural formula for this sample is Co(tet)0.4Mn(oct)2O4. This formula is structurally close to that of the extensively studied spinel LiMn2O4, with 1 Li + replaced by 0.4 Co 2 + . A similar structure is likely to form for copper substitution: both Co and Cu are expected to be divalent in the conditions used here, and both Co 2 + and Cu 2 + are compatible with tetrahedral coordination in spinels (both compounds CoMn2O4 and CuMn2O4 are known to be normal spinels). It would be very interesting to check whether the nanospinel structure exists also for other Co/Mn ratios, for other divalent cations such as Zn or Ni, and what is the range of Mn valences attainable in this series. Additional studies are underway to investigate this point.
+
+## Conclusions
+
+The basically simple synthesis route provided by carbonate decomposition is shown to yield nanometric manganese oxides in a suitable temperature range. The materials obtained possess interesting electrochemical properties in lithium batteries, especially when doped with copper or cobalt. Although cobalt is not involved in the first redox reaction, its presence has a considerable stabilizing effect on the cycling performances of these materials. A specific feature of this family of electrode materials is the occurrence of a two-phase reaction on the first discharge in lithium batteries, followed by a stable lithium insertion-extraction behaviour in single-phase mechanism. Local structure techniques (SAED, XAS) show that these materials are nanocrystalline and, in the cobalt case, based on a spinel-type structure.
+
+## Acknowledgements
+
+The authors wish to thank Yvonne Soldo for her assistance in EXAFS experiments.
+
+## References
+
+- 1 G. G. Amatucci, A. Du Pasquier, A. Blyr, T. Zheng and J. M. Tarascon, Electrochim. Acta , 1999, 45 , 255-271.
+- 2 H. T. Huang, C. A. Vincent and P. G. Bruce, J. Electrochem. Soc. , 1999, 146 , 481-485.
+- 3 E. Wang, D. Ofer, W. Bowden, N. Iltchev, R. Moses and K. Brandt, J. Electrochem. Soc. , 2000, 147 , 4023-4028.
+- 4 P. Strobel and C. Mouget, Mater. Res. Bull. , 1993, 28 , 93-100.
+- 5 R. J. Gummow, D. C. Liles and M. M. Thackeray, Mater. Res. Bull. , 1993, 28 , 1249-1256.
+- 6 A. R. Armstrong, N. Dupre ´, A. J. Paterson, C. P. Grey and P. G. Bruce, Chem. Mater. , 2004, 16 , 3106-3118.
+- 7 S. H. Kim, W. M. Im, J. K. Hong and S. M. Oh, J. Electrochem. Soc. , 2000, 147 , 413-419.
+- 8 F. Leroux and L. F. Nazar, Solid State Ionics , 1997, 100 , 103-113.
+- 9 J. J. Xu, A. J. Kinser, B. B. Owens and W. H. Smyrl, Solid State. Lett. , 1998, 1 , 1-3.
+- Eletrochem.
+- 10 C. F. Tsang, J. Kim and A. Manthiram, J. Solid State Chem. , 1998, 137 , 28-32.
+- 11 J. Kim and A. Manthiram, Nature , 1997, 390 , 265-267; J. Kim and A. Manthiram, Eletrochem. Solid State Lett. , 1999, 55-57.
+- 12 A. Ibarra-Palos, M. Anne and P. Strobel, Solid State Ionics , 2001, 138 , 203-212.
+- 13 J. Moon, M. Awano, H. Takai and Y. J. Fujishiro, J. Mater. Res. , 1999, 14 , 4594-4601.
+- 14 J. J. Xu, G. Jain and J. Yang, Electrochem. Solid State Lett. , 2002, 5 , A152-155.
+- 15 A. Feltz, W. Ludwig and C. Felbel, Z. Anorg. Allg. Chem. , 1986, 540 , 36-44.
+- 16 J. J. Xu, J. S. Yang and G. Jain, Eletrochem. Solid State Lett. , 2002, 5 , A223-A226.
+- 17 A. Ibarra-Palos, P. Strobel, C. Darie, M. Bacia and J. B. Soupart, J. Power Sources , 2005, 146 , 294.
+- 18 C. R. Horne, U. Bergmann, J. Kim, K. A. Striebel, A. Manthiram, S. P. Cramer and E. J. Cairns, J. Electrochem. Soc. , 2000, 147 , 395-398.
+- 19 S. J. Hwang, H. S. Park, J. H. Choy and G. Campet, J. Phys. Chem. B , 2001, 105 , 335-342; S. J. Hwang, H. S. Park, J. H. Choy and G. Campet, J. Phys. Chem. B , 2002, 106 , 4053-4060.
+- 20 A. Ibarra-Palos, P. Strobel, O. Proux, J. L. Hazemann, M. Anne and M. Morcrette, Electrochim. Acta , 2002, 47 , 3171-3178.
+- 21 S. Kobayashi, I. R. M. Kottegoda, Y. Uchimoto and M. Wakihara, J. Mater. Chem. , 2004, 14 , 1843.
+- 22 A. H. Thompson, J. Electrochem. Soc. , 1979, 126 , 608-614.
+- 23 O. Proux, X. Biquard, E. Lahera, J.-J. Menthonnex, A. Prat, O. Ulrich, Y. Soldo, P. Tre ´visson, G. Kapoujvan, G. Perroux, P. Taunier, D. Grand, P. Jeantet, M. Deleglise, J.-P. Roux and J.-L. Hazemann, Phys. Scr. , 2005, 115 , 970-979.
+- 24 F. Le Cras, D. Bloch and P. Strobel, J. Power Sources , 1996, 63 , 71-75.
+- 25 B. Ravel and M. Newville, J. Synchrotron Radiat. , 2005, 12 , 537-541.
+- 26 S. Passerini, F. Coustier, M. Giorgetti and W. H. Smyrl, Eletrochem. Solid State Lett. , 1999, 2 , 483-485.
+- 27 L. J. Yuan, Z. C. Li, J. T. Sun and Y. H. Zhou, Mater. Lett. , 2003, 57 , 1945-1948.
+- 28 T. T. Kodas and M. J. Hampden-Smith, Aerosol Processing of Materials , Wiley-VCH, New York, 1999.
+- 29 Z. Bakenov and I. Taniguchi, Solid State Ionics , 2005, 176 , 1027-1034.
+
+|
+
+- 30 K. Matsuda and I. Taniguchi, J. Power Sources , 2004, 132 , 156-160.
+- 31 T. H. Cho, S. M. Park, M. Yoshio, T. Hirai and Y. Hideshima, J. Power Sources , 2005, 142 , 306-312.
+- 32 S. H. Park, H. S. Shin, S. T. Myung, C. S. Yoon, K. Amine and Y. K. Sun, Chem. Mater. , 2005, 17 , 6-8.
+- 34 V. G. Kumar, J. S. Gnanaraj, G. Salitra, A. Abramov, A. Gedanken, D. Aurbach, J. B. Soupart and J. C. Rousche, J. Solid State Electrochem. , 2004, 8 , 957-967.
+- 35 C. J. Wen, B. A. Boukamp, R. A. Huggins and W. Weppner, J. Electrochem. Soc. , 1979, 126 , 2258-2266.
+- 33 P. Strobel, J. Vicat and D. Tran Qui, J. Solid State Chem. , 1984, 55 , 67-73.
+- 36 M. Morcrette, P. Barboux, J. Perrie `re, T. Brousse, A. Traverse and J. P. Boilot, Solid State Ionics , 2001, 138 , 213-219.
+
+## [Chemical Science
+
+An exciting news supplement providing a snapshot of the latest developments across the chemical sciences
+
+Free online and in print issues of selected RSC journals!*
+
+Research Highlights newsworthy articles and significant scientific advances
+
+Essential Elements latest developments from RSC publications
+
+Free links to the full research paper from every online article during month of publication
+
+#A separately issued subscription is also available print
+
+<!-- image -->
+
+<!-- image -->
+
+|
+
+www.rsc orglchemicalscience
+
+TABLES:
+------------------------------
+
+Table 1:
+Caption: 
+Content: |            |        |                                | Thermal treatment   | Thermal treatment   |                                            |
+|------------|--------|--------------------------------|---------------------|---------------------|--------------------------------------------|
+| Sample no. | Dopant | Reagents or precursors         | Temp./ u C          | Dur./h              | Phases detected by XRD                     |
+| 121        | -      | Solid MnCO 3                   | 370                 | 18                  | MnCO 3 (weak peaks)                        |
+| 125        | -      | Solid MnCO 3                   | 370 a               | 18                  | MnCO 3 (weak peaks).                       |
+| 122        | -      | Solid MnCO 3                   | 385                 | 18                  | MnCO 3 (weak) + Mn 2 O 3 (very weak))      |
+| 117        | -      | Solid MnCO 3                   | 400                 | 18                  | Mn 2 O 3                                   |
+| 116        | -      | Solid MnCO 3                   | 460                 | 18                  | Mn 2 O 3 + Mn 5 O 8                        |
+| 130        | Cu     | solid mixture MnCO 3 + CuCO 3  | 370                 | 18                  | Mn 2 O 3 (broad, weak) + CuO (sharp, weak) |
+| 132        | Cu     | CC b from MnCl 2 + Cu(NO 3 ) 2 | 370                 | 65                  | Broad bump 37                              |
+| 133        | Cu     | CC from Mn and Cu acetates     | 370                 | 65                  | u Broad bump 37 u                          |
+| 134        | Cu     | CC from Mn and Cu nitrates     | 370                 | 65                  | Broad bump 37 u                            |
+| 135        | Co     | CC from Mn and Co acetates     | 370                 | 65                  | Broad bump 37 u                            |
+
+Table 2:
+Caption: 
+Content: | Sample no.              | M/Mn nominal                              | M/Mn measured         | Li/Mn measured             | Mn oxidation state                 | CO 2 %                  | SSA/m 2 g 2 1       | Q 1 /mA h g 2 1             |
+|-------------------------|-------------------------------------------|-----------------------|----------------------------|------------------------------------|-------------------------|---------------------|-----------------------------|
+| 121-125 132 133 134 135 | - 0.20 (Cu) 0.20 (Cu) 0.20 (Cu) 0.20 (Co) | - 0.20 0.21 0.20 0.24 | 0 , 0.03 0.035 0.034 0.033 | 3.45 3.40 3.54 3.64 3.62 if Co 2 + | 9.24 n/d 7.03 6.03 2.60 | n/d n/d 112 112 102 | 165-180 165 187 175 200-220 |
+
+Table 3:
+Caption: 
+Content: | d /A ˚      | Cubic indexation   |
+|-------------|--------------------|
+| 4.68-4.70   | 111                |
+| 2.78-2.85   | 220                |
+| 2.43-2.46   | 311                |
+| 2.028-2.033 | 400                |
+| 1.558-1.567 | 511, 333           |
+| 1.428-1.443 | 440                |
+
+Table 4:
+Caption: 
+Content: | Sample no.          | X-Y pair   | R /A ˚                | s 2 /10 2 3 A ˚ 2        | CN                  |   R -factor |
+|---------------------|------------|-----------------------|--------------------------|---------------------|-------------|
+| 133                 | Mn-O Mn-Mn | 1.881 (9) 2.882 (14)  | 3.2 (fixed 5 135) 13 (4) | 4.8 (3) 4.7 (15)    |       0.012 |
+| 133 after discharge | Mn-O Mn-Mn | 1.886 (12) 2.914 (25) | 3.3 (22) 21 (3)          | 4.0 (7) 4.7 (fixed) |       0.038 |
+| 135                 | Mn-O Mn-Mn | 1.885 (11) 2.882 (18) | 3.2 (22) 12 (4)          | 5.7 (8) 5.7 (21)    |       0.017 |
+| 135 after discharge | Mn-O Mn-Mn | 1.900 (11) 2.924 (15) | 5.1 (22) 15 (1)          | 5.2 (9) 5.7 (fixed) |       0.018 |
+| 135                 | Co-O       | 1.921 (6)             | 5.0 (9)                  | 4.0 (3)             |       0.018 |

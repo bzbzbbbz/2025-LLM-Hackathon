@@ -1,0 +1,356 @@
+Simple Docling Extracted Data from: jacobson-et-al-2002-nickel-k-edge-x-ray-absorption-fine-structure-of-lithium-nickel-oxides.pdf
+============================================================
+
+Title: jacobson-et-al-2002-nickel-k-edge-x-ray-absorption-fine-structure-of-lithium-nickel-oxides
+Pages: 8
+Tables: 4
+Figures: 0
+
+MAIN TEXT:
+------------------------------
+## Nickel K-Edge X-ray Absorption Fine Structure of Lithium Nickel Oxides
+
+Ingrid J. Pickering,*'7 Graham N. George/ Joseph T. Lewandowski/ and Allan J. Jacobson5
+
+Contribution from the Stanford Synchrotron Radiation Laboratory, Stanford University, SLAC, P.O. Box 4349, Bin 69, Stanford, California 94309, Exxon Research and Engineering Company, Route 22 East, Annandale, New Jersey 08801, and the Chemistry Department, University of Houston, Houston, Texas 77204
+
+Received October 8, 1992
+
+Abstract: Lithium nickel oxides, LLNio^O, with the lithium content x varying from 0.40 (close to the maximum value of 0.5) to 0 have been studied by using nickel K-edge X-ray absorption fine structure (XAFS) spectroscopy. The XANES (X-ray absorption near-edge structure) shows several distinct features whose energy and intensity evolve smoothly as a function of x. Quantitative analysis of the EXAFS (extended XAFS) data conclusively showed the presence of systematic structural trends with lithium content, x. In particular, we observed two different Ni-0 bond lengths (2.07(1) and 1.94(1) A) with proportions changing with x and systematic variations (with x) of the outer-shell Ni-Ni distances. Overall, the structural trends deduced from the XARS data were found to be more consistent with an increased nickel oxidation state (Ni2+ to Ni3+) with increasing x rather than with an increased oxygen oxidation state (O2" to O), although the true picture lies between these two extremes.
+
+## Introduction
+
+Lithium nickel oxides are an important class of materials whose chemical, electrical, and magnetic properties have been extensively investigated. The structures of the LijNi^jO phases are all based on the cubic rock salt structure of the parent nickel oxide. For low x (0 &lt; x &lt; ca. 0.25), lithium cations substitute randomly for nickel cations in the rock salt lattice. For higher values of x (0.25 &lt; x &lt; 0.5), the lithium and nickel cations are partially ordered with respect to alternate close-packed planes within the structure.* 1 11"9
+
+The earliest studies of LLNi(i\_*)0 were directed toward its magnetic properties. In a detailed investigation, Goodenough reported ferrimagnetism in LixNi(i\_^)0 for 0.3 &lt; x &lt; 0.5 with Curie temperatures that first increase and then decrease as x increases.3 Other studies of the magnetic properties have variously reported ferrimagnetism,3 411 ferromagnetism,1012 and spin-liquid behavior13 for different sample compositions and preparations. Most recently, a structural and magnetic study of several samples with x = 0.5 showed spin glass behavior and also demonstrated the sensitivity of the magnetic properties to the precise details of
+
+* Stanford Synchrotron Radiation Laboratory.
+
+* Exxon Research and Engineering Company.
+
+(1) Dyer, L. D.; Borie, B. S., Jr.; Smith, G. P. J. Am. Chem. Soc. 1954, 76, 1499.
+
+§ University of Houston.
+
+(2) Goodenough, J. B.; Wickham, D. G.; Croft, W. J. J. Phys. Chem. Solids 1958, 5, 107.
+
+(3) Goodenough, J. B.; Wickham, D. G.; Croft, W. J. J. Appl. Phys. 1958, 29, 382.
+
+(4) Bronger, W.; Bade, H.; Klemm, W. Z. Anorg. Allg. Chem. 1964, 333,
+
+(5) Perakis, N.; Kern, F. C. R. Acad. Sci. Paris Ser. B 1969, 269, 281.
+
+(7) Dahn, J. R.; von Sacken, U.; Michal, C. A. Solid State Ionics 1990, 44, 87.
+
+(6) Kern, F.; Perakis, N. C. R. Acad. Sci. Paris Ser. B 1974, 279, 143.
+
+(8) Pickering, I. J.; Lewandowski, J. T.; Jacobson, A. J.; Goldstone, J. A. Solid State Ionics 1992, 53-56, 405.
+
+(9) Li, W.; Reimers, J. N.; Dahn, J. R. Phys. Rev. B 1992, 46, 3236.
+
+(10) Perakis, N.; Serres, A.; Parravano, G.; Wucher, J. C. R. Acad. Sci. Paris 1956, 242, 1275.
+
+(11) Perakis, N.; Wucher, J.; Parravano, G. C. R. Acad. Sci. Paris 1959, 245, 2306.
+
+(12) Kemp, J. P.; Cox, P. A.; Hodby, J. W. J. Phys.: Condens. Matter 1990, 2, 6699.
+
+(13) Hirakawa, K.; Kadowski, H.; Ubukoshi, K. J. Phys. Soc. Jpn. 1985, 54, 3526.
+
+the composition and structure.14 The magnetic data have generally been interpreted in terms of the presence of low-spin d7 Ni3+ as the species charge compensating for the Li+ cations doped into the NiO lattice.
+
+Since the discovery of high-temperature superconductivity in hole doped copper oxides, interest in the electronic structure of the late transition metal oxides has been renewed. The nature of the hole state introduced by doping is of importance in relation to theoretical models for superconductivity. Several spectroscopic and theoretical studies have recently been directed toward this question.15'18 These investigations, for the most part, conclude that the hole state in LixNi(1\_x)0 is predominantly localized at oxygen rather than at nickel atoms, and that the charge compensating state is better described as O' rather than Ni3+.
+
+The chemical properties of the lithium nickel oxides have been studied in a variety of contexts. The high electrical conductivity of low lithium content phases, together with their good oxygen exchange kinetics, has led to the use of lithium doped nickel oxide as the preferred electrode material for oxygen reduction in molten carbonate fuel cells.19 Lithium nickel oxide is also one of the best heterogeneous catalysts for the oxidative coupling of methane to form ethane and ethylene.20"22 Lithium nickel oxide and its solid solutions with LiCo02 are excellent cathode materials in secondary lithium electrochemical cells. The Li(Ni,Co)02 phases can be reversibly oxidized and reduced by deintercalation and intercalation of lithium ions without rearrangement of the rock salt
+
+(14) Reimers, J. N.; Dahn, J. R.; Greedan, J. E.; Stager, C. V.; Liu, G.; Davidson, I.; von Sacken, U. J. Solid State Chem., in press.
+
+(15) Kuiper, P.; Kruizinga, G.; Ghijsen, J.; Sawatzky, G. A.; Verweij, H. Phys. Rev. Lett. 1989, 62 (2), 221.
+
+(16) Meng, J.; Jena, P.; Vail, J. M. J. Phys.: Condens. Matter 1990, 2, 10371.
+
+(17) van Elp, J.; Searle, B. G.; Sawatzsky, G. A.; Sacchi, M. Solid State Commun. 1991, 80 (1), 67.
+
+(18) van Elp, J.; Eskes, H.; Kuiper, P.; Sawatzky, G. A. Phys. Rev. B1992, 45, 1612.
+
+(19) Marini, A.; Massarotti, V.; Berbenni, V.; Capsoni, D.; Riccardi, R.; Antolini, E.; Passalacqua, B. Solid State Ionics 1991, 45, 143 and references therein.
+
+(20) Hatano, H.; Otsuka, K. Inorg. Chim. Acta 1988, 146, 243.
+
+(21) Hatano, H.; Otsuka, K. J. Chem. Soc., Faraday Trans. 11989, 85, 199.
+
+(22) Zhang, X.; Ungar, R. K.; Lambert, R. M. J. Chem. Soc., Chem. Commun. 1989, 473.
+
+lattice.7'23 24 Recently, electrochemical studies of lithium intercalation demonstrated that extra lithium atoms could be inserted into the structure with the formation of Li2Ni02.7 Thin films of nickel oxide also show electrochromic properties on lithium insertion.25 The chemical reactivity, like the physical properties, is very sensitive to the detailed structure. The cation distribution influences diffusion rates in intercalation reactions and has recently been shown to correlate with catalyst selectivity in methane oxidative coupling.26
+
+We are investigating the detailed structures of the Li,Ni(i\_*)0 system because of both our specific interest in its catalytic properties and the more general interest in the electronic structure and the sensitivity of the physical properties to composition. In a previous report, a detailed neutron powder diffraction study of lithium nickel oxides with high lithium content (x &gt; 0.3) was presented.8 The study revealed the exact degree of long-range ordering of lithium and nickel atoms between the close-packed planes and also provided an estimate of the distribution of Ni2+ and Ni3+ between the two types of layers. In contrast to powder diffraction, the technique of XAFS (X-ray absorption fine structure) can be used to probe the local coordination of a specific element in a sample. It can yield estimates of the number and type of atoms surrounding the central, absorbing atom (in this case nickel), together with an accurate determination of the interatomic distance. The two techniques of diffraction and XAFS therefore provide complementary structural information in this, as in many other structural problems. In this report, an XAFS study of a range of lithium nickel oxides is presented, which provides new insights into the nature of the lithium nickel oxide system and the hole state introduced by lithium substitution.
+
+## Experimental Section
+
+Lithium nickel oxides were prepared as described previously.8 27 Samples with x = 0.40,0.35,0.32,0.27, and 0.15 were used in the XAFS experiment. The samples with x = 0.40, 0.35, and 0.32 were from the same preparations as those used in the neutron diffraction experiments.8 An olive green sample of NiO (Johnson Matthey) was used both in the synthesis of Li-Ni-0 samples and as a reference sample for XAFS. Samples were prepared for XAFS experiments by grinding the powders for 20 min in an agate mortar. The samples were then diluted to 10-20% by mass (depending on total nickel content) in polyvinylpolypyrrolidone (from Sigma) and pressed into a 20 mm diameter disk with a total mass of 200 mg.
+
+XAFS spectra were collected on Exxon's participating research team's beamline X10C at the National Synchrotron Light Source, with a ring current of 110-220 mA. Si( 111) monochromator crystals were used for data in the EXAFS (extended XAFS) region; for the XANES (X-ray absorption near edge structure) region Si(220) crystals were used, yielding enhanced resolution of edge features. Data were collected in transmittance with upstream slits set at 0.3 mm and using 12-in. nitrogen-filled ionization chambers as detectors. Energy calibration was carried out by simultaneously recording the spectrum of nickel metal, assuming 8331.6 eV for the lowest energy K-edge inflection.
+
+The EXAFS oscillations were quantitatively analyzed by a curvefitting procedure28 to the following approximate expression:
+
+X(k) =
+
+<!-- formula-not-decoded -->
+
+Here k is the photoelectron wave number, and N-, is the number of i-type atoms at a mean distance R, from the absorber atom (in this case nickel). The summation is over all sets of equivalent atoms, n. The functions A(k,R), \(k,R), and &lt;t&gt;(k,R) are the curved-wave total EXAFS amplitude,
+
+(23) Thomas, M. G. S. R.; David, W. I. F.; Goodenough, J. B.; Groves, P. Mater. Res. Bull. 1985, 20, 1137.
+
+(24) Delmas, C.; Saadoune, I. Solid State Ionics 1992, 53-56, 370. (25) Passerini, S.; Scrosati, B.; Gorenstein, A. J. Electrochem. Soc. 1990, 137, 3207.
+
+(26) Hall, R. B.; Lewandowski, J. T.; Sun, Y.; Jacobson, A. J.; Pickering, I.
+
+J., to be published. (27) Pickering, I. J. Ph.D. Thesis, University of London, 1990.
+
+(28) George, G. N.; Kipke, C. A.; Prince, R. C.; Sunde, R. A.; Enemark, J. H.; Cramer, S. P. Biochemistry 1989, 28, 5075.
+
+photoelectron mean free path, and total EXAFS phase functions, respectively. Unless otherwise stated (see Results section), these were calculated in the single-scattering approximation using the program feff of Rehr and co-workers.29 30 In accordance with normal EXAFS analysis practice, the value for the threshold energy, at which k = 0, was shifted by a small E0 value, which could be minimized during the curve-fitting procedure (see below).
+
+## Results
+
+XANES Spectra of Lithium Nickel Oxides. The Ni K-edge XANES spectra for the range of lithium nickel oxides studied here are shown in Figure la, together with the second derivatives of the same spectra in Figure lb. XANES spectra of K-edges are expected to show pronounced features due to dipole-allowed transitions of the Is electron to levels with substantial p-orbital character. The intense feature centered around 8350 eV is expected to be composed of bound-state transitions of this type. The spectra show features which evolve .smoothly between the samples as a function of x. The small feature A near 8332 eV is the formally dipole-forbidden Is -3d transition, which gains intensity from being quadrupole-allowed and, in noncentrosymmetric coordination geometries (i.e. not nickel oxide), from mixing of p-orbitals, conferring some dipole-allowed character. Little structure is observed in this region, consistent with filled t2g levels for both Ni2+ and low-spin Ni3+. The lifting of the degeneracy of the eg level due to the rhombohedral distortion of the ordered phase may account for the subtle broadening and shift with increasing x (see the inset in Figure la), which presumably indicates unresolved structure.
+
+The second derivative structure shown in Figure lb indicates that the nickel K-edge XANES possesses considerable structure. A rigorous assignment of XANES transitions is difficult, especially in the absence of polarized spectra. In any case, assignments often involve some ambiguity and are outside the scope of the present work. Nevertheless, the transitions show a trend to higher energy as x increases, suggesting a concomitant increase in the nickel oxidation state. Several XANES features show signs of partly resolved structure which changes as a function of x; for example, D, predominantly a single peak in nickel oxide, shows a broadening that is suggestive of two peaks at the highest x.
+
+EXAFS Spectra of Lithium Nickel Oxides. The Fourier transforms of the nickel K-edge EXAFS spectra of lithium nickel oxides are shown in Figure 2. The spectral features evolve smoothly with x in Li*Ni(i-X)0. The peak at around 2.0 A in the Fourier transform corresponds to the Ni-0 shell, and a splitting is seen to develop which is most pronounced for high lithium doping. The magnitude of the peak at approximately 2.9 A, which is due to Ni-Ni (or Ni-Li) contacts, decreases as x increases. The longer distance peaks at 4.1, 5.1, and 5.9 A are also attributable to Ni-metal contacts, and whereas the two longer peaks are relatively insensitive to lithium content, the 4.1 -A peak decreases noticeably with increasing x. The EXAFS curve-fitting analysis of these various features will be described in detail below, with the final results given in Figure 11 and Table IV.
+
+Figure 2 clearly shows that the EXAFS spectra contain information from multiple coordination shells. In order to simplify the fitting procedure, the EXAFS oscillations from each spectrum were initially Fourier filtered to isolate those due to the first two coordination shells (Ni-0 and Ni-M, where M = Ni or Li). The NiO spectrum was fitted first, assuming a first coordination shell of 6 Ni-O contacts and a second coordination shell of 12 Ni-Ni contacts. A diagram showing the arrangement of atoms in the first two coordination shells of NiO is given in Figure 3. Bond lengths, R, Debye-Waller factors, &lt;r2, E0, and the overall scale factor were refined, and the results are shown in Table I. The bond lengths obtained are in excellent agreement with those from crystallography.
+
+(29) Rehr, J. J.; Mustre de Leon, J.; Zabinsky, S. I.; Albers, R. C. J. Am. Chem. Soc. 1991, 113, 5135.
+
+(30) Mustre de Leon, J.; Rehr, J. J.; Zabinsky, S. I. Phys. Rev. B 1991, 44, 4146.
+
+Figure 1. Ni K-edge XANES spectra (a) and corresponding second derivative spectra (b) for NiO and LixNi(i-.,)0. The inset in part a shows an expanded view of the region of the spectrum containing the Is -» 3d transitions.
+
+<!-- image -->
+
+The NiO results were used as starting parameters for fits of the other data. The value of the scale factor (0.74), £0(Ni-o) = -9.2 eV, and £o(Ni-Ni&gt; = -14.1 eV were transferred to the other fits and held constant in subsequent refinements. Preliminary fits of the data for the lithium-doped samples were carried out using the filtered data to obtain reasonable parameters for the Ni-0 and Ni-M shells. The two coordination shells were then examined in detail for all compositions.
+
+of the Ni3+, again a near-linear dependence. The Debye-Waller factor is modeling the distribution in bond lengths for the Ni-0 shell. The value of a2 of 0.0035 A for Ni-O is chemically reasonable for the thermal motion for this type of bond, and its increase is a clear indication that there is more than one bond length for the other samples, even for the lowest lithium content (x = 0.15). A model is therefore required with more than one Ni-O bond distance.
+
+In the EXAFS experiments the /c-range of the data is 18.2 A-', which sets a resolution limit in bond lengths of two similar shells at SR = 0.09 A (SR = ir/2k). Two Ni-0 shells which satisfy this resolution criterion can indeed be fitted, although parameters of the two shells are highly correlated. To reduce the correlations, the total coordination number of the two sites was assumed to be six. Attempts to float both the two bond lengths and the two Debye-Waller factors while varying the relative coordination number resulted in unstable refinements, due to the very high correlation of the two a2 and N. It was therefore decided to fix the two a2 in various way to the value obtained for Ni-O in the
+
+First Ni-0 Coordination Shell. The Fourier transform of the Ni-O shell at around 2 A shows that two discrete distances evolve for the higher lithium content, the splitting being most pronounced for the x = 0.40 sample. If the shell is modeled using a single Ni-0 bond distance with coordination number 6, then the 'average' Ni-0 bond distances and Debye-Waller factors a1 obtained for the different compositions are as shown in Figure 4. It is noteworthy that the average Ni-O distance exhibits a linear decrease with the fraction of Ni which is Ni3+ (=jc/(1 -*)); extrapolation gives a bond length of 1.92 A for all Ni3+. The Debye-Waller factors show a significant increase as a function
+
+Figure 2. The Fourier transforms of the nickel K-edge EXAFS spectra of lithium nickel oxides. The Fourier transforms are phase-corrected for oxygen backscatterers,
+
+<!-- image -->
+
+Figure 3. The inner coordination shells of NiO. The cubic close-packed structure of NiO is shown, with a central nickel atom (black). In (a), the six oxygens of the First shell are highlighted. In (b), the 12 nickels of the 2.9-A shell are shown. Close-packed planes are outlined in (b); in the case of lithium nickel oxide, the two cation planes shown in (b) (hatched or dotted) have different compositions.
+
+<!-- image -->
+
+Table I. Results from EXAFS Curve-Fitting of NiO"
+
+| shell   |   N | * (A)    | a1 (A2)     | E0 (eV)   |
+|---------|-----|----------|-------------|-----------|
+| Ni-O    |   6 | 2.081(3) | 0.00362(21) | -9.2(5)   |
+| Ni-Ni   |  12 | 2.938(2) | 0.00545(13) | -14.1(3)  |
+
+"Coordination numbers, 1V, are assumed from the Cubic crystal structure. Refinedscale factor = 0.738(17). Crystal structure refinement using powder X-ray diffraction data7-27 gives 2.086 and 2.950 A for the Ni-O and Ni-Ni bond distances, respectively.
+
+nickel oxide spectrum (0.0036 A); Le. trial fit 1 fixed both a2, trial fit 2 fixed &lt;r2(Ni-o.short) and floated ir2(Nl-o,iong;i&gt; and trial fit 3 conversely fixed «r2(Ni-o.iong) and floated &lt;r2(Ni\_o.Short)The two coordination numbers were varied in steps of 0.25 (their sum being maintained at 6) to find the best fit with the experimental data. Trialfit3wasrejectedduetounacceptablyhighcorrelations for all but the highest lithium content samples, since as lithium decreases the contribution of the short Ni-O bond to the EXAFS is proportionately reduced and therefore the shell becomes more difficult to define. The results of trial fits 1 and 2 are shown in Table II.
+
+The results clearly show similar bond lengths within a given shell for varying composition, with the exception of the x = 0.15 sample, where the short Ni-O shell has a very small contribution to the EXAFS. They also give plausible and similar &lt;r2,Ni o.iongi using fit 2 for all the compounds. Both fits show a systematic
+
+Figure 4. Results of the EXAFS curve fitting of the oxygen shell of lithium nickel oxides assuming a single Ni-O distance. The variation of Ni-O bond length and &lt;t2 is plotted as a function of the fraction of nickel which is Ni3+ (assuming a formal change of the nickel oxidation state).
+
+<!-- image -->
+
+change in the coordination numbers of the two shells as a function of x, with fV(Ni-o,shori) increasing with x.
+
+Three different models for the presence of two discrete Ni-O bond lengths can be postulated.
+
+Model (i); The first model involves a distinction between discrete Ni2+ and Nt3+ in the solid. The long and short Ni-O bonds are associated with Ni2+-02 and Ni3+-02~, respectively. The ratio of Ni3+ to total nickel (and therefore fV(Ni-o.shortf*7) varies as x/(l -x), but /?(Ni-ojong) and /?(nl-o,short) are expected to be relatively invariant with composition.
+
+Model (ii): The second model of the different Ni-O distances conversely involves the presence of discrete O2- and O , with the long and short Ni-O bonds being associated with Ni2+-02 and Ni2+-0 .respectively. As in the first model, the two bond lengths would be expected to be relatively invariant with composition, but in this case the ratio tV&lt;Ni-o,siiort):6 should be equal to 6x.
+
+Model (iii): The third and final model involves a distinction between nickel species occurring on adjacent sets of (111) planes, since a nickel on the nickel-rich plane might be expected to have a different average bond length compared with that of a nickel on the lithium-rich plane. In this case the expected ratio of coordination numbers for the two sites can be computed directly from the neutron powder diffraction study of the materials with x = 0.40,0.35, and 0.32,8 and for x = 0.15, the essentially random structure (see Introduction), weshould have a single, 6-coordinate shell. For this model it is difficult to predict how the two Ni-O bond lengths would vary with x.
+
+Models i and ii assume localized atomic valence states for nickel and oxygen. Although a discrete atomic localization of the hole introduced by lithium doping is often highly convenient for discussion purposes, it should not be forgotten that this represents a rather naive view of electronic structure. In actuality, the hole will be delocalized over both nickel and oxygen, with partial densities on each.
+
+In order to test the three models, the coordination numbers of the shorter Ni-O shell obtained from the trial fits were plotted against x in Li*Ni(l *&gt;0 and compared with those expected for the three models outlined above. The results are shown in Figure 5. They show that the data points lie in general between those obtained for the Ni2+-Ni3+ model i and the 02 -0 model ii, although the data points for x = 0.15 lie outside this range. The 2-site model iii does not give good correspondence. Taking (he results from both the trial fits, the Ni2+-NP+ model i is slightly favored.
+
+In order to further investigate this, three new sets of fits were then carried out using the calculated coordination numbers for the three models. The results for the two-site model iii gave in general much poorer fits than the other models, with larger estimated standard deviations of the parameters and a larger scatter in the values of &lt;r2, together with a nonsystematic variation
+
+Table II. Results of Curve-Fitting the EXAFS Data for the First-Shell Ni-O Contacts Using Two Different Models for Floating/Fixing the Debye-Waller Factors a10
+
+|      | trial fit 1   | trial fit 1   | trial fit 1   | trial fit 1   | trial fit 2   | trial fit 2   | trial fit 2   | trial fit 2   | trial fit 2   |
+|------|---------------|---------------|---------------|---------------|---------------|---------------|---------------|---------------|---------------|
+| X    | Nlong         | /?Jong        | Rs hort       | F'n,          | ^long         | Rlong         | tf^long       | Rshon         | n,            |
+| 0.40 | 3.00          | 2.066(4)      | 1.912(3)      | 83.4          | 2.50          | 2.076(3)      | 0.0017(2)     | 1.924(3)      | 79.9          |
+| 0.35 | 3.25          | 2.061(2)      | 1.923(2)      | 23.8          | 3.00          | 2.068(2)      | 0.0037(2)     | 1.930(2)      | 23.0          |
+| 0.32 | 3.50          | 2.060(2)      | 1.930(2)      | 29.7          | 3.25          | 2.069(2)      | 0.0041(2)     | 1.942(2)      | 29.9          |
+| 0.27 | 4.25          | 2.055(2)      | 1.917(4)      | 46.7          | 4.00          | 2.059(2)      | 0.0034(2)     | 1.926(3)      | 47.1          |
+| 0.15 | 3.75          | 2.097(1)      | 1.990(2)      | 18.9          | 4.00          | 2.092(1)      | 0.0038(1)     | 1.984(3)      | 18.8          |
+
+a Coordination numbers (AO of the long and short Ni-O shells total 6 throughout, and a value of 0.0036 A2 is used for the fixed Debye-Waller factor. Results show the best fit of the EXAFS data to the nearest 0.25 of N by varying the coordination numbers and floating both R values. In trial fit 1 both a2 values were fixed whereas in trial fit 2 a2 for the long Ni-O distance was refined. The goodness of fit is determined by F'(fit) = £(xobs = Xcaic)2^6. Estimated standard deviations are shown in brackets.
+
+Figure 5. Comparison of the coordination numbers of the short Ni-O shell obtained from two trial EXAFS fits with those predicted by the three models. The results of the two trial fits are plotted as data points (refer to Table III for details): (+) trial fit 1 (fix &lt;r2 of both Ni-O); (X) trial fit 2 (float &lt;r2(Ni-o,iong))These are compared with the three models for the origin of the discrete Ni-O distances observed: model i (solid line) assuming the presence of discrete Ni2+ and Ni3+ in the solid; model ii (dotted line) assuming discrete O2- and O-; and model iii (dashed line) involving the two cation sites in the ordered solid.
+
+<!-- image -->
+
+Table III. The Coordination Shells of Ideal Cubic Nickel Oxide to 6 A°
+
+| type   |   N |   R( A) | position (cubic)   | multiple scattering   | distribution of Ni   |
+|--------|-----|---------|--------------------|-----------------------|----------------------|
+| Ni-O   |   6 |    2.08 | 0.5, 0, 0          | no                    |                      |
+| Ni-Ni  |  12 |    2.94 | 0.5, 0.5, 0        | no                    | 6A + 6B              |
+| Ni-O   |   8 |    3.6  | 0.5, 0.5, 0.5      | no                    |                      |
+| Ni-Ni  |   6 |    4.16 | 1,0,0              | yes                   | 6B                   |
+| Ni-O   |  24 |    4.65 | 1, 0.5,0           | no                    |                      |
+| Ni-Ni  |  24 |    5.09 | 1,0.5, 0.5         | no                    | 6A+ 12B + 6C         |
+| Ni-Ni  |  12 |    5.88 | 1, 1,0             | yes                   | 6A + 6C              |
+
+0 The position column gives the (x, y, z) coordinates of an atom in the shell with respect to the central atom at the origin (other coordinates are generated by cubic symmetry). The nickel distribution column applies to the ordered, LiNi02-type structure. A, B, and C indicate that the backscattering atom is in the same close-packed plane, the adjacent closepacked plane (having a different composition to plane A), and the next adjacent plane (having the same composition as plane A), respectively.
+
+in bond lengths as a function of x. Conversely, both the 02-0 model ii and the Ni2+-Ni3+ model i gave adequate fits. The resulting Ni-O bond lengths obtained are plotted in Figure 6 for both these fits. Recalling that for both models a criterion was that the individual Ni-O bond lengths should be invariant as a function of x, it can be seen that the Ni2+-Ni3+ model gives a marginally better bond length behavior, although the difference in results between the two models is not large. For the final fit the coordination numbers corresponding to the Ni2+-Ni3+ model were chosen. Details of the final fit are given in Table IV.
+
+First Ni-M Coordination Shell. The second shell of the EXAFS derives from the Ni-Ni and Ni-Li interactions. Nickel (atomic number 28) is the strongest backscatterer in the structure, compared to lithium (atomic number 3), whose backscattering
+
+Figure 6. Results of the EXAFS curve fit of the Ni-O shell of lithium nickel oxide assuming (a) coordination numbers as for Ni2+ and Ni3+ (model i) and (b) coordination numbers as for 02~ and O (model ii). Squares and triangles correspond to the two discrete bond lengths fitted, and error bars show 3 times the estimated standard deviations.
+
+<!-- image -->
+
+envelope is measurable but weak in the presence of nickel. Conservative fit parameters were therefore used in the fitting of the lithium shell, its a2 and E0 values being fixed at the values obtained for Ni-Ni in NiO. In the choice of coordination numbers for the two shells, it is noted that in the ordered structure, with lithium segregated onto alternate (111) planes, the Ni-M (M = Ni or Li) shell involves 6 contacts within the same (111) plane and 6 between adjacent (111) planes. If it assumed that there is no ordering within a layer, then the same ratio of Ni-Ni to Ni-Li contacts is expected regardless of whether the structure is ordered or random with respect to the lithium. The Ni-Li and Ni-Ni coordination numbers are therefore 12x and 12(1 -x), respectively. The interatomic distances of both Ni-Ni and NiLi contacts were floated, together with the tr2 of the Ni-Ni interaction, and the final results are shown in Table IV.
+
+The lithium shell has a very small contribution to the EXAFS and hence there are large estimated standard deviations on the nickel-lithium bond lengths. Nevertheless, the interatomic distances are comparable for all the samples. The nickel shell, by contrast, exhibits an extremely sharp minimum with very small
+
+Table IV. Final Refined Parameters for Fit of Ni K-Edge EXAFS Data for Lithium Nickel Oxides0
+
+|        | x in LitNi(i_tlO      | 0.0                    | 0.15                               | 0.27                     | 0.32                      | 0.35                     | 0.40                     |
+|--------|-----------------------|------------------------|------------------------------------|--------------------------|---------------------------|--------------------------|--------------------------|
+| Ni-O   | Nb R( A) *2 (A2)      |                        | 1.06 1.960(8)                      | 2.22 1.932(5) 0.0049(7)  | 2.82 1.949(8) 0.0067(15)  | 3.23 1.934(3) 0.0053(5)  | 4.00 1.932(3) 0.0055(4)  |
+| Ni-O   | Nb R (A) ff:          | 6 2.081(2)             | 0.0026(8) 4.94 2.077(3)            | 3.78 2.060(3) 0.0034(3)  | 3.18 2.058(10) 0.0062(13) | 2.77 2.069(4) 0.0043(5)  | 2.00 2.085(3) 0.0012(2)  |
+| Ni-Ni  | (A2) Nc R (A) o1      | 0.0035(2) 12 2.939(1)  | 0.0046(4) 10.2 2.926(1) 0.00584(8) | 8.8 2.906(1) 0.00548(11) | 8.2 2.899(1) 0.00514(10)  | 7.8 2.894(1) 0,00523(10) | 7.2 2.885(2) 0.00548(13) |
+| Ni-Li  | (A2) Nr R( A) d2 (A2) | 0.00530(8)             | 1.8 3.10(7) 0.0055                 | 3.2 2.96(4) 0,0055       | 3.8 2.96(4) 0.0055        | 4.2 2,95(3) 0.0055       | 4.8 2.88(5) 0.0055       |
+| Ni-Ni0 | NJ R(A)               | 6 4.160(2) 0.00712(18) | 4.5 4.135(2)                       | 3 4.101(3)               | 2.5 4.095(3)              | 2 4.087(4)               | 1.5 4.087(8)             |
+| Ni-O   | I72 (A2) N R( A)      | 24 4.713(7)            | 0.0082(2) 24 4.689(8)              | 0.0081(3) 24 4.676(13)   | 0.0081(3) 24 4,684(15)    | 0.0081(3) 24 4.691(18)   | 0.0096(8) 24 4.70(3)     |
+|        | u2 (A2) M R (A)       | 0.0057(7) 24 5.127(3)  | 0.0097(10) 20.4                    | 0.016(2) 17.5 5.043(3)   | 0.018(3) 16.3 5.032(3)    | 0.023(4) 15.6            | 0.030(7) 14.4            |
+| Ni-Ni  | u2 (A2) Nd            | 0.0086(3) 12           | 5.091(3) 0.0102(3)                 | 0.0097(3)                | 0.0093(3) 4 5.790(4)      | 5.025(3) 0.0096(3) 4     | 5.014(5) 0.0112(5)       |
+| Ni-Ni/ | R{ A) *2 (A2)         | 5.881(3) 0.0067(3)     | 7.5 5.851(3) 0.0070(3)             | 4.5 5.805(5) 0.0065(4)   | 0.0054(3)                 | 5.767(4) 0.0058(3)       | 4 5.742(6) 0.0067(6)     |
+
+' Corresponding EXAFS spectra are shown in Figure 11. Estimated standard deviations of the refined parameters areshown in brackets.h Coordination number is deduced from x assuming Ni2+ -NP+ distribution (see text).f Coordination number is JVnk&gt;(1 -jc) for Ni (NwoX for Li) where Anio is N for the same shell in nickel oxide, d Coordination number fitted using filtered data, 0 Phases and amplitudes for this shell extracted from Fourierfiltered NiO data using JV = 6, R = 4.16 A, &lt;r2 = 0.0075 A2. 1 Phases and amplitudes for this shell extracted from Fourier-filtered NiO data using JV = 12, R = 5.88 A, a1 = 0,0075 A2. 0 The goodness of fit is given by Frit = (F+ F)'£(xobs -Xcalc)1**, where P and Fare the numbers of data points and variables, respectively. Fm is hence analogous to 'reduced x2' values from crystallographic refinements.
+
+Figure 7. Variation of the first Ni-Ni bond length as a function of the fraction of Ni which is Ni3+ (=x/( 1 -x)). The linear regression gives 2.938 A for all Ni2+ and 2.856 A for all Ni3+. Error bars are 3 times the estimated standard deviations.
+
+<!-- image -->
+
+estimated standard deviations on both R and tr2. The values of a2 are very similar for all compositions studied. Figure 7 shows a plot of the Ni-Ni interatomic distance as a function of the fraction of Ni which is Ni3+, giving an excellent linear fit.
+
+Outer Coordination Shells. After modeling the coordination shells up to 3 A using filtered EXAFS oscillations, the fit shows reasonable agreement with the total EXAFS data. Nevertheless, since the shells in the (R + A) range 3-6 A (see Figure 2) also make a significant contribution to the EXAFS, and can be seen to vary in a systematic way with x, these contacts were also fitted. Table III shows the predicted coordination shells for NiO, including 5 in the outer region. Figure 8 also shows diagrammatically the cation coordination shells of the nickel oxide structure.
+
+As in the case of the inner shells, a fit was first carried out using NiO as a model. The 8 Ni-O at 3.6 A were found to have only a very small contribution, and were not included in subsequent fits. The 24 NM3 at 4.7 A and the 24 Ni-Ni at 5.1 A gave reasonable fits to the filtered data in this region using the calculated phases and amplitudes. By contrast, the Ni-Ni contacts at 4,1 and 5.9 A gave poor fits and needed further attention.
+
+Figure 8. Cation coordination shells in the nickel oxide structure.
+
+<!-- image -->
+
+The poor fits for these particular contacts are caused by multiple scattering of the photoelectron due to (close to) linear arrangements of atoms, i.e. Ni-O-Ni for 4.1 A and Ni-Ni-Ni for 5.9 A. Effectively, there are additional available scattering paths involving three instead of just two atoms, requiring different phase and amplitude functions. In practice, they can be approximated by extracting them from suitable model data, and NiO was used for this purpose in the following way. The residual EXAFS spectrum was calculated after other single-scattering shells had been fitted. The relevant peak in the Fourier transform of the residual spectrum was extracted, Fourier-filtered, and backtransformed to give the filtered EXAFS of the anomalous shell. Phase and amplitude functions were then derived, given the know n
+
+Figure 9. Bond lengths (R) and coordination numbers (TV) obtained for a fit of the 4.1-A coordination shell. For random Li the expected coordination number by Ni for this shell is {6 -6x). For fully ordered Li (i.e. all lithium confined to one set of close-packed planes) then the expected coordination number is {6 -6x/(l -x)j. Error bars for R are 3 times the estimated standard deviation. Error bars for TV are 0.4. This value is estimated from a fit refining TV, R, and a1 simultaneously.
+
+<!-- image -->
+
+coordination numbers, bond lengths, and an estimation of the Debye-Waller factors. The functions were then used in conjunction with other data sets in the usual way to deduce structural parameters and gave excellent fits with the spectra.
+
+The outer shells of the lithium-containing samples were modeled assuming that the backscattering due to lithium was negligible. The two close peaks at 4.7 A (Ni-O) and 5.1 A (Ni-Ni) were filtered and fitted together. The coordination number of the Ni-Ni shell was fixed at 24(1 -x), since, by analogy to the 2.9-A shell, it does not depend on the degree of lithium ordering. The coordination number of the oxygen shell was kept at 24 and bond lengths and Debye-Waller factors were refined for the two shells. The value of a2 for the oxygen shell increases markedly as a function of x, due to disorder in this large coordination shell. The better-defined Ni-Ni shell shows a systematic decrease in R, with essentially constant a2.
+
+The coordination number of the 4.1-A Ni-Ni shell cannot be assumed in the above manner. The 6 contacts in this shell are all in the adjacent close-packed sets of planes and therefore the average coordination number of a nickel will depend critically on the degree of ordering of the lithium with respect to these closepacked planes. In an attempt to probe the effect, the coordination number of the nickel was incremented in steps of 0.25, optimizing R and a2 at each step, to find the best fit. The results are plotted in Figure 9, which shows the nickel-nickel interatomic distances and coordination numbers as a function of x. The bond lengths again decrease smoothly with x, giving an excellent trend for such a distant coordination shell. The coordination numbers are plotted in comparison with those expected for two models of lithium distribution, a random and a fully ordered situation. In the fully ordered case for a hypothetical x = 0.5 sample, Ns, for this shell would be 0, since the adjacent planes would all be occupied by lithium. Although caution should be applied to the use of coordination numbers in making deductions, especially at such long contacts, it is interesting to note that the values of N fall reasonably close to those for the fully ordered case.
+
+The 5.9-A shell was fitted in a similar manner to the 4.1-A shell. In this case all 12 nickels lie in the same type of closepacked planes, and therefore the expected coordination number by nickel is greater than the random value of 12(1 -x). The coordination numbers obtained are well below this limiting value,
+
+Figure 10. Variation of the ca. 5.9-A Ni-Ni bond length as a function of the fraction of Ni which is Ni3+ (=x/(l -x)). Error bars are 3 times the estimated standard deviation.
+
+<!-- image -->
+
+Figure 11. The final results of EXAFS curve fitting (dashed lines) compared with the raw EXAFS data (solid lines) for Li,Ni(i \_ X)0. The EXAFS data are k3 weighted to emphasize the structure in the high k region. Parameters for the fits are given in Table IV.
+
+<!-- image -->
+
+indicating that precision in the coordination numbers for such a distant shell is too low. Nevertheless, the interatomic distances again show a linear dependence with the fraction of Ni which is Ni3+, as shown in Figure 10.
+
+The final fit of the lithium nickel oxide data was carried out using the raw EXAFS spectra. A total of 8 shells was included in the model, with 8 bond distances and 7 Debye-Waller factors being floated in the final refinements. The details of the fit are given in Table IV. Figure 11 shows plots of the raw EXAFS spectra compared with the calculated spectra from the fit, showing the excellent correspondence for all the data sets over the full range of the data.
+
+## Discussion
+
+Our Ni K-edge EXAFS data conclusively show the presence of two different Ni-O bond lengths at 2.07 and 1.94 A for lithium
+
+nickel oxides with x &gt; 0.27. The variation of the coordination numbers of these two shells has been analyzed with models assuming the two limiting cases of Ni2+-Ni3+ and 02-O. The results are intermediate between the model predictions, although the Ni2+-Ni3+ model is marginally better (see Figures 5 and 6); however, the inaccuracy of EXAFS coordination numbers prohibits a definitive conclusion from the first shell data alone. Our observation of a trend to higher energy for the nickel K-edge XANES features with increasing x (see Figure 1) is also in agreement with the Ni2+-Ni3+ model. The variation of the 2.9-A Ni-Ni distance provides additional information. If the holes are present predominantly as Ni3+, then this distance will depend on the fraction of nickel which is Ni3+,i.e. on x/(l -x). Conversely, if the holes are present predominantly as O , then the Ni-Ni distance will depend on the fraction of oxygen which is O, i.e. on x. The Ni-Ni bond lengths deduced from the EXAFS fitting show an excellent linear fit as a function of x/(l -x) (see Figure 7), thus suggesting that the Ni3+ state is closer to reality. This relationship is also observed for the 5.9-A shell (see Figure 10). Taken together, our XAFS data support a model in which the hole states introduced by lithium substitution are predominantly associated with nickel, although as noted above, the hole state is delocalized with partial densities on both nickel and oxygen.
+
+In contrast to the above discussion, it has become widely accepted from spectroscopic studies that the electron holes in LUNi(1\_^)0 reside upon the oxygen. Kuiper et al. have used calculations involving the energy of a pre-edge peak in the lithium nickel oxide oxygen K-edge XANES spectrum to estimate a partial density of holes of approximately 0.7 on oxygen, with the remainder on nickel.15 The paper by Kuiper et al.15 is very widely cited as evidence for 0~ in a variety of related high-valent metal oxides.
+
+Both pure nickel oxide and lithium nickel oxides have a pronounced pre-edge peak in the oxygen K-edge XANES spectra.15 31 The nickel oxide pre-edge peak, which occurs at about 532 eV, can be assigned as an oxygen Is to nickel 3d transition, which gains dipole-allowed intensity from mixing of oxygen p-orbitals with the nickel d-orbitals.15'32 The lithium nickel oxide oxygen K-edge XANES peak occurs at the somewhat lower energy of 528.5 eV. Wenote that if the holes are present as Ni3+, the oxygen K-edge spectral features corresponding to Ni2+-02\_ pairs should vary as (1 -2x)/(l -x), whereas if O is the better description, the spectral features should vary as x. Kuiper et al. reported that the 532 eV nickel oxide peak essentially disappears when x is close to the limiting value of 0.5, which is the expected behavior for Ni3+, though a rather different interpretation for this behavior was given.15 The previous conclusion of predominantly O' hole states depends mostly upon the assignment of the 528.5-eV lithium nickel oxide oxygen K-edge XANES peak. However, there is often ambiguity in the assignment of XANES spectral features, since more complex phenomena, such as shakedown transitions, can give rise to low-energy resonances.
+
+Measurements of the nickel L-edge XANES, encompassing both the Ln and Lm edges, have been reported for pure nickel oxide and for a series of lithium nickel oxides with differing x.17 The Ln and Lm edges show strong dipole-allowed transitions to the unoccupied metal d-orbitals from the 2p](/2 and 2p3/2 levels, respectively. The interpretation of first-row transition element L-edges is complicated by the presence of significant interactions
+
+(31) Chen, J. G., private communication.
+
+(32) Hedman, B.; Hodgson, K. O.; Solomon, E. I. J. Am. Chem. Soc. 1990, 112 (4), 1643.
+
+between the core-hole and valence levels. Only subtle differences in the spectra of the different samples were observed, and computer simulations seemed to suggest that the nickel was present as Ni2+ in all cases. Electron yield detection was used in this work, as in the oxygen K-edge studies.15 This signal comes primarily from the surface of the sample, and not the bulk (cf. ref 33). A significant quantity of a Li20-like component was detected by electron yield in the oxygen K-edge spectra.15 This was not observed by X-ray fluorescence yield detection,31 which probes the bulk, rather than the surface. It is possible that the reported nickel L-edge spectra are a mixture of signal from a reduced surface material containing Ni2+ and a lithium oxide-like component (see ref 34), and from bulk lithium nickel oxide. A comparison with fluorescence yield data is needed to support the conclusion that bulk lithium nickel oxides contain predominantly Ni2+.
+
+In conclusion, our XAFS results support a model in which the holes introduced by lithium ions reside predominantly on nickel atoms. Evidence from magnetic studies of the lithium nickel oxides, and from structural measurements (see Introduction), also favors a low-spin Ni3+ model. In contrast to this, previous spectroscopic studies have been used to argue that the holes reside predominantly on oxygen,151718'35'36 although surface sensitivity problems and difficulties in assignment may exist. The distinction is important particularly since lithium nickel oxide has been extensively used as a model for the hole states in the hightemperature cuprate superconductors. These materials have an oxygen K-edge XANES pre-edge peak close to 529 eV37 which is quite similar to that found for lithium nickel oxides. If the hole states in high Tc superconductors are not present predominantly as O", as is increasingly assumed, then this would need to be taken into account in theories of superconductivity. In the light of the XAFS data reported herein, and with previous structural and magnetic data, there seems ample reason to further examine the nature of the hole states in lithium nickel oxides.
+
+Acknowledgment. We thank R. B. Hall, J. G. Chen, J. H. Hardenbergh, Y. Sun, and G. Myers for helpful discussions and also the members of Exxon's Participating Research Team at the NSLS (especially M. Sansone and J. Marsch) for their assistance. One of us (A.J.J.) thanks the Robert A. Welch Foundation for partial support of this work. The NSLS is funded by the Division of Materials Sciences, U.S. Department of Energy. SSRL is funded by the Office of Basic Energy Sciences and the Office of Health and Environmental Sciences, U.S., D.O.E.
+
+Note Added in Proof: Calculations performed using the multiple scattering code feff-5 (Rehr, J. J.; Albers, R. C. Phys. Rev. B 1990, 41 (12), 8139) have indicated that the major multiple scattering contributions in the EXAFS of nickel oxide are as indicated in Table III.
+
+(33) Krol, A.; Lin, C. S.; Ming, Z. H.; Sher, C. J.; Kao, Y. H.; Chen, C. T.; Sette, F.; Ma, Y.; Smith, G. C.; Zhu, Y. Z.; Shaw, D. T. Phys. Rev. B 1990, 42 (4), 2635.
+
+(34) Kemp, J. P.; Cox, P. A. J. Phys. Chem. Solids 1990, 51 (6), 575. (35) Ranga Rao, G.; Hegde, M. S.; Sarma, D. D.; Rao, C. N. R. J. Phys.: Condens. Matter 1989, 1, 2147.
+
+(36) Oku, M.; Tokuda, H.; Hirokawa, K. J. Electron Spectrosc. Relat. Phenom. 1991, 53, 201.
+
+(37) Chen, C. T.; Sette, F.; Ma, Y.; Hybertsen, M. S.; Stechel, E. B.; Foulkes, W. M. C.; Schluter, M.; Cheong, S.-W.; Cooper, A. S.; Rupp, L. W., Jr.; Batlogg, B.; Cobley, U. T.; Soo, Y. L.; Ming, Z. H.; Krol, A.; Kao, Y. H. Phys. Rev. Lett. 1991, 66 (1), 104.
+
+TABLES:
+------------------------------
+
+Table 1:
+Caption: 
+Content: | shell   |   N | * (A)    | a1 (A2)     | E0 (eV)   |
+|---------|-----|----------|-------------|-----------|
+| Ni-O    |   6 | 2.081(3) | 0.00362(21) | -9.2(5)   |
+| Ni-Ni   |  12 | 2.938(2) | 0.00545(13) | -14.1(3)  |
+
+Table 2:
+Caption: 
+Content: |      | trial fit 1   | trial fit 1   | trial fit 1   | trial fit 1   | trial fit 2   | trial fit 2   | trial fit 2   | trial fit 2   | trial fit 2   |
+|------|---------------|---------------|---------------|---------------|---------------|---------------|---------------|---------------|---------------|
+| X    | Nlong         | /?Jong        | Rs hort       | F'n,          | ^long         | Rlong         | tf^long       | Rshon         | n,            |
+| 0.40 | 3.00          | 2.066(4)      | 1.912(3)      | 83.4          | 2.50          | 2.076(3)      | 0.0017(2)     | 1.924(3)      | 79.9          |
+| 0.35 | 3.25          | 2.061(2)      | 1.923(2)      | 23.8          | 3.00          | 2.068(2)      | 0.0037(2)     | 1.930(2)      | 23.0          |
+| 0.32 | 3.50          | 2.060(2)      | 1.930(2)      | 29.7          | 3.25          | 2.069(2)      | 0.0041(2)     | 1.942(2)      | 29.9          |
+| 0.27 | 4.25          | 2.055(2)      | 1.917(4)      | 46.7          | 4.00          | 2.059(2)      | 0.0034(2)     | 1.926(3)      | 47.1          |
+| 0.15 | 3.75          | 2.097(1)      | 1.990(2)      | 18.9          | 4.00          | 2.092(1)      | 0.0038(1)     | 1.984(3)      | 18.8          |
+
+Table 3:
+Caption: 
+Content: | type   |   N |   R( A) | position (cubic)   | multiple scattering   | distribution of Ni   |
+|--------|-----|---------|--------------------|-----------------------|----------------------|
+| Ni-O   |   6 |    2.08 | 0.5, 0, 0          | no                    |                      |
+| Ni-Ni  |  12 |    2.94 | 0.5, 0.5, 0        | no                    | 6A + 6B              |
+| Ni-O   |   8 |    3.6  | 0.5, 0.5, 0.5      | no                    |                      |
+| Ni-Ni  |   6 |    4.16 | 1,0,0              | yes                   | 6B                   |
+| Ni-O   |  24 |    4.65 | 1, 0.5,0           | no                    |                      |
+| Ni-Ni  |  24 |    5.09 | 1,0.5, 0.5         | no                    | 6A+ 12B + 6C         |
+| Ni-Ni  |  12 |    5.88 | 1, 1,0             | yes                   | 6A + 6C              |
+
+Table 4:
+Caption: 
+Content: |        | x in LitNi(i_tlO      | 0.0                    | 0.15                               | 0.27                     | 0.32                      | 0.35                     | 0.40                     |
+|--------|-----------------------|------------------------|------------------------------------|--------------------------|---------------------------|--------------------------|--------------------------|
+| Ni-O   | Nb R( A) *2 (A2)      |                        | 1.06 1.960(8)                      | 2.22 1.932(5) 0.0049(7)  | 2.82 1.949(8) 0.0067(15)  | 3.23 1.934(3) 0.0053(5)  | 4.00 1.932(3) 0.0055(4)  |
+| Ni-O   | Nb R (A) ff:          | 6 2.081(2)             | 0.0026(8) 4.94 2.077(3)            | 3.78 2.060(3) 0.0034(3)  | 3.18 2.058(10) 0.0062(13) | 2.77 2.069(4) 0.0043(5)  | 2.00 2.085(3) 0.0012(2)  |
+| Ni-Ni  | (A2) Nc R (A) o1      | 0.0035(2) 12 2.939(1)  | 0.0046(4) 10.2 2.926(1) 0.00584(8) | 8.8 2.906(1) 0.00548(11) | 8.2 2.899(1) 0.00514(10)  | 7.8 2.894(1) 0,00523(10) | 7.2 2.885(2) 0.00548(13) |
+| Ni-Li  | (A2) Nr R( A) d2 (A2) | 0.00530(8)             | 1.8 3.10(7) 0.0055                 | 3.2 2.96(4) 0,0055       | 3.8 2.96(4) 0.0055        | 4.2 2,95(3) 0.0055       | 4.8 2.88(5) 0.0055       |
+| Ni-Ni0 | NJ R(A)               | 6 4.160(2) 0.00712(18) | 4.5 4.135(2)                       | 3 4.101(3)               | 2.5 4.095(3)              | 2 4.087(4)               | 1.5 4.087(8)             |
+| Ni-O   | I72 (A2) N R( A)      | 24 4.713(7)            | 0.0082(2) 24 4.689(8)              | 0.0081(3) 24 4.676(13)   | 0.0081(3) 24 4,684(15)    | 0.0081(3) 24 4.691(18)   | 0.0096(8) 24 4.70(3)     |
+|        | u2 (A2) M R (A)       | 0.0057(7) 24 5.127(3)  | 0.0097(10) 20.4                    | 0.016(2) 17.5 5.043(3)   | 0.018(3) 16.3 5.032(3)    | 0.023(4) 15.6            | 0.030(7) 14.4            |
+| Ni-Ni  | u2 (A2) Nd            | 0.0086(3) 12           | 5.091(3) 0.0102(3)                 | 0.0097(3)                | 0.0093(3) 4 5.790(4)      | 5.025(3) 0.0096(3) 4     | 5.014(5) 0.0112(5)       |
+| Ni-Ni/ | R{ A) *2 (A2)         | 5.881(3) 0.0067(3)     | 7.5 5.851(3) 0.0070(3)             | 4.5 5.805(5) 0.0065(4)   | 0.0054(3)                 | 5.767(4) 0.0058(3)       | 4 5.742(6) 0.0067(6)     |

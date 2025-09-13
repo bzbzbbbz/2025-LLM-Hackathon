@@ -1,0 +1,268 @@
+Simple Docling Extracted Data from: Insights on the Stabilization of Nickel-Rich Cathode Surfaces.pdf
+============================================================
+
+Title: Insights on the Stabilization of Nickel-Rich Cathode Surfaces
+Pages: 21
+Tables: 0
+Figures: 0
+
+MAIN TEXT:
+------------------------------
+## Insights on the Stabilization of Nickel-Rich Cathode Surfaces: Evidence of Inherent Instabilities in the Presence of Conformal Coatings
+
+Jason R. Croy a,* , Daniel O'Hanlon a , Soroosh Sharifi-Asl b , Michael Murphy a , Anil Mane c , Chang-Wook Lee d , Stephen E. Trask a , Reza Shahbazian-Yassar b , and Mahalingam Balasubramanian d,*
+
+a Electrochemical Energy Storage Department, Chemical Sciences and Engineering Division, c Energy Systems Division, d X-ray Sciences Division, Advanced Photon Source, Argonne National Laboratory, Lemont, Illinois, USA Department of Mechanical and Industrial Engineering, University of Illinois at Chicago, b Chicago, Illinois, USA
+
+*Corresponding author, email: croy@anl.gov, bmali@anl.gov
+
+## Abstract
+
+Ni-rich, LiNi1-x-yMnxCoyO2 (NMC) cathode materials are being aggressively developed for highvoltage applications such as electric vehicles. These materials are desirable because of their high volumetric  energy  and  power  densities.  However,  degradation  phenomena  related  to  surface instabilities  of  highly  charged,  Ni-rich  cathodes  have  been,  and  remain,  a  major  concern  with respect to cycle-life and safety of Li-ion cells. Although many reports exist on the properties and behavior of such materials, sufficient advances have yet to be made with respect to the stabilization of cathode surfaces. Herein, we report on an investigation aimed at probing the inherent stability of  electrochemically  active  Ni δ+ species  at  the  surface  of  NMC-type,  layered-oxide  cathode particles. A model system is developed that allows for studies of both surface and bulk species using hard X-ray absorption (XAS) and electron energy loss (EELS) spectroscopies. Spectroscopy data collected on cathode electrodes, coated with Al2O3 via atomic layer deposition (ALD), reveals that the coating does not enhance the ability to attain, or maintain, fully oxidized Ni (Ni 4+ ) in the near-surface regions of charged cathode particles. The results suggest an inherent instability of Ni δ+ near the surfaces of cathode particles and imply that the strategy of using Al2O3 as a physical barrier  coating  is  not  sufficient  to  overcome  these  instabilities  in  layered,  nickel-rich  oxides. Furthermore, the system developed for this work can be used as a tool to probe, in working cells, the efficacy of other strategies such as electrolytes, additives, and coatings in stabilizing surface Ni δ+ species in NMC-type cathodes.
+
+## Introduction
+
+LiMO2 (M=Ni, Mn, Co), NMC layered cathode materials are currently the best option for high-energy, lithium-ion, positive electrodes. These oxides operate at ~3.8 V vs. lithium, contain theoretical capacities of ~280 mAh/g, and practical powder densities of ~3 g/cm 3 , making them attractive  for  energy-dense  applications  such  as  portable  electronics  and  electric  vehicles. 1 However, practical capacities that can be achieved over long-term cycling are limited by charging voltages of ~4.2 V in NMC//graphite cells, giving ~170 mAh/g. 2 This is due in large part to the increased reactivity and degradation of the cathode/electrolyte interface as voltages exceed ~4.2 V vs. graphite. A key component of this degradation is the role of oxygen at cathode surfaces, the stability of which is a function of NMC composition. 3 Thus, 'high-voltage' should be defined in terms  of  the  given  cathode  of  interest.  Gradual  change  of  surface  structure  (e.g.,  layered  to disordered  rock-salt),  transition  metal  (TM)  dissolution  from  the  cathode  and  subsequent deposition and reaction at the graphite anode, electrolyte reactions with highly oxidized TMs (e.g., Ni 4+ ) in charged electrodes, gas generation, and safety limitations may all be directly correlated with cathode surface/oxygen instabilities. 4 On the other hand, details of these various mechanisms are still not completely understood. For example, a direct correlation has yet to be established between the extent of growth of disordered surface phases and impedance rise, or the cathode oxide's ability to re-intercalate lithium after extended cycling and lithium loss. 5 However, it is well known that the above issues are exacerbated as nickel contents increase. 3,6,7 A recent report by Tornheim et al. 8 has shown that the extent of surface reconstruction is dependent on the identity of the electrolyte, suggesting that surface instabilities may be mitigated through proper choice of electrolyte formulations (e.g., solvents/additives). However, in that study, even NMC cathodes that were cycled using stable, fluorinated electrolytes revealed surface degradation in the form of disordered  domains.  One  question  that  then  arises  is  'to  what  extent  are  surface  instabilities directly related to interfacial reactivity (e.g., electrolyte interactions) vs. inherent instabilities of certain compositions (e.g., Ni-rich)?'
+
+Highly oxidized Ni δ+ has  been associated with oxygen loss, surface reconstruction, and poor thermal stability. 4,6,7,9 In an effort to improve the performance of Ni-rich, NMC-based cells, several  strategies  are  being  pursued.  These  strategies,  such  as  coatings  and  additives,  are predicated on the premise that oxidized surfaces might be stabilized through mitigated contact with the  organic  electrolyte. 10 Several  X-ray  analyses  have  been  conducted  on  NMC  cathodes  to determine the oxidation states of surface Ni δ+ species. Ex situ soft XAS performed in electron yield mode  suggests  that  the  Ni  in  the  surface  (&lt;  5nm)  does  not  fully  oxidize  to  the  Ni 4+ state. Conversely, the bulk nickel is seen to oxidize to Ni 4+ by fluorescence yield detection. 11-13 However, direct in situ observations and one-to-one comparisons of similar core-level transitions (e.g., Kedge XAS) of bulk vs. surface-only Ni δ+ cannot be done on typical cathode compositions having nickel distributed throughout the particles.  A study of the oxidation state of nickel by in situ methods to understand the bulk vs surface-only Ni δ+ is therefore still of interest.
+
+The objectives of this project are three-fold; 1) to develop model systems that enable hard X-ray spectroscopic analysis of surface vs. bulk Ni cations, including the possibility of in situ observations; 2) to use those systems to test the efficacy of various surface protection strategies (additives, coatings, etc.) in stabilizing oxidation states of active, surface-Ni δ+ species; and 3) to gain  insights  into  questions  regarding  the  inherent  stability  of  NMC  surfaces,  regardless  of electrolyte interactions.
+
+The basis of the model system developed herein is described by Croy et al. in reference 14. In that work, the authors designed an all Mn/Co-based, lithium-rich, Li1.2Mn0.4Co0.4O2 cathode material that was subsequently surface-treated in a solution of Li + , Ni 2+ , and PO4 3(i.e., Li:Ni:P of 1:1:1) followed by annealing treatments. The intent of the study was to reveal the structure of the resultant,  modified surface through the selectivity  of XAS measurements. Since all Ni species present were introduced by the surface treatment, the Ni K-edge XAS data would help elucidate the structure of the surface brought about by the treatment itself, and the hard X-ray signal would not be contaminated by bulk Ni species originating from the parent material. Analyses of annealed samples revealed that Ni 2+ had been substituted in the Li sites of the TM layers within the Li- and Mn-rich regions of the samples (e.g., LiMn6  NiMn6), facilitated by the leaching of lithium and formation of ~Li3PO4-type surface species. Furthermore, the data revealed the Ni 2+ to be present in a layered environment and active in the electrochemical charge/discharge processes. However, on charging, the Ni 2+ could not be fully oxidized to Ni 4+ . It was suggested, but not verified, that much of the incorporated Ni remained close to the surface and could not be fully oxidized. This work builds on those ideas to create a system where near-surface Ni 2+ , in a layered configuration, may be studied with hard X-ray XAS and STEM-EELS spectroscopy. Two modifications from the previous studies have been made; 1) in order to create a more stoichiometric, layered, NMC-type model cathode, a Li:TM ratio similar to typical NMCs of Li1.06 Mn0.12Co0.82O2 was chosen for the parent cathode material, and 2) a molten salt-flux method was used in the synthesis of the parent cathode material.  The  molten  salt  synthesis  allows  for  creation  of  large  particles  with  smooth surfaces, as illustrated in reference 15 and references therein. Large particles were chosen for this study in order to have better control over the depth of Ni penetration upon secondary annealing, thereby, tailoring the relative fraction of nickel present in the near-surface region compared to the bulk. Penetration depth of substituted Ni was found to be a function of annealing temperature as illustrated below.
+
+## Experimental
+
+## Particle Synthesis
+
+LiCoO2 (LCO) and Li2MnO3 (LMO) were synthesized as precursors by thoroughly mixing Co3O4 with Li2CO3 and MnCO3 with Li2CO3. Each mixture was fired in air at 550°C for 7 hours. The resultant products were each hand mixed again and fired at 850°C in air for 24 hours. The parent cathode was prepared by thoroughly hand mixing 8.50 g of the LCO with 1.50 g of the LMO. The mixture was then hand mixed with 10.00 g of LiCl as a flux (oxide:flux = 1:1). The oxide/flux mixture was fired in air at 1000°C for 6 hours. The final Li1.06 Mn0.12Co0.82O2 (LCMO) product was thoroughly washed with DI water and dried overnight at 75°C under vacuum. The LCMO was then surface-treated using an acidic sol-gel method similar to that previously reported in reference 15, containing lithium acetate, nickel nitrate, monoammonium phosphate, and glycolic acid (1:1:1:2.5 mole ratio). Treatment amounts were varied between 1.0 and 5.4 wt%. Treated samples were dried at 75°C under vacuum and subsequently annealed in air at 600°C (Ni-600°C) and  900°C  (Ni-900°C)  for  6  hours  to  create  the  Ni-doped  samples.  Electrochemical  and spectroscopic samples of the uncoated parent cathode were also annealed in air at 600°C for 6 hours to remove bound water. All furnace protocols used a 2°C/min heating ramp followed by uncontrolled cooling in the furnace.
+
+## Electrochemical Cycling
+
+Coin-type cells (2032, Hohsen) were constructed in an argon-filled glovebox (&lt; 2 ppm O2 and H2O). The cathode consisted of oxide powder (88 wt%), carbon (6 wt%), and polyvinylidene difluoride (PVDF) binder (6 wt%) on aluminum foil. Metallic lithium foil was used as the anode and Celgard 2325 was used as the separator. The electrolyte was 1.2M LiPF6 in a 3:7 mixture of ethylene-carbonate and ethyl-methyl-carbonate. Electrochemical cycling was conducted at 30°C. Cells were cycled at 20 mA/g active oxide (~C/7) between 2.0 and 4.3 V.
+
+## Microscopy
+
+Aberration corrected scanning  transmission  electron  microscopy  (AC-STEM)  was performed using a JEOL JEM-ARM200CF STEM equipped with a cold field emission gun with 0.78 Å spatial resolution. Atomic resolution images were obtained by high-angle annular darkfield (HAADF) detector with a 90 mrad inner-detector angle and a 22 mrad probe convergence angle. Electron energy loss spectroscopy (EELS) was performed using a Gatan Quantum detector. EELS results were obtained with 0.5 eV/channel dispersion and using a 5 mm detector aperture. Full-width half maximum of zero loss peak was measured 1.8 eV, which determines the energy resolution of the obtained spectra. Energy dispersive spectroscopy (EDS) results were obtained by an Oxford X-max 100TLE windowless X-ray detector, in the range of 0-10 keV. Some of the HAADF images have been filtered using the HRTEM filter. Sample preparation was done by dispersing the cathode particles in methanol and drop-casting the solution onto a 300-mesh carboncoated copper grid and drying in air.
+
+## X-ray Absorption
+
+XAS experiments were carried out at beamline 20-BM-B of the Advanced Photon Source (APS)  at  Argonne  National  Laboratory.  Measurements  were  conducted  ex  situ  on  the  sealed electrodes as in reference 14 as well as in situ using pouch cells as described in the supplementary information.  For  20-BM-B  measurements  the  incident  beam  was  monochromatized  using  a Si(111)  fixed-exit,  double-crystal  monochromator.  Manganese,  nickel,  and  cobalt  foils  were incorporated, as appropriate, for energy calibration with the zero energy (E0) defined according to Kraft  et  al. 17 Mn  and  Co  spectra  were  acquired  in  transmission  mode  utilizing  gas  ionization chambers and Ni spectra were acquired in fluorescence mode using an energy discriminating, multi-element, Ge detector.
+
+X-ray  absorption  near  edge  spectroscopy  (XANES)  and  extended  X-ray  absorption spectroscopy (EXAFS) data were extracted with established methods using the ATHENA software package. 17,18  The normalized EXAFS data were converted from energy to k-space and weighted by k 3 . These data were then Fourier transformed to R-space and left uncorrected for photoelectron phase shifts. As such, distances in R-space are ~0.4 Å shorter than actual bond distances.
+
+## Results and Discussion
+
+## Microscopy
+
+Figure 1(a) shows a scanning electron microscopy (SEM) image of the pristine LCMO synthesized at 1000°C by the salt-flux method. Particles are observed with irregular shapes but with clearly visible faceting. The majority of particles observed range in size from ~2-10 µm. Similar results were found for the Li:Ni:P-treated particles revealing that neither the treatment nor the various post-annealing temperatures affected particle size or morphology.
+
+O-K
+
+<!-- image -->
+
+600
+
+Mn-L
+
+700
+
+Co-L
+
+800
+
+Energy Loss (eV)
+
+STEM-EELS  analysis  was  performed  on  the  pristine  LCMO  sample  to  confirm  the composition before surface treatment. Figure 1(b) presents a low magnification HAADF image from the LCMO particles where the arrow indicates the area from which the EELS map data, Figure 1(c), was acquired. The EELS map, performed on the top 100 nm of the surface using a step size of 10 nm, demonstrates that the sample has a uniform composition throughout the cross section of the sample. In addition, no Ni signal could be detected for this sample. EELS and EDS results were obtained on several particles to confirm this conclusion.
+
+Analogous experiments were also performed on the samples that were treated with Li:Ni:P and annealed at 900 and 600°C. The results did not indicate a significant dependence on wt% of the treatment for either sample over the range studied. Starting with the Ni-900°C sample, the low magnification HAADF image in Figure 2(a) shows a cluster of large particles with faceted and clean  surfaces  that  are  agglomerated  due  to  the  high  temperature  annealing.  The  EELS  map
+
+Ni-L
+
+850
+
+Sum spectrum
+
+Figure  1 -  (a)  SEM  image  of pristine  LCMO  synthesized  at 1000°C. (b) Low magnification HAADF image from the surface of an LCMO particle. (c) EELS map  data  from  region  marked with an arrow  in (b).  'Sum spectrum' (black line at top) is the  summation  of  all  spectra from the mapped area.
+
+obtained from the top 200 nm of the surface of one of the particles [Figure 2(b)], with a step size of 10 nm, is shown in Figure 2(c). It can be observed that Ni has a very weak signal throughout, which completely fades at a depth of ~150 nm away from the surface of the sample. The Ni signal can be better visualized in the sum spectrum shown in black at the top of Figure 2(c). This spectrum
+
+O-K
+
+600
+
+Mn-L
+
+Co-L
+
+700
+
+<!-- image -->
+
+800
+
+Energy Loss (eV)
+
+is the summation of all the signals from the mapped area and has a higher signal/noise ratio; it is used for better visualization of the Ni signal, however, it does not contain any spatial information. EDS detects ~1 wt% Ni in this particle, which has penetrated into the top ~150 nm shell of the particle. Therefore, it can be concluded that the diffusion range of Ni into the structure of LCMO at 900°C is large and results in a high concentration of bulk-substituted Ni.
+
+Figure 3(a) shows a low magnification HAADF image from the surface of the Ni-treated LCMO particle annealed at 600°C. The area from which the EELS map was acquired is indicated with an arrow in Figure 3(b). The EELS map results shown in Figure 3(c) demonstrate the presence of a higher concentration of Ni within a shorter diffusion range (~20 nm) in this sample compared to the 900°C sample. It is noted here that the 900 and 600°C samples were made from the same precursor batch and, therefore, have the same total concentration of Ni (~1 wt%). Figure 3(b) shows an atomic resolution image, and the corresponding fast Fourier transform (FFT), from the surfaces  of  the  Ni-doped  600°C  particles.  These  data  demonstrate  the  presence  of  the  intact hexagonal layered structure (R 3 ̅ m) at the surface of the particles. The presence of doped Ni in the R 3 ̅ m layered environment is consistent with XAS observations, which will be described in detail below. It should be noted that small amounts of nickel-containing secondary phases were observed as agglomerates on the surfaces of the Ni-600°C particles. However, these phases accounted for &lt;
+
+Ni-L
+
+850
+
+Figure 2 -(a) Low magnification HAADF image of the Ni-900°C particles. (b) Low magnification  HAADF  image from the surface of a Ni-900°C particle.  (c)  EELS  map  data from  region  marked  with  an arrow in (b). 'Sum spectrum' (*, black line at top) is the summation  of  all  spectra  from the mapped area.
+
+5 wt% of the total 1 wt% of the Ni in the sample, in agreement with the X-ray data below, and do not have a significant impact on the measured results. Additional high-resolution examples of the highly  layered  nature  of  the  surfaces  of  the  Ni-doped  600°C  particles  can  be  found  in  the supporting information, Figure S1. Very close inspection of some of the particles' open surfaces (e.g., 001) show a ~0.5-1.0 nm reconstruction, typical of the open surfaces of NMC compositions. When the EELS data shown in Figure 3 is taken with a 2 nm step size (instead of 10 nm as shown), changes in the oxygen K-edge can be observed in the last 2 nm scan of the surface that are in agreement with O K-edge spectra observed for surface reconstruction layers of typical  NMCs (NMC-622 and NMC-111, see Supplemental Figure S2). This reveals that this system has similar reconstruction tendencies as typical NMC compositions ranging from NMC-111 to NMC-622 and again reiterates the very small amount of Ni that might possibly be contained in any non-layered, inactive phases. Furthermore, the probe depth of the nickel K-alpha fluorescence is well over ten microns.  The  penetration  of  the  nickel  in  the  600°C  sample  is  ~20-30  nm.  Therefore,  any contribution from the ~1 nm disordered surface phase of the pristine sample is small in the nickel K-edge measurements. Clearly, nickel present in layered configurations at depths well beyond the reconstructed region cannot be fully oxidized, as per XAS findings.
+
+O-K
+
+<!-- image -->
+
+Mn-L
+
+Co-L
+
+Ni-L
+
+Overall, it  can be concluded that by decreasing the annealing temperature from 900 to 600°C, the extent of Ni diffusion into the outer shell of the LCMO particles has decreased from ~150 to ~20 nm, resulting in an increased density of Ni within the TM layers at the surface of the 600°C particles. The difference in Ni penetration depth can be used to monitor the stability of surface  vs.  bulk  Ni  in  electrochemical  cells.  In  addition,  the  stabilizing  effects  of  surface engineering techniques, such as ALD of Al2O3 and other metal oxides, can be investigated.
+
+<!-- image -->
+
+100 nm
+
+Figure 4 (a) shows a HAADF image of the surface of a Ni-600°C particle from an electrode coated with Al2O3 via ALD (the EDS signal of Al is shown in the inset). Uniform distribution of Al can be  found  in  a  conformal  ~3  nm  layer  on  the  surface  of  the  cathode,  while  other  TMs  are homogenously distributed at the surface of the sample as shown in Figure 4(b). The quantified analysis based on the EDS map summation spectrum (Figure S3, supporting information) suggests that the sample consists of about ~0.5 wt% Al.
+
+## X-ray Absorption Spectroscopy
+
+Figures 5(a) and (b) show Co K-edge XANES and EXAFS data, respectively, for the undoped LCMO, Ni-600°C, and Ni-900°C samples. Two observations are of interest. First, it is clear that the different annealing temperatures do not affect the Co environment within the limits of
+
+Figure  4 -  (a)  HAADF  image  of  the surface  of  a  Ni-600°C  electrode  coated with  Al2O3  via  ALD,  with  Al  EDS  map shown as inset. (b) EDS map data for Co, O, Ni, and Mn.
+
+Figure 5 - (a) Co K-edge XANES and (b) EXAFS data (magnitude of the Fourier transform) for the un-doped LCMO, Ni-600°C, and Ni-900°C samples.
+
+<!-- image -->
+
+detection for these measurements. Second, Figure 5(b) shows several characteristic features of highly-layered, lithium-metal-oxide materials, such  as  LiCoO2,  that  will  be  important  to  the discussion  pertaining  to  nickel  below.  One  such feature is the lack of intensity just below ~4 Å (data uncorrected  for  photoelectron  wave  shift).  For compounds  having  Li/Metal  anti-site  exchange, such  as  in  LiNiO2  or  LiNi0.5Mn0.5O2,  distinct correlations representing  Metal-O-Metal  bonds (e.g., Ni-O-Ni) can be found in this region for antisite  exchange  above  ~5%.  As  expected,  no  such correlations can be found for well-layered LiCoO2 and the Co K data of Figure 5 resembles closely that of pure Co 3+ in layered LiCoO2 for all samples.
+
+The second interesting feature is the strong peak just above ~5 Å in the magnitude of the Fouriertransformed  EXAFS  data  in  5(b).  This  peak  is  characteristic  of  linear,  Metal-Metal-Metal scattering and is well-known as the 'focusing' peak for layered compounds such as LiCoO2, which has completely pure Co layers and many such linear arrangements of Co atoms. Clearly, the Co environments of both the Ni-600°C and Ni-900°C samples are identical and largely representative of LiCoO2.
+
+Figure 6 - (a) Mn K-edge XANES and (b) EXAFS data (magnitude of the Fourier transform) for the un-doped LCMO, Ni-600°C, and Ni-900°C samples. The inset in (b) shows the imaginary part of the transform.
+
+<!-- image -->
+
+Figures 6(a) and (b) show the Mn K-edge XANES and EXAFS data, respectively, for the undoped LCMO, Ni-600°C, and Ni-900°C samples. The XANES data reveals that Mn is in the 4+ state, in  agreement  with  previous  studies  on  similar compositions. 19 The  Mn  EXAFS  spectra,  Figure 6(b), show that the Mn-Metal correlations at ~2.5 Å  are  noticeably  lower  with  respect  to  Mn-O correlations (~1.5 Å) as compared to the Co data of Figure 5(b). This is now a well-established characteristic of Li- and Mn-rich compounds and is explained by the preferential ordering of  Li with Mn in the TM metal layers to form ~LiMn6-type units, where Li backscattering in the XAS experiment is negligible. 19,20 This effect is a function of  Li  and  Mn  content 20 and  confirms  that  the  parent  LCMO  material  has  the  desired structure (i.e., LiMn6 units in the TM layers).
+
+Figures 7(a) and (b) show the Ni K-edge XANES and EXAFS data, respectively, for the Ni-600°C, and Ni-900°C samples. Due to the element specificity of XAS and the sensitivity of the fluorescence measurement, the local environment of the dilute nickel in the doped samples can be directly probed. Figure 7(a) shows a comparison of XANES data for the Ni-600°C and Ni-900°C samples compared with a layered NMC-442 (LiNi0.4Mn0.4Co0.2O2) in which Ni is present as Ni 2+ in  a  predominantly  layered,  R 3 ̅ m  structure.  Very  small  differences  between  the  samples  are observed, indicating that the great majority of Ni in the doped LCMO samples is Ni 2+ and resides in a similar chemical and coordination environment as that of Ni 2+  in an NMC such as NMC-442.
+
+Figure  7 -  (a)  Ni  K-edge  XANES  and  (b) EXAFS data (magnitude of the Fourier transform) for NMC-442, Ni-600°C, and Ni900°C  samples.  The  inset  in  (b)  shows  the imaginary part of the transform.
+
+<!-- image -->
+
+The  magnitude  of  the  Fourier-transformed EXAFS  data  of  Figure  7(b)  shows  some differences between the three samples. For the Ni-600°C and Ni-900°C samples, the inset of 7(b), showing the imaginary part of the transform, indicates that the two samples have almost  identical  bonding  arrangements  and that  some  differences  may  be  attributed  to differing values of the disorder parameter, σ 2 . However, as discussed in Figure 5, and pointed out by the arrow in Figure 7(b), the Ni-doped samples each show magnitudes related to antisite exchange (e.g., Li + /Ni 2+ ) on par or lower than  the  NMC-442.  This  suggests  that  the amount of Ni in the lithium layers of the doped samples  is  on  the  order  of  ~5%  or  less,  in agreement with the microscopy data discussed above, corroborating that the desired local, layeredtype of environment is achieved (see reference 14 for a model). In addition, Figure S4 (supporting data) shows the evolution of the Ni K-edge as a function of annealing temperature from 400 to 900°C compared with pure NiO. It can be observed that by an annealing temperature of 600°C, only small differences exist between the Ni-600°C and Ni-900°C samples [See also Figure 9(c)].
+
+## Electrochemistry
+
+Figure 8(a) shows the first-cycle differential capacity plot (dQ/dV) for the undoped LCMO when charged to 4.6 V. The sharp feature just below 4.4 V is indicative of the 'activation' process for Li- and Mn-rich electrodes associated with the complex role of oxygen in such materials. 20,21 Note, however, that this activation capacity is much less than that observed for typical lithium-rich compositions, as dictated by the small amount of excess lithium (~Li1.06). The dashed line at 4.3
+
+V shows the upper cutoff voltage used in this study to monitor the activity of Ni in the doped samples.
+
+Figure 8 - (a) First-cycle differential capacity plot (dQ/dV) for the undoped LCMO when charged to 4.6 V. The dashed line at 4.3 V shows the upper cutoff voltage used in this study to monitor the activity of Ni in the doped samples. (b) First charge profiles of the Ni-600°C and Ni900°C samples.
+
+<!-- image -->
+
+In  a  layered,  R 3 ̅ m-type of oxide the majority of Ni 2+ is expected to oxidize by 4.3 V. By using this as the upper cutoff voltage, any remaining Li2MnO3-type  of  configurations  that  might  be affected by the activation process are left undisturbed.  Previous  reports  have  shown  that low-voltage  cycling  (i.e.,  avoiding  the  activation process)  of  such  materials  results  in  reversible, layered  electrochemical  behavior 23 .  Figure  8(b) shows the first charge profiles of the Ni-600°C and Ni-900°C samples. As expected from the structural data  above,  the  profiles  are  very  similar  and  the capacities achieved at 4.3 V are almost identical.
+
+The slight polarization of the Ni-600°C sample is likely due to the differences in ~Li3PO4-type phases that form on the surface at high vs. low temperature 14,24,25 ; however, it does not appear to greatly influence the electrochemistry or the initial capacity obtained.
+
+## X-ray Absorption of Charged Cathodes
+
+The  electrochemical  observations,  in  combination  with  the  XAS  and  microscopy  data discussed above, reveal that both Ni-doped samples (600 and 900°C) consist largely of Ni 2+ in layered, R 3 ̅ m-type environments. In addition, the Ni-600°C sample contains a large fraction of that nickel in the near-surface regions of particles whereas the Ni-900°C sample appears to have Ni more uniformly distributed into the bulk of the particles. Therefore, these systems provide a means to probe, via hard X-ray techniques, the reactivities of bulk vs. surface Ni species in layered configurations. To probe the electrochemical activity and stability of Ni in these samples, charged cathodes were examined via XAS at various states of charge (SOC).
+
+<!-- image -->
+
+Figure 9 - (a) Ni K-edge XANES data of the Ni900°C sample in the uncharged state and charged to 4.0 V and 4.3 V. (b) corresponding data for the Ni600°C sample. (c) Comparison of the data in (a) and (b)  showing lower average degree of oxidation at 4.3 V for the Ni-600°C sample.
+
+Figure  9(a)  shows  the  Ni  K-edge  XANES data of the Ni-900°C sample in the uncharged state and charged to 4.0 V and 4.3 V. Clearly, the Ni 2+ is electrochemically  active,  as  expected  from  the structural data above, and continues to oxidize up to 4.3 V. Figure 9(b) shows the corresponding data for the Ni-600°C sample. Again, it is clear that the Ni 2+ in this  sample  is  electrochemically  active  and oxidizes up to at least 4.3 V, although the difference in the energy shift of the Ni-edge between 4.0 V and 4.3 V is smaller for the Ni-600°C than observed in the Ni-900°C. Specifically, as shown in Figure 9(c), the maximum degree of average oxidation reached by the Ni-600°C sample is noticeably smaller than that of the Ni-900°C. In addition, the XAS data for the electrochemically active Co δ+ at 4.0 and 4.3 V are nearly identical for these samples (Figure S5). Minor differences can be found in the electrochemically  inactive  Mn 4+ XAS  data  of  the charged samples (Figure S6).
+
+As expected, and further verifying these model systems, the data of Figure 9 clearly illustrate the difference in the average oxidation state of oxidized Ni δ+ near the surface of charged cathodes compared to bulk Ni δ+ , where the Ni-600°C sample contains a larger fraction of its active Ni in the near-surface regions of particles.
+
+These observations are in line with recent studies on NMCs by Jung et al. 3 In that study, the authors show that the onset potential for oxygen loss, in a series of NMC cathodes, decreases with increasing nickel content. In fact, NMC-811 revealed oxygen release as low as 4.3 V (Li/Li + ) concomitant with rapid capacity fade and impedance rise. Furthermore, detailed analyses of the data strongly suggested that oxygen was preferentially evolved from the surface of the cathodes. The inability to reach or maintain high states of Ni oxidation (e.g., Ni 4+ ) in the Ni-600°C particles, and the relative stability of the bulk Ni oxidation in the Ni-900°C particles, support the studies of Jung et al. The results of the work herein suggest that Ni oxidation, in the surface regions of nickelrich, NMC-type particles, is inherently unstable, and perhaps linked to the onset of oxygen loss, even at voltages as low as ~4.3 V (Li/Li + ).
+
+With respect to these observations, there is still debate on whether or not, or at what point, the resultant, disordered rock-salt phases that form on the surfaces of NMC cathodes are overly detrimental, as a direct correlation between the extent of these phases and poor electrochemical performance has not been strictly established. 27 The large effort invested in this topic over the years begs the question as to whether or not surfaces, especially Ni-rich surfaces, can be stabilized at  all.  For  example,  are  the  reported  improvements  brought  about by typical  coatings, such  as Al2O3, related to structural/chemical stabilization of near-surface regions? Or, are the near-surface regions of nickel-rich, NMC-type oxides inherently unstable, regardless of such coatings?  In a preliminary effort to test the efficacy of Al2O3 to stabilize high Ni oxidation states in the nearsurface regions of charged cathodes, Al2O3-coated cathode electrodes were examined. Previous reports have indicated that electrode-level coatings applied by atomic layer deposition can help to improve the cycling stability of layered cathodes and, in some cases, outperform particle-level coatings. 27,28
+
+Figure 10(a) shows Ni K-edge XANES data of a Ni-600°C sample electrode, uncoated and coated with ~3 nm of Al2O3 as described in the microscopy data above. At 4.3 V the coated sample does not oxidize beyond that of the uncoated sample; the uncoated Ni-900°C at 4.3 V is also shown for comparison.
+
+Figure 10 - (a) Ni K-edge XANES data of a Ni600°C electrode uncharged and charged to 4.3 V. A Ni-600°C electrode, coated with ~3 nm of Al2O3, and charged to 4.3 V is shown for comparison. The uncoated  Ni-900°C,  charged  to  4.3  V,  is  also shown for comparison. (b) Ni K-edge XANES data of the Ni-600°C and Ni-900°C cathode electrodes, uncoated and charged to 4.3 V, and coated with ~3 nm of Al2O3 and charged to 4.4 V. (c) Ni K-edge XANES data collected in situ during charging to 4.4 V of a Ni-600°C/Al2O3 electrode. Ex situ data of  the  Ni-900°C  sample  at  4.3  V  is  shown  for comparison.
+
+<!-- image -->
+
+In  Figure  10(b),  both  Ni-600°C  and  Ni-900°C cathode  electrodes  were  coated  with  ~3  nm  of Al2O3 and charged to 4.4 V and compared with the uncoated electrodes charged to 4.3 V. Even though this  SOC  reaches  into  the  'Li2MnO3'  activation plateau, the Ni-900°C cathode continues to oxidize more than at 4.3 V. This is consistent with the fact that a majority of the Ni resides in the bulk of this sample  and  early  damage  related  to  the  onset  of activation and oxygen loss occurs in a more facile manner at the surfaces of Li- and Mn-rich particles.
+
+Furthermore,  it  has  been  shown  that  this  early oxygen activity is more heavily associated with LiMn  environments. 29 For the  coated  Ni-600°C cathode, with a larger fraction of surface Ni, and interesting phenomenon occurs. At 4.4 V the Ni Kedge  is  observed  to  distort  slightly  and  shift  to lower energy near the middle of the edge step with respect to the 4.3 V charge. This behavior, though not well understood, has been observed for highly charged, Ni-containing cathodes and may  be  related  to  the  onset  of  large-scale  reduction  of  near-surface  Ni δ+ and  the  limit  of  Ni oxidation.  Clearly,  the  Ni  in  the  Ni-600°C  cathode  begins  to  reduce  by  4.3  V  and  its  local
+
+environment undergoes additional changes at voltages above 4.3 V, even in the presence of a conformal, ~3 nm Al2O3 coating.
+
+Figure 10(c) shows Ni K-edge fluorescence data, collected in situ, during charging of a Ni600°C electrode, coated with ~3 nm of Al2O3, using a pouch cell as described in the supplemental information. In agreement with the ex situ data presented above, the Ni δ+ in the Ni-600°C electrode is not observed to oxidize beyond 4.3 V. For comparison, ex situ data from the Ni-900°C sample charged to 4.3 V, from 10(b)/(c), is shown (dashed line). The data in 10(c) demonstrate the ability of these model cathodes to enable measurements of surface-only, Ni δ+ species, in working cells, utilizing hard X-ray spectroscopy.
+
+The spectroscopic results herein correlate well with recent electrochemical studies of Al2O3 coatings on NMC cathodes, when conducted under relevant, full-cell conditions. In those studies, careful control was maintained throughout with the use of industrially prepared NMC powders on high-quality cathode electrodes, cycled under standardized conditions. Nevertheless, the performance of NMC//graphite full cells was not improved over uncoated, baseline cells under a variety of coating and cycling conditions, including particle-level coatings. 30 The observations herein may help to explain those results, at least in part, by revealing the apparent indifference to Al2O3 coatings of instabilities related to Ni δ+ near the surface of Ni-rich, NMC particles.
+
+## Conclusions
+
+The intention of the work presented herein was to establish a model system that would enable the study of electrochemically active Ni δ+ species located in the near-surface regions of NMC-type oxides, using hard X-ray techniques. This system provides a platform for studies aimed at testing, in working cells, the efficacy of various mitigation strategies such as additives, coatings, dopants, and high-voltage electrolyte formulations in stabilizing reactive surface species. XAS and STEM-EELS results have shown that electrochemically-active,  Ni 2+ cations  were  successfully doped into layered, R 3 ̅ m configurations of a Ni-free parent material. By controlling post-annealing conditions, STEM-EELS confirmed that active Ni 2+ could be preferentially concentrated toward the surface of particles resulting in a  larger fraction of the subsequent hard X-ray XAS signal originating  from  surface  as  opposed  to  bulk  Ni δ+ .  High  temperature  annealing  resulted  in  a distribution of active nickel deeper into the bulk of the parent  material. XAS data revealed an inability  of  near-surface  Ni  to  achieve  high  states  of  oxidation  relative  to  Ni  in  the  bulk.  A
+
+preliminary investigation into the efficacy of ALD coatings revealed that for electrodes coated with a uniform, ~3 nm layer of Al2O3, surface Ni δ+ species were not able to oxidize more than in uncoated electrodes. This result implies an inherent instability related to Ni oxidation in the nearsurface  regions  of  charged  cathodes  that  is  not  stabilized  by  the  use  of  Al2O3.  Therefore, modifications to the composition and/or structure of the near-surface regions of Ni-rich cathodes, which result in changes to metal-oxygen bonding (e.g., covalency), perhaps combined with more advanced surface-treatment materials and methods, represents a better strategy for enabling 'highvoltage' stability; specifically, above the limit of inherent cathode-oxygen instabilities for a given composition.
+
+## Supporting Information
+
+Supporting  information  includes  pouch-cell  assembly,  additional  microscopy/spectroscopy  of particle  surfaces,  additional  Ni  K-edge  XAS  data  on  Ni-doping,  and  Mn/Co  K-edge  XAS  of charged particles.
+
+## Acknowledgments
+
+Support from the Vehicle Technologies Office (VTO), Hybrid Electric Systems Program, David Howell (Manager), Battery R&amp;D, Peter Faguy (Technology Manager), at the U.S. Department of Energy, Office of Energy Efficiency and Renewable Energy, is gratefully acknowledged.
+
+XSD/PNC facilities at the Advanced Photon Source, and research at these facilities, are supported by  the  U.S.  Department  of  Energy-Basic  Energy  Sciences,  the  Canadian  Light  Source  and  its funding partners, the University of Washington, and the Advanced Photon Source.
+
+The pouch cells used in this article are from Argonne's Cell Analysis, Modeling and Prototyping (CAMP) Facility, which is supported within the core funding of the Applied Battery Research (ABR) for Transportation Program.
+
+The authors acknowledge Jian Zhu and Guoying Chen (LBNL) for synthesis of NMC-111 particles shown in Figure S2b.
+
+R.  Shahbazian-Yassar  acknowledges  the  financial  support  from  National  Science  Foundation DMR-1620901. S. Sharifi-Asl efforts are supported by Argonne National Lab award ANL-4J30361-0027A. This work made use of instruments in the Electron Microscopy Service (Research Resources Center, UIC)
+
+The submitted manuscript has been created by UChicago Argonne, LLC, Operator of Argonne National  Laboratory  ('Argonne').  Argonne,  a  U.S.  Department  of  Energy  Office  of  Science laboratory, is operated under Contract No. DE-AC02- 06CH11357.
+
+## References
+
+- (1)  Croy, J. R.; Abouimrane, A.; Zhang, Z. C. Next-generation lithium-ion batteries: The promise of near-term advancements. MRS Bulletin 2014 , 39 , 407-415.
+- (2)  Nitta, N.; Wu, F.; Lee, J. T.; Yushin, G. Li-ion battery materials: present and future. Materials Today 2015 , 18 , 252-264.
+- (3)  Jung, R.; Metzger, M.; Maglia, F.; Stinner, C.; Gasteiger, H. A. Oxygen Release and Its Effect on  the  Cycling  Stability  of  LiNixMnyCozO2  (NMC)  Cathode  Materials  for  Li-Ion  Batteries. J. Electrochem. Soc. 2017 , 164 , A1361-A1377.
+- (4)  Wen, J.; Yu, Y.; Chen, C. A Review on Lithium-Ion Batteries Safety Issues: Existing Problems and Possible Solutions. Mater. Express 2012 , 2 , 197-212.
+- (5)  Gilbert, J. A.; Bareno, J.; Spila, T.; Trask, S. E.; Miller, D. J.; Polzin, B. J.; Jansen, A. N.; Abraham, D. P. Cycling Behavior of NCM523/Graphite Lithium-Ion Cells in the 3-4.4 V Range: Diagnostic Studies of Full Cells and Harvested Electrodes. J. Electrochem. Soc. 2017 , 164 , A6054A6065.
+- (6)  Noh, H. J.; Youn, S.; Yoon, C. S.; Sun, Y. K. Comparison of the structural and electrochemical properties of layered Li[NixCoyMnz]O2 (x=1/3, 0.5, 0.6, 0.7, 0.8 and 0.85) cathode material for lithium-ion batteries. Journal of Power Sources 2013 , 233 , 121-130.
+- (7)  Wu, L. J.; Nam, K. W.; Wang, X. J.; Zhou, Y. N.; Zheng, J. C.; Yang, X. Q.; Zhu, Y. M. Structural Origin of Overcharge-Induced Thermal Instability of Ni-Containing Layered-Cathodes for High-Energy-Density Lithium Batteries. Chem. Mater. 2011 , 23 , 3953-3960.
+- (8)    Tornheim,  A.;  Sharifi-Asl,  S.;  Garcia,  J.C.;  Bareño,  J.;  Iddir,  H.;  Shahbazian-Yassar,  R.; Zhang, Z. Effect of electrolyte composition on rock salt surface degradation in NMC cathodes during high-voltage potentiostatic holds. 2018 , 55, 216-225.
+- (9)  Bak, S. M.; Hu, E. Y.; Zhou, Y. N.; Yu, X. Q.; Senanayake, S. D.; Cho, S. J.; Kim, K. B.; Chung, K. Y.; Yang, X. Q.; Nam, K. W. Structural Changes and Thermal Stability of Charged LiNixMnyCozO2 Cathode Materials Studied by Combined In Situ Time-Resolved XRD and Mass Spectroscopy. ACS App. Mater. Interfaces 2014 , 6 , 22594-22601.
+- (10)  Chen, Z. H.; Qin, Y.; Amine, K.; Sun, Y. K. Role of surface coating on cathode materials for lithium-ion batteries. J. Mater. Chem. 2010 , 20 , 7606-7612.
+- (11)  Yoon, W. S.; Balasubramanian, M.; Chung, K. Y.; Yang, X. Q.; McBreen, J.; Grey, C. P.; Fischer, D. A. Investigation of the charge compensation mechanism on the electrochemically Liion deintercalated Li1-xCo1/3Ni1/3Mn1/3O2 electrode system by combination of soft and hard x-ray absorption spectroscopy. J. Am. Chem. Soc. 2005 , 127 , 17479-17487.
+- (12)  Yoon, W. S.; Balasubramanian, M.; Yang, X. Q.; Fu, Z. G.; Fischer, D. A.; McBreen, J. Soft X-ray absorption spectroscopic study of a LiNi0.5Mn0.5O2 cathode during charge. J. Electrochem. Soc. 2004 , 151 , A246-A251.
+- (13)  Tian, C. X.; Nordlund, D.; Xin, H. L. L.; Xu, Y. H.; Liu, Y. J.; Sokaras, D.; Lin, F.; Doeff, M. M. Depth-Dependent Redox Behavior of LiNi0.6Mn0.2Co0.2O2. J. Electrochem. Soc. 2018 , 165 , A696-A704.
+- (14)  Croy, J. R.; Balasubramanian, M.; Kim, D.; Kang, S. H.; Thackeray, M. M. Designing HighCapacity, Lithium-Ion Cathodes Using X-ray Absorption Spectroscopy. Chem. Mater. 2011 , 23 , 5415-5424.
+- (15)  Hai, B.; Shukla, A. K.; Duncan, H.; Chen, G. Y. The effect of particle surface facets on the kinetic properties of LiMn1.5Ni0.5O4 cathode materials. J. Mater. Chem. A 2013 , 1 , 759-769.
+- (16)  Kraft, S.; Stumpel, J.; Becker, P.; Kuetgens, U. High resolution x-ray absorption spectroscopy with absolute energy Calibration for the determination of absorption edge energies. Review of Scientific Instruments 1996 , 67 , 681-687.
+- (17)  Ravel, B.; Newville, M. ATHENA, ARTEMIS, HEPHAESTUS: data analysis for X-ray absorption spectroscopy using IFEFFIT. Journal of Synchrotron Radiation 2005 , 12 , 537-541.
+- (18)  Ravel, B.; Newville, M. ATHENA and ARTEMIS: Interactive graphical data analysis using IFEFFIT. Physica Scripta 2005 , T115 , 1007-1010.
+- (19)  Bareno, J.; Balasubramanian, M.; Kang, S. H.; Wen, J. G.; Lei, C. H.; Pol, S. V.; Petrov, I.; Abraham, D. P. Long-Range and Local Structure in the Layered Oxide Li1.2Co0.4Mn0.4O2. Chem. Mater. 2011 , 23 , 2039-2050.
+- (20)    Croy,  J.  R.;  Gallagher,  K.  G.;  Balasubramanian,  M.;  Long,  B.  R.;  Thackeray,  M.  M. Quantifying  Hysteresis  and  Voltage  Fade  in  xLi2MnO3·(1-x)LiMn0.5Ni0.5O2  Electrodes  as  a Function of Li2MnO3 Content. J. Electrochem. Soc. 2014 , 161 , A318-A325.
+- (21)  Armstrong, A. R.; Holzapfel, M.; Novak, P.; Johnson, C. S.; Kang, S. H.; Thackeray, M. M.; Bruce, P. G. Demonstrating oxygen loss and associated structural reorganization in the lithium battery cathode Li[Ni0.2Li0.2Mn0.6]O2. J. Am. Chem. Soc. 2006 , 128 , 8694-8698.
+- (22)  Ohzuku, T.; Nagayama, M.; Tsuji, K.; Ariyoshi, K. High-capacity lithium insertion materials of  lithium  nickel  manganese  oxides  for  advanced  lithium-ion  batteries:  toward  rechargeable capacity more than 300 mAh·g -1 . J. Mater. Chem. 2011 , 21 , 10179-10188.
+- (23)  Gallagher, K. G.; Croy, J. R.; Balasubramanian, M.; Bettge, M.; Abraham, D. P.; Burrell, A. K.;  Thackeray,  M.  M.  Correlating  hysteresis  and  voltage  fade  in  lithium-  and  manganese-rich layered transition-metal oxide electrodes. Electrochem. Commun. 2013 , 33 , 96-98.
+- (24)  Kang, S. H.; Thackeray, M. M. Enhancing the rate capability of high capacity xLi2MnO3·(1x)LiMO2 (M = Mn, Ni, Co) electrodes by Li-Ni-PO4 treatment. Electrochem. Commun. 2009 , 11 , 748-751.
+- (25)  Shin, D.; Wolverton, C.; Croy, J. R.; Balasubramanian, M.; Kang, S. H.; Rivera, C. M. L.; Thackeray, M. M. First-Principles Calculations, Electrochemical and X-ray Absorption Studies of Li-Ni-PO4  Surface-Treated  xLi2MnO3·(1-x)LiMO2  (M  =  Mn,  Ni,  Co)  Electrodes  for  Li-Ion Batteries. J. Electrochem. Soc. 2012 , 159 , A121-A127.
+- (26)  Li, J.; Liu, H.; Xia, J.; Cameron, A.R.; Nie, M.; Botton, G.A.; Dahn, J.R. The Impact of Electrolyte Additives and Upper Cut-off Voltage on the Formation of a Rocksalt Surface Layer in LiNi0.8Mn0.1C0.1O2 Electrodes. J . Electrochem. Soc. 2017 , 4, A655-A665.
+- (27)  Park, J. S.; Mane, A. U.; Elam, J. W.; Croy, J. R. Amorphous Metal Fluoride Passivation Coatings Prepared by Atomic Layer Deposition on LiCoO2 for Li-Ion Batteries. Chem. Mater. 2015 , 27 , 1917-1920.
+- (28)  Park, J. S.; Mane, A. U.; Elam, J. W.; Croy, J. R. Atomic Layer Deposition of Al-W-Fluoride on LiCoO2 Cathodes: Comparison of Particle- and Electrode-Level Coatings. ACS Omega 2017 , 2 , 3724-3729.
+- (29)  Iddir, H.; Croy, J. R.; Gallagher, K. G.; Johnson, C.; Benedek, R.; Balasubramanian, M. Firstcharge  instabilities  of  layered-layered  lithium-ion-battery  materials. Phys.  Chem.  Chem.  Phys. 2015 , 17, 24382-24391.
+- (30)  Vaughey, J. T. Enabling High-Energy, High-Voltage Lithium-Ion Cells for Transportation Applications: Materials Characterization. DOE Vehicles Technologies Office Annual Review 2018 , BAT254 , https://www.energy.gov
+
+## Table of Contents Figure
+
+<!-- image -->

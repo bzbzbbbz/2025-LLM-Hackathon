@@ -1,0 +1,260 @@
+Simple Docling Extracted Data from: Unraveling the Rapid Redox Behavior of Li‐Excess 3d‐Transition Metal Oxides for.pdf
+============================================================
+
+Title: Unraveling the Rapid Redox Behavior of Li‐Excess 3d‐Transition Metal Oxides for
+Pages: 9
+Tables: 0
+Figures: 0
+
+MAIN TEXT:
+------------------------------
+<!-- image -->
+
+www.advenergymat.de
+
+## Unraveling the Rapid Redox Behavior of Li-Excess 3d-Transition Metal Oxides for High Rate Capability
+
+Wooyoung Jin, Seungjun Myeong, Jaeseong Hwang, Haeseong Jang, Jaekyung Sung, Youngshin Yoo, Min Gyu Kim,* and Jaephil Cho*
+
+Li-excess 3d-transition metal layered oxides are promising candidates in high-energy-density cathode materials for improving the mileage of electric vehicles. However, their low rate capability has hindered their practical application. The lack of understanding about the redox reactions and migration behavior at high C-rates make it di/uniFB03cult to design Li-excess materials with high rate capability. In this study, the characteristics of the atomic behavior that is predominant at fast charge/discharge are investigated by comparing cation-ordered and cation-disordered materials using X-ray absorption spectroscopy (XAS). The di/uniFB00erence in the atomic arrangement determines the dominance of the transition metal/oxygen redox reaction and the variations in transition metal-oxygen hybridization. In-depth electrochemical analysis is combined with operando XAS analysis to reveal electronically and structurally preferred atomic behavior when a redox reaction occurs between oxygen and each transition metal under fast charge/discharge conditions. This provides a fundamental insight into the improvement of rate capability. Furthermore, this work provides guidance for identifying high-energy-density materials with complex structural properties.
+
+## 1. Introduction
+
+The increasing demand for electric vehicles has led to the rising importance of the energy density and rate capability of Li-ion batteries. [1-4] Li-excess  3d-transition  metal  (TM)  layered  oxides (Li 1 + x Mn y Ni z Co1x -y -z O2)  have  been  recognized  as  pro  mising candidates  because  of  their  lower  cost  and  higher  reversible capacity  ( &gt; 250  mAh  g -1 )  compared  to  conventional  layered oxide cathodes. [5-7]   However, poor kinetic properties have been observed  in  the  initial  cycle  and  subsequent  cycles  owing  to
+
+<!-- image -->
+
+Dr. W. Jin, Dr. S. Myeong, J. Hwang, H. Jang, J. Sung, Y. Yoo, Prof. J. Cho Department of Energy Engineering and School of Energy and Chemical Engineering
+
+Ulsan National Institute of Science and Technology (UNIST)
+
+Ulsan 44919, Republic of Korea
+
+E-mail: jpcho@unist.ac.kr
+
+Dr. M. G. Kim
+
+Beamline Research Division
+
+Pohang Accelerator Laboratory (PAL)
+
+Pohang, Kyungbuk 37673, Republic of Korea
+
+E-mail: mgkim@postech.ac.kr
+
+The ORCID identification number(s) for the author(s) of this article can be found under https://doi.org/10.1002/aenm.201904092.
+
+DOI: 10.1002/aenm.201904092
+
+Adv. Energy Mater. 2020 , 10 , 1904092
+
+the  presence  of  the  Li 2 MnO3  phase. [8,9] During  Li 2 MnO3 phase activation,  latticeoxygen  oxidation  occurs  above  4.5  V  and the corresponding reduction occurs at the  end  of  discharge. [10-12]   Even  though such a redox reaction of oxygen contributes  to  the  high  capacity  of  Li-excess materials,  its  sluggish  kinetics  leads  to low  rate  capability. [13-15]   Furthermore,  the formation  of  a  solid  electrolyte  layer  on the  surface  and  surface  phase  transition, such as a spinel-like phase, can slow down the kinetics. [16,17] Previous studies have attempted to improve rate capability using the  following  methods:  1)  expansion  of Li-ion pathways by utilizing the 3D Li-ion di/uniFB00usion channel of spinel structures; [18,19] 2)  enhancing  structural  stability  through cation doping; [20-22] 3)  stabilization of surfaces and increase in electrical conductivity through  surface  modification. [23-26] These approaches  are  similar  to  the  methods employed to improve other cathode mate- rials.  However,  such  strategies  have  not  addressed  the  fundamental  cause  of  the  low  rate  capability  of  Li-excess  materials with the sluggish kinetics of the O-redox reaction. [9,14-15] Thus, it  is  necessary to focus on the fundamental reaction of the Liexcess material for improving rate capability.
+
+Toward these goals, the unique structural features (R 3 m + C2/m)  and  redox  reactions  (interplay  between  cationic/anionic redox) of Li-excess materials were observed using synchrotron-based  spectroscopy. [14,27-30] Nevertheless,  they  had the limitations of scanning speed in observations. For instance, previously  reported  operando  synchrotron  X-ray  absorption spectroscopy  (XAS)  identified  the  changes  in  the  local  atomic environment of TM atoms in a low-rate test (0.5 C-rate). [27]  Bulk sensitive  hard  X-ray  photoelectron  spectroscopy  and  soft  XAS were  used  (ex  situ  analysis)  for  elucidating  the  complete  anionic/cationic charge compensation mechanism. [14]  Each work is the  result  with  focus  on  the  interpretation  of  atomic  behavior under a slow scanning mode or ex situ conditions. Therefore, atomic  behavior  should  be  observed  within  minutes  to  accurately  interpret  the  redox  reactions  and  changes  in  structure during fast charge/discharge.
+
+In this work, we investigated the atomic behavior of Li-excess materials  for  high  rate  capability  by  comparing  the  ordered and  disordered  arrangement  of  oxygen-centered  cations.  The di/uniFB00erence  between  the  energy  retention  at  the  0.2  C  and  5  C
+
+<!-- image -->
+
+www.advancedsciencenews.com was  52%  in  a  cation-ordered  material  and  75.5%  in  a  cationdisordered material (1 C-rate = 60 min). By combining in-depth electrochemical analysis and operando XAS with soft XAS, we observed the di/uniFB00erence between the dominance of TM/O redox reactions and the di/uniFB00erences in surface and bulk TM-O hybridization  in  each  material.  It  showed  noticeable  electrochemical di/uniFB00erences,  particularly  in  the  discharge  process.  We  utilized operando fast scanning XAS analysis under fast discharge conditions to examine the reversibility of the redox reaction and the migration behavior in each TM to determine which electronic structure  and  redox  properties  led  to  superior  performance  at high  C-rates.  This  study  enables  us  to  extend  the  availability of Li-excess materials for high rate capability and broaden the understanding  of  analytical  methods  under  fast  charge/discharge conditions.
+
+## 2. Results and Discussion
+
+Li-excess  3dTM  layered  oxides  with  two  di/uniFB00erent  compositions are prepared using hydroxide coprecipitation followed by annealing at 850 ° C. [29]   The first is the conventional TM composition  of  Li 1.15 Mn0.51Ni0.17 Co0.17 O2  (denoted  as  LMR)  with  a long-range cation-ordered arrangement, which has the 2TM-O4Li configuration. [29,31,32] The second is Li 1.08 Mn0.55Ni0.33 Co 0.04O2 (denoted  as  LNMR),  where  the  configuration  is  a  localized cation-disordered arrangement (3TM-O-3Li or 4TM-O-2Li) ( Figure 1 a-c). [29,31,33,34] High-angle  annular  dark-field  scanning
+
+<!-- image -->
+
+www.advenergymat.de transmission  electron  microscopy  (HAADF-STEM),  as  shown in Figure 1b,c, illustrates the atomic arrangement of each material  along  the  [100] mono   zone  axis. [35]   The  physicochemical and structure characterization are described in Figures S1-S5, Supporting  Information.  As  the  Ni  content  increases,  the  atomic arrangement  becomes  more  disordered  and  the  superlattice peak  close  to  21 ° decreases,  as  shown  in  the  X-ray  Di/uniFB00raction  (XRD)  pattern  (Figure  S2,  Supporting  Information).  It  is believed  that  the  proportion  of  the  Li 2 MnO3 phase  in  the  Liexcess material is reduced or the phase is slightly dispersed in the  structure. [36,37] For  electrochemical  evaluation  with  a  positive electrode, the obtained powders were manufactured as an electrode with 10% conductive carbon and 10% binder (6 wt% polyvinylidene difluoride (PVDF)). Figure 1d,e presents the normalized initial charge and discharge profile of LMR and LNMR (Figure  S6,  Supporting  Information,  shows  the  initial  voltage profile of each material). The initial charge and discharge profiles represent two-step charge and S-shaped discharge, respectively. [38] It has been reported that above 4.5 V, that is, the second section  of  the  charge  process,  charge  capacity  is  achieved  by the O-redox reaction. [28,39,40]   The charge capacities of LMR and LNMR over 4.5 V are 145 mAh g -1  and 91 mAh g -1 , respectively, which account for 47% and 34% of the total charge capacity for each material. As the proportion of Ni (Ni 2 + /Ni 4 + ) increases, the capacity  available  to  the  TMs  increases  and  the  proportion  of O-redox  decreases.  Thus,  the  role  of  O-redox  activity  in  these materials  is  dissimilar,  which  can  a/uniFB00ect  the  modification  of oxygen network during the electrochemical reaction, resulting
+
+<!-- image -->
+
+Normalized capacity
+
+Figure 1. Materials characterization. a) Local atomic coordination of oxygen-centered octahedron. HAADF-STEM image of b) LMR and c) LNMR at [100] mono zone axis. Normalized initial voltage profile of d) LMR and e) LNMR. The labels 'TM' and 'O' denote the transition metal and oxygen redox reaction, respectively.
+
+<!-- image -->
+
+www.advancedsciencenews.com
+
+<!-- image -->
+
+www.advenergymat.de
+
+Figure 2. Electrochemical performance and analysis. a) Comparison of energy density retention with respect to discharge fixed rate capability of LMR and LNMR. b) Normalized voltage profile at 0.5 C and 3 C of each material. c) IR drop, d) overpotential, and e) Li-ion di/uniFB00usivity are calculated from GITT test. Red and blue colors represent LMR and LNMR, respectively.
+
+<!-- image -->
+
+in  a  di/uniFB00erence  in  the  initial  electrochemical  reversibility  and prolonged  redox  reaction.  As  a  result,  LMR  exhibits  a  large voltage di/uniFB00erence ( ≈ 1000 mV) in the initial cycle with an initial coulombic e/uniFB03ciency (CE) of 81.5%, which is the general characteristic of Li-excess 3dTM layered oxides. In contrast, LNMR shows a high initial CE (93.5%) and a relatively small voltage di/uniFB00erence (600-700 mV) (detailed electrochemical performance are  described  in  Figures  S6  and  S7,  Supporting  Information). Since LNMR has a TM-redox reaction that is superior to LMR, it has high reversibility during initial charge and discharge process. Therefore, we can judge that LNMR presents a relatively low level of the O-redox reaction upon Li 2 MnO 3  activation.
+
+The  rate  capabilities  of  LMR  and  LNMR  are  evaluated using  a  2032R  coin-type  half  cell.  The  loading  level  and  electrode density of all electrodes are 7-8 mg cm -2  and 2.1 g cm -3 , respectively.  The  charge  C-rate  is  fixed  at  0.5  C,  and  the  discharge C-rates range from 0.2 C to 5 C at an operating voltage of  2.0-4.6  V  (Figures  S2  and  S8,  Supporting  Information). Unlike  other  cathode  materials,  Li-excess  materials  are  characterized  by  decrease  in  average  voltage  and  capacity  as  the C-rate  increases.  We  indicate  energy  retention  instead  of  specific capacity on the y -axis, and the calculation method is shown in Figure S8, Supporting Information. The di/uniFB00erence between the  energy  densities  of  LMR  and  LNMR  at  0.2  C  and  5  C  is 52% and 75.5%, respectively. The di/uniFB00erence between the energy retention of LMR and LNMR is minor up to 1 C and significant after 3 C. Figure 2 b illustrates the voltage profile at 0.5 C and 3 C. As the capacity of LMR decreases from 0.5 C to 3 C, the voltage profile changes significantly, particularly in the plateau below 3.5 V. We also performed a rate capability test at a fixed discharge  C-rate  of  0.5  C  at  the  same  operating  voltage  and C-rate conditions. (Figure S9, Supporting Information). LNMR shows better rate performance compared to LMR, similar to the rate capability test at a fixed charge rate. The di/uniFB00erence between the charge capacity of LMR and LNMR at 0.2 C and 5 C is 68% and  85%,  respectively.  However,  there  is  no  noticeable  di/uniFB00erence in the redox peak.
+
+To  investigate  the  significant  decrease  in  the  voltage  and capacity of LMR under the fast discharging process, the galvanostatic intermittent titration technology (GITT) is applied for performing  in-depth  electrochemical  analysis  in  accordance with  intercalated  Li  (Figure  S10,  Supporting  Information).  As Li ions are intercalated, electrical resistance (IR drop) increases gradually  in  LMR  and  LNMR,  and  LNMR  shows  a  relatively
+
+<!-- image -->
+
+www.advancedsciencenews.com
+
+<!-- image -->
+
+www.advenergymat.de
+
+Figure 3. Redox behavior of LMR and LNMR as deduced by XAS with dQ/dV plot. a) dQ/dV profiles at 0.5 C obtained from voltage profiles. b) Variation of a maximum height of the rising edge peak from Mn, Ni, and Co K-edges Operando XANES spectra. Oxygen K-edge soft XAS spectra in onward charged and discharged states of LMR using c) TEY and d) TFY mode, and of LNMR using e) TEY and f) TFY mode. g) Calculation of di/uniFB00erence in TM-O hybridization at onward charged and discharged state.
+
+<!-- image -->
+
+low  electrical potential di/uniFB00erence.  Even  though  overpotential  exhibits  the  same  tendency with IR drop, it is noteworthy that  the  overpotential  of  LMR  increases  rapidly  in  the  vicinity of  30%  of  the  depth  of  discharge  (DoD),  which  is  equivalent to  3.5  V  in  the  voltage  profile.  Furthermore,  we  performed GITT analysis at di/uniFB00erent C-rates (0.5 C, 1 C, and 3 C) and conduct  electrochemical  impedance  spectroscopy  measurement (Figures  S10-S12,  Supporting  Information).  Electrical  resistance  and  overpotential  increase  with  the  C-rate.  In  particular, a  noticeable  change  is  observed  in  resistance  of  LMR  in  the regions of less than 30% DoD. Figure 2e shows that the Li-ion di/uniFB00usivities  of  the  two  materials  are  comparable  at  the  beginning  of  the  discharge.  However,  under  the  30%  DoD  region, LMR  shows  rapid  decline  in  Li-ion  di/uniFB00usivity.  In  contrast, LNMR maintains high Li-ion di/uniFB00usivity throughout all regions of discharge, which is consistent with the tendency of overpotential.  Similarly,  at  the  fixed  discharge  rate,  LNMR  showed better  Li-ion  di/uniFB00usivity  and  lower  resistance  in  the  region  of less than 20% SoC (Figure S9, Supporting Information). Based on the GITT calculations, we can conclude that the increase in overpotential is more closely related to Li-ion di/uniFB00usivity rather than electrical  resistance.  The  decrease  of  Li-ion  di/uniFB00usivity  in LMR is due to  the  O-redox  reaction  in  the  region  more  than 4.5  V  since  the  material  is  composed  of  2TM-O-4Li  arrangement.  However,  in  the  case  of  LNMR  with  dissimilar  redox behavior  owing  to  the  presence  of  3TM-O-3Li  or  4TM-O-2Li (LiTMO2-like  or  disordered  LiTMO 2 -like  structure),  TM-redox reaction is more dominant than the reaction of O-redox. Thus, it  seems  to  have  a/uniFB00ected  the  migration  barrier  and  pathway of  Li-ions.  Furthermore, it is inferred that the electrochemical and  structural  properties  of  the  pre-disordered  arrangement that occupies Li sites in advance are di/uniFB00erent from those of the cation-mixing layer produced by the electrochemical reaction.
+
+Figure 3 a presents the dQ/dV plots at 0.5 C after the initial cycle of each material. The 3.5 V peak in the discharge process coincides  with  the  region  where  Li-ion  di/uniFB00usivity  decreases rapidly in Figure 2e. Previous research reported that the redox activity of Mn 3 + /Mn 4 + and O 2 -/O n -contributes to the low potential region. [14]  Even though the discharge capacities of both materials are comparable, LNMR has a relatively small 3.5 V redox peak  compared  to  LMR.  It  is  considered  that  the  remaining capacity  is  achieved  by  the  redox  behavior  of  Ni  and  Co (Figure S13 and Table S1, Supporting Information). Operando Mn, Ni, and Co K-edges X-ray absorption near edge structure (XANES) spectroscopy was performed at 0.5 C using a pouchtype Li metal half cell to reveal the di/uniFB00erent redox peaks of in the  dQ/dV  plots  (Figures  S14-S16,  Supporting  Information). Compared with the Mn K-edge, Ni and Co K-edges exhibit more dynamic behavior during the electrochemical reaction. The variation in TM oxidation states is shown in Figure 3b, which were
+
+16146840, 2020, 17, Downloaded from https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.201904092 by Universitäts- und Landesbibliothek Münster, Wiley Online Library on [11/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+<!-- image -->
+
+www.advancedsciencenews.com obtained  from  the  maximum  height  of  the  rising  edge  peak. In  the  region  of  less  than  30%  discharge  (region  of  less  than 3.5 V in the dQ/dV plot), only the reduction state at Mn K-edge changes in the case of LMR, while there is a large change in the reduction state of the Ni and Co K-edges and a slight change in the Mn K-edge in the case of LNMR ( ∆ Reduction (Mn, Ni, Co): 0.215, 1.757, 0.43 eV, respectively). Even though LNMR exhibits considerably larger changes in the Ni and Co K-edges in reduction at the 3.5 V peak, the achieved capacity is lower than that of LMR. Thus, the 3.5 V redox peak of LMR is attributed to the O-redox reaction and that of LNMR is mainly attributed to the Ni/Co-redox  reaction.  Furthermore,  the  electron-hole  state  of TM-O bonding a/uniFB00ects TM/O redox activity. [41-43] To  investigate the degree of TM-O hybridization that is related to redox reactivity and structural stability, the depopulation of the hybridized O2p-TM3d bands (534 eV) of each material is determined using O K-edge  soft  XAS. [28,43] Two  modes  of  soft  XAS  are  utilized. One is total electron yield (TEY) ≈ 10 nm, and the other is total fluorescence  yield  (TFY) ≈ 500  nm.  LMR  shows  a  significant variation in TM-O hybridization between charge and discharge in  the  TEY  mode  (45%).  However,  a  change  of  only  13.7%  is observed in the TFY mode. This suggests that the movement of  electrons  is  biased  towards  the  surface  to  a  certain  extent
+
+<!-- image -->
+
+www.advenergymat.de
+
+(Figure 3c,d,g). Additionally, LNMR has similar levels of TM-O hybridization  in  the  TEY  and  TFY  modes,  that  is,  36.9%  and 32.6%,  respectively.  This  implies  that  the  movement  of  electrons on the surface and in the bulk is balanced (Figure 3e-g).
+
+We  performed  XAS  analysis  at  0.5  C  to  observe  the  variation  in  redox  behavior  induced  by  local  structural  di/uniFB00erences. According to the XAS analysis results shown in Figure 3, the redox mechanisms of the two materials are essentially di/uniFB00erent. However, no significant di/uniFB00erence is observed in rate capability below 1 C. There is considerable di/uniFB00erence in electrochemical properties above 3 C. Hence, it is necessary to observe the TM behavior  at  3  C  in  real  time.  Thus,  we  examine  the  Mn,  Ni, and Co K-edges at 3 C using operando XAS (Figures S17-S20, Supporting  Information).  All  discharge  XAS  data  are  measured using the on-the-fly mode with a scanning time of 1 min for  one  spectrum per minute. To elucidate the dependence of atomic behavior on rate capability, di/uniFB00erential  XANES  spectra are presented with a 2D contour map and a dQ/dV comparison profile in Figure 4 a,b. Figure S8 and Table S1, Supporting Information, show the variation in capacity at dQ/dV peaks at 0.5 C and 3 C. As the C-rate increases from 0.5 to 3 C, the capacity of LMR reduces by 57% in the region below 3.5 V and 78% in the  region  above  3.5  V.  Figure  4c-e  shows  the  comparison  of
+
+Figure 4. Operando XANES characterization of LMR and LNMR at 3 C. Mn, Ni, Co K-edge operando XANES spectra at the 0.5 C charge and 3 C discharge. 2D contour map with dQ/dV comparison profiles of a) LMR and b) LNMR. Crossline intensity from 2D contour map of di/uniFB00erential XANES spectra in A and B peaks at c) Mn K-edge, d) Ni K-edge, and e) Co K-edge, respectively.
+
+<!-- image -->
+
+<!-- image -->
+
+www.advancedsciencenews.com crossline intensity for each TM through the 2D contour map of XANES, which is plotted by di/uniFB00erentiated XANES peaks in peak A (lower energy region) and peak B (higher energy region). The variation between two peaks A and B in crossline intensity tends to  be  the  same  as  the  degree  of  TM  oxidation,  which  makes it  easy  to  observe  the  trend  of  electronic  reversibility  of  each TM.  LMR  and  LNMR  exhibit  negligible  di/uniFB00erence  in  reversibility at the Mn K-edge, while LMR presents strongly irreversible  behavior  at  the  Ni  and  Co  K-edges  (Table  S2,  Supporting Information,  shows  energy  value  of  the  onward  discharged, charged, and discharged state of each material). Notably, the Co K-edge in LMR indicates that the redox reaction hardly occurs at  the  end  of  the  discharge  region  (Figure  4e).  In  contrast, LNMR exhibits reversible  behavior  at  the  Ni  and  Co  K-edges. Moreover,  at  the  Mn  pre-edge  peak  shown  in  Figure  S21, Supporting  Information,  LNMR  shows  a  recovery  of  91.7% despite the 3 C-rate discharge, whereas the reversibility of LMR is only 81%. Accordingly, we confirm that the electronic reversibility of Ni and Co in LNMR is higher at 3 C, resulting in better electrochemical properties.
+
+To  investigate  the  migration  behavior  of  each  atom  in  conjunction with the changes in the electronic structure, the radial distribution  functions  (RDFs)  of  the  Mn,  Ni,  and  Co  K-edge k3 χ (k) extended X-ray absorption fine structure (EXAFS) spectra  (Figures  S19  and  S20,  Supporting  Information)  are
+
+<!-- image -->
+
+www.advenergymat.de plotted  with  a  2D  contour  map  in Figure 5 a,b.  The  shell distance around the TM and structural information are shown in Figure S22, Supporting Information. Figure 5a signifies the TM-O and TM-TM bonding of each material, and the variation in  the  RDF  of  each  transition  metal  is  shown  in  Figure  S23, Supporting  Information.  Compared  to  LNMR,  LMR  exhibits higher structural reversibility at Mn-O and Mn-TM peaks. However,  Ni/Co-O  and  Ni/Co-TM  peaks  show  relatively  irreversible migration behavior, which is consistent with the operando XANES results shown in Figure 4d,e and Table S2, Supporting Information.  In  particular,  the  Ni/Co-TM  peaks  in  LMR  not only show almost immobilized behavior at interatomic distance during discharge, but they are also characterized by irreversible radial  distribution.  On  the  contrary,  LNMR  shows  reversible migration behavior and reactivity in all bondings except Mn-O and Mn-TM peaks.
+
+Figure  5b  shows  the  Li-ion  sites  where  the  interatomic distance  from  the  TM  is ≈ 3.6 Å .  Li  ions  are  colocated  in  the octahedral  position  in  the  TM  ( ≈ 2.6  Å).  This  makes  it  difficult  to  distinguish  the  behavior  of  Li  ions  alone.  However, only  Li  ions  can  be  located  at  the  Li-TM  bonding  distance ( ≈ 3.6 Å )  (Figure  S22,  Supporting  Information). [44]   As  shown by  the  Mn-Li  peak  during  the  discharge  process,  numerous Mn  ions  migrate  to  Li  sites  in  both  materials,  which  causes poor Li-ion di/uniFB00usivity  around Mn. In contrast, Ni/Co-Li peaks
+
+Figure 5. Atomic selective structural analysis. All evaluations were performed at 0.5 C charge and 3 C discharge. Comparison of Mn, Ni, and Co K-edge k3 χ (k) EXAFS spectra (2D contour map), which represent a) TM-O and TM-TM peak, and b) TM-Li peak.
+
+<!-- image -->
+
+16146840, 2020, 17, Downloaded from https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.201904092 by Universitäts- und Landesbibliothek Münster, Wiley Online Library on [11/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+<!-- image -->
+
+www.advancedsciencenews.com
+
+<!-- image -->
+
+www.advenergymat.de
+
+Figure 6. Summary of atomic behavior in each material. dQ/dV profile of a) LMR and b) LNMR showing the characteristics of the redox reaction. c,d) Schematic diagram of redox reaction propensity below 3.5 V.
+
+<!-- image -->
+
+exhibit a di/uniFB00erent behavior compared to the Mn-Li peak. The Ni and Co ions in LMR continuously migrated to Li sites from the beginning of the discharge process. In the discharge region corresponding to the 3.5 V peak in the dQ/dV plot, a shifted peak is observed only at the Co-Li bond in LMR. It can be concluded that these results are caused by the severe degeneration of the O-redox reaction due to the structural environment at 3 C. In the case of LNMR, a high reversible reduction reaction occurs in the Ni/Co ions. Furthermore, Ni and Co ions hardly migrate toward  Li  sites  during  discharge.  Consequently,  the  result  of structural reversibility is consistent with the result of electronic reversibility obtained from XANES shown in Figure 4.
+
+Figure 6 illustrates the characteristics of the redox reaction in each material. In LMR with the 2TM-O-4Li configuration, the redox reaction is  biased  towards  surface  electron  transfer  and the capacity achieved in the 3.5 V region is derived mainly from the  O-redox  reaction.  The  electrochemical  evaluation  depicted in Figure 2 and the operando XAS analysis results provided in Figures  4  and  5  and  Table  S2,  Supporting  Information,  show poor electrochemical performance owing to low electronic and structural reversibility at 3 C. In particular, the atomic behavior in the region below 3.5 V is a major cause of capacity reduction. As  the  Mn/O-redox  reaction  has  sluggish  kinetics,  the  redox reaction on the surface and in the bulk can be biased towards one  side  when  a  high  load  current  is  applied.  Therefore,  the redox  reaction  below  3.5  V  is  as  shown  in  Figure  6c.  Since the  O-redox  reaction  prevails,  the  rate  of  the  reaction  rapidly decreases as the C-rate increases, causing a large loss of capacity (58% capacity is maintained at 3 C). In contrast, in LNMR with the  3TM-O-3Li  or  4TM-O-3Li  arrangement,  the  movement  of electrons  on  the  surface  and  in  the  bulk  is  balanced.  As  the redox reaction of Ni and Co with fast kinetic properties occurs in all discharge regions, it is possible to realize high electronic and structural reversibility at 3 C, resulting in the maintenance of high capacity. LNMR is able to achieve high capacity below the 3.5 V region even if the C-rate increases because the redox reaction  of  the  TM  predominates  (Figure  6d).  Despite  the decrease in capacity caused by the O-redox reaction at the high C-rate,  the  redox  reaction  of  Ni  and  Co  reliably  contributes  to capacity, achieving an excellent rate performance (87% capacity is maintained at 3 C).
+
+## 3. Conclusion
+
+The  di/uniFB00erence  in  the  atomic  arrangement  of  the  oxygen-centered octahedron influences the electronic and structural reversibility of Li-excess materials. Contrary to previous research that improves existing materials, this approach is based on changes in intrinsic properties. The  di/uniFB00erence in energy  retention between 0.2 and 5 C is more than 30%. By combining in-depth electrochemical  analysis  and  XAS  analysis,  we  reveal  that  the dominance of the TM/O redox reaction and the uniformity of the TM-O hybridization depend on the atomic arrangement of
+
+16146840, 2020, 17, Downloaded from https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.201904092 by Universitäts- und Landesbibliothek Münster, Wiley Online Library on [11/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+<!-- image -->
+
+www.advancedsciencenews.com the oxygen-centered octahedron. There is a noticeable di/uniFB00erence in  30%  DoD  region  ( &lt; 3.5  V  in  discharge),  where  the  cationordered material achieves high capacity owing to the dominant O-redox reaction, leading to high resistance and poor Li-ion diffusivity. The capacity achieved in the 30% DoD region decreases as the C-rate increase because of the disproportionate redox reaction on the surface and in the bulk and the sluggish kinetics of the O-redox reaction. In contrast, there is a balanced redox reaction of Ni and Co on the surface and in the bulk throughout the discharge region in the cation-disordered material. We directly observe  the  variation  in  the  chemical  state  and  local  coordination of each element during electrochemical cycling at 3 C using operando fast scanning XAS. Despite the high C-rate, the material  with  superior  rate  performance  facilitates  the  di/uniFB00usion  of Li ions owing to its reversible migration and the redox behavior of  Ni  and  Co.  By  comparing  materials  with  di/uniFB00erent  cation arrangements,  our  work  clearly  demon  strates  the  rapid  redox behavior of Li-excess materials for achieving high rate capability. We  believe  that  our  investigation  under  fast  C-rate  conditions contributes to the development of high-energy-density materials capable of fast charging and discharging.
+
+## 4. Experimental Section
+
+Fabrication  of  Materials :  Li 1.15 Mn0.51 Ni 0.17 Co0.17 O2  (denoted  as  LMR) and Li 1.08 Mn0.55Ni0.33 Co 0.04O2 (denoted LNMR) were prepared by using  co-precipitation  method.  In  order  to  prepare  precursors  for each  substance,  a  solution  containing  stoichiometric  MnSO 4 ·5H 2 O, NiSO4∙6H2O, and CoSO4∙7H2O was prepared. The molar ratios of Mn, Ni, and Co in each precursor (Mn0.6Ni0.2 Co 0.2 (OH) 2  Mn 0.6 Ni0.35 Co0.05(OH)2) are 60:20:20 and 60:36:04, respectively. The concentration of the prepared transition  metal  solution  was  3.0  mol  L -1   and  NaOH  of  3  mol  L -1 was  prepared  and  reacted  in  a  20  L  continuously  stirred  tank  reactor with a cheating agent (NH4OH 4 mol L -1 ). The obtained precursors were rinsed several times with distilled water to remove impurities and dried in a 120 ° C oven for 10 h. LMR and LNMR were synthesized by mixing with gained precursor and amounts of LiOH, then heated to 450 ° C for 5 h and 850 ° C for 10 h under air condition.
+
+Physico-Chemical  Characterization : The  crystallinity was  identified by  powder  XRD  (D/Max2000,  Rigaku)  using  Cu-K α radiation.  Rietveld refinements were performed by using the Fullprof program. The morphology and crystal structure were estimated by using  SEM (Verios 460, FEI) and high-resolution transmission electron microscopy (JEM-ARM300F,  JEOL),  respectively.  TEM  samples  were  prepared  by focused  ion  beam  (FEI  Helios  Nano  Lab  450).  Operando  transition metal (TM = Mn, Ni, Co) K-edge XAS, XANES and EXAFS, were collected on the BL10C beam line (WEXAFS) at the Pohang light source (PLS-II) with top-up mode operation under a ring current of 360 mA at 3.0 GeV. Soft  X-ray  absorption  spectroscopy  data  were  obtained  at  the  Pohang Light  Source  (10A  beam  line)  using  the  monochromatic  soft  X-rays  of the synchrotron source.
+
+Operando X-Ray Absorption Spectroscopy : All XAS data were measured using  on-the-fly  mode  with  scanning  time  of  1  min  for  one  spectrum per every 1 min. Under the 0.5 C-rate charging and 3 C-rate discharging, XAS spectra above 20 scans in discharging (3 C-rate = 20 min) had been acquired independently for all electrodes.
+
+Electrochemical  Characterization :  All  electrochemical  evaluations  in this  manuscript  were  performed  by  using  2032  coin-type  cells  under the  same  conditions  on  each  material.  Slurry  of  positive  electrodes were composed of 80 wt% active materials, 10 wt% carbon black, and 10 wt% PVDF binder with additional solvent using N -methyl-2pyrrolidone. The obtained slurry was casted at 7-8 mg cm -2  on aluminum foil and then calendaring process was performed. Electrochemical cells were assembled in dried argon-filled glove box. The electrolyte was used
+
+<!-- image -->
+
+www.advenergymat.de
+
+1.3 m LiPF6 in ethylene carbonate/diethylene carbonate (EC/DEC = 3:7) with 10% of fluoroethylene carbonate. Initial electrochemical evaluation was  carried  out  between  2.0  and  4.6  V  at  0.1  C-rate,  kept  at  4.6  V until  current  decreased  to  0.05  C-rate  at  charged  state.  In  addition, electrochemical  cycle  test  at  room  temperature  (25 ° C)  and  high temperature  (60 ° C)  were  conducted  at  2-4.6  V  with  charge  and discharge C-rates of 0.5 C and 1 C, respectively.
+
+## Supporting Information
+
+Supporting  Information  is  available  from  the  Wiley  Online  Library  or from the author.
+
+## Acknowledgements
+
+W.J. and S.M. contributed equally to this work. This work was supported by  the  2020  Research  Funds  (1.200029.1)  of  Ulsan  National  Institute of Science and Technology (UNIST). This research was also supported by  Basic  Science  Research  Program  through  the  National  Research Foundation  of  Korea  (NRF)  funded  by  the  Ministry  of  Education (2019R1A6A3A13095900).
+
+## Conflict of Interest
+
+The authors declare no conflict of interest.
+
+## Keywords
+
+layered oxides, lithium-ion batteries, rate capability
+
+Received: December 12, 2019 Revised: February 12, 2020
+
+Published online: March 18, 2020
+
+- [1]  J. M. Tarascon, M. Armand, Nature 2001 , 414 , 359.
+- [2]  J. W. Choi, D. Aurbach, Nat. Rev. Mater. 2016 , 1 , 16013.
+- [3]  S. Chu, Y . Cui, N. Liu, Nat. Mater. 2017 , 16 , 16.
+- [4]  R. Schmuch, R. Wagner, G. Hörpel, T. Placke, M. Winter, Nat. Energy 2018 , 3 , 267.
+- [5]  J.  Hong,  H.  Gwon,  S.-K.  Jung,  K.  Ku,  K.  Kang, J.  Electrochem.  Soc. 2015 , 162 , A2447.
+- [6]  J.  Zheng,  S.  Myeong,  W.  Cho,  P.  Yan,  J.  Xiao,  C.  Wang,  J.  Cho, J.-G. Zhang, Adv. Energy Mater. 2017 , 7 , 1601284.
+- [7]  G. Assat, J.-M. Tarascon, Nat. Energy 2018 , 3 , 373.
+- [8]  S.-H. Kang, M. M. Thackeray, Electrochem. Commun. 2009 , 11 , 748.
+- [9]  X.  Yu,  Y.  Lyu,  L.  Gu,  H.  Wu,  S.  M.  Bak,  Y .  Zhou,  K.  Amine, S. N. Ehrlich, H. Li, K. W. Nam, Adv. Energy Mater. 2014 , 4 , 1300950.
+- [10]  C.  Johnson,  J.  Kim,  C.  Lefief,  N.  Li,  J.  Vaughey,  M.  Thackeray, Electrochem. Commun. 2004 , 6 , 1085.
+- [11]  M. N. Ates, S. Mukerjee, K. Abraham, J. Electrochem. Soc. 2015 , 162 , A1236.
+- [12]  P.  E.  Pearce,  A.  J.  Perez,  G.  Rousse,  M.  Saubanère,  D.  Batuk, D. Foix, E. McCalla, A. M. Abakumov, G. V. Tendeloo, M.-L. Doublet, Nat. Mater. 2017 , 16 , 580.
+- [13]  D.-H. Seo, J. Lee, A. Urban, R. Malik, S. Kang, G. Ceder, Nat. Chem. 2016 , 8 , 692.
+- [14]  G. Assat, D. Foix, C. Delacourt, A. Iadecola, R. Dedryvère, J.-M. Tarascon, Nat. Commun. 2017 , 8 , 2219.
+
+<!-- image -->
+
+www.advancedsciencenews.com
+
+- [15]  J. Hong, W. E. Gent, P. Xiao, K. Lim, D.-H. Seo, J. Wu, P.  M.  Csernica,  C.  J.  Takacs,  D.  Nordlund,  C.-J.  Sun, Nat.  Mater. 2019 , 18 , 256.
+- [16]  Q.  Wang,  J.  Liu,  A.  V.  Murugan,  A.  Manthiram, J.  Mater.  Chem. 2009 , 19 , 4965.
+- [17]  B. Xu, C. R. Fell, M. Chi, Y . S. Meng, Energy Environ. Sci. 2011 , 4 , 2223.
+- [18]  F.  Wu,  N.  Li,  Y .  Su,  H.  Shou,  L.  Bao,  W.  Yang,  L.  Zhang,  R.  An, S. Chen, Adv. Mater. 2013 , 25 , 3722.
+- [19]  B. Song, H. Liu, Z. Liu, P. Xiao, M. O. Lai, L. Lu, Sci. Rep. 2013 , 3 , 3094.
+- [20]  Y . Wang, Z. Yang, Y . Qian, L. Gu, H. Zhou, Adv. Mater. 2015 , 27 , 3915.
+- [21]  Y .  X.  Wang,  K.  H.  Shang,  W.  He,  X.  P.  Ai,  Y .  L.  Cao,  H.  X.  Yang, ACS Appl. Mater. Interfaces 2015 , 7 , 13014.
+- [22]  J.-H. Park, J. Lim, J. Yoon, K.-S. Park, J. Gim, J. Song, H. Park, D. Im, M. Park, D. Ahn, Dalton Trans. 2012 , 41 , 3053.
+- [23]  B. Song, C. Zhou, Y. Chen, Z. Liu, M. O. Lai, J. Xue, L. Lu, RSC Adv. 2014 , 4 , 44244.
+- [24]  J. Zhang, H. Zhang, R. Gao, Z. Li, Z. Hu, X. Liu, Phys. Chem. Chem. Phys. 2016 , 18 , 13322.
+- [25]  J. Liu, Q. Wang, B. Reeja-Jayan, A. Manthiram, Electrochem. Commun. 2010 , 12 , 750.
+- [26]  X.  Bian,  Q.  Fu,  H.  Qiu,  F.  Du,  Y .  Gao,  L.  Zhang,  B.  Zou,  G.  Chen, Y. Wei, Chem. Mater. 2015 , 27 , 5745.
+- [27]  T. Kim, B. Song, A. J. Lunt, G. Cibin, A. J. Dent, L. Lu, A. M. Korsunsky, Chem. Mater. 2016 , 28 , 4191.
+- [28]  W. E. Gent, K. Lim, Y. Liang, Q. Li, T. Barnes, S.-J. Ahn, K. H. Stone, M. McIntire, J. Hong, J. H. Song, Nat. Commun. 2017 , 8 , 2091.
+- [29]  S.  Myeong,  W.  Cho,  W.  Jin,  J.  Hwang,  M.  Yoon,  Y .  Yoo,  G.  Nam, H. Jang, J.-G. Han, N.-S. Choi, Nat. Commun. 2018 , 9 , 3285.
+- [30]  Z.  Xu,  Z.  Jiang,  C.  Kuai,  R.  Xu,  C.  Qin,  Y .  Zhang,  M.  M.  Rahman, C. Wei, D. Nordlund, C.-J. Sun, X. Xiao, X. W. Du, K. Zhao, P. Yan, Y. Liu, F. Lin, Nat. Commun. 2020 , 11 , 1.
+
+<!-- image -->
+
+www.advenergymat.de
+
+- [31]  H.  Yu,  Y .-G.  So,  A.  Kuwabara,  E.  Tochigi,  N.  Shibata,  T.  Kudo, H. Zhou, Y. Ikuhara, Nano Lett. 2016 , 16 , 2907.
+- [32]  K. Luo, M. R. Roberts, N. Guerrini, N. Tapia-Ruiz, R. Hao, F. Massel, D. M. Pickup, S. Ramos, Y.-S. Liu, J. Guo, J.  Am. Chem. Soc. 2016 , 138 , 11211.
+- [33]  K.  A.  Jarvis,  Z.  Deng,  L.  F.  Allard,  A.  Manthiram,  P.  J.  Ferreira, Chem. Mater. 2011 , 23 , 3614.
+- [34]  K.  A.  Jarvis,  Z.  Deng,  L.  F.  Allard,  A.  Manthiram,  P.  J.  Ferreira, J. Mater. Chem. 2012 , 22 , 11550.
+- [35]  C.  Genevois,  H.  Koga,  L.  Croguennec,  M.  Ménétrier,  C.  Delmas, F. Weill, J. Phys. Chem. C 2015 , 119 , 75.
+- [36]  J.  Liu,  L.  Chen,  M.  Hou,  F.  Wang,  R.  Che,  Y .  Xia, J.  Mater.  Chem. 2012 , 22 , 25380.
+- [37]  J.-K. Noh, S. Kim, H. Kim, W. Choi, W. Chang, D. Byun, B.-W. Cho, K. Y. Chung, Sci. Rep. 2015 , 4 , 4847.
+- [38]  G.  Assat,  S.  L.  Glazier,  C.  Delacourt,  J.-M.  Tarascon, Nat.  Energy 2019 , 4 , 647.
+- [39]  K. Luo, M. R. Roberts, R. Hao, N. Guerrini, D. M. Pickup, Y.-S. Liu, K. Edström, J. Guo, A. V. Chadwick, L. C. Duda, Nat. Chem. 2016 , 8 , 684.
+- [40]  M.  Oishi,  C.  Yogi,  I.  Watanabe,  T.  Ohta,  Y .  Orikasa,  Y .  Uchimoto, Z. Ogumi, J. Power Sources 2015 , 276 , 89.
+- [41]  F.  Lin,  D.  Nordlund,  T.  Pan,  I.  M.  Markus,  T.-C.  Weng,  H.  L.  Xin, M. M. Doe/uniFB00, J. Mater. Chem. A 2014 , 2 , 19833.
+- [42]  D. N. Mueller, M. L. Machala, H. Bluhm, W. C. Chueh, Nat. Commun. 2015 , 6 , 6097.
+- [43]  M.  Oishi,  K.  Yamanaka,  I.  Watanabe,  K.  Shimoda,  T.  Matsunaga, H. Arai, Y. Ukyo, Y. Uchimoto, Z. Ogumi, T. Ohta, J.  Mater. Chem. A 2016 , 4 , 9293.
+- [44]  T. Sarkar, K. R. Prakasha, M. D. Bharadwaj, A. S. Prakash, Phys. Chem. Chem. Phys. 2017 , 19 , 31724.

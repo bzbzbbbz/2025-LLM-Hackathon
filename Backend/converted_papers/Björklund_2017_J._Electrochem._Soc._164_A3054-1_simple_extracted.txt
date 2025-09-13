@@ -1,0 +1,148 @@
+Simple Docling Extracted Data from: Björklund_2017_J._Electrochem._Soc._164_A3054-1.pdf
+============================================================
+
+Title: Björklund_2017_J._Electrochem._Soc._164_A3054-1
+Pages: 6
+Tables: 0
+Figures: 0
+
+MAIN TEXT:
+------------------------------
+<!-- image -->
+
+## How the Negative Electrode Influences Interfacial and Electrochemical Properties of LiNi1/3Co1/3Mn1/3O2 Cathodes in Li-Ion Batteries
+
+<!-- image -->
+
+<!-- image -->
+
+Erik Bj‹ orklund, a Daniel Brandell, a Maria Hahlin, b Kristina Edstr‹ om, a and Reza Younesi a,z a Department of Chemistry-¯ngstr¤ om Laboratory, Uppsala University, Uppsala SE-75121, Sweden b Department of Physics and Astronomy, Uppsala University, Uppsala SE-75120, Sweden
+
+The cycle life of LiNi1/3Co1/3Mn1/3O2 (NMC) based cells are significantly influenced by the choice of the negative electrode. Electrochemical testing and post mortem surface analysis are here used to investigate NMC electrodes cycled vs . either Li-metal, graphite or Li4Ti5O12 (LTO) as negative electrodes. While NMC-LTO and NMC-graphite cells show small capacity fading over 200 cycles, NMC-Li-metal cell suffers from rapid capacity fading accompanied with an increased voltage hysteresis despite the almost unlimited access of lithium. X-ray absorption near edge structure (XANES) results show that no structural degradation occurs on the positive electrode even after &gt; 200 cycles, however, X-ray photoelectron spectroscopy (XPS) results shows that the composition of the surface layer formed on the NMC cathode in the NMC-Li-metal cell is largely different from that of the other NMC cathodes (cycled in the NMC-graphite or NMC-LTO cells). Furthermore, it is shown that the surface layer thickness on NMC increases with the number of cycles, caused by continuous electrolyte degradation products formed at the Li-metal negative electrode and then transferred to NMC positive electrode.
+
+' The Author(s) 2017. Published by ECS. This is an open access article distributed under the terms of the Creative Commons Attribution 4.0 License (CC BY, http://creativecommons.org/licenses/by/4.0/), which permits unrestricted reuse of the work in any medium, provided the original work is properly cited. [DOI: 10.1149/2.0711713jes] All rights reserved.
+
+<!-- image -->
+
+Manuscript submitted July 3, 2017; revised manuscript received September 7, 2017. Published October 7, 2017.
+
+Li-ion batteries (LiBs) are widely used in applications where rechargeability of high energy density storage units is required, such as portable devices including consumer electronics, vehicles and space applications. It is beneficial that the components are as light-weight as possible for portable devices, thereby decreasing the energy required to transport the device. One widely used positive electrode material contributing to high energy density is LiNi1/3Co1/3Mn1/3O2 (NMC),either operating at a higher potential or having a larger practical specific capacity than the classical LiMn2O4 and LiFePO4 materials. 1,2 NMC is also less costly than the LiCoO2 alternative due to the decreased cobalt content.
+
+In commercial cells, NMC electrodes are most often cycled vs . graphite negative electrodes which has a low working potential, enabling a large potential difference between the electrodes. However, the low working potential is outside of the electrochemical stability window of most common electrolytes, leading to formation of a solid electrolyte interphase (SEI) layer on the anode surface. A corresponding but thinner layer could also form on the side of the positive electrode depending on the working potential of the cathode. 3,4 Lithium is consumed during SEI formation, which results in a decrease in the cell capacity and an increase in the cell resistance. The problems caused by SEI layer formation can be resolved by changing the negative electrode to an electrode working at a higher potential - within the electrochemical stability window of the electrolyte such as lithium titanate (Li4Ti5O12; LTO). Although the increased working potential decreases the energy density of the cell, cycle life is generally increased. The Li-metal anode is another negative electrode that is commonly used as counter/reference electrode, at least in academic studies, to make so called 'half-cells'. Li-metal has higher energy density compared to other negative electrodes, but it suffers from dendrite formation, low cycling Coulombic efficiency, etc. 5
+
+In this work, we study how the electrochemical performance of NMC cathodes is influenced by the choice of negative electrode, and how the surface layer formed on NMC positive electrode depend on the negative electrode material, by investigations of NMCLi-metal, NMC-LTO and NMC-graphite cells. This is motivated by the extensive use of Li-metal in literature to bench-mark cathode materials, which can neglect the influence of the negative elec-
+
+z E-mail: reza.younesi@kemi.uu.se
+
+trode itself on the potential profile and cycling life of the positive electrode.
+
+There are several well-known failure modes or degradation processes in NMC electrodes, including 'cross-over' of metal ions (Mn, Ni, Co) from the cathode to the anode, 6,7 micro-cracks in the particles during cycling, 8 loss of contact between particles, gas evolution, 9,10 phase transformations 11 and surface film formation. 12 We here shed light on yet another failure mechanism of NMC cathodes, triggered by the 'cross-talk' between the electrodes, where species from the negative electrode dissolve into the electrolyte and deposit on the positive electrode. Surface layer formation on NMC is here investigated by X-ray photoelectron spectroscopy (XPS), which is a surface sensitive technique capable of measuring the outermost surface of a sample and distinguishing between the chemical composition of molecules. This technique has previously been utilized for surface characterization of NMC electrodes. 13,14 It has been shown that a stable surface layer on positive electrodes operating at high potentials is a critical parameter for successful prolongation of the battery cycle life, through inhibition of further electrolyte decomposition at the surface. 15 Structural degradations are here evaluated by X-ray absorption near edge structure (XANES), since the technique is sensitive to the transition metal oxidation state and the coordination environment around the ions. We therefore aim to investigate the capacity fading mechanisms of NMC electrodes depending on the negative electrode, using a C-rate (1C) close to the operating rate of many LiB applications.
+
+## Experimental
+
+Electrode preparation and cell assembly.Cathodes were prepared from a slurry consisting of 80 wt% NMC (MTI corporation), 10 wt%binder (Kynar 2801 dissolved in N-methyl-2pyrrolidone (NMP)) and 10 wt% carbon black (Super C65, Imerys). NMC and the carbon black were first mixed in a planetary ball mill for 0.5 hours, followed by addition of the dissolved binder and then further mixed for 1 hour. The slurry was thereafter coated on a carbon-coated aluminum sheet and dried at 120 ◦ C. The mass loadings ranged between 0.9-1.2 mg/cm 2 for the dried electrodes. The electrodes were then individually pressed with a static force of 6 kN/cm 2 at room temperature. The electrodes were afterwards dried for at least 5 hours at 120 ◦ C in a vacuum oven, placed in an argon-filled glove box with oxygen and water level below 5 ppm. Lithium foil was used as negative electrode,
+
+<!-- image -->
+
+<!-- image -->
+
+unless otherwise specified. LTO electrodes were prepared from a slurry consisting of 75 wt% LTO (kindly provided by Varta), 15 wt% binder (Kynar 2801 dissolved in NMP) and 10 wt% carbon black (super P, Erachem Comilog). The slurry was ball milled, followed by being casted on a carbon coated aluminum foil. Graphite electrodes were prepared from a slurry consisting of 88 wt% graphite (Leclanch« e), 2.88 wt% KS6 (Timrex), 1.92 wt% super C65 (C-NERGY), 3.6 wt% CMC (Dow chemical company), 3.6 wt% SBR (Targray) and deionized water as solvent. After ball milling the slurry was casted on copper foil. After initial drying the electrodes were further dried at 80 ◦ C for 12 hours under vacuum in the glove box.
+
+NMC cathodes were assembled in the glove box together with lithium foil (or LTO or graphite). LTO and graphite anodes had the excess of 18% and 33%, respectively, assuming capacities of 175 mAh/g for LTO and 372 mAh/g for graphite. The Li-metal anode used for Li-NMC cells was about 25 mm wide and 0.13 mm thick, which is about an excess of 25000%. During the assembly Celgard 2500 separators were used together with 80 µ L of LP40 electrolyte (1 MLiPF6 dissolved in ethylene carbonate (EC) and diethyl carbonate (DEC) mixture with volume ratio of 1:1) in each cell. The pouch cells, which consist of polymer coated aluminum foil, were sealed by melting the edges under a pressure of 30 mbar. The sealing was performed in an argon filled glove box, assuring low water content. The edge where the current collectors were inserted (the edge with the highest risk for leakage) was sealed three times. The cells rested for 12-17 hours in order to assure good wetting before cycling was initiated.
+
+Electrochemical cycling.The cells were galvanostatically cycled between cutoff potentials of 3.0 and 4.3 V vs . Li/Li + (hereafter, all voltages are given vs . Li + /Li); positive electrodes are considered delithiated at 4.3 V . The cycling was performed at 30 ◦ Con a Novonix High Precision Charger battery testing system. The cells were cycled at the charge and discharge rate 1 C (corresponding to 150 mAh/g). Some cells were interrupted after only 3 cycles or during the first cycle in order to perform XPS or XANES analyses. For cells where NMC was cycled vs . LTO, cutoff potentials were set to 1.45 and 2.75 V vs . LTO. The cutoff potentials were decreased as compared to NMC electrodes cycled vs . lithium, as the working potential of LTO electrodes vs . lithium is 1.55 V. Cells where NMC was cycled vs . graphite were cycled with the cutoff potentials set to 2.0 and 4.2 V vs . graphite.
+
+X-ray photoelectron spectroscopy.XPS measurements were performed in-house at a Perkin Elmer PHI 5500 XPS system using monochromatized 1486.6 eV Al K α radiation. Prior to the XPS measurements, the cells were opened in an argon filled glove box and rinsed with battery-grade dimethyl carbonate (DMC) (BASF). By using a special transfer cup the samples were transferred into the analyzing chamber of the XPS instrument without any exposure to atmosphere. The XPS spectra were energy scale calibrated with respect to the lattice oxygen bonding peak set to 529.5 eV. The peaks were curve fitted after applying a non-linear Shirley background. All spectra are intensity calibrated by the background intensity at 280 eV , reducing the impact of different sample alignments. When normalizing the intensity, the maximum deviation from average in Figure 3 was 1.6% for O 1s, 0% for C 1s, 4.8% for F 1s and 16.9% for P 2p. In Figure 4 the maximum deviation from average was 5.2% for O 1s, 0% for C 1s and 10.8% for F 1s. The background intensity in XPS spectra are caused by inelastically scattered electrons. 16 It is proportional to the incoming intensity of the X-ray beam, and also dependent of the chemical composition of the sample. As all samples have a similar composition in this study, this dependency is considered as the same for all samples. Also, non-curve fitted spectra are displayed after applying a non-linear Shirley background. Elemental concentration was calculated according to Eq. 1, where I is integrated intensity of the peak after background subtraction and S is the sensitivity
+
+Figure 1. Electrochemical performance of NMC cathodes cycled toward different anodes. a) discharge capacity vs . cycle number. b) Coulombic efficiency vs . cycle number.
+
+<!-- image -->
+
+<!-- formula-not-decoded -->
+
+<!-- formula-not-decoded -->
+
+X-ray absorption spectroscopy.XANES measurements were performed at the Helmholtz Zentrum Berlin, BESSY KMC-1 beam line, HIKE end station. Measurements were performed using a Si (422) double crystal monochromator, where the fluorescence yield (FY) was analyzed. The fluorescence yield was recorded using a Bruker XFlash 4010 fluorescence detector. The cells were opened in an argon filled glove box, and the NMC electrodes were rinsed with DMCand transferred through a special built transfer-rod to the beam line without contact with air, preventing any surface reactions with air. 18 The K-edge of nickel, manganese and cobalt were analyzed. The XANES spectra were energy calibrated by a reference measurement of the Au4f peak. The spectra were then calibrated and normalized using the Athena Demeter software 19 version 0.9.25.
+
+## Results and Discussion
+
+To investigate the electrochemical performance of NMC positive electrode and whether it is influenced by the choice of counter electrode, cells were assembled using different negative electrodes (counter electrodes). Figure 1a shows capacity fading in cells where NMC as the positive electrode material is cycled vs . either lithium, NMC-graphite cells show limited capacity fading over the first 200 cycles, the cell using a Li-metal anode displays quite rapid capacity fading. This capacity fading in the NMC-Li-metal cell is unlikely due to the loss of Li + from NMC in different types of side reactions shows the Coulombic efficiency in the cells, which is calculated by the discharge capacity divided to the charge capacity in each cycle. When Li-metal is used as the negative electrode, the Coulombic efficiency value highlights efficiency of reaction of NMC electrode, and graphite or LTO as the negative electrode. While NMC-LTO and since the amount of lithium in the cell is in vast excess. Figure 1b
+
+Figure 2. Galvanostatic cycles of NMC cathodes cycled toward different anodes and cycled at 1C rate. a) NMC vs . Li-metal. b) NMC vs . LTO. c) NMC vs . graphite. d) Voltage hysteresis vs . cycle number.
+
+<!-- image -->
+
+doesn't necessary reveal any information about the reversibility of reactions on the counter electrode since there is large source of Li + available by the Li-metal. The result from Figure 1b indicates that the Coulombic efficiency is similar for all the cells independent of the counter electrode during the first cycles, whereas it decreases during the following cycles for the NMC-Li-metal cell. The small variation in the capacity and Coulombic efficiency of the NMC-Li-metal cell appearing after 100 cycles might be caused by small temperature fluctuations in the cycling chamber. However, the trend is clear that the NMC-Li-metal cell performs inferior to the other cells. The lower Coulombic efficiency of NMC-Li-metal cell, compared to NMC-LTO and NMC-graphite cells, discloses that more charge is lost in parasitic reactions after the initial cycles.
+
+Figures 2a-2c show galvanostatic discharge-charge curves, and Figure 2d displays the voltage hysteresis of the cells. The results indicate that the NMC-Li-metal cell displays a large hysteresis (overpotential) over long term cycling, but the NMC-LTO and NMC-graphite cells show a stable and small overpotential. Note that the overpotential in the NMC-Li-metal cell decreases during the initial cycling, which could be explained by roughening of the surface of Li-metal providing higher surface area and lower resistance, 20 however, the overpotential increases rapidly during the continued cycling. As the NMC cathodes are cycled against different types of anodes, the differences in overpotential is assumed to be caused by the choice of the anode. However, in the two-electrode cell design, the contribution of each electrode to the total cell resistance cannot be distinguished. Three-electrode cell design are often used to find out the resistance in each electrode individually, however, it is shown that results from three-electrode cell design might be misleading due to measurement artifacts. 21,22 That is why we used two-electrode cell design -which is commonly used by researchers- in this study to highlight the issue that the total cell resistance could be influence by Li-metal counter electrode. The increased overpotential in the NMC-Li-metal cell will likely lead to capacity fading since the cutoff potential is reached before all Li + ions are intercalated/deintercalated in NMC. Therefore, the results in Figures 1 and 2 reveal that the Li-metal anode is primarily responsible for the poor performance of the NMC-Li-metal cell as compared to NMC-LTO and NMC-graphite cells. These data support that parasitic reactions on Li-metal anode reactions lead to the capacity fading and increased overpotential either through increased resistance of the Limetal anode or increased resistance of NMC cathodes caused by the Li-metal anode.
+
+To find out if any surface layer was formed on NMC cathodes in the aforementioned cells, we used XPS to characterize the NMC electrodes after 203 cycles (3 precycling + 200 cycles). Figure 3 shows F 1s, C 1s, O 1s, and P 2p spectra of NMC cathodes cycled in NMC-Limetal, NMC-LTO, or NMC-graphite cells. While the O 1s spectra of NMC cathodes from NMC-LTO and NMC-graphite cells show only minor dissimilarities, the O 1s spectrum of NMC from NMC-Li-metal cell displays much larger peak at 533-534 eV originated from electrolyte decomposition products. 23 Similarly, the C 1s spectra display a more pronounced peak at about 287-288 eV for the NMC cathode from the NMC-Li-metal cell, which indicates presence of more C-O, O-C-O and/or C = O containing species originated from electrolyte degradation. 23 On the other hand, the F 1s spectra show formation of a smaller amount of LiF on the NMC electrode from the NMC-Limetal cell than on the other NMC electrodes. Also, the P 2p spectra indicate presence of very little phosphorous on the surface of the NMC from NMC-Li-metal cell, while more phosphorous containing compounds are detected at about 136 eV on the surface of NMC cathodes from NMC-LTO, originated from LiPF6 electrolyte salt which is the only added source of phosphorous. Therefore, if assuming a uniform distribution of compounds the XPS results indicate that the surface layer formed on the NMC in NMC-Li-metal is more organic (carbon and oxygen containing species) while the layer formed on the NMC from NMC-LTO and NMC-graphite cells is more inorganic (LiF and phosphourous containing species). This is in agreements with the relative atomic concentrations of each element on the surface of the NMC cathode shown in Figure 3; the elemental surface composition on NMC cathodes from LTO-NMC and graphite-NMC are very similar, but that the surface composition on NMC from NMC-Limetal cell is composed of more C and O, and less F and P containing specie.
+
+The metal-oxide bond of NMC is clearly observed at about 529.5 eV in the O 1s spectra. This means that the thickness of the surface layers formed on the NMC electrodes is below probing depth of in-house XPS using Al K α source, which is about ∼ 10 nm. However, the intensity of the C-C bond at 284.5 eV in the C 1s spectra (originated from carbon black) of the NMC from NMC-Li-metal cell is lower compared to the other NMC electrodes, suggesting a similar or slightly thicker layer formed on the NMC from NMCLi-metal. Overall, the XPS results highlight that products formed on the Li-metal will transfer through the electrolyte and deposit on the NMC electrode, constituting a significant cross-talk. This could
+
+<!-- image -->
+
+Binding Energy
+
+Figure 3. XPS spectra of NMC cathodes after 203 cycles in cells with different anodes of lithium, LTO or graphite, and the relative atomic concentration of different elements on the surface of NMC cathodes.
+
+be initiated by dissolution 24 of SEI species and other decomposition products -formed at Li-metal counter electrode- into the electrolyte solution and consequent diffusion of those products to the NMC working electrode.
+
+In order to find out the dynamics of surface layer formation on the NMC cathodes in NMC-Li-metal cells, i.e., whether it is primarily formed during initial or long term cycling, NMC cathodes were inves- tigated at different charge-discharge states and after different number of cycles. Figure 4 shows F 1s, O 1s, and C 1s spectra of NMC cathodes from Li-NMC cells after the first charge (delithiated), 3 cycles and 203 cycles, and compare the result with spectra from a pristine NMC electrode and an NMC electrode soaked in the electrolyte for 15 hours. The XPS spectra indicate that there is almost no surface layer formed on NMC during the first initial cycles, as the spectra of
+
+Figure 4. C 1s, O 1s, and F 1s spectra of NMC electrodes cycled vs. Li and stopped at different number of cycles.
+
+<!-- image -->
+
+samples after 1 charge and 3 cycles look similar to the spectra of pristine sample. When observing the surface layer formation after 203 cycles, however, a major change can be seen as two intense peaks appear at about 532.0 eV and 533.3 eV, representing carbonates such as Li2CO3 or ROCO2Li and polyethers originated from electrolyte decomposition products. This is in stark contrast to the ideal scenario of SEI formation where the primary formation occurs during initial cycles and thereafter remaining fairly stable. It can therefore be concluded that the surface layer on the NMC is built up by repeated cycling in these cells, which supports the theory of electrolyte decomposition species being formed primarily on the negative Li-metal electrode and transferred to the positive NMC electrode.
+
+To characterize the oxidation state of the transition metal ions after initial and long term cycles, XANES measurements were performed and Figure 5 display data of the nickel, manganese and cobalt K-edge of NMC cathodes from NMC-Li-metal cells at different number of cycles. The manganese K-edge shows no major differences in edge position and the pre-edge shape after 203 cycles as they are strikingly similar to that of the pristine sample. This indicates that the oxidation state remains unchanged from the pristine sample, determined to + IV in similar structures. 25 The similar shapes of the pre-edges indicate that no substantial changes occur in the coordination symmetry. How- ever, in the delithiated state after 203.5 cycles, the shape of the edge has changed, indicating a change in the environment around the manganese ions. The edge and pre-edge shape changes observed in this study, are consistent with previously reported results occurring at a slow cycling rate during the first cycle. 26,27 It is also seen that the preedge consists of two peaks, corresponding to the transition from the 1s orbital to an empty 3d orbital. 28 The double peak in the manganese pre-edge supports that the manganese ions are in the tetravalent state as only one pre-edge peak would be observed in the trivalent state. 28 A similar trend by comparing the lithiated, delithiated, and pristine electrodes was observed for the cobalt K-edge; NMC cathodes after 1 and 203 cycles, at lithiated state, have similar features to the pristine NMC. The change in the shape of the edge at delithiated state after 203.5 cycles, which discloses a change in the environment around the cobalt ions, has been ascribed to changes in the bond length and covalency. 26 Likewise, the nickel K-edge spectra show differences between the lithiated and delithiated NMC cathodes, while no differences between lithiated electrodes and pristine electrodes are observed. However for Ni, a clear change of edge position toward higher energy is observed from lithiated to delithiated NMC state, i.e. 203 and 203.5 cycles respectively. This corresponds to a change in oxidation number of Ni toward a higher valence upon delithiation.
+
+Figure 5. XAS fluorescence yield measurements of NMC electrodes cycles vs . Li-metal. a) Manganese K-edge. b) Cobalt K-edge. c) Nickel K-edge.
+
+<!-- image -->
+
+In summary, the XANES results suggest that the oxidation state and the chemical environment around the transition metals remain stable after extended cycling. Therefore, the capacity fading of NMC cathodes is primarily not due to any structural deterioration of transition metals in NMC over long term cycling, and the poor electrochemical performance is rather more likely due to the surface layer formation which in turn is controlled by the Li-metal negative electrode material.
+
+## Conclusions
+
+The galvanostatic cycling results showed that the capacity retention of NMC-based cells is significantly influenced by the choice of negative electrode used. Li-metal compared to graphite or LTO as the negative electrodes has a detrimental effect and results in rapid capacity fading. This is attributed to the increased over potential, causing the cutoff potential to be reached before the cell is fully lithiated/delithiated. XPS results indicated that a slightly thicker surface layer formed, after extended cycling, on NMC electrode when Limetal is used as negative electrode. The composition of the surface layer on NMC depends on the negative electrode, as more organic compounds were observed on NMC electrode when cycled vs . Limetal, while more inorganic compounds formed on NMC electrodes when LTO or graphite was used as the negative electrode. XANES measurements discloses that the transition metals remain stable and retains their initial oxidation state even after extended cycling, thereby further supports that surface layer formation rather than structural degradations is the cause for the capacity fading. Overall, the results reveal that degradation of electrolyte at the Li-metal anode the cross-talk between Li-metal anode and NMC cathode causes rapid capacity fading and thus more reliable counter electrodes such as LTO or graphite could be instead used.
+
+## Acknowledgments
+
+Theauthors wish to acknowledge support from the Swedish Energy Agency (project number 37725-1 and 40495-1) and from StandUp for Energy. We thank the Helmholtz-Zentrum Berlin (HZB) for the allocation of synchrotron radiation beamtime. Furthermore, we thank Tim Nord for supplying the LTO electrodes and for valuable discussions.
+
+## ORCID
+
+Erik Bj‹ orklund https://orcid.org/0000-0002-2736-9145 Daniel Brandell https://orcid.org/0000-0002-8019-2801 Kristina Edstr‹ om https://orcid.org/0000-0003-4440-2952 Reza Younesi https://orcid.org/0000-0003-2538-8104
+
+## References
+
+1. E. J. Berg, C. Villevieille, D. Streich, S. Trabesinger, and P. Nov« ak, J. Electrochem. Soc. , 162 , A2468 (2015).
+2. N. Nitta, F. Wu, J. T. Lee, and G. Yushin, Mater. Today , 18 , 252 (2015).
+3. K. Edstr‹ om, T. Gustafsson, and J. O. Thomas, Electrochim. Acta , 50 , 397 (2004).
+4. R. Younesi, A. S. Christiansen, R. Scipioni, D. -T. Ngo, S. B. Simonsen, K. Edstr‹ om, J. Hjelm, and P. Norby, J. Electrochem. Soc. , 162 , A1289 (2015).
+5. R. Younesi, G. M. Veith, P. Johansson, K. Edstr‹ om, and T. Vegge, Energy Environ. Sci. , 8 , 1905 (2015).
+6. D. R. Gallus, R. Schmitz, R. Wagner, B. Hoffmann, S. Nowak, I. Cekic-Laskovic, R. W. Schmitz, and M. Winter, Electrochim. Acta , 134 , 393 (2014).
+7. H. Zheng, Q. Sun, G. Liu, X. Song, and V. S. Battaglia, J. Power Sources , 207 , 134 (2012).
+8. N. Kızıltas ¸ -Yavuz, M. Herklotz, A. M. Hashem, H. M. Abuzeid, B. Schwarz, H. Ehrenberg, A. Mauger, and C. M. Julien, Electrochim. Acta , 113 , 313 (2013).
+9. L. Ma, J. Self, M. Nie, S. Glazier, D. Y. Wang, Y. -S. Lin, and J. R. Dahn, J. Power Sources , 299 , 130 (2015).
+10. K. Wu, J. Yang, Y. Liu, Y. Zhang, C. Wang, J. Xu, F. Ning, and D. Wang, J. Power Sources , 237 , 285 (2013).
+11. P. K. Nayak, J. Grinblat, M. Levi, Y. Wu, B. Powell, and D. Aurbach, J. Electroanal. Chem. , 733 , 6 (2014).
+12. R. Guo, P. Shi, X. Cheng, Y. Ma, and Z. Tan, J. Power Sources , 189 , 2 (2009).
+13. L. Madec, R. Petibon, K. Tasaki, J. Xia, J. -P. Sun, I. G. Hill, and J. R. Dahn, Phys. Chem. Chem. Phys. , 17 , 27062 (2015).
+14. J. Xia, K. J. Nelson, J. Sun, I. G. Hill, and J. R. Dahn, J. Phys. Chem. C , 118 , 29608 (2014).
+15. N. -S. Choi, J. -G. Han, S. -Y . Ha, I. Park, and C. -K. Back, RSC Adv. , 5 , 2732 (2015).
+16. V. M. Dwyer and J. A. D. Matthew, Surf. Sci. , 193 , 549 (1988).
+17. J. F. Moulder, W. F. Stickle, P. E. Sobol, and K. D. Bomben, Handbook of X-ray Photoelectron Spectroscopy , J. Chastain and R. C. Kind, Editors, (1995).
+18. S. Malmgren, K. Ciosek, R. Lindblad, S. Plogmaker, J. K‹ uhn, H. Rensmo, K. Edstr‹ om, and M. Hahlin, Electrochim. Acta , 105 , 83 (2013).
+19. B. Ravel and M. Newville, J. Synchrotron Radiat. , 12 , 537 (2005).
+20. K. Naoi, M. Mori, and Y. Shinagawa, J. Electrochem. Soc. , 143 , 2517 (1996).
+21. J. Costard, M. Ender, M. Weiss, and E. Ivers-Tiff« ee, J. Electrochem. Soc. , 164 , A80 (2017).
+22. C. Bunzli, H. Kaiser, and P. Novak, J. Electrochem. Soc. , 162 , A218 (2014).
+23. F. Lindgren, C. Xu, L. Niedzicki, M. Marcinek, T. Gustafsson, F. Bj‹ orefors, K. Edstr‹ om, and R. Younesi, ACS Appl. Mater. Interfaces , 8 , 15758 (2016).
+24. R. Mogensen, D. Brandell, and R. Younesi, ACS Energy Lett. , 1 , 1173 (2016).
+25. W. -S. Yoon, Y. Paik, X. -Q. Yang, M. Balasubramanian, J. McBreen, and C. P. Grey, Electrochem. Solid-State Lett. , 5 , A263 (2002).
+26. W. -S. Yoon, M. Balasubramanian, K. Y. Chung, X. -Q. Yang, J. McBreen, C. P. Grey, and D. A. Fischer, J. Am. Chem. Soc. , 127 , 17479 (2005).
+27. C. F. Petersburg, Z. Li, N. a. Chernova, M. S. Whittingham, and F. M. Alamgir, J. Mater. Chem. , 22 , 19993 (2012).
+28. A. Deb, U. Bergmann, S. P. Cramer, and E. J. Cairns, J. Appl. Phys. , 97 , 113523 (2005).

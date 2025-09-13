@@ -1,0 +1,314 @@
+Simple Docling Extracted Data from: Hard X Ray to understand charge compensation in cathodes.pdf
+============================================================
+
+Title: Hard X Ray to understand charge compensation in cathodes
+Pages: 8
+Tables: 1
+Figures: 0
+
+MAIN TEXT:
+------------------------------
+<!-- image -->
+
+GLYPH&lt;c=11,font=/NEWTZA+TimesNewRomanPS-ItalicMT&gt;GLYPH&lt;c=21,font=/NEWTZA+TimesNewRomanPS-ItalicMT&gt;GLYPH&lt;c=19,font=/NEWTZA+TimesNewRomanPS-ItalicMT&gt;GLYPH&lt;c=20,font=/NEWTZA+TimesNewRomanPS-ItalicMT&gt;GLYPH&lt;c=28,font=/NEWTZA+TimesNewRomanPS-ItalicMT&gt;GLYPH&lt;c=12,font=/NEWTZA+TimesNewRomanPS-ItalicMT&gt;
+
+## Contents lists available at ScienceDirect
+
+## Journal of Power Sources
+
+journal homepage: www.elsevier.com/locate/jpowsour
+
+## Hard X-ray spectroscopic methods using emitted X-ray to understand charge compensation in positive electrode materials for lithium-ion batteries
+
+Yusaku F. Nishimura * , Hideaki Oka, Takamasa Nonaka, Yoshinari Makimura, Kazuhiko Dohmae
+
+Toyota Central R &amp; D Laboratories, Inc., 41-1 Yokomichi, Nagakute, Aichi, 480-1192, Japan
+
+## H I G H L I G H T S
+
+- � The hard X-ray spectroscopies offer information on unoccupied 3d states.
+- � These X-ray spectroscopic methods can be applied to in situ/operando studies.
+- � The  methods  can  promote  better  understanding of charge-compensating behaviors.
+
+## A R T I C L E  I N F O
+
+## Keywords:
+
+High energy resolution fluorescence detection
+
+X-ray absorption spectroscopy K pre-edge feature 1s2p resonant X-ray emission spectroscopy Operando hard X-ray spectroscopy LiNiO2-Based positive electrode materials
+
+## 1. Introduction
+
+To address global energy and environmental issues such as global
+
+## G R A P H I C A L  A B S T R A C T
+
+<!-- image -->
+
+## A B S T R A C T
+
+We examined the applicabilities of hard X-ray spectroscopic methods to understand the charge-compensation (CC)  behaviors  of  Ni  in  a  LiNiO2-based  positive  electrode  (PE)  material  for  lithium-ion  batteries:  Ni  K  preedge high energy resolution fluorescence detection X-ray absorption spectroscopy (XAS) and Ni 1s2p resonant X-ray emission spectroscopy (RXES). Both methods exhibited sequential changes in spectral features with the change in the state of charge of the PE material, similarly to Ni L2,3-edge XAS. This elucidates that these hard Xray spectroscopic methods can become alternatives to soft X-ray L2,3-edge XAS with the additional ability to measure reactive samples kept in a sealed pouch. Moreover, Ni 1s2p RXES can separate the electronic transition to the unoccupied Ni orbital from those to hybridized orbitals with neighboring atoms by tuning the incident Xray energy. In this sense, it can provide spectral information reflecting the unoccupied Ni 3d state, which could be a good oxidation-state descriptor. These methods can be done in a usual hard X-ray beamline having an appropriate crystal analyzer. The ability to offer information on the unoccupied 3d state with hard X-ray and the ubiquitous feature of these methods would prompt in situ/operando studies on CC in PE materials for rational materials development.
+
+warming caused by CO2  emission and pollution especially in the residential area, a paradigm shift is happening in the automotive industry from  conventional  gasoline  vehicles  to  hybrid  electric  or  electric
+
+* Corresponding author. E-mail address: yusaku-nishimura@mosk.tytlabs.co.jp (Y.F. Nishimura).
+
+Received 13 March 2019; Received in revised form 29 May 2019; Accepted 2 June 2019
+
+GLYPH&lt;c=19,font=/NEWTZA+TimesNewRomanPS-ItalicMT&gt;GLYPH&lt;c=22,font=/NEWTZA+TimesNewRomanPS-ItalicMT&gt;GLYPH&lt;c=26,font=/NEWTZA+TimesNewRomanPS-ItalicMT&gt;GLYPH&lt;c=27,font=/NEWTZA+TimesNewRomanPS-ItalicMT&gt;GLYPH&lt;c=16,font=/NEWTZA+TimesNewRomanPS-ItalicMT&gt;GLYPH&lt;c=26,font=/NEWTZA+TimesNewRomanPS-ItalicMT&gt;GLYPH&lt;c=26,font=/NEWTZA+TimesNewRomanPS-ItalicMT&gt;GLYPH&lt;c=24,font=/NEWTZA+TimesNewRomanPS-ItalicMT&gt;GLYPH&lt;c=22,font=/NEWTZA+TimesNewRomanPS-ItalicMT&gt;GLYPH&lt;c=18,font=/NEWTZA+TimesNewRomanPS-ItalicMT&gt; GLYPH&lt;c=21,font=/NEWTZA+TimesNewRomanPS-ItalicMT&gt;GLYPH&lt;c=19,font=/NEWTZA+TimesNewRomanPS-ItalicMT&gt;GLYPH&lt;c=20,font=/NEWTZA+TimesNewRomanPS-ItalicMT&gt;GLYPH&lt;c=28,font=/NEWTZA+TimesNewRomanPS-ItalicMT&gt; (OVHYLHU %GLYPH&lt;c=17,font=/NEWTZA+TimesNewRomanPS-ItalicMT&gt;9GLYPH&lt;c=17,font=/NEWTZA+TimesNewRomanPS-ItalicMT&gt;
+
+$OO ULJKWV UHVHUYHGGLYPH&lt;c=17,font=/NEWTZA+TimesNewRomanPS-ItalicMT&gt;
+
+GLYPH&lt;c=21,font=/NEWTZA+TimesNewRomanPS-ItalicMT&gt;GLYPH&lt;c=21,font=/NEWTZA+TimesNewRomanPS-ItalicMT&gt;GLYPH&lt;c=25,font=/NEWTZA+TimesNewRomanPS-ItalicMT&gt;GLYPH&lt;c=26,font=/NEWTZA+TimesNewRomanPS-ItalicMT&gt;GLYPH&lt;c=21,font=/NEWTZA+TimesNewRomanPS-ItalicMT&gt;GLYPH&lt;c=20,font=/NEWTZA+TimesNewRomanPS-ItalicMT&gt;
+
+<!-- image -->
+
+<!-- image -->
+
+Y.F. Nishimura et al.
+
+vehicles (EV). Establishment of an EV-based society would require an enormous number of secondary batteries having high energy-density, high power-density, quick-charging capability, long lifetime including cycle- and calendar-life, and safety. A variety of functional materials have been investigated and developed for the electrochemical power sources, for instance, with regard to nanostructure, composition, crystal structure,  and  electronic  state  [1 -6].  Layered  lithium  nickel  oxide (LiNiO2) derivatives are considered as promising positive electrode (PE) materials for lithium-ion batteries (LIBs) for the automotive applications due to their high charge/discharge capacities ( � 150 mA h g GLYPH&lt;0&gt; 1 )  [7,8]. For rational design of the LiNiO2-based PE materials with higher capacity and durability, it is essential to understand the charge-compensating (CC) behaviors of Ni in the LiNiO2-based materials in charge/discharge processes, particularly in overcharge conditions. A PE material at a high state of charge (SOC) is so reactive with moisture that it must be kept in a dehydrated nonaqueous solution or a dry inert gas in a sealed pouch for spectroscopic measurements. There are demands for spectroscopic methods which can easily be applied to an airand/or moisture-sensitive sample enclosed in a sealed pouch and provide information on the oxidation state of Ni in the LiNiO2-based PE material.
+
+Hence, this work focuses on Ni K pre-edge high energy resolution fluorescence detection X-ray absorption spectroscopy (HERFD-XAS) and Ni 1s2p resonant X-ray emission spectroscopy (RXES). This is because these methods utilize highly penetrating hard X-ray and have potentials to provide information on unoccupied Ni 3d state, which is sensitive to the oxidation state of Ni (described in detail in the next Concept section). We  examined  the  applicability  of  these  hard  X-ray  spectroscopic methods to understand the CC behavior of Ni in the LiNiO2-based PE material. The examination was performed by comparing the changing trend  in  the  oxidation  state  of  Ni  in  PE  materials  at  different  SOCs recognized from the spectral shape between Ni K pre-edge HERFD-XAS, Ni 1s2p RXES, and Ni L2,3-edge XAS as a standard. This work demonstrates that the changing trends of the spectral features measured by the two hard X-ray spectroscopic methods are similar to that measured by soft X-ray Ni L2,3-edge XAS. This suggests that Ni K pre-edge HERFD-XAS and Ni 1s2p RXES using hard X-ray could be applied as substitutes for soft  X-ray  Ni  L2,3-edge  XAS  to  in  situ/operando  and/or  ex  situ  measurements  of  enclosed  air-  or  moisture-sensitive  samples.  To  our knowledge,  this  work  is  the  first  demonstration  of  these  hard  X-ray spectroscopic methods to understand the CC behaviors of 3d transition metal (TM) elements in PE materials for LIBs.
+
+## 2. Concept
+
+This section explains why we focused on the two hard X-ray spectroscopic methods and how these X-ray spectroscopic measurements can be performed.
+
+XAS is a powerful tool to investigate the element-specific oxidation states in functional materials [9 -12]. The energy shift observed in an X-ray absorption (XA) spectrum is often utilized to discuss the shifts in the energy levels of the core and unoccupied orbitals associated with an electronic transition, which correlate with the formal oxidation state through the electronic interaction between electrons and the nucleus [13 -18]. Thus far, hard X-ray 3d TM K-edge XAS involving 1s → 4p electric dipole transition has frequently been employed to study the CC behaviors of 3d TM in PE materials because the high penetrating capability of hard X-ray enables in situ/operando and ex situ XAS measurements  of  PE  materials  enclosed  in  a  sealed  pouch  [19 -26].  Many research  groups  have  investigated  the  CC  behavior  by  using  an  absorption edge energy, which could practically correlate with the formal oxidation number as long as the local environment around 3d TM would not be dramatically changed. However, this relation is often broken in high SOC conditions by the change in the local symmetry of 3d TM and/or by the shakedown process (i.e., 1s → 4p dipole transition followed  by  ligand-to-metal  charge  transfer  [LMCT])  [24,27].  This
+
+GLYPH&lt;0&gt;6GLYPH&lt;0&gt;RGLYPH&lt;0&gt;XGLYPH&lt;0&gt;UGLYPH&lt;0&gt;FGLYPH&lt;0&gt;H
+
+eventually hinders the evaluation of the oxidation state of 3d TM based on the K-edge absorption energy.
+
+X-ray spectroscopies have also been used to study the unoccupied TM 3d state, which is more closely related to the oxidation state of 3d TM than the unoccupied TM 4p state as recognized from 3d TM K-edge XAS [28]. Among them, 3d TM L2,3-edge XAS has been most employed [24, 29 -32]. The L2,3-edge of 3d TM is located in the soft X-ray regime, which severely  restricts  the  sample  condition  and  the  environment  around samples because of the strong absorption of X-ray even by light elements.  This  fact  implies  that  it  should  still  be  difficult  to  apply  a moisture-sensitive material enclosed in a sealed pouch to L2,3-edge XAS although a special electrochemical cell for operando 3d TM L2,3-edge XAS has been developed to study the oxidation states of 3d TM elements in LIBs at work [33,34]. The pre-edge feature in 3d TM K-edge XAS also contains information on the unoccupied TM 3d state, and thus has been used to study the CC behaviors of 3d TM elements [24,27]. Despite the advantage of using hard X-ray, there is a problem of low energy resolution in a usual XAS measurement resulting from the short lifetime of 3d TM 1s core hole. X-ray Raman spectroscopy is another fascinating method  which  can  use  hard  X-ray  and  offer  spectral  information equivalent to 3d TM L2,3-edge XAS [35]. In general, the intensity of the inelastically scattered X-ray is so low that a special instrument equipped with  a  large  number  of  crystal  analyzers  is  required  to  increase  the signal-to-noise  ratio  and  improve  energy  resolution.  This  could  be  a hurdle when general users would like to utilize this method.
+
+Based on the above argument, X-ray spectroscopic methods satisfying the following requirements are demanded so that one can gain information on the CC behavior of Ni in the LiNiO2-based PE material enclosed in a sealed pouch in situ and/or ex situ as easily as possible: [i] use of hard X-ray to gain high penetrating capability, [ii] use of the emitted X-ray analyzed by a wavelength-dispersive X-ray spectrometer to improve energy resolution (i.e., measurement in partial fluorescence yield  [PFY]  mode),  and  [iii]  ease  in  using  the  X-ray  spectroscopic methods  in  a  general  beamline.  To  satisfy  these  requirements,  we focused on Ni K pre-edge HERFD-XAS and Ni 1s2p RXES.
+
+As described in Fig. 1, both Ni K pre-edge HERFD-XAS and Ni 1s2p RXES involve the electronic transition to the unoccupied Ni 3d orbital, similarly to Ni L2,3-edge XAS. The projected density of states (PDOS) of Ni 1s or 2p orbital is almost discrete compared to that of Ni 3d orbital although it is broadened by the core-hole lifetime. Thus, the spectra measured by these methods would practically reflect the PDOS of the unoccupied Ni 3d orbital. In these hard X-ray spectroscopic measurements, core hole is finally located at the Ni 2p orbital. The broadening of the measured X-ray energy distribution is eventually brought not by the lifetime of Ni 1s core hole but by that of Ni 2p core hole, which is longer than  the former  1s  core-hole  lifetime  [36 -39]. The  use  of the PFY-detected X-ray is beneficial particularly in Ni K pre-edge XAS to
+
+Fig. 1. A schematic diagram for electronic transitions occurring in the hard Xray spectroscopies employed in this work. In the Ni K pre-edge HERFD-XAS, the energy of the PFY-detected X-ray was fixed at the energy of the Ni K α 1  fluorescence line in an off-resonant condition, and then the energy of the incident X-ray was scanned. In the Ni 1s2p RXES, the energy of the incident X-ray was fixed  at  the  energy  of  the  Ni  K  pre-edge,  and  then  the  energy  of  the  PFYdetected X-ray was scanned.
+
+<!-- image -->
+
+Y.F. Nishimura et al.
+
+improve the energy resolution compared to usual Ni K pre-edge XAS in transmission mode.
+
+Ni K-edge XAS exhibits a rather small pre-edge feature compared to most of the early 3d TM K-edge XAS, in which the dipole transition from 1s to the p component of a 3d -4p hybridized orbital leads to a prominent pre-edge feature. In general, the matrix elements for electric quadrupole transition are about 1% of those for electric dipole transition [36,40]. However, the high density of states for the unoccupied 3d state makes the pre-edge feature derived from the quadrupole transition visible with 1 -3% intensity of the 1s → 4p main feature in a transition metal compound having an octahedral local environment. This fact as well as a small overlap between unoccupied Ni 3d and 4p orbitals implies that the pre-edge feature in Ni K-edge XAS should be mainly attributed to 1s → 3d  quadrupole  transition  [41,42]  although  the  feature  might  also contain a very small contribution of the dipole transition from Ni 1s to the p component of a Ni 3d -O 2p hybridized orbital in a nickel oxide [43 -46].  In  practical  HERFD-XAS  measurements,  the  PFY-detected X-ray energy is fixed at the energy of a certain fluorescence line in an off-resonant condition (usually at the energy of the most intense K α 1 fluorescence line) and the incident X-ray energy is scanned to record the intensity of the PFY-detected X-ray as a function of the incident X-ray energy (see Fig. 1) [36 -38,47 -49].
+
+Ni 1s2p RXES (or Ni K α RXES) involves both photon-in (hard X-ray absorption) and photon-out (hard X-ray emission) processes. In the 1s2p RXES processes, the Ni 1s core electron is excited to the unoccupied Ni 3d orbital by electric quadrupole transition in the photon-in process, which corresponds to X-ray absorption in the Ni K pre-edge region. The photon-in process is followed by the electric dipole transition from the occupied Ni 2p3/2 or 2p1/2 orbital to the Ni 1s core hole in the photonout process, which corresponds to the emission of Ni K α 1  or K α 2  fluorescence  line,  respectively.  Overall,  the  final  state  of  Ni  1s2p  RXES would be almost the same as that of Ni L2,3-edge XAS in the range of Ni oxidation number from metallic Ni 0 (3d 8 [(t2g) 6 (eg) 2 ] 4s 2 ) to tetravalent Ni 4 þ (3d 6 [(t2g) 6 ]) as long as the Ni 1s core electron could be excited to the unoccupied Ni 3d orbital with the eg  symmetry and the electronic interactions and angular momentum couplings associated with the Ni 2p orbital could be neglected in the intermediate state. Actually, the Ni atom in the LiNiO2-based PE material usually exists in the low-spin state (i.e., having fully occupied t2g orbitals, (t2g) 6 ) [7,8,50 -52]. In such cases, a Ni 1s2p resonant X-ray emission (RXE) spectrum would look similar to a usual Ni L2,3-edge XA spectrum [37,38,53,54]. In practical 1s2p RXES measurements, the incident X-ray energy is fixed in the pre-edge region to induce 1s → 3d electric quadrupole transition, followed by scanning the  energy  of  the  PFY-detected  X-ray  to  record  the  intensity  of  the emitted X-ray as a function of energy transfer (i.e., the difference in photon energy between the incident and the PFY-detected X-rays) (see Fig. 1).
+
+## 3. Experimental
+
+## 3.1. Sample preparation
+
+All of the samples for the X-ray spectroscopic measurements were prepared with two-electrode cells. The working (positive) electrode was prepared by casting the slurry (85 wt% of LiNi0.75Co0.15Al0.05Mg0.05O2 [NCA-Mg] powder as a PE active material, 10 wt% of conductive carbon, and  5 wt%  of  polyvinylidene  fluoride  in  the N -methyl-2-pyrrolidone solvent) on an Al foil. The mass density of the PE used for the X-ray spectroscopic measurements was 9.0 mg cm GLYPH&lt;0&gt; 2 ,  indicating  that  the  PE contained  7.6 mg cm GLYPH&lt;0&gt; 2 of  NCA-Mg.  A  Li  foil  was  used  as  a  counter (negative) electrode (NE) and a reference electrode (Li þ /Li). The electrolyte  solution  was  a  mixed  solvent  comprised  of  30 vol%  ethylene carbonate, 40 vol% dimethyl carbonate, and 30 vol% ethyl methyl carbonate containing 1.0 mol dm GLYPH&lt;0&gt; 3 LiPF6. The cells were electrochemically cycled in the range of the PE potential from 3.0 to 4.2 V vs. Li þ /Li at room temperature. The open-circuit PE potential was 3.5 V vs. Li þ /Li
+
+GLYPH&lt;0&gt;6GLYPH&lt;0&gt;RGLYPH&lt;0&gt;XGLYPH&lt;0&gt;UGLYPH&lt;0&gt;FGLYPH&lt;0&gt;H
+
+after the electrochemical cycling. The NCA-Mg after the electrochemical cycling was employed as the sample at SOC 0% for the X-ray spectroscopic measurements. For the preparation of charged NCA-Mg samples, galvanostatic charging was subsequently performed at a current density of 0.1 mA cm GLYPH&lt;0&gt; 2 ( ca. 0.1 C) up to 3.8 V (for SOC 50%) and 4.2 V vs. Li þ /Li (for SOC 100%). These potentials are based on a charge-discharge curve. The galvanostatic charging was followed by potentiostatic charging at each PE potential for 1 h to make sure that the samples for the X-ray spectroscopic measurements became at SOCs of 50 and 100%, respectively. The reason for SOC � 100% was that there were several papers already published regarding the Ni L2,3-edge XAS studies of Ni oxidation state in LiNiO2-based PE samples at SOC � 100% and the PE samples did not seem to be changed so much in the circumstances for the soft XAS measurement  [24,29,30].  Overcharged  PE  materials  were  excluded from this work because of possible high reactivity with moisture in air although these materials were of interest for the hard X-ray spectroscopies proposed in this work. The oxidation number of Ni in NCA-Mg would be 3.07 at SOC 0%, 3.53 at SOC 50%, and ca. 4 at SOC 100%, assuming that Ni should be the only active element in NCA-Mg and the oxidation numbers of Li, Co, Al, Mg, and O should remain þ 1, þ 3, þ 3, þ 2,  and GLYPH&lt;0&gt; 2,  respectively.  After  the  electrochemical  preparation,  the cells  were  disassembled  in  an  Ar-filled  glove  box  to  take  out  the  PE samples for the X-ray spectroscopic measurements, which were rinsed in dimethyl  carbonate  and  then  enclosed  in  Al-laminated  polyester pouches.
+
+## 3.2. Hard X-ray spectroscopies
+
+Ni  K-edge  HERFD-XAS  and  Ni  1s2p  RXES  measurements  were implemented  with  the  same  optical  configuration  at  the  BL39XU  of SPring-8, Japan. In both measurements, the incident hard X-ray was monochromatized by using a Si(220) double-crystal monochromator, and horizontally focused by using a Rh-coated cylindrically bent mirror on the sample to the spot size of 0.1 mm (height) � 0.3 mm (width) with an incident flux of 2 � 10 12 photons s GLYPH&lt;0&gt; 1 . The wavelength-dispersive Xray spectrometer consisted of a Johann-type spherically bent Si(620) crystal analyzer with a bending radius of 820 mm and a two-dimensional hybrid pixel array detector (Pilatus 100 K), which were in a Rowlandcircle geometry with the sample (Fig. 2). To prevent the attenuation of the emitted X-ray in the path from the sample to the detector via the crystal  analyzer, a He-filled acrylic chamber having kapton windows
+
+Fig. 2. A schematic diagram of the optical configuration of the wavelengthdispersive X-ray spectrometer used in this work.
+
+<!-- image -->
+
+Y.F. Nishimura et al.
+
+was employed as a He path for the emitted X-ray. The He-filled acrylic chamber could be replaced with a He-filled plastic bag if there were no appropriate  chambers in a beamline. The PE sample enclosed in the sealed  pouch  was  mounted  on  a  sample  holder  to  be  subject  to  the incident X-ray. In the HERFD-XAS measurement, the spectrometer was adjusted  to  detect  the  emitted  X-ray  with  the  photon  energy  of 7,478.2 eV (the Ni K α 1  fluorescence line in an off-resonant condition), followed  by  measuring  the  intensity  of  the  PFY-detected  X-ray  as  a function of the incident X-ray energy. For comparison, Ni K-edge XAS was also conducted in transmission mode using an ionization chamber and a PIN photodiode to measure the X-ray intensity before and after the X-ray absorption by a sample, respectively. For the RXES measurement, the incident X-ray energy was determined in light of the Ni 1s2p resonant inelastic X-ray scattering (RIXS) measurement for NCA-Mg at SOC 0%, which was conducted in the following manner. The energy of the incident X-ray, E 0, was adjusted to a value in the range from 8,333 to 8,350 eV (every 0.2 eV for the pre-edge region [8,333 -8,337 eV] and every 1 eV for the rising-edge region [8,337 -8,350 eV]), followed by recording an X-ray emission (XE) spectrum in the energy range of the PFY-detected X-ray, E 1, from 7,447 to 7,489 eV. The energy transfer, ( E 0 -E 1), was plotted against the incident X-ray energy, E 0. Based on the preliminary 1s2p RIXS measurement, the incident X-ray energy for the Ni 1s2p RXES measurement was determined and adjusted to 8,333.6 eV to induce 1s → 3d (eg) electric quadrupole transition. In the Ni 1s2p RXES measurement, the spectrometer was operated to record the intensity of the PFY-detected X-ray in the same energy range as the RIXS measurement so that both of the Ni K α 1,2 fluorescence lines in a resonant condition could be detected. For all of the hard X-ray spectroscopies, the energy of the incident X-ray was calibrated on the basis of the Ni K-edge XA spectrum of a Ni foil standard measured in transmission mode. The energy of the emitted X-ray was calibrated on the basis of the Ni K α 1 fluorescence line (7,478.2 eV) of a NiO tablet standard in an off-resonant condition.
+
+## 3.3. Soft X-ray spectroscopy
+
+Ni L2,3-edge XAS measurements were also performed using soft X-ray at the BL27SU of SPring-8 for comparison with the hard X-ray spectroscopic methods. In the Ni L2,3-edge XAS measurement, the incident soft X-ray was monochromatized by using a valid-line spacing plane grating monochromator. The X-ray absorbance of the PE sample was evaluated in  fluorescence  yield  (FY)  mode  using  a  PIN  photodiode  as  a  bulksensitive  method  and  in  total  electron  yield  (TEY)  mode  using  an ammeter  to  measure  the  sample  drain  current  as  a  surface-sensitive method [55,56]. The charged PE sample was so chemically active and sensitive  to  air  (especially  moisture  in  air)  that  the  PE  sample  was brought to the beamline with keeping it enclosed in a sealed pouch. The PE samples were taken out of the pouches in an Ar-filled  glove bag connected to the introduction chamber, and then installed into introduction chamber, followed by the ultrahigh vacuum (UHV) chamber for the XAS measurements.
+
+## 3.4. Data processing
+
+The intensity of X-ray detected in PFY or FY or TEY mode, I f, was normalized by that of the incident X-ray, I 0, to cancel out the variation of the incident X-ray intensity as a function of the photon energy. In a typical Ni K-edge HERFD-XA spectrum, the normalized intensity of the PFY-detected X-ray, I f/ I 0, is zero (constant) below the pre-edge region while it depends on the incident X-ray energy above the Ni K absorption edge. A smooth spline function was calculated for each Ni K-edge XA spectrum  at  the  incident  X-ray  energies  above  the  absorption  edge, followed by normalizing the spectrum so that the edge jump would be unity. A Ni K-edge XA spectrum measured in transmission mode was normalized  using  a  spline  smoothing  method  based  on  the  criteria proposed by Cook and Sayers [57] and an edge height as a function of
+
+GLYPH&lt;0&gt;6GLYPH&lt;0&gt;RGLYPH&lt;0&gt;XGLYPH&lt;0&gt;UGLYPH&lt;0&gt;FGLYPH&lt;0&gt;H
+
+energy  represented  by  the  Victoreen  equation  [58].  For  the  Ni  1s2p RXES and the Ni L2,3-edge XAS, all of the energy-dependent I f/ I 0 data are not normalized and shown as they were measured. The centroid of each spectral feature was evaluated by subtracting a linear background from the relevant X-ray spectrum.
+
+## 4. Results and discussion
+
+## 4.1. Charge-discharge behavior
+
+Fig. 3 shows a typical charge-discharge curve of the LIB cell consisting of the NCA-Mg PE and the Li metal NE. The continual change in the PE potential during the charge-discharge process proves that the electrochemical reaction of NCA-Mg used in this work proceeds in a single phase manner. This suggests the homogeneous oxidation state of Ni in the NCA-Mg during the charge-discharge process. Also, the figure indicates that the capacity up to 4.2 V vs. Li þ /Li is 149 mA h g GLYPH&lt;0&gt; 1 and the polarization  between  the  charge  and  discharge  processes  is  30 mV, corresponding to an average resistance of 66.7 m Ω .  The small polarization is beneficial to the preparation of the NCA-Mg samples at the desired  SOCs  with  uniform  oxidation  states  throughout  the  samples. This feature as well as the charge-discharge curve shown in Fig. 3 was utilized to properly prepare the NCA-Mg samples.
+
+## 4.2. Ni L2,3-edge XAS
+
+Fig. 4 shows Ni L2,3-edge XA spectra of NCA-Mg at SOCs of 0 and 100%  measured  in  the  bulk-sensitive  FY  mode  and  in  the  surfacesensitive  TEY  mode.  Regarding  common  features  between  the  two detection modes, spectral features seen at ca. 852 eV and at ca. 871 eV are  assigned  to  Ni  L3-edge  (2p3/2 → 3d)  and  L2-edge  (2p1/2 → 3d), respectively. The contribution of the electric dipole transition from Ni 2p3/2 or 2p1/2 to 4s orbital is so small that it is not apparent in the L2,3edge XA spectrum and thus negligible. Bimodal spectral features with small  splits  (1.5 -2 eV)  are  seen  at  the  Ni  L2,3-edges  in  the  spectra measured in FY and TEY modes. First-principles calculations for Li1 GLYPH&lt;0&gt; x -NiO2  ( x ¼ 0 or 1) [46] predict that a large split of the spectral feature should be observed if LiNiO2  would exist in the high-spin state (i.e., (t2g) 5 (eg) 2 configuration).  This  is  because  2p  core  electrons  can  be excited to both the lower-energy t2g  and the higher-energy eg  orbitals. Even if LiNiO2  exists in the low-spin state (i.e., (t2g) 6 (eg) 1 configuration), a bimodal spectral feature is predicted but the peak split should be small. Comparison of the Ni L2,3-edge XA spectra shown in Fig. 4a and b with the results of the first-principles calculations indicates that the Ni atoms in NCA-Mg at different SOCs are in the low-spin states, in good
+
+Fig. 3. A charge-discharge curve of the LIB cell consisting of the NCA-Mg PE and the Li metal NE at a current density of 0.1 mA cm GLYPH&lt;0&gt; 2 .
+
+<!-- image -->
+
+Y.F. Nishimura et al.
+
+Fig. 4. Ni L2,3-edge XA spectra of NCA-Mg at SOCs of 0% (solid line) and 100% (dotted line) measured (a) in FY mode and (b) in TEY mode.
+
+<!-- image -->
+
+agreement  with  previous  works  [7,8,50 -52].  Therefore,  the  spectral feature in a Ni L2,3-edge XA spectrum results from the electric dipole transition toward the unoccupied Ni 3d (eg) orbital interacting with Ni 2p and O 2p orbitals [40]. The cause of the bimodal spectral features seen at both edges in Fig. 4a and b would be the mixtures of low-spin Ni 3 þ and  Ni 4 þ in  NCA-Mg  as  well  as  the  theoretically  predicted bimodal structure for low-spin Ni 3 þ in NCA-Mg, considering that the average oxidation number of Ni should be greater than three in NCA-Mg even at SOC 0%.
+
+Comparison of the Ni L2,3-edge XA spectra measured in FY and TEY modes points out that the intensity ratio of the higher-energy peak ( I H) to the lower-energy peak ( I L), I H/ I L, is larger in the FY-detected spectrum than in the TEY-detected spectrum at the same SOC. The tendency is similar  to  the  results  for  other  LiNiO2-based  materials  [24,30].  The difference in the I H/ I L ratio between the two detection modes is brought by that in the mean probing depth. Thus, the experimental fact suggests that the oxidation state of Ni should be lower at the surface than in the bulk of the NCA-Mg sample. This was probably because part of the Ni atoms in the surface region of the NCA-Mg sample might be deteriorated in  the  UHV condition and/or by a trace amount of moisture. In this sense, the FY-detected spectrum is considered to be more appropriate as a  standard  for  comparison  with  spectra  measured  by  the  hard  X-ray spectroscopic methods proposed in this work. However, attention must be paid to the fact that the Ni L2,3-edge XA spectra of NCA-Mg might be somewhat distorted by the self-absorption effect [55], which should not change the magnitude relation with respect to the I H/ I L  ratio between the FY and TEY modes, though.
+
+There  is  some  difference  in  the  spectral  feature  between  the  XA spectra measured in the FY and TEY modes, but both spectra exhibit similar  changing  trends  of  the  spectral  features  at  the  Ni  L3-edge  as follows. As SOC increases, the peak located at the higher energy ( ca. 854 eV) slightly shifts to a higher energy and the I H/ I L ratio increases, which eventually shifts the centroid of the L3-edge spectral feature to a higher energy (see Table 1). A similar trend is seen at the Ni L2-edge as well. In general, the centroids of the spectral features at 3d TM L2,3-edge shift to a higher energy with the increase in the average oxidation number of the 3d TM, which results from the increase in the energy gap between TM 2p and unoccupied 3d orbitals with the increase of its oxidation number [29,59 -61]. This means that the oxidation number of Ni in NCA-Mg
+
+Table 1 Summary of the centroid of the spectral feature.
+
+| SOC/%   | L 2,3 -edge XAS   | L 2,3 -edge XAS   | K pre-edge HERFD-XAS   | 1s2p RXES   | 1s2p RXES   |
+|---------|-------------------|-------------------|------------------------|-------------|-------------|
+|         | L 3 -edge         | L 2 -edge         |                        | K α 1       | K α 2       |
+| 0       | 852.2             | 870.9             | 8334.4                 | 856.8       | 874.4       |
+| 50      | -                 | -                 | 8335.3                 | 857.6       | 875.2       |
+| 100     | 853.1             | 871.5             | 8335.8                 | 858.0       | 875.6       |
+
+GLYPH&lt;0&gt;6GLYPH&lt;0&gt;RGLYPH&lt;0&gt;XGLYPH&lt;0&gt;UGLYPH&lt;0&gt;FGLYPH&lt;0&gt;H
+
+certainly  increases  with  SOC,  which  is  consistent  with  our  previous study using hard X-ray Ni K-edge XAS [62].
+
+## 4.3. Ni K pre-edge HERFD-XAS
+
+Fig. 5 summarizes Ni K-edge XA spectra of NCA-Mg at different SOCs in the entire X-ray absorption near edge structure (XANES) region and in the pre-edge region measured in conventional transmission mode and in PFY mode. The XA spectra measured in transmission mode are generally so vague that detailed structures are difficult to recognize in the preedge and rising-edge regions of the spectra, although a series of the spectra can barely detect the shift of the centroid of the pre-edge feature to a higher energy with the increase in the SOC of the NCA-Mg sample. On the other hand, the XA spectra measured in PFY mode are undulating and easy to recognize the fine structure in the pre-edge and rising-edge regions. The difference in the appearance of the Ni K-edge spectrum between these two detection modes obviously results from that in the use of the wavelength-dispersive X-ray spectrometer, which certainly improves  the  energy  resolution  of  the  spectrum  measured  by  the HERFD-XAS method.
+
+Fig.  5d  shows  Ni  K  pre-edge  HERFD-XA  spectra  of  NCA-Mg  at different SOCs. The argument made for the Ni L2,3-edge XAS is true of the Ni K pre-edge HERFD-XAS regarding the spin state of Ni and the cause  of  bimodal  structures.  In  the  NCA-Mg  sample,  the  Ni  1s  core electron would be mainly excited to the unoccupied Ni 3d (eg) orbital at a lower energy in the Ni K pre-edge region, while dipole transitions to the p component of a Ni 3d -O 2p hybridized orbital and/or to Ni 4p orbital would also contribute to the spectral feature at a higher energy in the pre-edge region (see the discussion on the RIXS plane in Supplementary data) [40 -45]. The NCA-Mg sample exhibits a bimodal structure in the K pre-edge feature at SOC 0%. As SOC increases, the peak located at the higher energy (8,335 -8,336 eV) becomes more remarkable. This makes the centroid of the pre-edge feature shift to a higher energy (see Table 1). These changing trends are qualitatively consistent with those observed in the Ni L2,3-edge XA spectra. In this sense, the Ni K pre-edge feature measured by the hard X-ray HERFD-XAS method could be used as an alternative to soft X-ray Ni L2,3-edge XAS to understand the CC behavior of Ni in the LiNiO2-based PE material enclosed in a sealed pouch. When one would like to employ this method, however, attention should be paid to the fact that the tail of the main 1s → 4p rising-edge structure  and  the  contribution  of  the  Ni  3d -O 2p hybridized  orbital might overlap with the 1s → 3d pre-edge feature especially at a higher energy in the pre-edge region even if the HERFD-XAS method is applied. In addition, the scan of the incident X-ray energy inevitably causes the self-absorption effect as well as the overlap with other contributions, although these factors are not expected to bring a dramatic change in the spectral feature.
+
+## 4.4. Ni 1s2p RXES
+
+To determine the incident X-ray energy for the Ni 1s2p RXES precisely, preliminary Ni 1s2p RIXS measurement was performed for NCAMg at SOC 0% (Fig. 6). Fig. 6a is shown in logarithmic scale so that the peak positions of the Ni K α 1,2 fluorescence lines would be easily recognized without any data processing. Fig. 6b shows the normalized intensity of the PFY-detected X-ray so that not only the peak positions of the Ni K α 1,2 fluorescence lines but also the similarity or difference in the shapes of the fluorescence lines would be easily understood. The intensity of the PFY-detected X-ray was normalized at each energy of the incident X-ray so that the highest and lowest intensities would become 1 and 0, respectively. It would be safe to express that a Ni 1s2p RIXS plane is the expansion of a one-dimensional (1D) Ni K-edge XA spectrum to a two-dimensional (2D) map. Thus, the 2D 1s2p RIXS plane contains more information than the 1D K-edge XAS about electronic transitions and interactions especially in resonant conditions. Here, the former feature was exploited to determine the incident X-ray energy for the Ni 1s2p
+
+Y.F. Nishimura et al.
+
+Fig. 5. Comparison of Ni K-edge XA spectra of NCA-Mg at different SOCs measured (a, b) in transmission mode and (c, d) in PFY mode. The spectra in the entire XANES region and in the pre-edge region are shown in (a, c) and (b, d), respectively.
+
+<!-- image -->
+
+Fig. 6. Ni 1s2p RIXS planes of NCA-Mg at SOC 0% with (a) the intensity of the PFY-detected  X-ray  in  logarithmic  scale  and  (b)  the  intensity  of  the  PFYdetected  X-ray  normalized  by  the  highest  and  lowest  intensities  at  each photon energy of the incident X-ray.
+
+<!-- image -->
+
+RXES measurement, at which pure 1s → 3d (eg) electric  quadrupole transition  could  take  place  and  around  which  the  shapes  of  spectral features would be independent of the incident X-ray energy. Based on the RIXS plane, we chose an incident X-ray energy of 8,333.6 eV for the Ni 1s2p RXES (see details in Supplementary data).
+
+Fig. 7 shows the Ni 1s2p RXE spectra of NCA-Mg at different SOCs. In this figure, the horizontal axis describes the energy transfer, ( E 0 -E 1). The argument made for the Ni L2,3-edge XAS is also applicable to the Ni 1s2p RXES regarding the spin state of Ni and the cause of the bimodal structure. Bimodal spectral features are seen both at the Ni K α 1 ( ca. 857 eV) and K α 2 ( ca. 874 eV) fluorescence lines in the spectrum for SOC 0%. As SOC increases, the peak located at the larger energy transfer becomes more prominent. This causes the shifts of the centroids of the spectral features to larger energy transfers (see Table 1). The changing trend is consistent with that observed in the Ni L2,3-edge XA spectra. This fact
+
+Fig. 7. Ni 1s2p RXE spectra of NCA-Mg at SOCs of 0, 50, and 100%.
+
+<!-- image -->
+
+demonstrates that the spectral features at the Ni K α 1,2 fluorescence lines measured by the Ni 1s2p RXES certainly reflect the PDOS of the unoccupied Ni 3d orbital, similarly to the spectral features in L2,3-edge XA spectra and K pre-edge features (see details in Supplementary data). In addition, it suggests that the RXE spectral features could also be utilized to understand the CC behavior of Ni in the LiNiO2-based PE material enclosed in a laminate pouch as a substitute for soft X-ray Ni L2,3-edge XAS.
+
+On the whole, the X-ray spectroscopy experiments performed in this work demonstrate that Ni K pre-edge HERFD-XAS, Ni 1s2p RXES, and Ni L2,3-edge XAS exhibit similar changing trends of the oxidation state of Ni in  NCA-Mg.  This  fact  indicates  that  the  hard  X-ray  spectroscopic methods proposed in this work could be utilized to understand the CC behavior of Ni in the LiNiO2-based PE material enclosed in a sealed pouch as substitutes for soft X-ray Ni L2,3-edge XAS. Although this work deals with LiNiO2-based  materials, the hard  X-ray spectroscopic methods proposed in this work are applicable to other PE materials for
+
+Y.F. Nishimura et al.
+
+LIBs. Particularly for 1s2p RXES, the method is expected to provide Ledge-like spectra when the 3d TM of interest is in the low-spin state with the number of electrons in the occupied TM 3d orbital, n � 6 (i.e., the 3d (t2g) orbital fully occupied). In the case of n &lt; 6 or the high-spin state (i. e., the 3d (t2g) orbital with d-electron vacancy), one could separate the contributions of t2g and eg orbitals to the L-edge-like spectra by changing the incident X-ray energy. Although both K pre-edge HERFD-XAS and 1s2p  RXES  provide  information  on  the  unoccupied  3d  state  and  the oxidation  state  with  hard  X-ray,  the  former  K  pre-edge  XAS  has  an advantage of high signal intensity and the latter 1s2p RXES has advantages of no self-absorption effect and the separation ability for different contributions in the relevant K pre-edge feature. K pre-edge HERFD-XAS would be preferable when one needs high signal-to-noise ratio and rapid measurement. 1s2p RXES would be a better choice if a sample shows a severe self-absorption effect and/or a large tail of the main 1s → 4p dipole  transition  in  the  K  pre-edge  region.  Furthermore,  1s2p  RXES would be effective when one would like to eliminate the contributions of hybridized  orbitals  and/or  charge-transfer  interactions  with  neighboring  atoms and focus on those of electronic  transitions  within the absorbing atom itself. It might be safe to mention that 1s2p RXES could provide  spectral  information  reflecting  the  electronic  state  of  the absorbing atom itself, which could be a good oxidation-state descriptor.
+
+X-ray spectroscopies involving the electronic transition to unoccupied TM 3d orbital (i.e., those studied in this work) are considered to be more  favorable  for  the  evaluation  of  the  oxidation  state  than  those involving  the  electronic  transition  to  unoccupied  TM  4p  orbital  (see details in Supplementary data). This is because the latter X-ray spectroscopy (e.g., Ni K-edge XAS) should be strongly influenced by LMCT in the excited state (i.e., the shakedown process) in some cases including overcharge conditions. The shakedown process appearing in the risingedge region and the interatomic interactions appearing in the pre-edge region of K-edge XAS are both affected by the Ni -O bonding state and the local symmetry of Ni. All of the information on K pre-edge XAS, Kedge XAS, and 1s2p RXES is contained in a 1s2p RIXS plane. Thus, the 1s2p RIXS plane, especially the profile related to the interatomic interactions, could be utilized to further investigate the local environment around Ni, which has something to do with the capacity and the durability of the PE material. The hard X-ray spectroscopic methods and the 1s2p RIXS method employed in this work are expected to pave the way for better understanding of the CC behaviors of Ni in the LiNiO2-based PE materials  for  rational  materials  development  toward  forthcoming automotive applications.
+
+## 5. Conclusions
+
+We examined the applicability of Ni K pre-edge HERFD-XAS and Ni 1s2p RXES using hard X-ray for qualitative understanding of the CC behaviors of Ni in the NCA-Mg PE material for LIB enclosed in a sealed pouch. This work demonstrates that both of the hard X-ray spectroscopic methods can detect similar sequential changes in spectral features to soft X-ray Ni L2,3-edge XAS, which are related to unoccupied Ni 3d state and the oxidation state of Ni, with the change in SOC of the PE material. In this sense, Ni K pre-edge HERFD-XAS and Ni 1s2p RXES can become alternative methods to soft X-ray Ni L2,3-edge XAS with the advantage of high penetrating capability of hard X-ray to understand the CC behaviors  of  Ni  in  the  LiNiO2-based  PE  material.  K  pre-edge  HERFD-XAS would be preferable when one needs high signal-to-noise ratio and rapid measurement. 1s2p RXES would be better if a sample shows a severe self-absorption effect and/or a large tail of the main 1s → 4p dipole transition in the K pre-edge region. Furthermore, thanks to the separation ability, 1s2p RXES can provide spectral information reflecting the electronic state of the absorbing atom itself (mainly the unoccupied 3d state), which could be a good oxidation-state descriptor. These hard Xray  spectroscopic  methods  proposed  in  this  work  can  be  applied  to chemically active and/or air-sensitive PE samples enclosed in a sealed pouch  and  do  not  require  special  instruments  like  tens  of  crystal
+
+GLYPH&lt;0&gt;6GLYPH&lt;0&gt;RGLYPH&lt;0&gt;XGLYPH&lt;0&gt;UGLYPH&lt;0&gt;FGLYPH&lt;0&gt;H
+
+analyzers or UHV chambers. These features facilitate in situ/operando and/or ex situ measurements especially in overcharge conditions for better understanding of the CC behaviors of PE materials for LIBs. This is expected to open up the door to rational development of the PE materials based on such basic knowledge.
+
+## Acknowledgements
+
+The authors are grateful to Dr. N. Kawamura, Dr. M. Mizumaki, and Dr.  T.  Muro  of  the  Japan  Synchrotron  Radiation  Research  Institute (JASRI) for their technical assistances in XAS and RXES measurements and invaluable suggestions. The authors express their sincere appreciation to Prof. H. Hayashi of Japan Women ' s University and Dr. Tsuyoshi Sasaki for his fruitful discussions and advices. The Ni K-edge HERFDXAS  and  the  Ni  1s2p  RXES  measurements  were  performed  at  the BL39XU  of  SPring-8  with  the  approval  of  JASRI  with  the  proposal number of 2014B1574. The Ni L2,3-edge XAS measurement was conducted at the BL27SU of SPring-8 with the approval of JASRI with the proposal number of 2014B1582.
+
+## Appendix A. Supplementary data
+
+Supplementary data to this article can be found online at https://doi. org/10.1016/j.jpowsour.2019.226721.
+
+## References
+
+- [1] J. Pang, R.G. Mendes, A. Bachmatiuk, L. Zhao, H.Q. Ta, T. Gemming, H. Liu, Z. Liu, M.H. Rummeli, Applications of 2D MXenes in energy conversion and storage systems, Chem. Soc. Rev. 48 (2019) 72 -133.
+- [2] J. Wang, Y. Cui, D. Wang, Design of hollow nanostructures for energy storage, conversion and production, Adv. Mater. (2018) 1801993.
+- [3] N. Ogihara, T. Yasuda, Y. Kishida, T. Ohsuna, K. Miyamoto, N. Ohba, Organic dicarboxylate negative electrode materials with remarkably small strain for highvoltage bipolar batteries, Angew. Chem. Int. Ed. 53 (2014) 11467 -11472.
+- [4] J. Hong, W.E. Gent, P. Xiao, K. Lim, D.-H. Seo, J. Wu, P.M. Csernica, C.J. Takacs, D. Nordlund, C.-J. Sun, K.H. Stone, D. Passarello, W. Yang, D. Prendergast, G. Ceder, M.F. Toney, W.C. Chueh, Metal-oxygen decoordination stabilizes anion redox in Li-rich oxides, Nat. Mater. 18 (2019) 256 -265.
+- [5] D.A. Kitchaev, Z. Lun, W.D. Richards, H. Ji, R.J. Cl � ement, M. Balasubramanian, D.H. Kwon, K. Dai, J.K. Papp, T. Lei, B.D. McCloskey, W. Yang, J. Lee, G. Ceder, Design principles for high transition metal capacity in disordered rocksalt Li-ion cathodes, Energy Environ. Sci. 11 (2018) 2159 -2171.
+- [6] S. Muy, J.C. Bachman, L. Giordano, H.-H. Chang, D.L. Abernathy, D. Bansal, O. Delaire, S. Hori, R. Kanno, F. Maglia, S. Lupart, P. Lamp, Y. Shao-Horn, Tuning mobility and stability of lithium ion conductors based on lattice dynamics, Energy Environ. Sci. 11 (2018) 850.
+- [7] T. Ohzuku, A. Ueda, M. Nagayama, Electrochemistry and structural chemistry of LiNiO2  ( R 3 m ) for 4 volt secondary lithium cells, J. Electrochem. Soc. 140 (1993) 1862 -1870.
+- [8] C. Delmas, M. M � en � etrier, L. Croguennec, I. Saadoune, A. Rougier, C. Pouillerie, G. Prado, M. Grüne, L. Fourn � es, An overview of the Li(Ni,M)O2 systems: syntheses, structures and properties, Electrochim. Acta 45 (1999) 243 -253.
+- [9] F. Lin, Y. Liu, X. Yu, L. Cheng, A. Singer, O.G. Shpyrko, H.L. Xin, N. Tamura, C. Tian, T.-C. Weng, X.-Q. Yang, Y.S. Meng, D. Nordlund, W. Yang, M.M. Doeff, Synchrotron X-ray analytical techniques for studying materials electrochemistry in rechargeable batteries, Chem. Rev. 117 (2017) 13123 -13186.
+- [10] W. Yang, T.P. Devereaux, Anionic and cationic redox and interfaces in batteries: advances from soft X-ray absorption spectroscopy to resonant inelastic scattering, J. Power Sources 389 (2018) 188 -197.
+- [11] S.-M. Bak, Z. Shadike, R. Lin, X. Yu, X.-Q. Yang, In situ/operando synchrotronbased X-ray techniques for lithium-ion battery research, NPG Asia Mater. 10 (2018) 563 -580.
+- [12] T. Nonaka, H. Kawaura, Y. Makimura, Y.F. Nishimura, K. Dohmae, In situ X-ray Raman scattering spectroscopy of a graphite electrode for lithium-ion batteries, J. Power Sources 419 (2019) 203 -207.
+- [13] J. Yano, V.K. Yachandra, X-ray absorption spectroscopy, Photosynth. Res. 102 (2009) 241 -254.
+- [14] R.G. Shulman, Y. Yafet, P. Eisenberger, W.E. Blumberg, Observation and interpretation of x-ray absorption edges in iron compounds and proteins, Proc. Natl. Acad. Sci. U.S.A. 73 (1976) 1384 -1388.
+- [15] U.C. Srivastava, H.L. Nigam, X-ray absorption edge spectrometry (XAES) as applied to coordination chemistry, Coord. Chem. Rev. 9 (1972 -1973) 275 -310.
+- [16] S.P. Cramer, K.P. Hodgson, X-ray absorption spectroscopy: a new structural method and its applications to bioinorganic chemistry, Prog. Inorg. Chem. 25 (1979) 1 -39.
+- [17] D. Joseph, S. Basu, S.N. Jha, D. Bhattacharyya, Chemical shifts of K-X-ray absorption edges on copper in different compounds by X-ray absorption
+
+Y.F. Nishimura et al.
+
+spectroscopy (XAS) with Synchrotron radiation, Nucl. Instrum. Methods Phys. Res., Sect. B 274 (2012) 126 -128.
+
+- [18] C.H.M. van Oversteeg, H.Q. Doan, F.M.F. de Groot, T. Cuk, In situ X-ray absorption spectroscopy of transition metal based water oxidation catalysts, Chem. Soc. Rev. 46 (2017) 102 -125.
+- [19] A.N. Mansour, J. McBreen, C.A. Melendres, An in situ X-ray absorption spectroscopic study of charged Li(1 GLYPH&lt;0&gt; z )Ni(1 þ z )O2 cathode material, J. Electrochem. Soc. 146 (1999) 2799 -2809.
+- [20] A.N. Mansour, C.A. Melendres, Analysis of X-ray absorption spectra of some nickel oxycompounds using theoretical standards, J. Phys. Chem. A 102 (1998) 65 -81.
+- [21] W.E. O ' Grady, K.I. Pandya, K.E. Swider, D.A. Corrigan, In situ X-ray absorption near-edge structure evidence for quadrivalent nickel in nickel battery electrodes, J. Electrochem. Soc. 143 (1996) 1613 -1617.
+- [22] A.N. Mansour, C.A. Melendres, M. Pankuch, R.A. Brizzolara, X-ray absorption fine structure spectra and the oxidation state of nickel in some of its oxycompounds, J. Electrochem. Soc. 141 (1994) L69 -L71.
+- [23] N.R.S. Farley, S.J. Gurman, A.R. Hillman, Dynamic EXAFS study of discharging nickel hydroxide electrode with non-integer Ni valency, Electrochim. Acta 46 (2001) 3119 -3127.
+- [24] W.-S. Yoon, M. Balasubramanian, K.Y. Chung, X.-Q. Yang, J. McBreen, C.P. Grey, D.A. Fischer, Investigation of the charge compensation mechanism on the electrochemically Li-ion deintercalated Li1 GLYPH&lt;0&gt; x Co1/3Ni1/3Mn1/3O2 electrode system by combination of soft and hard X-ray absorption spectroscopy, J. Am. Chem. Soc. 127 (2005) 17479 -17487.
+- [25] M. Balasubramanian, X. Sun, X.Q. Yang, J. McBreen, In situ X-ray diffraction and Xray absorption studies of high-rate lithium-ion batteries, J. Power Sources 92 (2001) 1 -8.
+- [26] H. Koga, L. Croguennec, M. M � en � etrier, P. Mannessiez, F. Weill, C. Delmas, S. Belin, Operando X-ray absorption study of the redox processes involved upon cycling of the Li-rich layered oxide Li1.20Mn0.54Co0.13Ni0.13O2  in Li ion batteries, J. Phys. Chem. C 118 (2014) 5700 -5709.
+- [27] W.-S. Yoon, C.P. Grey, M. Balasubramanian, X.-Q. Yang, J. McBreen, In situ X-ray absorption spectroscopic study on LiNi0.5Mn0.5O2  cathode material during electrochemical cycling, Chem. Mater. 15 (2003) 3161 -3169.
+- [28] B. Gilbert, B.H. Frazer, A. Belz, P.G. Conrad, K.H. Nealson, D. Haskel, J.C. Lang, G. Srajer, G. De Stasio, Multiple scattering calculations of bonding and X-ray absorption spectroscopy of manganese oxides, J. Phys. Chem. A 107 (2003) 2839 -2847.
+- [29] Y. Uchimoto, H. Sawada, T. Yao, Changes in electronic structure by Li ion deintercalation in LiNiO2  from nickel L -edge and O K -edge XANES, J. Power Sources 97 -98 (2001) 326 -327.
+- [30] W.-S. Yoon, K.Y. Chung, J. McBreen, D.A. Fischer, X.-Q. Yang, Changes in electronic structure of the electrochemically Li-ion deintercalated LiNiO2  system investigated by soft X-ray absorption spectroscopy, J. Power Sources 163 (2006) 234 -237.
+- [31] T. Okumura, M. Shikano, H. Kobayashi, Contribution of oxygen partial density of state on lithium intercalation/de-intercalation process in Li x Ni0.5Mn1.5O4  spinel oxides, J. Power Sources 244 (2013) 544 -547.
+- [32] M. Oishi, T. Fujimoto, Y. Takanashi, Y. Orikasa, A. Kawamura, T. Ina, H. Yamashige, D. Takamatsu, K. Sato, H. Murayama, H. Tanida, H. Arai, H. Ishii, C. Yogi, I. Watanabe, T. Ohta, A. Mineshige, Y. Uchimoto, Z. Ogumi, Charge compensation mechanisms in Li1.16Ni0.15Co0.19Mn0.50O2  positive electrode material for Li-ion batteries analyzed by a combination of hard and soft X-ray absorption near edge structure, J. Power Sources 222 (2013) 45 -51.
+- [33] X. Liu, J. Liu, R. Qiao, Y. Yu, H. Li, L. Suo, Y.-S. Hu, Y.-D. Chuang, G. Shu, F. Chou, T.-C. Weng, D. Nordlund, D. Sokaras, W.J. Wang, H. Lin, B. Barbiellini, A. Bansil, X. Song, Z. Liu, S. Yan, G. Liu, S. Qiao, T.J. Richardson, D. Prendergast, Z. Hussain, F.M.F. de Groot, W. Yang, Phase transformation and lithiation effect on electronic structure of Li x FePO4: an in-depth study by soft X-ray and simulations, J. Am. Chem. Soc. 134 (2012) 13708 -13715.
+- [34] X. Liu, D. Wang, G. Liu, V. Srinivasan, Z. Liu, Z. Hussain, W. Yang, Distinct charge dynamics in battery electrodes revealed by in situ and operando soft X-ray spectroscopy, Nat. Commun. 4 (2013) 2568.
+- [35] A. Braun, D. Nordlund, S.-W. Song, T.-W. Huang, D. Sokaras, X. Liu, W. Yang, T.C. Weng, Z. Liu, Hard X-rays in -soft X-rays out: an operando piggyback view deep into a charging lithium ion battery with X-ray Raman spectroscopy, J. Electron. Spectrosc. Relat. Phenom. 200 (2015) 257 -263.
+- [36] F. de Groot, High-resolution X-ray emission and X-ray absorption spectroscopy, Chem. Rev. 101 (2001) 1779 -1808.
+- [37] M. Lundberg, T. Kroll, S. DeBeer, U. Bergmann, S.A. Wilson, P. Glatzel, D. Nordlund, B. Hedman, K.O. Hodgson, E.I. Solomon, Metal -ligand covalency of iron complexes from high-resolution resonant inelastic X-ray scattering, J. Am. Chem. Soc. 135 (2013) 17121 -17134.
+- [38] T. Kroll, R.G. Hadt, S.A. Wilson, M. Lundberg, J.J. Yan, T.-C. Weng, D. Sokaras, R. Alonso-Mori, D. Casa, M.H. Upton, B. Hedman, K.O. Hodgson, E.I. Solomon, Resonant inelastic X-ray scattering on ferrous and ferric bis-imidazole porphyrin
+
+GLYPH&lt;0&gt;6GLYPH&lt;0&gt;RGLYPH&lt;0&gt;XGLYPH&lt;0&gt;UGLYPH&lt;0&gt;FGLYPH&lt;0&gt;H
+
+- and cytochrome c : nature and role of the axial methionine -Fe bond, J. Am. Chem. Soc. 136 (2014), 18087 -18099.
+- [39] P. Glatzel, M. Sikora, M. Fern � andez-García, Resonant X-ray spectroscopy to study K absorption pre-edges in 3d transition metal compounds, Eur. Phys. J. Spec. Top. 169 (2009) 207 -214.
+- [40] F. de Groot, G. Vank � o, P. Glatzel, The 1s x-ray absorption pre-edge structures in transition metal oxides, J. Phys. Condens. Matter 21 (2009) 104207.
+- [41] T. Yamamoto, Assignment of pre-edge peaks in K-edge x-ray absorption spectra of 3d transition metal compounds: electric dipole or quadrupole? X Ray Spectrom. 37 (2008) 572 -584.
+- [42] R.V. Vedrinskii, V.L. Kraizman, A.A. Novakovich, Sh M. Elyafi, S. Bocharov, Th Kirchner, G. Dr € ager, Experimental and theoretical studies of fine structure in polarized Ni K X-ray absorption spectra of NiO single crystals, Phys. Status Solidi B 226 (2001) 203 -217.
+- [43] A. Anspoks, A. Kuzmin, Interpretation of the Ni K-edge EXAFS in nanocrystalline nickel oxide using molecular dynamics simulations, J. Non-Cryst. Solids 357 (2011) 2604 -2610.
+- [44] C. Gougoussis, M. Calandra, A. Seitsonen, Ch Brouder, A. Shukla, F. Mauri, Intrinsic charge transfer gap in NiO from Ni K -edge x-ray absorption spectroscopy, Phys. Rev. B 79 (2009), 045118.
+- [45] A. Juhin, F. de Groot, G. Vank � o, M. Calandra, C. Brouder, Angular dependence of core hole screening in LiCoO2: a DFT þ U calculation of the oxygen and cobalt K -edge x-ray absorption spectra, Phys. Rev. B 81 (2010) 115115.
+- [46] W. Ra, M. Nakayama, H. Ikuta, Y. Uchimoto, M. Wakihara, X-ray absorption study of the electronic structure of Li-excess spinel Li1 þ x Ti2 GLYPH&lt;0&gt; x O4  (0 � x � 0.33), Appl. Phys. Lett. 84 (2004) 4364 -4366.
+- [47] K. H € am € al € ainen, D.P. Siddons, J.B. Hastings, L.E. Berman, Elimination of the innershell lifetime broadening in x-ray-absorption spectroscopy, Phys. Rev. Lett. 67 (1991) 2850 -2853.
+- [48] P. Glatzel, M. Sikora, G. Smolentsev, M. Fern � andez-García, Hard X-ray photon-in photon-out spectroscopy, Catal. Today 145 (2009) 294 -299.
+- [49] P. Carra, M. Fabrizio, B.T. Thole, High resolution X-ray resonant Raman scattering, Phys. Rev. Lett. 74 (1995) 3700 -3703.
+- [50] C. Delmas, I. Saadoune, Electrochemical and physical properties of the Li x Ni1 GLYPH&lt;0&gt; y Co y O2  phases, Solid State Ionics 53 -56 (1992) 370 -375.
+- [51] J. Sugiyama, Y. Ikedo, K. Mukai, H. Nozaki, M. Månsson, O. Ofer, M. Harada, K. Kamazawa, Y. Miyake, J.H. Brewer, E.J. Ansaldo, K.H. Chow, I. Watanabe, T. Ohzuku, Low-temperature magnetic properties and high-temperature diffusive behavior of LiNiO2  investigated by muon-spin spectroscopy, Phys. Rev. B 82 (2010) 224412.
+- [52] H. Ikeno, I. Tanaka, Y. Koyama, T. Mizoguchi, K. Ogasawara, First-principles multielectron calculations of Ni L 2,3 NEXAFS and ELNES for LiNiO2 and related compounds, Phys. Rev. B 72 (2005), 075123.
+- [53] F.M.F. de Groot, P. Glatzel, U. Bergmann, P.A. van Aken, R.A. Barrea, S. Klemme, M. H € avecker, A. Knop-Gericke, W.M. Heijboer, B.M. Weckhuysen, 1s2p resonant inelastic X-ray scattering of iron oxides, J. Phys. Chem. B 109 (2005) 20751 -20762.
+- [54] P. Glatzel, U. Bergmann, High resolution 1s core hole X-ray spectroscopy in 3d transition metal complexes -electronic and structural information, Coord. Chem. Rev. 249 (2005) 65 -95.
+- [55] B.H. Frazer, B. Gilbert, B.R. Sonderegger, G. De Stasio, The probing depth of total electron yield in the sub-keV range: TEY-XAS and X-PEEM, Surf. Sci. 537 (2003) 161 -167.
+- [56] M. Abbate, J.B. Goedkoop, F.M.F. de Groot, M. Grioni, J.C. Fuggle, S. Hofmann, H. Petersen, M. Sacchi, Probing depth of soft x-ray absorption spectroscopy measured in total-electron-yield mode, Surf. Interface Anal. 18 (1992) 65 -69.
+- [57] J.W. Cook Jr., D.E. Sayers, Criteria for automatic x-ray absorption fine structure background removal, J. Appl. Phys. 52 (1981) 5024 -5031.
+- [58] J.A. Victoreen, The calculation of X-ray mass absorption coefficients, J. Appl. Phys. 20 (1949) 1141 -1147.
+- [59] L.A. Montoro, M. Abbate, E.C. Almeida, J.M. Rosolen, Electronic structure of the transition metal ions in LiCoO2, LiNiO2 and LiCo0.5Ni0.5O2, Chem. Phys. Lett. 309 (1999) 14 -18.
+- [60] Y. Koyama, T. Mizoguchi, H. Ikeno, I. Tanaka, Electronic structure of lithium nickel oxides by electron energy loss spectroscopy, J. Phys. Chem. B 109 (2005) 10749 -10755.
+- [61] H. Ikeno, T. Mizoguchi, Y. Koyama, Z. Ogumi, Y. Uchimoto, I. Tanaka, Theoretical fingerprints of transition metal L2,3 XANES and ELNES for lithium transition metal oxides by ab initio multiplet calculations, J. Phys. Chem. C 115 (2011) 11871 -11879.
+- [62] Y. Makimura, T. Sasaki, H. Oka, C. Okuda, T. Nonaka, Y.F. Nishimura, S. Kawauchi, Y. Takeuchi, Studying the charging process of a lithium-ion battery toward 10 V by in situ X-ray absorption and diffraction: lithium insertion/extraction with side reactions at positive and negative electrodes, J. Electrochem. Soc. 163 (2016). A1450 -A1456.
+
+TABLES:
+------------------------------
+
+Table 1:
+Caption: 
+Content: | SOC/%   | L 2,3 -edge XAS   | L 2,3 -edge XAS   | K pre-edge HERFD-XAS   | 1s2p RXES   | 1s2p RXES   |
+|---------|-------------------|-------------------|------------------------|-------------|-------------|
+|         | L 3 -edge         | L 2 -edge         |                        | K α 1       | K α 2       |
+| 0       | 852.2             | 870.9             | 8334.4                 | 856.8       | 874.4       |
+| 50      | -                 | -                 | 8335.3                 | 857.6       | 875.2       |
+| 100     | 853.1             | 871.5             | 8335.8                 | 858.0       | 875.6       |

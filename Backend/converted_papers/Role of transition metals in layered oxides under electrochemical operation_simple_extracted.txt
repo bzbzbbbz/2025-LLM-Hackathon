@@ -1,0 +1,180 @@
+Simple Docling Extracted Data from: Role of transition metals in layered oxides under electrochemical operation.pdf
+============================================================
+
+Title: Role of transition metals in layered oxides under electrochemical operation
+Pages: 8
+Tables: 1
+Figures: 0
+
+MAIN TEXT:
+------------------------------
+<!-- image -->
+
+## Abstract
+
+With variations in compositions in layered Li[Ni,Co,Mn]O2, we could change the several factors that might be considered to influence the electrochemical properties. The crystallographic characteristics of the samples were studied by neutron diffraction Rietveld analysis. After electrochemical operation, we measured the macroscopic crystal structure changes, the valence state of transition metals and the variations of interatomic distance for M-O (M: transition metal) through XRD and XAS. The variation in macroscopic lattice parameters was well coincident with the variation in microscopic structure changes viz. the variation of interatomic distance. We discussed the characteristics of transition metals in the structure and their effects on the electrochemical properties of the samples under electrochemical operation. We found that Li[Li1 / 10Ni2 / 10Co3 / 10Mn4 / 10]O2 with the lowest Ni/(Mn + Co) ratio among the samples showed the best capacity retention up to the 30th cycle. ' 2004 Elsevier Ltd. All rights reserved.
+
+Keywords: Lithium secondary battery; Cathode; Layered Li[Ni,Co,Mn]O2; XAS; Neutron
+
+## 1. Introduction
+
+Lithium secondary battery system has been primarily comprised of lithium transition metal oxide as a cathode material, carbonaceous material as an anode material, organic electrolyte and separator. Among them, the cathode material is one of the important factors in terms of the cost, weight, and efficiency of battery. Especially, the state of transition metal plays an important role in electrochemical properties because the lithium ions can be extracted (inserted) out of (into) the host structure by redox process of the transition metals. For examples, the tendency to have Ni 2 + ions within the lithium layers in LiNiO2, called cation mixing, can deteriorate battery performance such as lower capacity and larger polarization [1-3]. Spinel LiMn2O4 exhibits severe capacity fading when operated both 3 and 4 V regions. The suggested reason for the capacity fading is the
+
+∗ Corresponding author. Tel.: + 82-61-330-3183; fax: + 82-61-330-2909.
+
+E-mail address: htchung@dsu.ac.kr (H.-T. Chung).
+
+1 Co-corresponding author.
+
+Jahn-Teller effect of trivalent manganese ions in the high spin state t 3 2g e 1 g [4,5], in which the state of transition metal also largely affects the electrochemical properties.
+
+Recently, a combination of the standard cathode cations Ni, Co, and Mn was reported to have some promising features for a new cathode material [6-8]. The substitution of Ni 2 + and Mn 4 + for Co 3 + reduce the cost of the final material without capacity loss. Among them, Li[Ni1 / 3Co1 / 3Mn1 / 3]O2, a special case in which x is 1/3 in Li[Ni x Co1 -2 x Mn x ]O2 system, showed a specific capacity of 160 mAhg -1 between 2.5 and 4.4 V [9] and its thermal lithium cobalt oxide at the charged state [10]. This material could be one of promising cathode materials with lower cost and good thermal stability.
+
+In the previous study, we studied the first cycle characteristics of Li[Ni1 / 3Co1 / 3Mn1 / 3]O2 charged up to 4.7 V [11]. Manganese existed as tetravalent and was found to be electrochemically inactive, while oxidation reaction of divalent nickel (Ni 2 + /Ni 4 + ) is related to the lower plateau, and that of trivalent cobalt (Co 3 + /Co 4 + ) seems to occur entire range of x in Li1 -x [Ni1 / 3Co1 / 3Mn1 / 3]O2. As state above, the prop-
+
+Available online at www.sciencedirect com
+
+<!-- image -->
+
+Electrochimica Acta 49 (2004) 3573-3580
+
+ELECTROCHIMICA
+
+~cta
+
+<!-- image -->
+
+Www.elsevier .com/locatelelectacta
+
+## Role of transition metals in layered Li[Ni,Co,Mn]O2 under electrochemical operation
+
+Jung-Min Kim 1 , Hoon-Taek Chung ∗
+
+Department of Ceramic Engineering, Materials Science and Engineering, Dongshin University, Daehodong 252 Naju, 520714 Chonnam, Republic of Korea
+
+Received 3 December 2003; received in revised form 13 March 2004; accepted 29 March 2004
+
+Available online 13 May 2004
+
+erties of transition metal affect electrochemical properties of battery systems. Thus, in this paper, we have studied the effects of variations in transition metals on the electrochemical properties under electrochemical operation. We changed the state of the transition metals by substituting lithium for transition metals and by changing the ratio of transition metals such as Li[Li1 / 10Ni3 / 10Co3 / 10Mn3 / 10]O2, and Li[Li1 / 10Ni2 / 10Co3 / 10Mn4 / 10]O2.
+
+## 2. Experimental
+
+LiOH · H2O, Ni(OH)2, Co(NO)3 · 6H2O and Mn3O4 were used as starting materials. They were mixed in ethanol and dried. The dried powder was calcined at 950 ◦ C for 12 h in air. Li[Ni1 / 3Co1 / 3Mn1 / 3]O2 and Li[Li1 / 10Ni ( 3 -x)/ 10 Co3 / 10Mn ( 3 + x)/ 10]O2 ( x = 0 and 1) were directly prepared by solid state reaction. These samples were termed N33 (Li [Ni1 / 3Co1 / 3Mn1 / 3]O2), N30 (Li[Li1 / 10Ni3 / 10Co3 / 10Mn3 / 10] O2) and N20 (Li[Li1 / 10Ni2 / 10Co3 / 10Mn4 / 10]O2), respectively. We named the samples based on the amount of nickel contents in the samples.
+
+Neutron diffraction data of the samples were collected for structural analysis. The samples were packed into thin-walled vanadium cans for powder neutron diffraction experiment. A neutron source with λ = 1 . 836 ¯ supplied by Ge( 3 3 1) single crystal monochromator was used. The Neutron diffraction data were recorded over an angular 2 θ range of 15-150 ◦ with a step size of 0.05 ◦ using a high resolution powder diffractometer at Hanaro (Korea). Neutron diffraction Rietveld refinements were performed using the Fullprof 2000 [12]. The ex situ XRD measurements were performed to study the structural changes of the samples during cycling.
+
+X-ray absorption spectra at Ni, Co, and Mn K-edge for the samples and cycled samples were recorded at the 3C1 and 7C1 beam lines of PLS (Pohang Light Source, Korea) with a Si(1 1 1) double crystal monochromator. The storage ring was operated with the electron energy of 2 GeV and a current from 100 to 120 mA. The data were collected in a transmittance mode with a step size 0.03 eV in the 75% N2 and 25% Ar mixed gas filled ionization chambers. Energy calibration was carried out before all measurements using the Ni, Co and Mn metal foils. To measure ex situ X-ray absorption spectroscopy (XAS), the cycled samples were disassembled in Ar atmosphere to prevent oxidation of transition metals and kept in Ar filled bottle until the measurement.
+
+Cathode slurry was fabricated by mixing the samples, acetylene black and polyvinylidene fluoride in a weight ratio of 85:10:5 with N -methly-2-pyrolidinone. The 2032 coin type cells were assembled in an argon-filled glove box. A 1 M LiPF6 in EC-DEC (1:2 wt.%) and lithium ribbon were used as electrolyte and anode, respectively. Electrochemical tests were performed on the cells between 2.0 and 4.7 V at a constant current density of 30 m Ag -1 at 25 ◦ C.
+
+Table 1 The results of Rietveld refinement for powder neutron diffraction
+
+|           | N33              | N30              | N20              |
+|-----------|------------------|------------------|------------------|
+| a (¯)     | 2.8622 ± 0.0002  | 2.8538 ± 0.0002  | 2.8425 ± 0.0003  |
+| c (¯)     | 14.2502 ± 0.0013 | 14.2113 ± 0.0008 | 14.2095 ± 0.0013 |
+| c/a (¯)   | 4.9788           | 4.9798           | 4.9989           |
+| Li 3a     | 0.941 ± 0.001    | 1.000 ± 0.001    | 0.987 ± 0.012    |
+| Ni 3a     | 0.059 ± 0.002    | 0.000 ± 0.002    | 0.013 ± 0.001    |
+| Z oxy (¯) | 0.2589 ± 0.001   | 0.2591 ± 0.0010  | 0.2591 ± 0.0010  |
+| B ov (¯)  | 0.6088 ± 0.052   | 0.5456 ± 0.0430  | 0.7139 ± 0.0410  |
+| R wp (%)  | 7.40             | 6.24             | 6.24             |
+| R B (%)   | 5.22             | 4.54             | 2.82             |
+
+N33: Li[Ni1 / 3Co1 / 3Mn1 / 3]O2; N30: Li[Li1 / 10 Ni3 / 10Co3 / 10Mn3 / 10]O2; and N20: Li[Li1 / 10Ni2 / 10Co3 / 10Mn4 / 10]O2.
+
+## 3. Results and discussion
+
+## 3.1. Neutron diffraction study before electrochemical operation
+
+Cation mixings in layered structure oxides can deteriorate battery performance [1-3]. Therefore, we examined the amount of cation mixing for the samples through the neutron diffraction Rietveld analysis. The calculated pattern was based on the 𝛂 -NaFeO2 structure type (R-3m) with lithium atoms on the 3a sites (0 0 0), transition metal atoms on the 3b sites (0 0 1/2), and oxygen on the 6c sites (0 0 z ). The best Rietveld refinement results for all the samples are listed in Table 1. The percentages of cation mixing (the value in Ni3a) for the samples are ca. 5, 0 and 1 in N33, N30 and N20, respectively. It is certain that lithium substitution for the transition metals decreased the amount of cation mixings. Thus, we had expected that the N30 might show better electrochemical properties than the others, and we will discuss whether the cation mixings affects the electrochemical properties or not.
+
+## 3.2. Ex situ XAS study after electrochemical operation
+
+We studied ex situ EXAFS spectra for each transition metal at the initial and the end of charged state (4.7 V). Fig. 1 is the results. The abscissa axis shows the interatomic distances, and the peak height is related to the backscattering of the photoelectrons by the coordinated atoms. As can be seen in Fig. 1, the distance of Mn-O was nearly unchanged during charging in all the samples. While, the distance of Co-O was slightly decreased and the distance of Ni-O was largely decreased during charging in all the samples. These variations of interatomic distances have a close relationship with the change in valence state in transition metals. In the presence of an octahedral crystal field, the d orbitals split into a lower-energy triply degenerate (t2g) and a higher-energy doubly degenerates set (eg). Thus, the outermost electron configuration of Co 3 + /Co 4 + is t 6 2g e 0 g / t 5 2g e 0 g , and that of Ni 2 + /Ni 4 + (or Ni 3 + /Ni 4 + ) is
+
+Fig. 1. Ex situ EXAFS spectra at (a) Mn K-edge (b) Co K-edge and (c) Ni K-edge for the samples (solid line: initial state; dotted line: charged state at 4.7 V; M: transition metals).
+
+<!-- image -->
+
+t 6 2g e 2 g / t 6 2g e 0 g (or t 6 2g e 1 g / t 6 2g e 0 g ). Therefore, in oxidation reaction (during charge), the energy change in Co 3 + /Co 4 + would be small because change occurs within the t2g degenerate set, resulting in a small variation in ionic radius ( r 3 + Co = 0 . 545 ¯ and r 4 + Co = 0 . 53 ¯), but the variation of energy in Ni 2 + /Ni 4 + (or Ni 3 + /Ni 4 + ), in which change occurs between lower t2g and higher eg sets, would be relatively large, inducing a large variation in ionic radius ( r 2 + Ni = 0 . 69, r 3 + Ni = 0 . 56 and r 4 + Ni = 0 . 48 ¯, respectively). The ionic radii were based on the report of Shannon [13]. While, the invariant MnO6
+
+octahedrons may sustain host structure under electrochemical operation. Therefore, we thought that it is the Ni/(Mn + Co) ratio that should be reduced to sustain a good structural stability during cycling. The Ni/(Mn + Co) ratios are 1/2, 1/2 and 2/7 for N33, N30, and N20, respectively. Thus, a stable structural stability during cycling was expected in N20.
+
+Fig. 2 shows the results of ex situ K-edge XANES spectra at 4.7 and 2.5 V . Although the change of XANES spectra is observed in Mn K-edge, it is due to the change in environments around the manganese rather than the change in
+
+Fig. 2. Ex situ XANES spectra at (a) Mn K-edge (b) Co K-edge and (c) Ni K-edge for the samples (solid line: charged state at 4.7 V; dotted line: discharged state at 2.5 V).
+
+<!-- image -->
+
+valence states because the distance of Mn-O is unchanged during cycling as showed in Fig. 1. However, the K-edge XANES spectra for Ni and Co in all the samples shifted to higher energy when samples were charged up to 4.7 V, indicating the oxidation of Ni and Co. At the end of discharged state, the spectra of Co moved back to their initial position. But the spectra of Ni were not identical with their initial spectra. The Ni K-edge spectra were shifted to higher energy at the end of discharged state. In N33 and N20, the Ni K-edge spectra were closed to the Ni 3 + reference rather than Ni 2 + reference, indicating that many nickel ions (Ni 3 + ) remain after discharge in both samples. Therefore, it could be deduced that insufficient reduction of Ni 4 + to Ni 2 + occurs during discharge in N33 and N20, which might be one of reasons of capacity loss in the first cycle.
+
+Fig. 3. Ex situ XRD patterns for (a) N33 (b) N30 and (c) N20 during the first cycle (N33: Li[Ni1 / 3Co1 / 3Mn1 / 3]O2; N30: Li[Li1 / 10 Ni3 / 10Co3 / 10Mn3 / 10]O2; N20: Li[Li1 / 10Ni2 / 10Co3 / 10Mn4 / 10]O2).
+
+<!-- image -->
+
+## 3.3. Ex situ XRD study and cycling test
+
+Fig. 3 shows ex situ XRD of the samples during the first cycle. No phase changes were observed in all the samples. Especially, XRD patterns observed over 4.5 V indicate that host structures are well sustained in N20 than N33 and N30, coincident with the Ni/(Mn + Co) ratio in the samples. To trace the lattice parameter variations, 110 peaks were connected by a dot line. N20 shows less variation than the others during cycling. Fig. 4 shows the lattice parameters and the volume change of the samples during the first cycle. The parameter a was decreased during charging because of the oxidation of transition metals Co and Ni. And the parameter c was increased up to 4.5 V due probably to the electronic repulsions between adjacent oxygen layers caused by the absence of lithium ions. Similar phenomena were observed in LiNiO2 system [14]. However, the parameter c was decreased rapidly at 4.7 V in N33 and N30, but there was a little increase in the parameter c in N20. Guilmard et al. [14] suggested that the decrease of lattice parameter c is due to the increased amount of covalent Ni 4 + -O that can diminish the electronic repulsions. Thus, the amount of nickel in N20 might not be enough to induce the covalent Ni 4 + -O bonding which might diminish the electronic re-
+
+Fig. 4. The variation of lattice parameters for (a) N33 (b) N30 (c) N20 and (d) the volume change of the samples during the first charge (N33: Li[Ni1 / 3Co1 / 3Mn1 / 3]O2; N30: Li[Li1 / 10 Ni3 / 10Co3 / 10Mn3 / 10]O2; N20: Li[Li1 / 10Ni2 / 10Co3 / 10Mn4 / 10]O2).
+
+<!-- image -->
+
+pulsions in N20. As can be seen in Fig. 4d, the variation of volume of N20 is less than those of N33 and N30 because the variation of lattice parameters of N20 is less than the others.
+
+Fig. 5 shows the cycling performances for the samples. N20 shows better capacity retention than the others. Fig. 6 shows the evolution of differential charge/discharge capacity plots for the samples with increasing cycling. Upon cyclings, the oxidation peak at 3.7 V of N30 and N33 shifted to higher voltage but the peak of N20 exhibited little shift. And the polarizations of redox peaks of N33 and N30 were getting larger with increasing cyclings. However, the redox peaks of N20 were quite stable. Thus, the cycling properties and the evolution of differential charge/discharge capacity plots indicated that N20 shows better capacity retention and reversibility of the electrode than the others.
+
+Comparing N30 and N20, the degrees of cation mixing are nearly the same, but they show different electrochemical properties, indicating that the cation mixing has little effect on the electrochemical properties in this case. Therefore, we found that it is the Ni/(Mn + Co) ratio that affects the electrochemical properties rather than the cation mixing in this case.
+
+Fig. 5. Cycling performance for the samples, N33: Li[Ni1 / 3Co1 / 3Mn1 / 3]O2; N30: Li[Li1 / 10 Ni3 / 10Co3 / 10Mn3 / 10]O2; N20: i[Li1 / 10Ni2 / 10Co3 / 10Mn4 / 10]O2.
+
+<!-- image -->
+
+Fig. 6. The evolution of differential charge/discharge capacity plots with increasing cycle number for the cells using N33, N30 and N20 as cathode (N33: Li[Ni1 / 3Co1 / 3Mn1 / 3]O2; N30: Li[Li1 / 10Ni3 / 10Co3 / 10Mn3 / 10]O2; N20: Li[Li1 / 10Ni2 / 10Co3 / 10Mn4 / 10]O2).
+
+<!-- image -->
+
+## 4. Conclusion
+
+By changing compositions in layered Li[Ni,Co,Mn]O2 such as Li[Ni1 / 3Co1 / 3Mn1 / 3]O2, Li[Li1 / 10Ni3 / 10Co3 / 10 Mn3 / 10]O2 and Li[Li1 / 10Ni2 / 10Co3 / 10Mn4 / 10]O2, we could change the degree of cation mixing and the Ni/(Mn + Co) ratio in each sample. It was found that the degree of cation mixings has little effects on the electrochemical properties in this case. But the Ni/(Mn + Co) ratio should be reduced to obtain a good electrochemical property with little capacity loss in this layered material. Especially, after the end of discharged state, we found that insufficient reduction of Ni 4 + to Ni 2 + by ex situ XAS studies, which might be one of reasons of capacity loss on the first cycle.
+
+## Acknowledgements
+
+This work was supported by grant no. R05-2001-00000808-0 from the Basic Research Program of the Korea Science &amp; Engineering Foundation. Authors are grateful to authorities at HANARO for the Neutron powder diffraction measurements and at the Pohang Light Sources (PLS) for the X-ray Absorption Spectroscopy measurements.
+
+## References
+
+- [1] A. Rougier, P. Gravereau, C. Delmas, J. Electrochem. Soc. 143 (1996) 1168.
+- [2] T. Ohzuku, A. Ueda, M. Nagayama, J. Electrochem. Soc. 140 (1993) 1862.
+- [3] J. Baker, R. Koksbang, M.Y. Saidi, Solid State Ionics 89 (1996) 25.
+- [4] R.J. Gummow, A.de. Kock, M.M. Thackeray, Solid State Ionics 69 (1994) 59.
+- [5] M.M. Thackeray, Prog. Solid State Chem. 25 (1997) 1.
+- [6] T. Nohma, Paper presented at International Meeting on Power Sources for Consumer an Industrial Applications, Honolulu, Hawaii, 1998.
+- [7] S.T. Mayer, US Patent, 5,783,333 (1998).
+- [8] T.J. Boyle, D. Ingersoll, M.A. Rodriguez, C.J. Tafoya, D.H. Doughty, J. Electrochem. Soc. 146 (1999) 1683.
+- [9] K.M. Shaju, G.V. Subba Rao, B.V.R. Chowdari, Electrochim. Acta 48 (2002) 145.
+
+- [10] N. Yabuuchi, T. Ohzuku, J. Power Sources 119-121 (2003) 171.
+- [11] J.-M. Kim, H.-T. Chung, Electrochim. Acta 49 (2004) 937.
+- [12] T. Roisnel, J. Rodriguez-Carjaval, Fullporf Manual, Institut Laue-Langevin, Grenoble, 2000.
+- [13] R.D. Shannon, Acta Crystallogr. Sect. A: Cryst. Phys. Diffr. Theor. Gen. Crystallogr. A 32 (1976) 751.
+- [14] .M. Guilmard, A. Rougier, M. Grune, L. Croguennec, C. Delmas, J. Power Sources 115 (2003) 305.
+
+TABLES:
+------------------------------
+
+Table 1:
+Caption: 
+Content: |           | N33              | N30              | N20              |
+|-----------|------------------|------------------|------------------|
+| a (¯)     | 2.8622 ± 0.0002  | 2.8538 ± 0.0002  | 2.8425 ± 0.0003  |
+| c (¯)     | 14.2502 ± 0.0013 | 14.2113 ± 0.0008 | 14.2095 ± 0.0013 |
+| c/a (¯)   | 4.9788           | 4.9798           | 4.9989           |
+| Li 3a     | 0.941 ± 0.001    | 1.000 ± 0.001    | 0.987 ± 0.012    |
+| Ni 3a     | 0.059 ± 0.002    | 0.000 ± 0.002    | 0.013 ± 0.001    |
+| Z oxy (¯) | 0.2589 ± 0.001   | 0.2591 ± 0.0010  | 0.2591 ± 0.0010  |
+| B ov (¯)  | 0.6088 ± 0.052   | 0.5456 ± 0.0430  | 0.7139 ± 0.0410  |
+| R wp (%)  | 7.40             | 6.24             | 6.24             |
+| R B (%)   | 5.22             | 4.54             | 2.82             |

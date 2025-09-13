@@ -1,0 +1,176 @@
+Simple Docling Extracted Data from: SI_Unraveling the Rapid Redox Behavior of Li‐Excess 3d‐Transition Metal Oxides for.pdf
+============================================================
+
+Title: SI_Unraveling the Rapid Redox Behavior of Li‐Excess 3d‐Transition Metal Oxides for
+Pages: 26
+Tables: 2
+Figures: 0
+
+MAIN TEXT:
+------------------------------
+<!-- image -->
+
+## Supporting Information
+
+for Adv. Energy Mater., DOI: 10.1002/aenm.201904092
+
+Unraveling the Rapid Redox Behavior of Li-Excess 3dTransition Metal Oxides for High Rate Capability
+
+Wooyoung Jin, Seungjun Myeong, Jaeseong Hwang, Haeseong Jang, Jaekyung Sung, Youngshin Yoo, Min Gyu Kim,* and Jaephil Cho*
+
+Copyright WILEY-VCH Verlag GmbH &amp; Co. KGaA, 69469 Weinheim, Germany, 2018.
+
+## Supporting Information
+
+Unraveling the Rapid Redox Behavior of Li-excess 3d-Transition Metal Oxides for High Rate Capability
+
+Wooyoung Jin 1 , Seungjun Myeong 1 , Jaeseong Hwang 1 , Haeseong Jang 1 , Jaekyung Sung 1 , Youngshin Yoo 1 , Mxin Gyu Kim 2 *, and Jaephil Cho 1 *
+
+1 Department of Energy Engineering and School of Energy and Chemical Engineering, Ulsan National Institute of Science and Technology (UNIST), Ulsan 44919, Republic of Korea. Beamline Research Division, Pohang Accelerator Laboratory (PAL), Pohang, Kyungbuk
+
+2 37673, Republic of Korea
+
+*Corresponding author: mgkim@postech.ac.kr, jpcho@unist.ac.kr
+
+Figure S1 . SEM image of a) LMR and b) LNMR
+
+<!-- image -->
+
+Figure S2. XRD rietveld refinement of a) LMR and b) LNMR. c) XRD pattern comparison between LMR and LNMR. Comparison of I(003)/I(104) ratio of a) LMR and b) LNMR
+
+<!-- image -->
+
+Figure S3 . STEM images of LMR with elemental mappings (Mn, Ni and Co) through energy-dispersive spectroscopy
+
+<!-- image -->
+
+Figure S4 . STEM images of LNMR with elemental mappings (Mn, Ni and Co) through energy-dispersive spectroscopy
+
+<!-- image -->
+
+Figure S5 . Quantification of 2TM-O-4Li, 3TM-O-3Li and 4TM-O-2Li ratio in the LMR and LNMR. a) Possible XRD pattern candidates for constructing LMR. b) Pie chart plotting the proportion of 2TM-O-4Li, 3TM-O-3Li and 4TM-O-2Li in LMR. c) Possible XRD pattern candidates for constructing LNMR. d) Pie chart plotting the proportion of 2TM-O-4Li, 3TMO-3Li and 4TM-O-2Li in LNMR
+
+<!-- image -->
+
+Figure S6. Initial voltage profile of LMR and LNMR
+
+<!-- image -->
+
+Figure S7. a) Room temperature cycling performance of the LMR and LNMR. b) 60 ℃ temperature cycling performance of the LMR and LNMR. Both electrochemical test were conducted at 2-4.6V with charge and discharge C-rates of 0.5C and 1C, respectively
+
+<!-- image -->
+
+Figure S8. a) Charge fixed rate (0.5C) capability from 0.2C to 5C. b) Comparison of average voltage change depending on C-rate. All evaluations are conducted by using LMR and LNMR. The equation of volumetric energy density is
+
+<!-- image -->
+
+Figure S9. Electrochemical evaluation and analysis of LMR and LNMR. All evaluations are performed at 2-4.6V. a) Discharge fixed rate (0.5C) capability test from 0.2C to 5C. b) Overpotential, c) IR drop and d) Li-ion diffusivity were calculated by GITT analysis.
+
+<!-- image -->
+
+Figure S10. GITT test of LMR and LNMR at a) 0.1C, b) 0.5C, c) 1C, and 3C. Li-ion diffusivity is calculated by 0.1C-rate GITT test and calculation method is described in below.
+
+<!-- image -->
+
+<!-- formula-not-decoded -->
+
+i : current (A), Vm : molar volume of the electrode (cm 3 /mol), ZA : charge number, F : Faraday's constant (96485 C/mol), S : electrode/electrolyte contact area (cm 2 ), : slope of the coulomeric titration curve, √ : slope of the linearized plot of the potential during the current pulse of duration)
+
+Figure S11. Comparison of IR drop and overpotential according to C-rate at discharge process. IR drop of a) LMR and b) LNMR. Overpotential of c) LMR and d) LNMR
+
+<!-- image -->
+
+Figure S12. Nyquist plot showing electrochemical impedance spectroscopy data for LMR and LNMR after initial cycle
+
+<!-- image -->
+
+Figure S13. Calculation of capacity by voltage through dQ/dV profile. dQ/dV plot of LMR at a) 0.5C and b) 3C. dQ/dV plot of LNMR at a) 0.5C and b) 3C. The red area calculates the capacity of the peak below 3.5V, and the blue area is the capacity above 3.5V. The calculation results are described in Table S1.
+
+<!-- image -->
+
+Figure S14. a) Schematic diagram of Li-metal-pouch type half-cell with its composition. b) Picture of Li-metal-pouch type half-cell
+
+<!-- image -->
+
+Figure S15. Operando XANES spectra of LMR at 0.5C charge and discharge. XANES spectra, differential XANES spectra, and 2D-contour maps of a) Mn K-edge, b) Ni K-edge, and c) Co K-edge are represented, respectively.
+
+<!-- image -->
+
+Figure S16. Operando XANES spectra of LNMR at 0.5C charge and discharge. XANES spectra, differential XANES spectra, and 2D-contour maps of a) Mn K-edge, b) Ni K-edge, and c) Co K-edge are represented, respectively.
+
+<!-- image -->
+
+Figure S17. Operando XANES spectra of LMR at 0.5C charge and 3C discharge. XANES spectra, differential XANES spectra, and 2D-contour maps of a) Mn K-edge, b) Ni K-edge, and c) Co K-edge are represented, respectively.
+
+<!-- image -->
+
+Figure S18. Operando XANES spectra of LMR at 0.5C charge and 3C discharge. XANES spectra, differential XANES spectra, and 2D-contour maps of a) Mn K-edge, b) Ni K-edge, and c) Co K-edge are represented, respectively.
+
+<!-- image -->
+
+Figure S19. RDF of the Mn, Ni, and Co K-edge k3χ(k) operando EXAFS spectra of LMR at 0.5C charge and 3C discharge. RDF and 2D-contour maps of a) Mn K-edge, b) Ni K-edge, and c) Co K-edge are represented, respectively
+
+<!-- image -->
+
+Figure S20. RDF of the Mn, Ni, and Co K-edge k3χ(k) operando EXAFS spectra of LNMR at 0.5C charge and 3C discharge. RDF and 2D-contour maps of a) Mn K-edge, b) Ni K-edge, and c) Co K-edge are represented, respectively
+
+<!-- image -->
+
+Figure S21. Mn pre-edge crossline intensity of Mn K-edge operando XANES spectrum.
+
+<!-- image -->
+
+Figure S22. a) Schematic diagram of possible scattering pathway in the TM atomic arrangement within ab plane. The intra-atomic distance at ~1.6 Å and ~ 2.6 Å indicate TM-O bonding and TM-TM bonding, respectively, which correspond to six-coordinated oxygen and TM of the nearest neighboring atom. The inter-atomic distance ~3.6 Å represents Li-TM sites that only Li-ions can be located. Atomic arrangement at b) [100]mono zone axis and c) [310]mono zone axis.
+
+<!-- image -->
+
+Figure S23. Crossline intensity of Mn, Ni, and Co K-edge k3χ(k) EXAFS spectra (2Dcontour map) in Figure 5. All values are variants of the highest RDF value for each bonding. a) Mn-O bonding, b) Mn-TM bonding, c) Ni-O bonding, d) Ni-TM bonding, e) Co-O bonding and f) Co-TM bonding.
+
+<!-- image -->
+
+Table S1. Calculation results of capacity by voltage through dQ/dV profile.
+
+| Capacity   | LMR (0.5C) (mAh g-1)   | LMR (3C) (mAh g-1)   | LNMR (0.5C) (mAh g-1)   | LNMR (3C) (mAh g-1)   |
+|------------|------------------------|----------------------|-------------------------|-----------------------|
+| Below 3.5V | 72.9                   | 42.2                 | 62.8                    | 54.6                  |
+| Over 3.5V  | 167.1                  | 129.8                | 173.2                   | 154.4                 |
+| Proportion | LMR (0.5C) (%)         | LMR (3C) (%)         | LNMR (0.5C) (%)         | LNMR (3C) (%)         |
+| Below 3.5V | 30.4                   | 24.5                 | 26.6                    | 26.1                  |
+| Over 3.5V  | 69.6                   | 75.5                 | 73.4                    | 73.9                  |
+
+Table S2. Operando XANES peak energy values of LMR and LNMR at onward discharged, charged and discharged state. XANES peak energy values are obtained from the maximum height of the rising edge peak.
+
+| LMR       | Discharged state (eV)   | ΔOx (0.5 C)   | Charged state (eV)   | ΔRed (3 C)   | Discharged state (eV)   | ΔOx -ΔRed (eV)   | References (eV)                            |
+|-----------|-------------------------|---------------|----------------------|--------------|-------------------------|------------------|--------------------------------------------|
+| Mn K-edge | 6560.75 (+3.41)         | 1.51          | 6562.26 (+3.92)      | 1.08         | 6561.18 (+3.56)         | 0.43             | 6559.5 (Mn 2 O 3 ) 6562.5 (MnO 2 )         |
+| Ni K-edge | 8350.86 (+2.57)         | 3.51          | 8354.37 (+3.55)      | 2.51         | 8351.86 (+2.77)         | 1                | 8348 (NiO) 8353 (LiNiO 2 ) 8355.5 (NiO 2 ) |
+| Co K-edge | 7728.17 (+3.23)         | 2.15          | 7730.32 (+3.95)      | 0.43         | 7729.89 (+3.81)         | 1.72             | 7724.5 (CoO) 7726.5 (Co 3 O 4 )            |
+| LNMR      | Discharged state (eV)   | ΔOx (0.5 C)   | Charged state (eV)   | ΔRed (3 C)   | Discharged state (eV)   | ΔOx -ΔRed (eV)   | References (eV)                            |
+| Mn K-edge | 6560.53 (+3.34)         | 1.73          | 6562.26 (+3.92)      | 1.73         | 6560.53 (+3.34)         | 0                | 6559.5 (Mn 2 O 3 ) 6562.5 (MnO 2 )         |
+| Ni K-edge | 8350.86 (+2.57)         | 3.26          | 8354.12 (+3.45)      | 3.01         | 8351.11 (+2.62)         | 0.25             | 8348 (NiO) 8353 (LiNiO 2 ) 8355.5 (NiO 2 ) |
+| Co K-edge | 7727.96 (+3.16)         | 1.94          | 7729.9 (+3.81)       | 1.3          | 7728.6 (+3.37)          | 0.64             | 7724.5 (CoO) 7726.5 (Co 3 O 4 )            |
+
+TABLES:
+------------------------------
+
+Table 1:
+Caption: 
+Content: | Capacity   | LMR (0.5C) (mAh g-1)   | LMR (3C) (mAh g-1)   | LNMR (0.5C) (mAh g-1)   | LNMR (3C) (mAh g-1)   |
+|------------|------------------------|----------------------|-------------------------|-----------------------|
+| Below 3.5V | 72.9                   | 42.2                 | 62.8                    | 54.6                  |
+| Over 3.5V  | 167.1                  | 129.8                | 173.2                   | 154.4                 |
+| Proportion | LMR (0.5C) (%)         | LMR (3C) (%)         | LNMR (0.5C) (%)         | LNMR (3C) (%)         |
+| Below 3.5V | 30.4                   | 24.5                 | 26.6                    | 26.1                  |
+| Over 3.5V  | 69.6                   | 75.5                 | 73.4                    | 73.9                  |
+
+Table 2:
+Caption: 
+Content: | LMR       | Discharged state (eV)   | ΔOx (0.5 C)   | Charged state (eV)   | ΔRed (3 C)   | Discharged state (eV)   | ΔOx -ΔRed (eV)   | References (eV)                            |
+|-----------|-------------------------|---------------|----------------------|--------------|-------------------------|------------------|--------------------------------------------|
+| Mn K-edge | 6560.75 (+3.41)         | 1.51          | 6562.26 (+3.92)      | 1.08         | 6561.18 (+3.56)         | 0.43             | 6559.5 (Mn 2 O 3 ) 6562.5 (MnO 2 )         |
+| Ni K-edge | 8350.86 (+2.57)         | 3.51          | 8354.37 (+3.55)      | 2.51         | 8351.86 (+2.77)         | 1                | 8348 (NiO) 8353 (LiNiO 2 ) 8355.5 (NiO 2 ) |
+| Co K-edge | 7728.17 (+3.23)         | 2.15          | 7730.32 (+3.95)      | 0.43         | 7729.89 (+3.81)         | 1.72             | 7724.5 (CoO) 7726.5 (Co 3 O 4 )            |
+| LNMR      | Discharged state (eV)   | ΔOx (0.5 C)   | Charged state (eV)   | ΔRed (3 C)   | Discharged state (eV)   | ΔOx -ΔRed (eV)   | References (eV)                            |
+| Mn K-edge | 6560.53 (+3.34)         | 1.73          | 6562.26 (+3.92)      | 1.73         | 6560.53 (+3.34)         | 0                | 6559.5 (Mn 2 O 3 ) 6562.5 (MnO 2 )         |
+| Ni K-edge | 8350.86 (+2.57)         | 3.26          | 8354.12 (+3.45)      | 3.01         | 8351.11 (+2.62)         | 0.25             | 8348 (NiO) 8353 (LiNiO 2 ) 8355.5 (NiO 2 ) |
+| Co K-edge | 7727.96 (+3.16)         | 1.94          | 7729.9 (+3.81)       | 1.3          | 7728.6 (+3.37)          | 0.64             | 7724.5 (CoO) 7726.5 (Co 3 O 4 )            |

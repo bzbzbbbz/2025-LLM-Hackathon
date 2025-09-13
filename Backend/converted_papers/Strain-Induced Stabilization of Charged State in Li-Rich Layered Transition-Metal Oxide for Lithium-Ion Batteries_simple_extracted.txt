@@ -1,0 +1,314 @@
+Simple Docling Extracted Data from: Strain-Induced Stabilization of Charged State in Li-Rich Layered Transition-Metal Oxide for Lithium-Ion Batteries.pdf
+============================================================
+
+Title: Strain-Induced Stabilization of Charged State in Li-Rich Layered Transition-Metal Oxide for Lithium-Ion Batteries
+Pages: 11
+Tables: 1
+Figures: 0
+
+MAIN TEXT:
+------------------------------
+<!-- image -->
+
+pubs.acs.org/JPCC
+
+## Strain-Induced Stabilization of Charged State in Li-Rich Layered Transition-Metal Oxide for Lithium-Ion Batteries
+
+<!-- image -->
+
+Tomoya Kawaguchi, * , † Masashi Sakaida, ‡ Masatsugu Oishi, † , § Tetsu Ichitsubo, ‡ , ∥ Katsutoshi Fukuda, † Satoshi Toyoda, ‡ and Eiichiro Matsubara † , ‡
+
+† O /uniFB03 ce of Society-Academia Collaboration for Innovation, Kyoto University, Kyoto 611-0011, Japan
+
+‡ Department of Materials Science and Engineering, Kyoto University, Kyoto 606-8501, Japan
+
+<!-- image -->
+
+## * S Supporting Information
+
+ABSTRACT: Li-rich layered oxide (LLO) is a promising cathode material for lithium-ion batteries because of its large capacity in comparison with conventional layered rock-salt structure materials. In contrast to the conventional materials, it is known that LLO of 3d transition metal has a nanodomain microstructure; however, roles of each domain and e /uniFB00 ects of strain, induced by the microstructure, on electrode properties are still unclear. In this study, the in /uniFB02 uence of the strain on an electronic structure is studied to elucidate the stabilization mechanism of LLO material Li[Li 0.2 Ni0.2Mn0.6]O2 in the charged state by using resonant X-ray di /uniFB00 raction spectroscopy (RXDS), X-ray di /uniFB00 raction, and X-ray absorption spectroscopy (XAS) in combination with ab initio calculation. RXDS of a superlattice peak and XAS at Mn and Ni K-edges unveil that this material has a microstructure consisting of Mn-rich and Ni-rich domains, whose structures are similar to Li2MnO3 and LiNiO2, respectively. In the Ni-rich domain, trigonal distortion in the NiO6 octahedral cluster is induced by an elastic constraint due to the microstructure.
+
+<!-- image -->
+
+Hybridization between oxygen p- and nickel d-orbitals is enhanced by the distortion as revealed both by XAS and by ab initio calculation, accounting for stabilization of the charged state by alleviating the direct hole formation on oxygen p-orbital that usually destabilizes the charged material.
+
+## ■ INTRODUCTION
+
+Intercalation chemistry is of great importance in addressing current material issues for rechargeable batteries such as lithium-ion batteries, where further improvement of capacity is required for applications in electric vehicles, robots, and largescale batteries. The capacity of the battery is determined not only by the Li composition of the material but also by the tolerance to valence changes of constituent atoms for charge compensation during Li insertion and extraction. In a cathode oxide material consisting of Li and transition metals (TMs) such as LiCoO2, valence change of the TMs apparently compensates the change in the total charge of the material, for example, LiCo(III)O2 → Co(IV)O2 + Li + + e. However, it was theoretically 1 and experimentally 2 reported that oxygen oxidation to the total charge compensation can be considerable because the energy level of oxygen 2p-orbital is close to that of TM 3d orbital. The oxygen oxidation tends to destabilize the electronic structure of the material and limits the reversible capacity, especially in the conventional layered rock-salt structure materials.
+
+Recently, the Li-rich layered oxide (LLO) family, whose composition is represented as x Li2MnO3 · (1 -x )LiMO2 (M = Cr, Mn, Co, Ni), has attracted much attention as promising electrode materials having large capacity and good stability. The LLOs are reported to have microstructures consisting of domains similar to those of the end members rather than the
+
+<!-- image -->
+
+complete solid solution. 3 -8 In the layered rock-salt structure of LiMO2, Li and TM form respective layers by occupying the octahedral sites among oxygens of the face-centered cubic. The other end member, Li2MnO3, is similar except for the Licentered honeycomb structure of Mn in the TM layer. Because of the structural similarity of Li2MnO3 and LiMO2, most X-ray di /uniFB00 raction (XRD) peaks of the LLO can be indexed by R 3 ̅ m layered rock-salt structure, except for weak upsurges in the range of Q = 1.4 -1.8 Å -1 . 9 The weak upsurges, referred to as superlattice peaks in the perspective of the rhombohedral structure, indicate the presence of the honeycomb order and delineate the LLOs from the conventional layered rock-salt structure materials. Li 1.2Co0.4Mn0.4O2 7 and Li1.2Cr0.4Mn0.4O2 3 are further reported to have a microstructure of Co (or Cr)rich and Mn-rich domains as a local structure. The intensity of the superlattice peaks associated with the microstructure is known to exhibit a strong correlation to the electrode properties. 6 Understanding the roles of each domain in the microstructure is, therefore, a key to reveal the stabilization mechanism in the LLOs. However, because of the structural complexity of the materials, the domain-speci /uniFB01 c analysis is challenging. To address this problem, the element-speci /uniFB01 c
+
+Received:
+
+April 4, 2018
+
+Revised:
+
+August 7, 2018
+
+Published:
+
+August 8, 2018
+
+DOI: 10.1021/acs.jpcc.8b03205
+
+J. Phys. Chem. C 2018, 122, 19298 - 19308
+
+structural analysis, which is able to distinguish crystallographic sites and domains, is required.
+
+In the present study, we analyzed both crystalline and electronic structures of Li[Li 0.2Ni0.2Mn0.6]O2 (LNMO) as a representative model widely studied both experimentally 10 -12 and theoretically 13 because it shows typical structural and electrochemical features of the LLOs. The structural origin for the superlattice peak is studied in detail by recently developed resonant X-ray di /uniFB00 raction spectroscopy (RXDS), 14 which enables siteand phase-selective analyses. Further structural analyses of X-ray absorption spectroscopy (XAS) are performed, revealing that the microstructure consists of Nirich and Mn-rich domains and there is a trigonal distortion of NiO6 cluster in the Ni-rich domain. X-ray absorption nearedge structure (XANES) analyses indicate that the orbital hybridization between nickel and oxygen is enhanced in this material. Ab initio calculation is performed in order to clarify the relationship between the trigonal distortion and orbital hybridization in the experimentally determined structure models. Finally, we discuss a future possibility of manipulating material properties by means of controlling the microstructure and orbital hybridization of oxide materials.
+
+## ■ METHODS
+
+Synthesis of Li[Li 0.2 Ni0.2Mn0.6]O2. The polycrystalline Li[Li 0.2Ni0.2Mn0.6]O2 was synthesized by the solid-reaction method using mixed carbonate precursors of the transition metals prepared by a coprecipitation method in accordance with the reported procedure. 15 A 0.2 mol dm -3 (M) aqueous solution of NiSO4 and MnSO4 (Ni/Mn = 1:3) was dropped to a 1 M aqueous solution of NaHCO3 followed by continuous stirring for 24 h at 50 ° C. The deposited precipitation was /uniFB01 ltered, washed, and dried at 110 ° C for 12 h to obtain the TM precursor. The /uniFB01 nal product was obtained by /uniFB01 ring the mixed powders of the TM precursor and 2 wt % excess Li2CO3 at 600 ° C for 6 h in air. The XRD peaks of the as-synthesized sample were indexed by a layered α -NaFeO2 (space group: R 3 ̅ m ) structure and the reported superlattice peak without any impurity phase. 16 The inductively coupled plasma method was performed to determine the cation ratio of the as-synthesized sample. The result was Li[Li 0.19 Ni0.22Mn0.59]O x , and this is in good agreement with the target composition. No sulfur was detected (&lt;0.1 wt %) from the /uniFB01 nal product. The scanning electron microscopy observation (JSM-6500F, JEOL) and mapping of the energy-dispersive X-ray analysis of Mn and Ni indicated that the secondary particle size distributed between 1 and 3 μ m and the chemical composition was homogeneous in the secondary particles.
+
+Electrochemical Testing and Sample Preparations. A composite electrode, consisting of 80 wt % active material, 10 wt % carbon black, and 10 wt % poly(vinylidene di /uniFB02 uoride), was prepared by coating the slurry on an aluminum /uniFB01 lm, followed by vacuum drying at 100 ° C for 12 h. Three-electrode cells for electrochemical tests were assembled in an Ar/uniFB01 lled dry box, where the dew point was less than -80 ° C. A composite electrode was used for the working electrode, Li metal plates (Honjo Metal) for the reference and counter electrodes, and 1 M LiPF6 in a mixed solvent of ethylene carbonate (EC)/dimethyl carbonate (DMC) (1:2 in volume, Kishida Chemical) for the electrolyte. The electrochemical test was performed in a plastic-bag cell with the current density of 40 mA g -1 in an isothermal bath where the temperature was set at 50 ° C. The cuto /uniFB00 voltage was 4.8 V vs Li + /Li for charge and 2.0 V vs Li + /Li for discharge. Electrode samples for the Xray analyses were obtained by disassembling the tested cells in an Ar/uniFB01 lled dry box and washing the electrodes with EC/DMC (1:2 by volume) and with DMC, followed by drying under vacuum in an antechamber of the dry box. For the synchrotron XRD measurements, the samples were prepared by encapsulating the pulverized composite electrode into Lindeman glass capillaries of 0.3 mm in diameter in the Ar/uniFB01 lled dry box. For the laboratory XRD measurements of the superlattice peak, the washed electrodes were used. For the RXDS and XAS measurements, the composite electrode was pelletized into a 6 mm-diameter disk with boron nitride powder as a diluent.
+
+X-ray Di /uniFB00 raction Measurement. Synchrotron XRD was performed at beamline BL28XU, SPring-8, Japan. The XRD pro /uniFB01 le was acquired from the rotating capillary sample by a one-dimensional detector (Mythen, Dectris), with an incident X-ray of 11.0008(4) keV (wavelength: 1.12704(4) Å) monochromated by a Si(111) channel-cut monochromator. XRD pro /uniFB01 les of the superlattice and 003 peaks were acquired from the as-synthesized sample (0 mAh g -1 ) and samples separately charged to 50, 100, 200, and 290 mAh g -1 in an Ar atmosphere by a laboratory XRD apparatus (SmartLab, Rigaku) equipped with a Cu K α X-ray tube and a multilayer mirror.
+
+Resonant X-ray Di /uniFB00 raction Spectroscopy. Di /uniFB00 raction anomalous /uniFB01 ne structure (DAFS) spectra of the superlattice peak were measured at Mn and Ni K-edges at beamline BL28XU, SPring-8, Japan. The details of the data collection and analyses of DAFS were described elsewhere. 14,17,18 The XRD pro /uniFB01 les at each X-ray energy were acquired with transmission geometry from a rotating sample by a onedimensional detector (Mythen, Dectris). The intensities of incident and transmitted X-rays were simultaneously monitored by ionization chambers with He and N2 gas /uniFB02 ows. The superlattice XRD peak was measured from 6.233 to 7.124 and 8.039 to 8.930 keV for Mn and Ni K-edges, respectively. The areas of the XRD peaks were determined by /uniFB01 tting a split pseudo-Voigt function 19 with a linear background. The energy spectra of the XRD intensity were further corrected by the incident X-ray intensity, Lorentz-polarization factor, and absorption factor to obtain the DAFS spectra.
+
+The occupancy of Ni at the Li 2b site, which is a Li site in the TM layer, was determined by /uniFB01 tting the DAFS spectrum of the superlattice peak around Ni K-edge. Li2MnO3 that has the space group of C 2/ m (No. 12) was used as a model structure for the /uniFB01 t. The DAFS spectra were calculated by evaluating | Fhkl | 2 , where Fhkl is an energy-dependent complex structure factor for hkl di /uniFB00 raction. The structure factors of 020 and 110 in C 2/ m were used for determining the Ni occupancy from the equations F 020 = -2 f Mn(4g) + 2 g Ni f Ni(2b) + 2 f Li(2c) -2 f Li(4h) + F OX,020 and F 110 = 2 f Mn(4g) -2 g Ni f Ni(2b) + 2 f Li(2c) -2 f Li(4h) + F OX,110 , where f x ( y ) is an atomic form factor of element x at y site, g Ni is the occupancy of Ni at 2b site, and F OX, hkl is the structure factor from oxygen in hkl di /uniFB00 raction. f is further expanded to f = f 0 + f ′ + if ″ , where f 0 is an energy-independent nonresonant term and f ′ + if ″ are energy-dependent resonant terms. The theoretical values of the nonresonant 20 and resonant 21 terms were used to calculate the DAFS spectra. The occupancy of Ni at Li 2b site, edge energy, and a scale factor of the theoretical curve were determined by /uniFB01 tting the calculated spectrum to the experimental data below the absorption-edge energy. The X-ray absorption /uniFB01 ne structure (XAFS) spectrum of the superlattice peak was extracted from
+
+the Mn DAFS by the direct phase determination technique using the logarithmic dispersion relation. 18
+
+X-ray Absorption Spectroscopy. The measurements were performed at beamline BL28XU, SPring-8, Japan. The spectra were acquired in transmission geometry using two ionization chambers /uniFB01 lled with He and N2 mixed gas located upstream and downstream of the sample. The measurement energy ranged from 6.247 to 7.537 keV for Mn K-edge and 8.039 to 9.335 keV for Ni K-edge. The XAFS spectra were reduced and analyzed using the IFEFFIT program code. 22 The postedge background was removed by the Autobk algorithm using rbkg values of 1.0 for Mn K-edge and 1.2 for Ni K-edge. The normalized XAFS spectra were converted from the function of X-ray energy to that of wave number k as = -/uni210F k m E E 2 ( 0 )/ 2 , where m is the electron mass, E is the photon energy, and E 0 is the absorption-edge energy. The spectra were then weighted by k 2 to magnify the damping extended X-ray absorption /uniFB01 ne structure (EXAFS) oscillations. The weighted spectra were Fourier transformed (FT) for 2.8 &lt; k &lt;13 Å -1 for Ni and 3.0 &lt; k &lt;13 Å -1 for Mn. The /uniFB01 rst and second coordination shells were /uniFB01 tted by the least-square method in the radial space, where the backscattering amplitudes and phase shifts for the /uniFB01 t were calculated by the FEFF code based on the structure models of Li2MnO3 and LiNiO2 for Mn and Ni, respectively (see Tables S1 and S2 in Supporting Information (SI)). The structure of Li2MnO3 was modeled based on a previously reported structure 23 (ICSD # 166861) by assuming complete stoichiometric occupations. The structure of LiNiO2 was modeled based on the structure parameters determined by preliminary XRD analyses of the present materials by assuming the complete stoichiometric occupations. The total coordination numbers for the nearestneighbor (NN) and next-nearest-neighbor (NNN) atoms were /uniFB01 xed at the expected values, and a single inner potential shift parameter, Δ E 0 , was used for each EXAFS /uniFB01 tting. The interatomic distances and Debye -Waller factors of each coordinate shell were determined by the /uniFB01 t. Two Mn -Mn and Ni -O distances were assumed for /uniFB01 tting, while the single Ni -O distance was used in the discharged state. The mean value was calculated for the discussion. The amplitude reduction terms, 0.839 for Mn and 0.97 for Ni, were determined from the preliminary /uniFB01 ttings of the MnO and NiO EXAFS. The residual R -factor was calculated as R = ∑ i N ( χ i data -χ i model ) 2 / ∑ i N ( χ i data ) 2 , where N is the number of data points used in /uniFB01 tting and χ is the normalized EXAFS signal.
+
+XANES simulations were performed using the FEFF 9.4 code 24 with a model structure of Li 2 MnO3 and that of the fully delithiated state without any bond-length change. The spectra were calculated using the full multiple scattering calculation with self-consistent potential to the radius of 7 Å. The cluster of 10 Å in radius was assumed for the calculation, including ∼ 325 atoms. Random phase approximation of the screened core hole was used to calculate the core state. The energies of the calculated spectra were shifted by -8 eV to /uniFB01 t the experimental data.
+
+Ab Initio Calculation. Electronic structures of NiO 2 were evaluated with and without the trigonal distortion by the density functional theory (DFT) calculation. The hexagonal α -NaFeO2-type structure was used for the calculations. For the calculation of NiO 2 without the distortion, the density of state (DOS) was calculated after both the lattice constants and oxygen position in the unit cell were fully relaxed so that the residual forces became less than 0.051 eV Å -1 . The amount of the trigonal distortion, 1.26, the ratio of the two kinds of O -O distances and determined from the EXAFS analyses of the charged material, was imposed on the NiO2 structure for the DOS calculations of the distorted NiO 2 . The oxygen positions and the lattice constants of a and b axes were adjusted to make the distortion 1.26 while keeping the Ni -O distance constant. The calculations were performed using Phase 0 code, in which the exchange -correlation interaction was treated by the generalized-gradient-approximation-Perdew -Burke -Ernzerhof 25 using an ultrasoft representation of the core with the Hubbard model correction, 26 that is, GGA + U with van der Waals density function calculation. 27,28 The cuto /uniFB00 energy for the plane-wave basis set was 1088 eV. The integral in the reciprocal space was evaluated by tetrahedron smearing of 0.005 eV and a 5 × 5 × 3 mesh. The 1s orbital of O and the 1s to 3p orbitals of Ni were considered as the core states. Spin polarization with ferromagnetic spin ordering was considered for simplicity. U parameter of 5 eV was used for the calculations.
+
+## ■ RESULTS AND DISCUSSION
+
+X-ray Di /uniFB00 raction and Electrochemical Test. The XRD pattern of the as-synthesized sample (see Figure 1a) was indexed by the layered rock-salt structure with the superlattice peak around Q = 1.47 Å -1 indicated by an asterisk. The pattern was consistent with a single phase without any impurity phases. This indicates that the sample can be regarded as a solid solution of LiNi0.5Mn0.5O2 and Li2MnO3 in the light of the average structure obtained from XRD. The large capacity exhibiting the plateau at 4.5 V in the /uniFB01 rst charge was reported to be a typical characteristic of the LLOs (see Figure 1b). 29 The drastic shape change in the second and subsequent charge curves implies the irreversible structural change of the electrode material in the /uniFB01 rst charging process. Capacity loss of 116 mAh g -1 (charge) and 72 mAh g -1 (discharge) was observed in the second cycle. The capacity loss is associated with the oxygen loss that accompanies Li extraction, 30 structural changes, 15 and subsequent increase of the internal resistance of the electrode. Both charge and discharge capacities were larger than expected by the formal valence change of TMs (126 mAh g -1 , hatched area in Figure 1b; see the Supporting Information (SI) for the calculation).
+
+Superlattice Peak Analysis. Signi /uniFB01 cant intensity change in the Mn DAFS spectrum was observed around the edge energy (see Figure 2a), whereas a small peak was observed in the Ni DAFS spectrum at the Ni K-edge (see Figure 2b). This indicates that the superlattice peak is produced mainly by the Mn scattering factor. As the di /uniFB00 raction angle of the superlattice peak is close to those of 020 and 110 peaks of Li2MnO3, the simulated DAFS spectrum for the intensity sum of these two peaks around Mn K-edge is compared with the experimental spectrum. Excellent agreement between the experimental and simulated DAFS (solid line) indicates that the superlattice peak is derived from a long-range order of the honeycomb structure seen in Li2MnO3 in the TM layer (see Figure 2b insets). The peak in the Ni DAFS indicates a partial substitution of Ni in the Li2MnO3 structure. In the Li2MnO3 structure, Mn mainly occupies the 4g site, while Li occupies 2b, 2c, and 4h sites. Since the Mn DAFS is in excellent agreement with that of Li2MnO3, Ni is expected to occupy the Li sites rather than the Mn site. The most likely site for the Ni partial occupation is the 2b site because the random occupation of Ni
+
+Figure 1. (a) XRD pro /uniFB01 le of the as-synthesized Li[Li 0.2Ni0.2Mn0.6]O2 sample (blue line). Calculated XRD pro /uniFB01 les of LiNiO2 (green), 41 Li2MnO3 (purple), 23 LiNi0.5Mn0.5O2 (orange), 52 and Li2CO3 (gray) 53 are also exhibited for the comparison purpose. An inset exhibits the expanded pro /uniFB01 le around a superlattice peak indicated by an asterisk. The index of 003 indicates the plane index of the layered rock-salt structure. (b) Charge/discharge curves of Li[Li 0.2Ni0.2Mn0.6]O2 in the /uniFB01 rst cycle (solid) and second cycle (broken). A hatched area is the capacity range expected from the valence change of the constituent transition metals (126 mAh g -1 ).
+
+<!-- image -->
+
+at the 2c and 4h sites contributes little to Ni DAFS. The Ni DAFS below the Ni K-edge energy was, therefore, /uniFB01 tted by parameterizing the Ni occupancy at the 2b site. The occupancy of Ni at the 2b Li site was 19%, corresponding to the Ni/Mn atomic ratio of 0.285:3. This value was much smaller than the value expected from the average composition of this electrode (Ni/Mn = 1:3). This phase is, therefore, identi /uniFB01 ed as the Mnrich domain that is similar to the pure Li2MnO3 structure.
+
+The superlattice XRD peak was further analyzed as a function of the charge capacity (see Figure 3a). The area and width of the superlattice peak were determined by /uniFB01 tting with an asymmetric split pseudo-Voigt function. The area of the peak was normalized by the area of 003 di /uniFB00 raction simultaneously measured in order to correct the di /uniFB00 erence of the scattering volumes. The area linearly decreases with charging, while the width decreases abruptly around 200 mAh g -1 (see Figure 3b), which indicates the long-range honeycomb order decreases during the /uniFB01 rst charge.
+
+X-ray absorption near-edge structure (XANES) spectra of Mn K-edge, obtained in the absorption measurement and calculated from the DAFS spectra of the superlattice peak, were compared with those obtained by the FEFF calculation. Notably, the absorption measurements provide the average
+
+Figure 2. DAFS spectra of the superlattice peak (the asterisk in Figure 1a) from Li[Li0.2 Ni0.2Mn0.6]O2 around (a) Mn and (b) Ni K-edges. Circles exhibit the experimental data, and the solid lines indicate the (a) simulation and (b) /uniFB01 tting curves. Insets in (b) exhibit the crystalline structure of Li2MnO3 projected along a (left) and c (right) axes, respectively. MuO 6 clusters are depicted as purple octahedrons.
+
+<!-- image -->
+
+XANES of all Mn atoms in the structure, while the XANES extracted from the DAFS is only of the Mn-rich domain. In the XANES from the absorption measurement, the absorption edge, indicating transition strength ratios, signi /uniFB01 cantly changed during charging, as indicated by arrows in Figure 4a. The calculated spectrum of Li2MnO3 (see Figure 4c) exhibits good agreement with the XANES spectrum of the as-synthesized sample. Furthermore, the spectrum for the charged state was successfully reproduced by the simulation using the Li2MnO3 structure in which Li is fully extracted but the lattice constants and interatomic distance remain unchanged. In contrast, the only small shift of the peak position from 6553 to 6554 eV was observed by charging in the XANES extracted from DAFS (see Figure 4b). It indicates that only a small part of Li is extracted from the Mn-rich domain (see Figure S1 in the Supporting Information).
+
+Chemical State and Local Structural Analyses. The absorption edge in XANES shifts in response to the change in the formal valence of the absorbing atom, as seen in reference spectra of Ni(II)O and LiNi(III)O2 (see Figure 5a). It is known that an absorption edge shifts to higher energy in a higher valence state, reducing the screening e /uniFB00 ect on nuclear charge. Consequently, the transition energy from the initial 1s to the /uniFB01 nal unoccupied p (for the dominant dipole transition) or d (for the weak quadrupole transition) orbitals in a K-edge
+
+(a)
+
+Figure 3. (a) XRD of the superlattice peak at di /uniFB00 erent charging states. The intensity was normalized by the area of the 003 di /uniFB00 raction peak. (b) Area (circles with solid lines) and width (triangles with broken lines) of the superlattice peak obtained by the /uniFB01 tting at di /uniFB00 erent charging states. The area was normalized by that of 0 mAh g -1 .
+
+<!-- image -->
+
+Figure 4. XANES spectra at Mn K-edge obtained from (a) XAS, (b) RXDS, and (c) FEFF calculations. Solid and broken lines in (a) and (b) indicate the as-synthesized and charged states, respectively. Solid and broken lines in (c) correspond to the spectra of Li2MnO3 and Liextracted Li 2 MnO3, respectively.
+
+<!-- image -->
+
+XANES spectrum increases. The formal valence of Ni is similar to +II in the as-synthesized sample by judging from the edge energies in XANES of LNMO and NiO. The reversible edge energy shifts accompanying charge and discharge were observed, indicating the reversible oxidation and reduction of Ni. In addition to the energy shift, shape change of the absorption edge was also observed in the charged samples. Negative peaks in the second derivative of the spectra clarify the position and intensity of each transition (see. Figure 5b). The weak transition indicated by α is a pre-edge absorption, attributed to the quadrupole transition from the 1s to an unoccupied 3d orbital and/or the dipole transition from the 1s orbital to 4p component of the 3d -4p mixing orbital. The strong peaks of β and γ are attributed to the dipole transitions from 1s to 4p orbitals with and without a shake-down process, respectively. 31 -34 This shake-down process is caused by ligandto-metal-charge transfer (LMCT). Namely, β is the transition from 1s to the /uniFB01 nal state of 1s 1 c3d n +1 L4p 1 with the shake-down process by LMCT, and γ is the transition to the /uniFB01 nal state of 1s 1 c3d n 4p 1 , where c is a 1s core hole, L is an oxygen 2p ligand hole, and n is the number of electrons of the 3d orbital in the absorbing transition metal, for example, n = 8 for Ni(II). Thus, the intensity of peak β directly re /uniFB02 ects the magnitude of hybridization between nickel 3d and oxygen 2p orbitals. 31 The orbitals were considerably hybridized in the as-synthesized state judging from the presence of the peak β . The peak β was also observed in the charged states as indicated by arrows in Figure 5b, while it was reported that the intensity of this peak drastically decreases by Li extraction in LiNi0.5Mn0.5O2. 31 Thus, in contrast to the conventional layered rock-salt structure materials, the orbital hybridization is enhanced in the charged state of the present LLO.
+
+Radial distribution function-like information was obtained through the Fourier transform (FT) of EXAFS for local structural analyses. A peak at ∼ 1.5 Å (see Figure 5c) corresponds to nearest-neighbor (NN) atoms, which are six oxygen atoms, for Ni. Reversible shrink and expansion of Ni -O length were observed, indicating the valence change of Ni. Thus, the change of electric charge during charge/discharge is compensated by the NiO6 cluster. In contrast, a peak at ∼ 3.5 Å caused by next-nearest-neighbor (NNN) atoms exhibits little change in its distance. Good agreement in this peak intensity with that of LiNiO2 suggests that the NNN atoms for Ni in LNMO are similar to that in LiNiO2, the composition of which is six Li and six TM atoms. Given the small scattering length of Li in comparison with Mn and Ni, the observed little change in the NNN distance, therefore, indicates that the TM layer is rigid within the in-plane direction of the layered structure during charge/discharge.
+
+Both XANES and FT magnitude of Mn in the as-synthesized sample (Figure 6a,c) are identical to those of Li2MnO3. The initial formal valence state and local structure are therefore similar to those of Li 2 MnO3, where the formal valence of Mn is +IV. In contrast to the case of Ni, the change in absorption ratios rather than the edge shift was observed in the XANES spectra of Mn during charge and discharge (see Figure 6). The changes in the absorption are attributed to Li extraction in the vicinity of Mn rather than changes in the interatomic distances as discussed in the spectrum simulation (see Figure 4c). Indeed, Mn -O length, which corresponds to a peak at ∼ 1.4 Å in the FT magnitude, also exhibits little shift by charge/ discharge, being consistent with the XANES results. The three transitions ( α , β , γ ) seen in the second derivative of the
+
+<!-- image -->
+
+Figure 5. XAFS of Li[Li0.2Ni0.2Mn0.6]O2 at Ni K-edge. (a) XANES at di /uniFB00 erent charge/discharge states. Broken lines indicate the spectrum of the as-synthesized sample for the comparison purpose. (b) Second derivative spectra for the Ni -K-edge XANES spectra at di /uniFB00 erent charge/discharge states. α , β , and γ denote a pre-edge transition ( α ) and dipole transitions from 1s to 4p orbitals with ( β ) and without ( γ ) a shake-down process, respectively. (c) Amplitudes of Fourier transform obtained from EXAFS at di /uniFB00 erent charge/discharge states. Broken lines indicate the pro /uniFB01 le of the as-synthesized sample for the comparison purpose. The exhibited radial distance is underestimated because of the phase change of the photoelectron wave by the atomic potentials. Spectra of NiO and LiNiO2 are also exhibited as reference data of the Ni valence states of +II and +III, respectively.
+
+<!-- image -->
+
+Energy (eV)
+
+Figure 6. XAFS of Li[Li0.2Ni0.2Mn0.6]O2 at Mn K-edge. (a) XANES at di /uniFB00 erent charge/discharge states. Broken lines indicate the spectrum of the as-synthesized sample for the comparison purpose. (b) Second derivative spectra for the Mn K-edge XANES spectra at di /uniFB00 erent charge/discharge states. α , β , and γ denote a pre-edge transition ( α ) and dipole transitions from 1s to 4p orbitals with ( β ) and without ( γ ) a shake-down process, respectively. (c) Amplitudes of Fourier transform obtained from EXAFS at di /uniFB00 erent charge/discharge states. Broken lines indicate the pro /uniFB01 le of the as-synthesized sample for the comparison purpose. The exhibited radial distance is underestimated because of the phase change of the photoelectron wave by the atomic potentials. Spectra of Li 2 MnO3 and MnO2 are also exhibited as reference data of the Mn valence state of +IV.
+
+XANES spectra are attributed to the pre-edge absorption and the dipole transitions from 1s to 4p orbitals with and without a shake-down process, respectively 31 -34 (see Figure 6b). Peak β was observed in the as-synthesized state, while the intensity of the peak decreases after subsequent charge. It indicates the decrease of LMCT in MnO6 during charge. An irreversible decrease of the NN signal in the FT magnitude (see Figure 6c) would be attributed to an increase of the Debye -Waller factor, emergence of a distribution in the Mn -O distance, and/or formation of oxygen vacancies. 35 The second peak at ∼ 2.4 Å is derived from the NNN atoms of Mn. The good agreement of the peak intensity between Li2MnO3 and any states of LNMO indicates that the composition of the NNN atoms of Mn in LNMO is similar to that of Li2MnO3, the NNN of which is nine Li and three Mn. As with the case of Ni, little change in
+
+Table 1. Fitting Results for the Fourier-Filtered EXAFS Spectra of Ni K-Edge and Mn K-Edge at Di /uniFB00 erent Charge/Discharge States a
+
+|    |                | M - O    | M - O      | M - M    | M - M      |            |       |
+|----|----------------|----------|------------|----------|------------|------------|-------|
+| M  | state          | d (Å)    | σ 2 (Å 2 ) | d (Å)    | σ 2 (Å 2 ) | Δ E 0 (eV) | R (%) |
+| Ni | as-synth.      | 2.05(14) | 0.009(14)  | 2.90(10) | 0.0069(9)  | - 7(10)    | 3.6   |
+|    | 1st chr.       | 1.83(13) | 0.009(12)  | 2.882(6) | 0.0093(6)  | - 0.8(5)   | 1.4   |
+|    | 1st dis.       | 2.06(2)  | 0.010(19)  | 2.91(17) | 0.007(17)  | 1(3)       | 5.8   |
+|    | 2nd chr.       | 1.84(2)  | 0.013(2)   | 2.883(8) | 0.0097(7)  | - 0.8(7)   | 2.3   |
+|    | 2nd dis.       | 2.06(14) | 0.008(15)  | 2.91(10) | 0.0072(9)  | - 6(10)    | 3.9   |
+|    | cf. LiNiO 2    | 1.90(16) | 0.011(17)  | 2.854(9) | 0.0050(7)  | - 9(11)    | 3.1   |
+| Mn | as-synth.      | 1.90(12) | 0.0053(8)  | 2.86(16) | 0.005(13)  | - 8(2)     | 2.8   |
+|    | 1st chr.       | 1.88(11) | 0.009(13)  | 2.86(12) | 0.004(11)  | - 10(12)   | 5.3   |
+|    | 1st dis.       | 1.89(15) | 0.011(19)  | 2.90(10) | 0.003(2)   | - 10(18)   | 8.5   |
+|    | 2nd chr.       | 1.88(11) | 0.010(14)  | 2.86(12) | 0.004(11)  | - 10(13)   | 5.1   |
+|    | 2nd dis.       | 1.88(12) | 0.009(14)  | 2.89(13) | 0.005(11)  | - 11(15)   | 5.8   |
+|    | cf. Li 2 MnO 3 | 1.90(14) | 0.0050(8)  | 2.84(17) | 0.004(16)  | - 8(2)     | 3.3   |
+
+a The Ni -O distance of the charged states and all Mn -Mn distances are the averaged values of the two interatomic distances assumed in the /uniFB01 ttings (see Tables S3 and S4 in SI for details). The number in bracket indicates the standard deviation in the last digit, for example, 2.06(2) = 2.06 ± 0.02 and -7(10) = -7 ± 1.0.
+
+Figure 7. Interatomic distances (a) between the center transition metal and nearest-neighbor oxygen and (b) between the center transition metal and nearest-neighbor transition metals obtained from extended X-ray absorption /uniFB01 ne structures analyses (EXAFS) of Ni and Mn. Green circles and purple squares correspond to the distances obtained from Ni and Mn K-edge, respectively. Green hatched areas indicate the change in the bond length observed in LiNiO 2 from the previous study. 41 (c, d) Exhibit local structures of Ni obtained from the EXAFS analyses at as-synthesized and charged states, respectively. Bond lengths are described in a unit of Å.
+
+<!-- image -->
+
+the NNN distance during the charge/discharge also suggests the rigid TM layer.
+
+The EXAFS spectra of Ni and Mn were /uniFB01 tted in the /uniFB01 rst and second coordination shells by the model structures of LiNiO 2 and Li2 MnO3, respectively. It gives the adequately small error values for /uniFB01 tting parameters and residuals (see Table 1 and Figure S2 of SI). The interatomic distances and Debye -Waller factor in the as-synthesized state were in good agreement with those of previous studies, 36 -39 which validates the present EXAFS analysis. Most Ni and Mn atoms, therefore, form Ni-
+
+DOI: 10.1021/acs.jpcc.8b03205
+
+J. Phys. Chem. C 2018, 122, 19298 - 19308
+
+rich and Mn-rich domains whose local structure is similar to those of LiNiO2 and Li2MnO3, respectively. The Ni -O distance in the initial state was /uniFB01 tted to 2.05 Å (see Figure 7), which is comparable to 2.09 Å of Ni(II) -O calculated from the tabled values by Shannon. 40 For the charged states, the Ni -O distance is expected to distribute among Ni-rich domains, in which size distribution of the domains inherently yields the inhomogeneous strain and distortion. Thus, a model of two di /uniFB00 erent Ni -O distances was employed for the analysis, which yielded the best /uniFB01 t to the NN signal (see Table S3 in SI). The average Ni -O distance decreases to 1.83 Å by charging. It is much smaller than the smallest value observed in Li-extracted LiNiO 2 , that is, 1.91 Å, 41 and slightly smaller than 1.88 Å of Ni(IV) -O calculated from Shannon ' s radii. The di /uniFB00 erence between experimental and calculated distances, Δ d ≡ d calc -d exp , was 0.05 Å. Similar di /uniFB00 erence was reported in Liextracted Li2Ru1 -x Sn x O3, where Δ d = 0.045 Å in Li2RuO3 42 and Δ d = 0.047 Å in Li 2 Ru0.75 Sn0.25O3 43 based on d calc (Ru 5+ -O 2 -) of 1.965 Å. In Li2Ru1 -x Sn x O3, the reversible anionic redox reaction of 2O 2 -/O2 n -proceeds in the high potential region (&gt;4 V) and the cationic redox reaction of Ru 4+ / 5+ proceeds in the low potential region (&lt;4 V) thanks to the strong orbital hybridization between Ru and O. 43,44 These short bond lengths are attributed to the oxidation of oxygen and ' covalent shortening ' 40 due to the strong orbital hybridization. Likewise, the present short Ni -O bond length in the charged state would be ascribed to the strong orbital hybridization, which was also observed in XANES, and considerable redox contribution from oxygen. In contrast to the Ni -O distance, the Mn -O distance of 1.90 Å in the initial state was identical to that of Li2MnO3. Virtually no change in the Mn -Odistance was observed during charge and discharge.
+
+The M -M distance of the Ni-rich domain was virtually identical to that of the Mn-rich domain within the experimental accuracy after the 1st charge in contrast to those of the M -O distance (see Figure 7b). The M -M distance is the distance between the nearest TM atoms within the layer, equivalent to the lattice constant along the a (or b )-axis in the hexagonal lattice of the layered rock-salt structure. Thus, the Mn-rich and Ni-rich domains have a coherent interface within the TM layer and coherent strain due to the constraint of this microstructure. The change in the Ni -Ni distance in LNMO is smaller than that of LiNiO2 drawn as a green hatched range in Figure 7a. In contrast, the change in the Ni -O distance in LNMO is much larger than that of LiNiO2. This unbalance causes discrepancy between two kinds of O -O distances (see Figure 7c,d). In the discharged state, the ratio of the two kinds of O -O distances calculated from Ni -O and Ni -Ni distances (see Figure 7c) is almost 1, for example, 2.92/ 2.88 Å = 1.01 as in the as-synthesized state. The NiO 6 cluster is therefore approximated to be a regular octahedron in the discharged state. This ratio increases to 1.26 in the charged state, indicating the presence of the signi /uniFB01 cant trigonal distortion of the octahedron. Such distortion is hardly induced in the Mn-rich domain during charge and discharge judging from the small change in the Mn -O distance.
+
+Ab Initio Calculations. Two model structures were assumed for ab initio calculations based on the DFT of GGA + U to elucidate the e /uniFB00 ect of the cluster distortion on the electronic structure. Undistorted NiO 2 is used as a model for Li-extracted LiNiO2. In contrast, distorted NiO 2 is used as a model for the Ni-rich domain that is under strain due to the constraint from the Mn-rich domain. The amount of strain was set to the value determined from the EXAFS analyses. The DOS of the relaxed NiO2 near the Fermi energy exhibits a continuous state (see Figure 8a), which can be attributed to a
+
+Figure 8. DOS of (a) relaxed NiO2 and (b) distorted NiO2 obtained from ab initio calculation. Black and green lines indicate the total DOS and projected density of states (PDOS) of Ni, respectively. PDOS of Ni is magni /uniFB01 ed in order to compare the total DOS. An arrow in (b) indicates newly appeared DOS under the presence of the elastic strain.
+
+<!-- image -->
+
+band mainly derived from the oxygen p-orbitals. When the charge is further increased, holes are directly doped to the highest occupied state of the p-band of oxygen, which would eventually destabilize the structure of the charged material. In contrast, the localized state appears just below the Fermi energy under the presence of the trigonal distortion in the NiO6 cluster, as indicated by an arrow in Figure 8b. This state is attributed to the hybridized state between the dand porbitals rather than the band derived from the oxygen p-orbital judging from the composition of each orbital and the shape of the localized DOS. This result is consistent with the XANES result, where considerable LMCT was observed in the distorted NiO6 cluster at the charged state. In this electronic structure, the holes are preferentially doped to this localized hybridized orbital that accompanies delithiation.
+
+Roles of Each Domain and Strain-Driven Orbital Hybridization. The present LNMO has a microstructure that consists of the Mn-rich and Ni-rich domains that retain the lattice coherency within the TM layer as evidenced by the RXDS and XAS analyses. The local structure of the Mn-rich
+
+domain is similar to that of Li 2 MnO3. Besides, the part of the domain has the long-range order in addition to the short-range order. The long-range order is gradually lost by the Li extraction in the /uniFB01 rst charge. In contrast, the short-range order remains in the subsequent charge/discharge, and Li is reversibly extracted and inserted in the domains that only exhibit the short-range order. These experimental results indicate that there is a certain size limit for the reversible Li insertion/extraction in the Mn-rich domains. The Mn -O bond length hardly changed within the present experimental accuracy during charge and discharge, which indicates little valence change of Mn. The charge-compensation mechanism in the Mn-rich domains, therefore, di /uniFB00 ers from the conventional mechanism where the formal valence of TM apparently changes during Li insertion/extraction. It is reported that Li2MnO3 or Mn-rich domain independently compensates the charge by forming the holes on oxygen during charge. 45 -47 Besides, the present study suggests that the charge is also compensated by neighboring Ni-rich domains to a certain Mnrich domain because it is able to explain both the little change in the Mn -O length during charger/discharge and the size limit of the Mn-rich domain for the reversible Li insertion/ extraction.
+
+As discussed above, it is clear that the NiO 6 cluster in the Ni-rich domains contributes to the charge compensation. The Ni-rich domains were subjected to strain due to the constraint from the neighboring Mn-rich domains in the charged state. This strain yielded the trigonal distortion in the NiO 6 cluster. Under this distortion, the enhancement of the orbital hybridization between nickel and oxygen was demonstrated experimentally and theoretically in the XANES analyses and ab initio calculation. This hybridization enhancement is induced presumably because the distortion of the NiO6 octahedron reduces the degeneracy of the t 2g orbital of TM, and consequently the symmetry adaptation between the degenerated d-orbitals of nickel and p-orbitals of oxygen is improved. The yielded hybridized orbital is expected to suppress the direct hole doping to the oxygen that accompanies the Li extraction because the hybridized orbital locates above the oxygen p-orbital. Namely, the charge of the material is compensated by both cation and anion through this hybridized orbital in the high potential region because inherently electrons in the hybridized orbital are hardly attributed to each element. This alleviates the direct oxidation of the oxygen atoms that would lead to destabilization and degradation of the material accompanied by gas evolution.
+
+The orbital hybridization between TM and oxygen is mainly governed by the following two factors: electronegativity of TM and local symmetry of a transition-metal oxide cluster. The electronegativity is inherently determined by elemental species. Elements in higher group and period in the periodic table tend to have higher electronegativity. Namely, 4d or 5d TMs are preferred to 3d TMs in terms of the electronegativity. Indeed, the LLOs of 4d or 5d TMs are capable of utilizing more than one Li redox reaction thanks to strong orbital hybridization. This triggers the reductive coupling mechanism 48,49 as a charge compensation mechanism, while their relatively heavy atomic weight limits their gravimetric capacities. Changing the symmetry is another option to manipulate the orbital hybridization in a given chemical composition of a material, which was demonstrated by the present study of the LNMO. Designing a microstructure would enable us to modify the local symmetry by inducing strain and distortion in a material and eventually to control the orbital hybridization. The formation of the microstructure strongly depends on heating/cooling conditions and atmosphere used in the synthesis as well as chemical composition of the materials, 50 a /uniFB00 ecting the magnitude of strain induced in the charged state and eventually the local structures. 36 Thus, further studies on observation and control methods of the microstructure are required to utilize the strain for material design; however, this approach is expected to pave a new path to develop future electrode materials for rechargeable batteries.
+
+## ■ CONCLUSIONS
+
+The present study has revealed the strain e /uniFB00 ect on the electronic structure in the LNMO by X-ray scattering and spectroscopic techniques in combination with ab initio calculation. The present RXDS and XAS experimentally demonstrated that LNMO has a microstructure consisting of Mn-rich and Ni-rich domains, whose structure is similar to those of Li2MnO3 and LiNiO2, respectively. Each domain maintains the lattice coherency within the TM layer under coherent strain accommodating the lattice mis /uniFB01 t. The longrange order of the honeycomb structure in the Mn-rich domain decreases during the /uniFB01 rst charge. In contrast, the short-range order is maintained in the subsequent charge and discharge cycles. When Li is extracted/inserted from/to the Mn-rich domains that only have the short-range order, neighboring Nirich domains would compensate the charge change judging from the small change in the Mn -O bond length. In the Nirich domains, it is revealed that the trigonal distortion is induced in the NiO6 clusters during the charging process. This is probably due to the constraint from the neighboring Mn-rich domains within the layer. It is also demonstrated that the considerable orbital hybridization between Ni d-orbital and O p-orbital is consequently enhanced under the trigonal distortion. This suppresses the direct hole doping to oxygen during the charge and alleviates the oxidation of the oxide atoms. This mechanism would be accounting for the stabilization of the charged LNMO. The present study also suggests that exploiting the strain in the material by designing the microstructure is expected to unlock the potential of the oxide electrode materials.
+
+## ■ ASSOCIATED CONTENT
+
+## * S Supporting Information
+
+The Supporting Information is available free of charge on the ACS Publications website at DOI: 10.1021/acs.jpcc.8b03205.
+
+Calculation of the theoretical capacity, simulation of XANES spectra of Li x MnO3 (Figure S1), structure parameters for EXAFS /uniFB01 ttings (Tables S1 and S2), /uniFB01 t of the EXAFS spectra (Tables S3, S4 and Figure S2) (DOCX)
+
+## ■ AUTHOR INFORMATION
+
+## Corresponding Author
+
+* E-mail: tkawaguchi@imr.tohoku.ac.jp. Phone: +81-22-2152372.
+
+## ORCID
+
+Tomoya Kawaguchi: 0000-0002-7600-4847
+
+Tetsu Ichitsubo: 0000-0002-1127-3034
+
+Katsutoshi Fukuda: 0000-0002-7895-650X
+
+DOI: 10.1021/acs.jpcc.8b03205
+
+J. Phys. Chem. C 2018, 122, 19298 - 19308
+
+## Present Addresses
+
+§ Department of Science and Technology, Tokushima University, Tokushima 770-8501, Japan (M.O.).
+
+∥ Institute of Materials Research, Tohoku University, Sendai 980-8577, Japan (T.I. and T.K.).
+
+## Notes
+
+The authors declare no competing /uniFB01 nancial interest.
+
+## ■ ACKNOWLEDGMENTS
+
+This work was partly supported by RISING and RISING II Projects under the auspices of the New Energy and Industrial Technology Development Organization (NEDO), Japan. The synchrotron radiation experiments were carried out with the approval of the Japan Synchrotron Radiation Research Institute (JASRI) (Proposals 2013B7601, 2014A7601, 2014B7601). One of the authors (T.K.) thanks the Japanese Society for the Promotion of Science (JSPS) for JSPS Postdoctoral Fellowships for Research Abroad. The crystalline-structure models were drawn using VESTA. 51
+
+## ■ REFERENCES
+
+- (1) Aydinol, M. K.; Kohan, A. F.; Ceder, G.; Cho, K.; Joannopoulos, J. Ab Initio Study of Lithium Intercalation in Metal Oxides and Metal Dichalcogenides. Phys. Rev. B 1997 , 56 , 1354 -1365.
+- (2) Suzuki, K.; Barbiellini, B.; Orikasa, Y.; Go, N.; Sakurai, H.; Kaprzyk, S.; Itou, M.; Yamamoto, K.; Uchimoto, Y.; Wang, Y. J.; et al. Extracting the Redox Orbitals in Li Battery Materials with HighResolution X-Ray Compton Scattering Spectroscopy. Phys. Rev. Lett. 2015 , 114 , No. 087401.
+- (3) Balasubramanian, M.; McBreen, J.; Davidson, I. J.; Whitfield, P. S.; Kargina, I. In Situ X-Ray Absorption Study of a Layered Manganese-Chromium Oxide-Based Cathode Material. J. Electrochem. Soc. 2002 , 149 , A176.
+- (4) Yoon, W.-S.; Iannopollo, S.; Grey, C. P.; Carlier, D.; Gorman, J.; Reed, J.; Ceder, G. Local Structure and Cation Ordering in O3 Lithium Nickel Manganese Oxides with Stoichiometry Li[NixMn(2 -x)/3 Li (1 -2x)/3]O2. Electrochem. Solid-State Lett. 2004 , 7 , A167.
+- (5) Thackeray, M. M.; Johnson, C. S.; Vaughey, J. T.; Li, N.; Hackney, S. A. Advances in Manganese-Oxide ' Composite ' Electrodes for Lithium-Ion Batteries. J. Mater. Chem. 2005 , 15 , 2257 -2267.
+- (6) Thackeray, M. M.; Kang, S.-H.; Johnson, C. S.; Vaughey, J. T.; Benedek, R.; Hackney, S. A. Li2MnO3-Stabilized LiMO2 (M = Mn, Ni, Co) Electrodes for Lithium-Ion Batteries. J. Mater. Chem. 2007 , 17 , 3112 -3125.
+- (7) Baren ̃ o, J.; Balasubramanian, M.; Kang, S. H.; Wen, J. G.; Lei, C. H.; Pol, S. V.; Petrov, I.; Abraham, D. P. Long-Range and Local Structure in the Layered Oxide Li 1.2Co0.4Mn0.4O2. Chem. Mater. 2011 , 23 , 2039 -2050.
+- (8) Buzlukov, A.; Mouesca, J. M.; Buannic, L.; Hediger, S.; Simonin, L.; Canevet, E.; Colin, J. F.; Gutel, T.; Bardet, M. Li-Rich Mn/Ni Layered Oxide as Electrode Material for Lithium Batteries: A 7 Li MAS NMR Study Revealing Segregation into (Nanoscale) Domains with Highly Different Electrochemical Behaviors. J. Phys. Chem. C 2016 , 120 , 19049 -19063.
+- (9) Thackeray, M. M.; Kang, S.-H.; Johnson, C. S.; Vaughey, J. T.; Hackney, S. A. Comments on the Structural Complexity of LithiumRich Li1+xM1 -x O2 Electrodes (M = Mn, Ni, Co) for Lithium Batteries. Electrochem. Commun. 2006 , 8 , 1531 -1538.
+- (10) Tang, M.; Dalzini, A.; Li, X.; Feng, X.; Chien, P. H.; Song, L.; Hu, Y. Y. Operando EPR for Simultaneous Monitoring of Anionic and Cationic Redox Processes in Li-Rich Metal Oxide Cathodes. J. Phys. Chem. Lett. 2017 , 8 , 4009 -4016.
+- (11) Deng, Z. Q.; Manthiram, A. Influence of Cationic Substitutions on the Oxygen Loss and Reversible Capacity of Lithium-Rich Layered Oxide Cathodes. J. Phys. Chem. C 2011 , 115 , 7097 -7103.
+- (12) Hy, S.; Su, W.-N.; Chen, J.-M.; Hwang, B.-J. Soft X-Ray Absorption Spectroscopic and Raman Studies on Li1.2Ni0.2Mn0.6O2 for Lithium-Ion Batteries. J. Phys. Chem. C 2012 , 116 , 25242 -25247.
+- (13) Sarkar, T.; Prakasha, K. R.; Bharadwaj, M. D.; Prakash, A. S. LiRemoval Mechanism and Its Effect on Oxygen Stability Influencing the Electrochemical Performance of Li 1.17 Ni0.17Mn0.67O2: Experimental and First-Principles Analysis. J. Phys. Chem. C 2017 , 121 , 20591 -20596.
+- (14) Kawaguchi, T.; Fukuda, K.; Matsubara, E. Site- and PhaseSelective X-Ray Absorption Spectroscopy Based on Phase-Retrieval Calculation. J. Phys.: Condens. Matter 2017 , 29 , No. 113002.
+- (15) Armstrong, A. R.; Holzapfel, M.; Nova ́ k, P.; Johnson, C. S.; Kang, S.-H.; Thacheray, M. M.; Bruce, P. G. Demonstrating Oxygen Loss and Associated Structural Reorganization in the Lithium Battery Cathode Li[Ni0.2Li0.2Mn0.6]O2. J. Am. Chem. Soc. 2006 , 128 , 8694 -8698.
+- (16) Lu, Z.; MacNeil, D. D.; Dahn, J. R. Layered Cathode Materials Li[Nix Li (1/3 -2x/3)Mn(2/3 -x/3)]O2 for Lithium-Ion Batteries. Electrochem. Solid-State Lett. 2001 , 4 , A191 -A194.
+- (17) Kawaguchi, T.; Fukuda, K.; Tokuda, K.; Sakaida, M.; Ichitsubo, T.; Oishi, M.; Mizuki, J.; Matsubara, E. Roles of Transition Metals Interchanging with Lithium in Electrode Materials. Phys. Chem. Chem. Phys. 2015 , 17 , 14064 -14070.
+- (18) Kawaguchi, T.; Fukuda, K.; Tokuda, K.; Shimada, K.; Ichitsubo, T.; Oishi, M.; Mizuki, J.; Matsubara, E. Revisit to Diffraction Anomalous Fine Structure. J. Synchrotron Radiat. 2014 , 21 , 1247 -1251.
+- (19) Toraya, H. Array-Type Universal Profile Function for Powder Pattern Fitting. J. Appl. Crystallogr. 1990 , 23 , 485 -491.
+- (20) Waasmaier, D.; Kirfel, A. New Analytical Scattering-Factor Functions for Free Atoms and Ions. Acta Crystallogr., Sect. A: Found. Crystallogr. 1995 , 51 , 416 -431.
+- (21) Sasaki, S. Numerical Tables of Anomalous Scattering Factors Calculated by the Cromer and Liberman ' s Method , No. KEK--88-14; National Laboratory for High Energy Physics, 1989.
+- (22) Ravel, B.; Newville, M. ATHENA, ARTEMIS, HEPHAESTUS: Data Analysis for X-Ray Absorption Spectroscopy Using IFEFFIT. J. Synchrotron Radiat. 2005 , 12 , 537 -541.
+- (23) Boulineau, A.; Croguennec, L.; Delmas, C.; Weill, F. Structure of Li 2 MnO3 with Different Degrees of Defects. Solid State Ionics 2010 , 180 , 1652 -1659.
+- (24) Rehr, J. J.; Kas, J. J.; Vila, F. D.; Prange, M. P.; Jorissen, K. Parameter-Free Calculations of X-Ray Spectra with FEFF9. Phys. Chem. Chem. Phys. 2010 , 12 , 5503 -5513.
+- (25) Perdew, J. P.; Burke, K.; Ernzerhof, M. Generalized Gradient Approximation Made Simple. Phys. Rev. Lett. 1996 , 77 , 3865 -3868.
+- (26) Dudarev, S. L.; Botton, G. A.; Savrasov, S. Y.; Humphreys, C. J.; Sutton, A. P. Electron-Energy-Loss Spectra and the Structural Stability of Nickel Oxide: An LSDA + U Study. Phys. Rev. B 1998 , 57 , 1505 -1509.
+- (27) Gunnarsson, O.; Lundqvist, B. I. Exchange and Correlation in Atoms, Molecules, and Solids by the Spin-Density-Functional Formalism. Phys. Rev. B 1976 , 13 , 4274 -4298.
+- (28) Roma ́ n-Pe ́ rez, G.; Soler, J. M. Efficient Implementation of a van Der Waals Density Functional: Application to Double-Wall Carbon Nanotubes. Phys. Rev. Lett. 2009 , 103 , No. 096102.
+- (29) Lu, Z.; Beaulieu, L. Y.; Donaberger, R. A.; Thomas, C. L.; Dahn, J. R. Synthesis, Structure, and Electrochemical Behavior of Li[Nix Li 1/3 -2x/3Mn2/3 -x/3]O2. J. Electrochem. Soc. 2002 , 149 , A778 -A791.
+- (30) Lu, Z.; Dahn, J. R. Understanding the Anomalous Capacity of Li/Li[NixLi(1/3 -2x/3)Mn(2/3 -x/3)]O2 Cells Using In Situ X-Ray Diffraction and Electrochemical Studies. J. Electrochem. Soc. 2002 , 149 , A815.
+- (31) Yoon, W.-S.; Grey, C. P.; Balasubramanian, M.; Yang, X.-Q.; McBreen, J. In Situ X-Ray Absorption Spectroscopic Study on LiNi0.5Mn0.5O2 Cathode Material during Electrochemical Cycling. Chem. Mater. 2003 , 15 , 3161 -3169.
+
+- (32) Bair, R. A.; Goddard, W. A., III Ab Initio Studies of the X-Ray Absorption Edge in Copper Complexes. I. Atomic Cu 2+ and Cu(II)Cl2. Phys. Rev. B 1980 , 22 , 2767 -2776.
+- (33) Tranquada, J. M.; Heald, S. M.; Moodenbaugh, A. R. X-RayAbsorption near-Edge-Structure Study of La2 -x(Ba,Sr)xCu4 -y Superconductors. Phys. Rev. B 1987 , 36 , 5263 -5274.
+- (34) Kosugi, N.; Yokoyama, T.; Asakura, K.; Kuroda, H. Polarized Cu K-Edge XANES of Square Planar CuCl4 2 -Ion. Experimental and Theoretical Evidence for Shake-down Phenomena. Chem. Phys. 1984 , 91 , 249 -256.
+- (35) Croy, J. R.; Iddir, H.; Gallagher, K.; Johnson, C. S.; Benedek, R.; Balasubramanian, M. First-Charge Instabilities of Layered-Layered Lithium-Ion-Battery Materials. Phys. Chem. Chem. Phys. 2015 , 17 , 24382 -24391.
+- (36) Muhammad, S.; Kim, H.; Kim, Y.; Kim, D.; Song, J. H.; Yoon, J.; Park, J. H.; Ahn, S. J.; Kang, S. H.; Thackeray, M. M.; et al. Evidence of Reversible Oxygen Participation in Anomalously High Capacity Li- and Mn-Rich Cathodes for Li-Ion Batteries. Nano Energy 2016 , 21 , 172.
+- (37) Koga, H.; Croguennec, L.; Me ́ ne ́ trier, M.; Mannessiez, P.; Weill, F.; Delmas, C.; Belin, S. Operando X-Ray Absorption Study of the Redox Processes Involved upon Cycling of the Li-Rich Layered Oxide Li1.20 Mn0.54 Co0.13 Ni0.13 O2 in Li Ion Batteries. J. Phys. Chem. C 2014 , 118 , 5700 -5709.
+- (38) Ito, A.; Sato, Y.; Sanada, T.; Hatano, M.; Horie, H.; Ohsawa, Y. In Situ X-Ray Absorption Spectroscopic Study of Li-Rich Layered Cathode Material Li[Ni0.17 Li 0.2 Co0.07 Mn0.56]O2. J. Power Sources 2011 , 196 , 6828 -6834.
+- (39) Chen, C.-H.; Pan, C.-J.; Su, W.-N.; Rick, J.; Wang, C.-J.; Venkateswarlu, M.; Lee, J.-F.; Hwang, B.-J.; Daniel, L.; Patoux, S.; et al. Operando X-Ray Diffraction and X-Ray Absorption Studies of the Structural Transformation upon Cycling Excess Li Layered Oxide Li[Li1/18Co1/6Ni1/3Mn 4/9]O2 in Li Ion Batteries. J. Mater. Chem. A 2015 , 3 , 8613 -8626.
+- (40) Shannon, R. D. Revised Effective Ionic Radii and Systematic Studies of Interatomic Distances in Halides and Chalcogenides. Acta Crystallogr., Sect. A 1976 , 32 , 751 -767.
+- (41) Hirano, A.; Kanno, R.; Kawamoto, Y.; Takeda, Y.; Yamaura, K.; Takano, M.; Ohyama, K.; Ohashi, M.; Yamaguchi, Y. Relationship between Non-Stoichiometry and Physical Properties in LiNiO2. Solid State Ionics 1995 , 78 , 123 -131.
+- (42) Kobayashi, H. Structure and Lithium Deintercalation of Li 2 -xRuO3. Solid State Ionics 1995 , 82 , 25 -31.
+- (43) Assat, G.; Iadecola, A.; Delacourt, C.; Dedryve ̀ re, R.; Tarascon, J. M. Decoupling Cationic-Anionic Redox Processes in a Model LiRich Cathode via Operando X-Ray Absorption Spectroscopy. Chem. Mater. 2017 , 29 , 9714 -9724.
+- (44) Foix, D.; Sathiya, M.; McCalla, E.; Tarascon, J. M.; Gonbeau, D. X-Ray Photoemission Spectroscopy Study of Cationic and Anionic Redox Processes in High-Capacity Li-Ion Battery Layered-Oxide Electrodes. J. Phys. Chem. C 2016 , 120 , 862 -874.
+- (45) Genevois, C.; Koga, H.; Croguennec, L.; Me ́ ne ́ trier, M.; Delmas, C.; Weill, F. Insight into the Atomic Structure of Cycled Lithium-Rich Layered Oxide Li 1.20Mn0.54Co0.13Ni0.13O2 Using HAADF STEM and Electron Nanodiffraction. J. Phys. Chem. C 2015 , 119 , 75 -83.
+- (46) Oishi, M.; Yamanaka, K.; Watanabe, I.; Shimoda, K.; Matsunaga, T.; Arai, H.; Ukyo, Y.; Uchimoto, Y.; Ogumi, Z.; Ohta, T. Direct Observation of Reversible Oxygen Anion Redox Reaction in Li-Rich Manganese Oxide, Li2MnO3, Studied by Soft X-Ray Absorption Spectroscopy. J. Mater. Chem. A 2016 , 9293.
+- (47) Luo, K.; Roberts, M. R.; Hao, R.; Guerrini, N.; Pickup, D. M.; Liu, Y.-S.; Edstro ̈ m, K.; Guo, J.; Chadwick, A. V.; Duda, L. C.; et al. Charge-Compensation in 3d-Transition-Metal-Oxide Intercalation Cathodes through the Generation of Localized Electron Holes on Oxygen. Nat. Chem. 2016 , 8 , 684 -691.
+- (48) Sathiya, M.; Rousse, G.; Ramesha, K.; Laisa, C. P.; Vezin, H.; Sougrati, M. T.; Doublet, M.-L.; Foix, D.; Gonbeau, D.; Walker, W.;
+18. et al. Reversible Anionic Redox Chemistry in High-Capacity LayeredOxide Electrodes. Nat. Mater. 2013 , 12 , 827 -835.
+- (49) McCalla, E.; Abakumov, A. M.; Saubane ̀ re, M.; Foix, D.; Berg, E. J.; Rousse, G.; Doublet, M.-L.; Gonbeau, D.; Nova ́ k, P.; Van Tendeloo, G.; et al. Visualization of O-O Peroxo-like Dimers in HighCapacity Layered Oxides for Li-Ion Batteries. Science 2015 , 350 , 1516 -1521.
+- (50) McCalla, E.; Rowe, A. W.; Shunmugasundaram, R.; Dahn, J. R. Structural Study of the Li-Mn-Ni Oxide Pseudoternary System of Interest for Positive Electrodes of Li-Ion Batteries. Chem. Mater. 2013 , 25 , 989 -999.
+- (51) Momma, K.; Izumi, F. VESTA3 for Three-Dimensional Visualization of Crystal, Volumetric and Morphology Data. J. Appl. Crystallogr. 2011 , 44 , 1272 -1276.
+- (52) Bre ́ ger, J.; Dupre ́ , N.; Chupas, P. J.; Lee, P. L.; Proffen, T.; Parise, J. B.; Grey, C. P. Short- and Long-Range Order in the Positive Electrode Material, Li(NiMn)0.5O2: A Joint X-Ray and Neutron Diffraction, Pair Distribution Function Analysis and NMR Study. J. Am. Chem. Soc. 2005 , 127 , 7529 -7537.
+- (53) Idemoto, Y.; Richardson, J. W.; Koura, N.; Kohara, S.; Loong, C.-K. Crystal Structure of (Li xK1 -x ) 2 CO3 (x = 0, 0.43, 0.5, 0.62, 1) by Neutron Powder Diffraction Analysis. J. Phys. Chem. Solids 1998 , 59 , 363 -376.
+
+DOI: 10.1021/acs.jpcc.8b03205
+
+J. Phys. Chem. C 2018, 122, 19298 - 19308
+
+TABLES:
+------------------------------
+
+Table 1:
+Caption: 
+Content: |    |                | M - O    | M - O      | M - M    | M - M      |            |       |
+|----|----------------|----------|------------|----------|------------|------------|-------|
+| M  | state          | d (Å)    | σ 2 (Å 2 ) | d (Å)    | σ 2 (Å 2 ) | Δ E 0 (eV) | R (%) |
+| Ni | as-synth.      | 2.05(14) | 0.009(14)  | 2.90(10) | 0.0069(9)  | - 7(10)    | 3.6   |
+|    | 1st chr.       | 1.83(13) | 0.009(12)  | 2.882(6) | 0.0093(6)  | - 0.8(5)   | 1.4   |
+|    | 1st dis.       | 2.06(2)  | 0.010(19)  | 2.91(17) | 0.007(17)  | 1(3)       | 5.8   |
+|    | 2nd chr.       | 1.84(2)  | 0.013(2)   | 2.883(8) | 0.0097(7)  | - 0.8(7)   | 2.3   |
+|    | 2nd dis.       | 2.06(14) | 0.008(15)  | 2.91(10) | 0.0072(9)  | - 6(10)    | 3.9   |
+|    | cf. LiNiO 2    | 1.90(16) | 0.011(17)  | 2.854(9) | 0.0050(7)  | - 9(11)    | 3.1   |
+| Mn | as-synth.      | 1.90(12) | 0.0053(8)  | 2.86(16) | 0.005(13)  | - 8(2)     | 2.8   |
+|    | 1st chr.       | 1.88(11) | 0.009(13)  | 2.86(12) | 0.004(11)  | - 10(12)   | 5.3   |
+|    | 1st dis.       | 1.89(15) | 0.011(19)  | 2.90(10) | 0.003(2)   | - 10(18)   | 8.5   |
+|    | 2nd chr.       | 1.88(11) | 0.010(14)  | 2.86(12) | 0.004(11)  | - 10(13)   | 5.1   |
+|    | 2nd dis.       | 1.88(12) | 0.009(14)  | 2.89(13) | 0.005(11)  | - 11(15)   | 5.8   |
+|    | cf. Li 2 MnO 3 | 1.90(14) | 0.0050(8)  | 2.84(17) | 0.004(16)  | - 8(2)     | 3.3   |
